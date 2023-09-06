@@ -1,0 +1,33 @@
+WELCOME TO OCTMARI'S FO SERVER
+MAP ROTATION BELOW:
+
+OFFICIAL:
+- 2Fort
+- 3Badpit
+- Powerbreak
+- Hydro (TC)
+- Strategic
+- Turbine
+- TowTown
+- Patchwork
+- 3Fort
+- Purifier
+- 6Fort
+- Strongside
+- 3Turbine
+- 6Hydro (DOM)
+- 6Turbine
+- Hardware
+- Tokyo
+
+COMMUNITY:
+- 6robot_park_a1
+
+EXTRA:
+- Well (CP)
+- Badlands (ARENA)
+- Dustbowl
+- Granary
+- Well (ARENA)
+- Gravelpit
+- well (CTF)

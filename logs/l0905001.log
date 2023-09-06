@@ -1,0 +1,123 @@
+L 09/05/2023 - 01:59:25: Log file started (file "logs\L0905001.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 01:59:25: server_cvar: "mp_autoteambalance" "0"
+L 09/05/2023 - 01:59:25: server_cvar: "mp_stalemate_enable" "1"
+L 09/05/2023 - 01:59:25: server_cvar: "mp_timelimit" "30"
+L 09/05/2023 - 01:59:25: server_cvar: "decalfrequency" "30"
+L 09/05/2023 - 01:59:25: server_cvar: "sv_alltalk" "1"
+L 09/05/2023 - 01:59:25: server_cvar: "sv_tags" "alltalk"
+L 09/05/2023 - 01:59:25: server_cvar: "sv_tags" "alltalk"
+L 09/05/2023 - 01:59:25: Connection to Steam servers successful.
+L 09/05/2023 - 01:59:25:    Public IP is 73.154.245.78.
+L 09/05/2023 - 01:59:25: Assigned anonymous gameserver Steam ID [A:1:223055875:24235].
+L 09/05/2023 - 01:59:25: VAC secure mode is activated.
+L 09/05/2023 - 02:00:37: "weed lesbian<2><[U:1:81998077]><>" connected, address "135.134.138.209:27005"
+L 09/05/2023 - 02:00:39: "weed lesbian<2><[U:1:81998077]><>" STEAM USERID validated
+L 09/05/2023 - 02:00:44: "August101<3><[U:1:241010597]><>" connected, address "67.171.207.194:27005"
+L 09/05/2023 - 02:00:46: "August101<3><[U:1:241010597]><>" STEAM USERID validated
+L 09/05/2023 - 02:00:55: "weed lesbian<2><[U:1:81998077]><>" entered the game
+L 09/05/2023 - 02:01:00: "weed lesbian<2><[U:1:81998077]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 02:01:01: "weed lesbian<2><[U:1:81998077]><Blue>" changed role to "telecon"
+L 09/05/2023 - 02:01:23: "Octmari<4><[U:1:160946369]><>" connected, address "73.154.245.78:27006"
+L 09/05/2023 - 02:01:24: "Octmari<4><[U:1:160946369]><>" STEAM USERID validated
+L 09/05/2023 - 02:01:32: World triggered "Round_Start"
+L 09/05/2023 - 02:01:33: "August101<3><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 02:01:41: STEAMAUTH: Client August101 received failure code 6
+L 09/05/2023 - 02:01:41: "August101<3><[U:1:241010597]><Unassigned>" disconnected (reason "Client left game (Steam auth ticket has been canceled)
+")
+L 09/05/2023 - 02:02:26: "August101<5><[U:1:241010597]><>" connected, address "67.171.207.194:27005"
+L 09/05/2023 - 02:02:27: "Octmari<4><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 02:02:28: "August101<5><[U:1:241010597]><>" STEAM USERID validated
+L 09/05/2023 - 02:02:34: "Octmari<4><[U:1:160946369]><Unassigned>" joined team "Red"
+L 09/05/2023 - 02:02:36: "Octmari<4><[U:1:160946369]><Red>" changed role to "telecon"
+L 09/05/2023 - 02:02:37: "August101<5><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 02:02:42: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "775 1412 256")
+L 09/05/2023 - 02:02:42: "August101<5><[U:1:241010597]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 02:02:44: "August101<5><[U:1:241010597]><Blue>" changed role to "telecon"
+L 09/05/2023 - 02:02:44: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "764 1458 256")
+L 09/05/2023 - 02:02:47: "Octmari<4><[U:1:160946369]><Red>" committed suicide with "world" (attacker_position "776 1419 256")
+L 09/05/2023 - 02:02:49: "Octmari<4><[U:1:160946369]><Red>" say "omg"
+L 09/05/2023 - 02:02:55: "Octmari<4><[U:1:160946369]><Red>" say "buildings... stay... this is so epic"
+L 09/05/2023 - 02:02:58: "August101<5><[U:1:241010597]><Blue>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 02:03:05: "weed lesbian<2><[U:1:81998077]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-762 -1431 256")
+L 09/05/2023 - 02:03:53: "August101<6><[U:1:241010597]><>" connected, address "67.171.207.194:27005"
+L 09/05/2023 - 02:03:55: "August101<6><[U:1:241010597]><>" STEAM USERID validated
+L 09/05/2023 - 02:04:05: "August101<6><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 02:04:09: "weed lesbian<2><[U:1:81998077]><Blue>" committed suicide with "world" (attacker_position "-286 1537 -220")
+L 09/05/2023 - 02:04:09: "August101<6><[U:1:241010597]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 02:04:10: "August101<6><[U:1:241010597]><Blue>" changed role to "telecon"
+L 09/05/2023 - 02:04:35: "August101<6><[U:1:241010597]><Blue>" say "I'm hoping my laptop doesn't explode now that I've disable hdr"
+L 09/05/2023 - 02:04:38: "quek<7><[U:1:220783085]><>" connected, address "66.68.202.215:27005"
+L 09/05/2023 - 02:04:39: "quek<7><[U:1:220783085]><>" STEAM USERID validated
+L 09/05/2023 - 02:04:55: "quek<7><[U:1:220783085]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 02:05:01: "Octmari<4><[U:1:160946369]><Red>" changed role to "workernode"
+L 09/05/2023 - 02:05:10: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "719 1348 256")
+L 09/05/2023 - 02:05:15: "quek<8><[U:1:220783085]><>" connected, address "66.68.202.215:27005"
+L 09/05/2023 - 02:05:16: "quek<8><[U:1:220783085]><>" STEAM USERID validated
+L 09/05/2023 - 02:05:18: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "206 1579 256")
+L 09/05/2023 - 02:05:18: "quek<8><[U:1:220783085]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 02:05:22: "ElleExile [She/Her]<9><[U:1:220112226]><>" connected, address "108.72.72.141:27005"
+L 09/05/2023 - 02:05:23: "ElleExile [She/Her]<9><[U:1:220112226]><>" STEAM USERID validated
+L 09/05/2023 - 02:05:24: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "303 1604 256")
+L 09/05/2023 - 02:05:30: "August101<6><[U:1:241010597]><Blue>" say "also that is a lot of veritcal height"
+L 09/05/2023 - 02:05:38: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "1210 2342 256")
+L 09/05/2023 - 02:05:38: "weed lesbian<2><[U:1:81998077]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "bat") (objectowner "Octmari<4><[U:1:160946369]><Red>") (attacker_position "716 1247 256")
+L 09/05/2023 - 02:05:44: "BRB, SHITTING<10><[U:1:1161572473]><>" connected, address "160.3.230.6:27005"
+L 09/05/2023 - 02:05:45: "BRB, SHITTING<10><[U:1:1161572473]><>" STEAM USERID validated
+L 09/05/2023 - 02:05:54: "August101<6><[U:1:241010597]><Blue>" killed "Octmari<4><[U:1:160946369]><Red>" with "scattergun" (attacker_position "552 1504 256") (victim_position "321 1650 256")
+L 09/05/2023 - 02:05:59: "August101<6><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "scattergun") (objectowner "Octmari<4><[U:1:160946369]><Red>") (attacker_position "300 1535 256")
+L 09/05/2023 - 02:06:16: "August101<6><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "scattergun") (objectowner "Octmari<4><[U:1:160946369]><Red>") (attacker_position "1204 2527 256")
+L 09/05/2023 - 02:06:20: "BRB, SHITTING<10><[U:1:1161572473]><>" entered the game
+L 09/05/2023 - 02:06:24: "BRB, SHITTING<10><[U:1:1161572473]><Unassigned>" joined team "Red"
+L 09/05/2023 - 02:06:24: "quek<11><[U:1:220783085]><>" connected, address "66.68.202.215:27005"
+L 09/05/2023 - 02:06:25: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "323 1611 256")
+L 09/05/2023 - 02:06:25: "BRB, SHITTING<10><[U:1:1161572473]><Red>" changed role to "workernode"
+L 09/05/2023 - 02:06:25: "quek<11><[U:1:220783085]><>" STEAM USERID validated
+L 09/05/2023 - 02:06:26: "August101<6><[U:1:241010597]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-23 3056 -191")
+L 09/05/2023 - 02:06:32: "BRB, SHITTING<10><[U:1:1161572473]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "750 1551 256")
+L 09/05/2023 - 02:06:32: "quek<11><[U:1:220783085]><>" entered the game
+L 09/05/2023 - 02:06:33: "Octmari<4><[U:1:160946369]><Red>" killed "weed lesbian<2><[U:1:81998077]><Blue>" with "fo_weapon_nodegun" (attacker_position "614 1546 256") (victim_position "799 1688 256")
+L 09/05/2023 - 02:06:33: "weed lesbian<2><[U:1:81998077]><Blue>" say "door stuck??"
+L 09/05/2023 - 02:06:36: "BRB, SHITTING<10><[U:1:1161572473]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "715 1320 256")
+L 09/05/2023 - 02:06:42: "Octmari<4><[U:1:160946369]><Red>" killed "August101<6><[U:1:241010597]><Blue>" with "fo_weapon_nodegun" (attacker_position "944 2236 196") (victim_position "1177 2138 74")
+L 09/05/2023 - 02:06:45: "quek<11><[U:1:220783085]><Unassigned>" say "fuck i did the thing that gets me stuck in spectatr"
+L 09/05/2023 - 02:06:46: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "1212 2339 256")
+L 09/05/2023 - 02:06:49: "quek<11><[U:1:220783085]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 02:06:49: "quek<12><[U:1:220783085]><>" connected, address "66.68.202.215:27005"
+L 09/05/2023 - 02:06:50: "quek<12><[U:1:220783085]><>" STEAM USERID validated
+L 09/05/2023 - 02:06:53: "quek<12><[U:1:220783085]><>" entered the game
+L 09/05/2023 - 02:06:54: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "282 1562 256")
+L 09/05/2023 - 02:06:55: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "247 1581 256")
+L 09/05/2023 - 02:06:56: "quek<12><[U:1:220783085]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 02:06:57: "quek<12><[U:1:220783085]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 02:06:59: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "708 1349 256")
+L 09/05/2023 - 02:07:01: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "729 1373 256")
+L 09/05/2023 - 02:07:03: "quek<12><[U:1:220783085]><Blue>" say "ok real"
+L 09/05/2023 - 02:07:04: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "664 1405 256")
+L 09/05/2023 - 02:07:07: "August101<6><[U:1:241010597]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-810 -1541 256")
+L 09/05/2023 - 02:07:08: "BRB, SHITTING<10><[U:1:1161572473]><Red>" say "uh"
+L 09/05/2023 - 02:07:11: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "557 1380 256")
+L 09/05/2023 - 02:07:12: "BRB, SHITTING<10><[U:1:1161572473]><Red>" say "does nodbert alt fire do damage"
+L 09/05/2023 - 02:07:12: "quek<12><[U:1:220783085]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 02:07:14: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "831 1371 256")
+L 09/05/2023 - 02:07:16: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "724 1435 256")
+L 09/05/2023 - 02:07:21: "BRB, SHITTING<10><[U:1:1161572473]><Red>" say "cause it doesnt have cooldown"
+L 09/05/2023 - 02:07:25: "Octmari<4><[U:1:160946369]><Red>" say "no"
+L 09/05/2023 - 02:07:28: "August101<6><[U:1:241010597]><Blue>" say "also buildings stay on death, may god have mercy on our souls"
+L 09/05/2023 - 02:07:29: "quek<12><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-720 -1430 256")
+L 09/05/2023 - 02:07:32: "August101<6><[U:1:241010597]><Blue>" triggered "flagevent" (event "picked up") (position "-478 3278 -175")
+L 09/05/2023 - 02:07:34: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "1175 2384 256")
+L 09/05/2023 - 02:07:35: "quek<12><[U:1:220783085]><Blue>" committed suicide with "world" (attacker_position "-584 -1453 256")
+L 09/05/2023 - 02:07:36: "quek<12><[U:1:220783085]><Blue>" say "YES"
+L 09/05/2023 - 02:07:38: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "1042 2370 256")
+L 09/05/2023 - 02:07:38: "BRB, SHITTING<10><[U:1:1161572473]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "1187 2309 256")
+L 09/05/2023 - 02:07:40: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "1146 2351 258")
+L 09/05/2023 - 02:07:42: "Octmari<4><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "1059 2348 258")
+L 09/05/2023 - 02:07:44: "weed lesbian<2><[U:1:81998077]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "586 1855 -167")
+L 09/05/2023 - 02:07:44: "August101<6><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "scattergun") (objectowner "Octmari<4><[U:1:160946369]><Red>") (attacker_position "347 1864 256")
+L 09/05/2023 - 02:07:48: "Octmari<4><[U:1:160946369]><Red>" committed suicide with "world" (attacker_position "1059 2348 258")
+L 09/05/2023 - 02:07:52: "BRB, SHITTING<10><[U:1:1161572473]><Red>" triggered "flagevent" (event "defended") (position "362 2598 192")
+L 09/05/2023 - 02:07:52: "August101<6><[U:1:241010597]><Blue>" triggered "flagevent" (event "dropped") (position "416 2599 192")
+L 09/05/2023 - 02:07:52: "BRB, SHITTING<10><[U:1:1161572473]><Red>" killed "August101<6><[U:1:241010597]><Blue>" with "fo_weapon_hammer" (attacker_position "362 2598 192") (victim_position "416 2599 192")
+L 09/05/2023 - 02:08:04: "quek<12><[U:1:220783085]><Blue>" say "mari can we do hardware or whatever it is"
+L 09/05/2023 - 02:08:08: "BRB, SHITTING<10><[U:1:1161572473]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "425 1569 256")
+L 09/05/2023 - 02:08:26: Log file closed.

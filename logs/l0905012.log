@@ -1,0 +1,48 @@
+L 09/05/2023 - 03:08:48: Log file started (file "logs\L0905012.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 03:08:51: "Octmari<2><[U:1:160946369]><>" connected, address "73.154.245.78:27006"
+L 09/05/2023 - 03:08:53: "Octmari<2><[U:1:160946369]><>" STEAM USERID validated
+L 09/05/2023 - 03:08:57: "Octmari<2><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 03:09:16: "Octmari<2><[U:1:160946369]><Unassigned>" joined team "Green"
+L 09/05/2023 - 03:09:19: "Octmari<2><[U:1:160946369]><Green>" changed role to "dismatic"
+L 09/05/2023 - 03:09:46: "maidenabyss<3><[U:1:1008693126]><>" connected, address "65.182.247.207:27005"
+L 09/05/2023 - 03:09:48: "maidenabyss<3><[U:1:1008693126]><>" STEAM USERID validated
+L 09/05/2023 - 03:09:49: World triggered "Round_Start"
+L 09/05/2023 - 03:09:53: "maidenabyss<3><[U:1:1008693126]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 03:11:50: "SansMudkip<4><[U:1:1213236240]><>" connected, address "119.12.223.131:27005"
+L 09/05/2023 - 03:11:51: "SansMudkip<4><[U:1:1213236240]><>" STEAM USERID validated
+L 09/05/2023 - 03:11:56: "SansMudkip<4><[U:1:1213236240]><>" disconnected (reason "Client's map differs from the server's")
+L 09/05/2023 - 03:12:30: "Octmari<2><[U:1:160946369]><Green>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 03:21:42: "SansMudkip<5><[U:1:1213236240]><>" connected, address "119.12.223.131:27005"
+L 09/05/2023 - 03:21:43: "SansMudkip<5><[U:1:1213236240]><>" STEAM USERID validated
+L 09/05/2023 - 03:21:59: "SansMudkip<5><[U:1:1213236240]><>" entered the game
+L 09/05/2023 - 03:22:04: "SansMudkip<5><[U:1:1213236240]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 03:22:06: "SansMudkip<5><[U:1:1213236240]><Blue>" changed role to "workernode"
+L 09/05/2023 - 03:22:13: "SansMudkip<5><[U:1:1213236240]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "3116 -524 344")
+L 09/05/2023 - 03:22:37: World triggered "Round_Start"
+L 09/05/2023 - 03:22:43: "SansMudkip<5><[U:1:1213236240]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "3185 -507 344")
+L 09/05/2023 - 03:23:02: "SansMudkip<5><[U:1:1213236240]><Blue>" changed role to "telecon"
+L 09/05/2023 - 03:29:08: "SansMudkip<5><[U:1:1213236240]><Blue>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 03:55:29: "maidenabyss<6><[U:1:1008693126]><>" connected, address "65.182.247.207:27005"
+L 09/05/2023 - 03:55:30: "maidenabyss<6><[U:1:1008693126]><>" STEAM USERID validated
+L 09/05/2023 - 03:56:02: "maidenabyss<6><[U:1:1008693126]><>" entered the game
+L 09/05/2023 - 03:56:41: "maidenabyss<6><[U:1:1008693126]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 03:56:43: "maidenabyss<6><[U:1:1008693126]><Blue>" changed role to "telecon"
+L 09/05/2023 - 03:56:46: "maidenabyss<6><[U:1:1008693126]><Blue>" changed role to "workernode"
+L 09/05/2023 - 03:56:48: World triggered "Round_SuddenDeath" reason "server timelimit reached"
+L 09/05/2023 - 03:56:50: "maidenabyss<6><[U:1:1008693126]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "3257 -381 344")
+L 09/05/2023 - 03:57:07: "maidenabyss<6><[U:1:1008693126]><Blue>" committed suicide with "world" (attacker_position "3203 -449 344")
+L 09/05/2023 - 03:57:07: World triggered "Round_Stalemate"
+L 09/05/2023 - 03:57:07: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 03:57:07: Team "Blue" current score "0" with "1" players
+L 09/05/2023 - 03:57:07: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 03:57:07: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 03:57:07: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 03:57:07: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 03:57:15: World triggered "Game_Over" reason "Reached Time Limit"
+L 09/05/2023 - 03:57:15: Team "Red" final score "0" with "0" players
+L 09/05/2023 - 03:57:15: Team "Blue" final score "0" with "1" players
+L 09/05/2023 - 03:57:15: Team "Green" final score "0" with "0" players
+L 09/05/2023 - 03:57:15: Team "Yellow" final score "0" with "0" players
+L 09/05/2023 - 03:57:16: Team "Purple" final score "0" with "0" players
+L 09/05/2023 - 03:57:16: Team "Pink" final score "0" with "0" players
+L 09/05/2023 - 03:57:26: Log file closed.

@@ -1,0 +1,16 @@
+L 09/05/2023 - 02:59:57: Log file started (file "logs\L0905007.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 03:00:00: "quek<12><[U:1:220783085]><>" entered the game
+L 09/05/2023 - 03:00:00: "Octmari<4><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 03:00:08: "quek<12><[U:1:220783085]><Unassigned>" joined team "Pink"
+L 09/05/2023 - 03:00:09: "quek<12><[U:1:220783085]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 03:00:16: "Octmari<4><[U:1:160946369]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 03:00:20: "Octmari<4><[U:1:160946369]><Blue>" changed role to "telecon"
+L 09/05/2023 - 03:00:28: "Octmari<4><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-71 -1598 -111")
+L 09/05/2023 - 03:00:40: World triggered "Round_Start"
+L 09/05/2023 - 03:00:41: "weed lesbian<2><[U:1:81998077]><>" disconnected (reason "Map is missing")
+L 09/05/2023 - 03:00:44: "ElleExile [She/Her]<9><[U:1:220112226]><>" disconnected (reason "Map is missing")
+L 09/05/2023 - 03:00:49: "Octmari<4><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "0 -1634 -111")
+L 09/05/2023 - 03:00:53: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<4><[U:1:160946369]><Blue>") (position1 "0 -1196 -248") 
+L 09/05/2023 - 03:00:54: "weed lesbian<20><[U:1:81998077]><>" connected, address "135.134.138.209:27005"
+L 09/05/2023 - 03:00:56: "weed lesbian<20><[U:1:81998077]><>" STEAM USERID validated
+L 09/05/2023 - 03:01:17: Log file closed.

@@ -1,0 +1,884 @@
+L 09/05/2023 - 12:28:45: Log file started (file "logs\L0905026.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 12:28:55: "Event Horizon<19><[U:1:126775298]><>" entered the game
+L 09/05/2023 - 12:28:57: "Evan068<11><[U:1:371507926]><>" entered the game
+L 09/05/2023 - 12:28:58: "ChargingTurnip<4><[U:1:313942863]><>" entered the game
+L 09/05/2023 - 12:29:01: "Evan068<11><[U:1:371507926]><Unassigned>" joined team "Green"
+L 09/05/2023 - 12:29:01: "Mira<21><[U:1:149481681]><>" entered the game
+L 09/05/2023 - 12:29:01: "August101<16><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 12:29:01: "Octmari<17><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 12:29:01: "Evan068<11><[U:1:371507926]><Green>" changed role to "workernode"
+L 09/05/2023 - 12:29:02: "ChargingTurnip<4><[U:1:313942863]><Unassigned>" joined team "Green"
+L 09/05/2023 - 12:29:05: "Milosuper<7><[U:1:126998348]><>" entered the game
+L 09/05/2023 - 12:29:05: "ChargingTurnip<4><[U:1:313942863]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:29:07: "Mira<21><[U:1:149481681]><Unassigned>" joined team "Green"
+L 09/05/2023 - 12:29:09: "Mira<21><[U:1:149481681]><Green>" changed role to "dismatic"
+L 09/05/2023 - 12:29:09: "quek<6><[U:1:220783085]><>" entered the game
+L 09/05/2023 - 12:29:09: "Andy726<14><[U:1:845123434]><>" entered the game
+L 09/05/2023 - 12:29:10: "Event Horizon<19><[U:1:126775298]><Unassigned>" joined team "Red"
+L 09/05/2023 - 12:29:10: "Mira<21><[U:1:149481681]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:29:10: "August101<16><[U:1:241010597]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 12:29:11: "Event Horizon<19><[U:1:126775298]><Red>" changed role to "saptrap"
+L 09/05/2023 - 12:29:11: "Milosuper<7><[U:1:126998348]><Unassigned>" joined team "Red"
+L 09/05/2023 - 12:29:11: "quek<6><[U:1:220783085]><Unassigned>" joined team "Green"
+L 09/05/2023 - 12:29:12: "August101<16><[U:1:241010597]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 12:29:12: "quek<6><[U:1:220783085]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:29:13: "Andy726<14><[U:1:845123434]><Unassigned>" joined team "Green"
+L 09/05/2023 - 12:29:13: "Milosuper<7><[U:1:126998348]><Red>" changed role to "sentronic"
+L 09/05/2023 - 12:29:14: "Andy726<14><[U:1:845123434]><Green>" changed role to "workernode"
+L 09/05/2023 - 12:29:19: "Milosuper<7><[U:1:126998348]><Red>" say "woah"
+L 09/05/2023 - 12:29:20: "Event Horizon<19><[U:1:126775298]><Red>" changed role to "dismatic"
+L 09/05/2023 - 12:29:20: "quek<6><[U:1:220783085]><Green>" joined team "Blue"
+L 09/05/2023 - 12:29:20: "quek<6><[U:1:220783085]><Blue>" committed suicide with "world" (attacker_position "3633 2071 -63")
+L 09/05/2023 - 12:29:24: "Milosuper<7><[U:1:126998348]><Red>" say "this is weird"
+L 09/05/2023 - 12:29:26: "August101<16><[U:1:241010597]><Blue>" say "oh good it's a team elimation map"
+L 09/05/2023 - 12:29:32: World triggered "Round_Start"
+L 09/05/2023 - 12:29:35: "Andy726<14><[U:1:845123434]><Green>" say_team "ok it's gonna be much easier to defend our tank now"
+L 09/05/2023 - 12:29:37: "Andy726<14><[U:1:845123434]><Green>" say_team "right?"
+L 09/05/2023 - 12:29:41: "August101<16><[U:1:241010597]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2845 2179 -230")
+L 09/05/2023 - 12:29:42: "Event Horizon<19><[U:1:126775298]><Red>" changed role to "sentronic"
+L 09/05/2023 - 12:29:43: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3161 1566 -63")
+L 09/05/2023 - 12:29:44: "quek<6><[U:1:220783085]><Blue>" say ""this is weird" bro u made it"
+L 09/05/2023 - 12:29:49: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3322 1586 -63")
+L 09/05/2023 - 12:29:52: "Mira<21><[U:1:149481681]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2618 1494 -143")
+L 09/05/2023 - 12:29:56: "Milosuper<7><[U:1:126998348]><Red>" say "i was talking about people playing it"
+L 09/05/2023 - 12:29:58: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2950 1880 -63")
+L 09/05/2023 - 12:29:59: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2943 1952 -63")
+L 09/05/2023 - 12:30:00: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-598 712 -63")
+L 09/05/2023 - 12:30:01: "Event Horizon<19><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-502 -627 -335")
+L 09/05/2023 - 12:30:05: "quek<6><[U:1:220783085]><Blue>" killed "Event Horizon<19><[U:1:126775298]><Red>" with "smg" (attacker_position "-420 91 -289") (victim_position "-376 -34 -255")
+L 09/05/2023 - 12:30:06: "jimi<20><[U:1:968687056]><>" entered the game
+L 09/05/2023 - 12:30:09: "Milosuper<7><[U:1:126998348]><Red>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "99 -441 -188") (victim_position "-53 -37 -152")
+L 09/05/2023 - 12:30:09: "quek<6><[U:1:220783085]><Blue>" triggered "kill assist" against "ChargingTurnip<4><[U:1:313942863]><Green>" (assister_position "-693 95 -351") (attacker_position "99 -441 -188") (victim_position "-53 -37 -152")
+L 09/05/2023 - 12:30:10: "Milosuper<7><[U:1:126998348]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "174 -183 -159")
+L 09/05/2023 - 12:30:12: "Mira<21><[U:1:149481681]><Green>" killed "Milosuper<7><[U:1:126998348]><Red>" with "tf_projectile_rocket" (attacker_position "-134 8 -159") (victim_position "141 -193 -159")
+L 09/05/2023 - 12:30:13: "quek<6><[U:1:220783085]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-1482 372 -285")
+L 09/05/2023 - 12:30:13: "quek<6><[U:1:220783085]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "obj_sentrygun" (attacker_position "-1482 372 -285") (victim_position "-11 89 -152")
+L 09/05/2023 - 12:30:13: "Event Horizon<19><[U:1:126775298]><Red>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Green>" (assister_position "-460 -569 -351") (attacker_position "-1482 372 -285") (victim_position "-11 89 -152")
+L 09/05/2023 - 12:30:19: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3262 1629 -63")
+L 09/05/2023 - 12:30:21: "quek<6><[U:1:220783085]><Blue>" say "oh"
+L 09/05/2023 - 12:30:22: "jimi<20><[U:1:968687056]><Unassigned>" joined team "Spectator"
+L 09/05/2023 - 12:30:25: "Event Horizon<19><[U:1:126775298]><Red>" killed "quek<6><[U:1:220783085]><Blue>" with "obj_sentrygun" (attacker_position "-362 -3823 -105") (victim_position "-921 334 -335")
+L 09/05/2023 - 12:30:28: "quek<6><[U:1:220783085]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-921 334 -321")
+L 09/05/2023 - 12:30:28: "quek<6><[U:1:220783085]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "obj_sentrygun" (attacker_position "-921 334 -321") (victim_position "145 -35 -159")
+L 09/05/2023 - 12:30:33: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Red>") (attacker_position "-1162 -862 -326")
+L 09/05/2023 - 12:30:34: "DID YOU SEE<18><[U:1:148422860]><>" entered the game
+L 09/05/2023 - 12:30:37: "Octmari<17><[U:1:160946369]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 12:30:37: "Event Horizon<19><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-120 -1297 -47")
+L 09/05/2023 - 12:30:41: "Milosuper<7><[U:1:126998348]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "33 -2892 -143")
+L 09/05/2023 - 12:30:46: "Event Horizon<19><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "178 -229 -177")
+L 09/05/2023 - 12:30:46: "Octmari<17><[U:1:160946369]><Blue>" changed role to "telecon"
+L 09/05/2023 - 12:30:48: "August101<16><[U:1:241010597]><Blue>" killed "Event Horizon<19><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "-189 -20 -152") (victim_position "-12 -41 -152")
+L 09/05/2023 - 12:30:51: "Octmari<17><[U:1:160946369]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 12:30:56: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2362 801 -63")
+L 09/05/2023 - 12:30:58: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2348 826 -63")
+L 09/05/2023 - 12:31:00: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2331 854 -63")
+L 09/05/2023 - 12:31:06: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1864 1660 -63")
+L 09/05/2023 - 12:31:08: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-891 235 -63")
+L 09/05/2023 - 12:31:09: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1879 1636 -63")
+L 09/05/2023 - 12:31:09: "Milosuper<7><[U:1:126998348]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "-580 -615 256")
+L 09/05/2023 - 12:31:10: "Event Horizon<19><[U:1:126775298]><Red>" killed "Mira<21><[U:1:149481681]><Green>" with "obj_sentrygun" (attacker_position "128 -4544 -63") (victim_position "440 -604 -335")
+L 09/05/2023 - 12:31:10: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1896 1606 -63")
+L 09/05/2023 - 12:31:17: "Event Horizon<19><[U:1:126775298]><Red>" killed "quek<6><[U:1:220783085]><Blue>" with "obj_sentrygun" (attacker_position "128 -4544 -63") (victim_position "-177 -302 169")
+L 09/05/2023 - 12:31:17: "Milosuper<7><[U:1:126998348]><Red>" triggered "kill assist" against "quek<6><[U:1:220783085]><Blue>" (assister_position "238 -802 256") (attacker_position "128 -4544 -63") (victim_position "-177 -302 169")
+L 09/05/2023 - 12:31:20: "quek<6><[U:1:220783085]><Blue>" say "lol"
+L 09/05/2023 - 12:31:20: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1912 1580 -63")
+L 09/05/2023 - 12:31:27: "DID YOU SEE<18><[U:1:148422860]><Unassigned>" joined team "Red"
+L 09/05/2023 - 12:31:28: "DID YOU SEE<18><[U:1:148422860]><Red>" changed role to "telecon"
+L 09/05/2023 - 12:31:30: "Octmari<17><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-332 42 -255")
+L 09/05/2023 - 12:31:32: "Milosuper<7><[U:1:126998348]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-718 -243 256")
+L 09/05/2023 - 12:31:32: "Milosuper<7><[U:1:126998348]><Red>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-718 -243 256") (victim_position "-19 10 -152")
+L 09/05/2023 - 12:31:35: "Milosuper<7><[U:1:126998348]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "Octmari<17><[U:1:160946369]><Blue>") (attacker_position "-409 302 -351")
+L 09/05/2023 - 12:31:37: "Evan068<11><[U:1:371507926]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-678 472 -63")
+L 09/05/2023 - 12:31:37: "Evan068<11><[U:1:371507926]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "fo_weapon_nodegun" (attacker_position "-678 472 -63") (victim_position "93 100 -159")
+L 09/05/2023 - 12:31:43: "Andy726<14><[U:1:845123434]><Green>" killed "Milosuper<7><[U:1:126998348]><Red>" with "fo_weapon_nodegun" (attacker_position "43 -7 -152") (victim_position "-9 77 -152")
+L 09/05/2023 - 12:31:45: "Event Horizon<19><[U:1:126775298]><Red>" killed "Andy726<14><[U:1:845123434]><Green>" with "tf_projectile_rocket" (attacker_position "-225 -17 -159") (victim_position "3 -112 -155")
+L 09/05/2023 - 12:31:46: "Mira<21><[U:1:149481681]><Green>" killed "Event Horizon<19><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "39 107 -154") (victim_position "-95 -114 -159")
+L 09/05/2023 - 12:31:46: "Andy726<14><[U:1:845123434]><Green>" triggered "kill assist" against "Event Horizon<19><[U:1:126775298]><Red>" (assister_position "3 -112 -141") (attacker_position "39 107 -154") (victim_position "-95 -114 -159")
+L 09/05/2023 - 12:31:48: "Mira<21><[U:1:149481681]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "-20 -102 -111") (victim_position "-37 -46 -152")
+L 09/05/2023 - 12:31:49: "Event Horizon<19><[U:1:126775298]><Red>" killed "Mira<21><[U:1:149481681]><Green>" with "obj_sentrygun" (attacker_position "-95 -114 -145") (victim_position "-186 -347 -147")
+L 09/05/2023 - 12:31:49: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Green>" (assister_position "-37 -46 -138") (attacker_position "-95 -114 -145") (victim_position "-186 -347 -147")
+L 09/05/2023 - 12:31:53: "Andy726<14><[U:1:845123434]><Green>" say_team "You can use train for easier movement"
+L 09/05/2023 - 12:31:58: "quek<6><[U:1:220783085]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-11 64 -152")
+L 09/05/2023 - 12:31:58: "quek<6><[U:1:220783085]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-11 64 -152") (victim_position "129 -56 -159")
+L 09/05/2023 - 12:32:03: "Mira<21><[U:1:149481681]><Green>" say "just got airshotted by a sentry my life is over"
+L 09/05/2023 - 12:32:10: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "quek<6><[U:1:220783085]><Blue>") (position1 "-14 174 -159") (player2 "August101<16><[U:1:241010597]><Blue>") (position2 "9 1 -152") 
+L 09/05/2023 - 12:32:12: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Red>") (attacker_position "-33 174 -159")
+L 09/05/2023 - 12:32:19: "Event Horizon<19><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-421 -3508 -251")
+L 09/05/2023 - 12:32:20: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2566 2410 -346")
+L 09/05/2023 - 12:32:21: "quek<6><[U:1:220783085]><Blue>" committed suicide with "world" (attacker_position "594 -1638 -335")
+L 09/05/2023 - 12:32:22: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2616 2426 -346")
+L 09/05/2023 - 12:32:23: "quek<6><[U:1:220783085]><Blue>" say "TRAIN"
+L 09/05/2023 - 12:32:23: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2585 2388 -351")
+L 09/05/2023 - 12:32:24: "Milosuper<7><[U:1:126998348]><Red>" say "lo'"
+L 09/05/2023 - 12:32:25: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2638 2406 -351")
+L 09/05/2023 - 12:32:33: "Event Horizon<19><[U:1:126775298]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-15 -751 -351")
+L 09/05/2023 - 12:32:33: "Event Horizon<19><[U:1:126775298]><Red>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "-15 -751 -351") (victim_position "32 128 -159")
+L 09/05/2023 - 12:32:33: "Milosuper<7><[U:1:126998348]><Red>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Green>" (assister_position "158 -391 -268") (attacker_position "-15 -751 -351") (victim_position "32 128 -159")
+L 09/05/2023 - 12:32:33: "Octmari<17><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-1309 518 -351")
+L 09/05/2023 - 12:32:39: "Event Horizon<19><[U:1:126775298]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-108 38 -154")
+L 09/05/2023 - 12:32:39: "Event Horizon<19><[U:1:126775298]><Red>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-108 38 -154") (victim_position "124 -2 -131")
+L 09/05/2023 - 12:32:39: "Milosuper<7><[U:1:126998348]><Red>" triggered "kill assist" against "ChargingTurnip<4><[U:1:313942863]><Green>" (assister_position "-35 -31 -152") (attacker_position "-108 38 -154") (victim_position "124 -2 -131")
+L 09/05/2023 - 12:32:41: "jimi<20><[U:1:968687056]><Spectator>" say "who's gonna be the first to get ran over by a train"
+L 09/05/2023 - 12:32:43: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "2774 1396 -143")
+L 09/05/2023 - 12:32:45: "quek<6><[U:1:220783085]><Blue>" say "i just did"
+L 09/05/2023 - 12:32:48: Team "Red" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "3") (player1 "Milosuper<7><[U:1:126998348]><Red>") (position1 "50 -58 -152") (player2 "DID YOU SEE<18><[U:1:148422860]><Red>") (position2 "-78 -35 -152") (player3 "Event Horizon<19><[U:1:126775298]><Red>") (position3 "23 36 -152") 
+L 09/05/2023 - 12:32:50: "jimi<20><[U:1:968687056]><Spectator>" say "epic fail"
+L 09/05/2023 - 12:32:53: "Event Horizon<19><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Event Horizon<19><[U:1:126775298]><Red>") (attacker_position "454 288 -351")
+L 09/05/2023 - 12:32:58: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "scattergun") (objectowner "Octmari<17><[U:1:160946369]><Blue>") (attacker_position "-1269 259 -350")
+L 09/05/2023 - 12:33:02: "Event Horizon<19><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-368 620 -351")
+L 09/05/2023 - 12:33:02: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Red>") (attacker_position "-612 583 -63")
+L 09/05/2023 - 12:33:07: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-379 -3 -255")
+L 09/05/2023 - 12:33:08: "Andy726<14><[U:1:845123434]><Green>" say "can a building stop train hol up"
+L 09/05/2023 - 12:33:09: "Mira<21><[U:1:149481681]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "3205 685 -351") (victim_position "3449 821 -351")
+L 09/05/2023 - 12:33:10: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3144 1034 -351")
+L 09/05/2023 - 12:33:11: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3102 1013 -351")
+L 09/05/2023 - 12:33:12: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3062 989 -351")
+L 09/05/2023 - 12:33:12: "Mira<21><[U:1:149481681]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "3140 626 -351") (victim_position "2791 423 -301")
+L 09/05/2023 - 12:33:12: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "2791 423 -287") (victim_position "3117 661 -351")
+L 09/05/2023 - 12:33:13: "Octmari<17><[U:1:160946369]><Blue>" killed "Milosuper<7><[U:1:126998348]><Red>" with "shotgun_hwg" (attacker_position "-2066 2332 -351") (victim_position "-1727 2446 -309")
+L 09/05/2023 - 12:33:13: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3035 973 -351")
+L 09/05/2023 - 12:33:14: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2996 950 -351")
+L 09/05/2023 - 12:33:15: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2966 932 -351")
+L 09/05/2023 - 12:33:16: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2936 915 -351")
+L 09/05/2023 - 12:33:17: "Event Horizon<19><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-924 -288 -52")
+L 09/05/2023 - 12:33:18: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Blue>") (position1 "-89 -28 -152") 
+L 09/05/2023 - 12:33:19: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Red>") (attacker_position "-72 -123 -159")
+L 09/05/2023 - 12:33:21: "Event Horizon<19><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "-486 244 -351")
+L 09/05/2023 - 12:33:24: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2541 2245 -351")
+L 09/05/2023 - 12:33:25: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2496 2219 -351")
+L 09/05/2023 - 12:33:25: "Milosuper<7><[U:1:126998348]><Red>" say "node builds cannot"
+L 09/05/2023 - 12:33:27: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2457 2196 -351")
+L 09/05/2023 - 12:33:28: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2408 2168 -351")
+L 09/05/2023 - 12:33:29: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2382 2154 -351")
+L 09/05/2023 - 12:33:29: "Milosuper<7><[U:1:126998348]><Red>" say "but it looks funny"
+L 09/05/2023 - 12:33:31: "August101<16><[U:1:241010597]><Blue>" say_team "oct can you upgrade my sentry at some point"
+L 09/05/2023 - 12:33:31: "Event Horizon<19><[U:1:126775298]><Red>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-191 -49 -159") (victim_position "-356 -295 -318")
+L 09/05/2023 - 12:33:33: "quek<6><[U:1:220783085]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-278 1424 -303")
+L 09/05/2023 - 12:33:33: "quek<6><[U:1:220783085]><Blue>" killed "Event Horizon<19><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "-278 1424 -303") (victim_position "1 175 -139")
+L 09/05/2023 - 12:33:37: "Octmari<17><[U:1:160946369]><Blue>" say_team "sure"
+L 09/05/2023 - 12:33:41: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1090 -2125 -351")
+L 09/05/2023 - 12:33:42: "August101<16><[U:1:241010597]><Blue>" say_team "thanks"
+L 09/05/2023 - 12:33:44: "DID YOU SEE<18><[U:1:148422860]><Red>" killed "Andy726<14><[U:1:845123434]><Green>" with "scattergun" (attacker_position "83 -130 -159") (victim_position "143 57 -117")
+L 09/05/2023 - 12:33:44: "quek<6><[U:1:220783085]><Blue>" triggered "kill assist" against "Andy726<14><[U:1:845123434]><Green>" (assister_position "437 -191 -351") (attacker_position "83 -130 -159") (victim_position "143 57 -117")
+L 09/05/2023 - 12:33:47: "Evan068<11><[U:1:371507926]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "1079 -636 -351")
+L 09/05/2023 - 12:33:47: "Evan068<11><[U:1:371507926]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "fo_weapon_nodegun" (attacker_position "1079 -636 -351") (victim_position "110 -86 -159")
+L 09/05/2023 - 12:33:47: "Mira<21><[U:1:149481681]><Green>" triggered "kill assist" against "DID YOU SEE<18><[U:1:148422860]><Red>" (assister_position "779 244 -63") (attacker_position "1079 -636 -351") (victim_position "110 -86 -159")
+L 09/05/2023 - 12:33:48: "Milosuper<7><[U:1:126998348]><Red>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "518 -2465 -63") (victim_position "237 -2425 -63")
+L 09/05/2023 - 12:33:55: "Octmari<17><[U:1:160946369]><Blue>" say_team "assuming this uh... meeting im in doesnt get more involved "
+L 09/05/2023 - 12:34:06: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Green>") (position1 "147 165 -159") 
+L 09/05/2023 - 12:34:08: "August101<16><[U:1:241010597]><Blue>" say_team "k"
+L 09/05/2023 - 12:34:11: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "-1161 -656 -351")
+L 09/05/2023 - 12:34:13: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3437 1027 -346")
+L 09/05/2023 - 12:34:14: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3380 994 -346")
+L 09/05/2023 - 12:34:17: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3368 1025 -346")
+L 09/05/2023 - 12:34:19: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3418 1059 -346")
+L 09/05/2023 - 12:34:20: "Milosuper<7><[U:1:126998348]><Red>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "659 501 -63") (victim_position "81 35 -152")
+L 09/05/2023 - 12:34:20: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3400 1087 -351")
+L 09/05/2023 - 12:34:21: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3350 1059 -351")
+L 09/05/2023 - 12:34:30: Team "Red" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "Milosuper<7><[U:1:126998348]><Red>") (position1 "71 35 -152") (player2 "DID YOU SEE<18><[U:1:148422860]><Red>") (position2 "86 61 -152") 
+L 09/05/2023 - 12:34:35: "Milosuper<7><[U:1:126998348]><Red>" say "welp"
+L 09/05/2023 - 12:34:35: "Octmari<17><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-3475 2338 -63")
+L 09/05/2023 - 12:34:40: "Milosuper<7><[U:1:126998348]><Red>" say "LETS DO THIS"
+L 09/05/2023 - 12:34:41: "Evan068<11><[U:1:371507926]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "fo_weapon_nodegun") (objectowner "Milosuper<7><[U:1:126998348]><Red>") (attacker_position "493 -4248 -31")
+L 09/05/2023 - 12:34:46: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "181 -3628 -63")
+L 09/05/2023 - 12:34:46: "Event Horizon<19><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_STAIRS") (weapon "tf_projectile_rocket") (objectowner "Evan068<11><[U:1:371507926]><Green>") (attacker_position "-234 -3635 -63")
+L 09/05/2023 - 12:34:47: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "-74 39 -152") (player2 "Andy726<14><[U:1:845123434]><Green>") (position2 "121 43 -159") 
+L 09/05/2023 - 12:34:48: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-310 -860 -63")
+L 09/05/2023 - 12:34:51: "Event Horizon<19><[U:1:126775298]><Red>" killed "Evan068<11><[U:1:371507926]><Green>" with "tf_projectile_rocket" (attacker_position "348 -3247 -342") (victim_position "573 -3185 -351")
+L 09/05/2023 - 12:34:54: "ChargingTurnip<4><[U:1:313942863]><Green>" committed suicide with "world" (attacker_position "302 -748 -325")
+L 09/05/2023 - 12:34:56: "Mira<21><[U:1:149481681]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "715 274 -63")
+L 09/05/2023 - 12:34:56: "Mira<21><[U:1:149481681]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "tf_projectile_rocket" (attacker_position "715 274 -63") (victim_position "22 3 -84")
+L 09/05/2023 - 12:35:00: "Evan068<11><[U:1:371507926]><Green>" changed role to "saptrap"
+L 09/05/2023 - 12:35:02: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "94 27 -152")
+L 09/05/2023 - 12:35:04: "Event Horizon<19><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-432 -1873 -56")
+L 09/05/2023 - 12:35:06: "August101<16><[U:1:241010597]><Blue>" killed "Milosuper<7><[U:1:126998348]><Red>" with "tf_projectile_rocket" (attacker_position "-1966 1491 -63") (victim_position "-2252 1071 -63")
+L 09/05/2023 - 12:35:06: "Milosuper<7><[U:1:126998348]><Red>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-2252 1071 -49") (victim_position "-1966 1491 -63")
+L 09/05/2023 - 12:35:08: "Evan068<11><[U:1:371507926]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:35:09: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Red>") (attacker_position "-628 -1343 -351")
+L 09/05/2023 - 12:35:15: "August101<16><[U:1:241010597]><Blue>" say "ming bong you don't spawn"
+L 09/05/2023 - 12:35:18: "quek<6><[U:1:220783085]><Blue>" say "red if u destroy someones generator it just makes the last team win"
+L 09/05/2023 - 12:35:21: "Mira<21><[U:1:149481681]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "130 -182 -159")
+L 09/05/2023 - 12:35:25: "Andy726<14><[U:1:845123434]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "132 34 -159")
+L 09/05/2023 - 12:35:25: "Andy726<14><[U:1:845123434]><Green>" killed "Event Horizon<19><[U:1:126775298]><Red>" with "fo_weapon_nodegun" (attacker_position "132 34 -159") (victim_position "24 -77 -152")
+L 09/05/2023 - 12:35:25: "Evan068<11><[U:1:371507926]><Green>" triggered "kill assist" against "Event Horizon<19><[U:1:126775298]><Red>" (assister_position "-718 -415 256") (attacker_position "132 34 -159") (victim_position "24 -77 -152")
+L 09/05/2023 - 12:35:29: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "83 -66 -152")
+L 09/05/2023 - 12:35:29: "quek<6><[U:1:220783085]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "bat" (attacker_position "-2382 724 -63") (victim_position "-2389 642 -6")
+L 09/05/2023 - 12:35:36: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "-107 -38 -153")
+L 09/05/2023 - 12:35:36: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "-1035 693 -47")
+L 09/05/2023 - 12:35:40: "Event Horizon<19><[U:1:126775298]><Red>" joined team "Blue"
+L 09/05/2023 - 12:35:41: "quek<6><[U:1:220783085]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "tf_projectile_rocket" (attacker_position "-842 236 -63") (victim_position "-49 18 -114")
+L 09/05/2023 - 12:35:41: "August101<16><[U:1:241010597]><Blue>" committed suicide with "world" (attacker_position "-893 861 -335")
+L 09/05/2023 - 12:35:43: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-758 -354 -63")
+L 09/05/2023 - 12:35:50: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2924 1674 -255")
+L 09/05/2023 - 12:35:51: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "-3339 1143 -351")
+L 09/05/2023 - 12:35:53: "ChargingTurnip<4><[U:1:313942863]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "-671 -428 -37")
+L 09/05/2023 - 12:35:54: "Mira<21><[U:1:149481681]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "tf_projectile_rocket" (attacker_position "-3399 1316 -294") (victim_position "-3166 1052 -313")
+L 09/05/2023 - 12:35:58: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "obj_sentrygun" (attacker_position "84 -161 -159") (victim_position "-3051 1286 -301")
+L 09/05/2023 - 12:36:00: "quek<6><[U:1:220783085]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-99 125 -159") (victim_position "86 -75 -152")
+L 09/05/2023 - 12:36:00: "Evan068<11><[U:1:371507926]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-183 13 -159")
+L 09/05/2023 - 12:36:02: "Andy726<14><[U:1:845123434]><Green>" say "there goes red team"
+L 09/05/2023 - 12:36:05: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Blue>") (position1 "84 -148 -159") 
+L 09/05/2023 - 12:36:10: "Evan068<11><[U:1:371507926]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "scattergun" (attacker_position "409 -269 -227") (victim_position "782 -411 -335")
+L 09/05/2023 - 12:36:14: "Milosuper<7><[U:1:126998348]><Red>" joined team "Blue"
+L 09/05/2023 - 12:36:16: "Milosuper<7><[U:1:126998348]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 12:36:19: "Milosuper<7><[U:1:126998348]><Blue>" changed role to "workernode"
+L 09/05/2023 - 12:36:22: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1413 1392 -56")
+L 09/05/2023 - 12:36:29: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1516 2523 -351")
+L 09/05/2023 - 12:36:31: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1549 2472 -351")
+L 09/05/2023 - 12:36:31: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "10 189 -159")
+L 09/05/2023 - 12:36:33: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1593 2476 -351")
+L 09/05/2023 - 12:36:36: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1572 2550 -351")
+L 09/05/2023 - 12:36:39: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-1621 2536 -351")
+L 09/05/2023 - 12:36:48: "Andy726<14><[U:1:845123434]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "fo_weapon_nodegun" (attacker_position "124 -1403 -351") (victim_position "1139 -1307 -335")
+L 09/05/2023 - 12:36:48: "DID YOU SEE<18><[U:1:148422860]><Red>" joined team "Green"
+L 09/05/2023 - 12:36:54: "ChargingTurnip<4><[U:1:313942863]><Green>" say "this gamemode is a little bit bugged right now, so if you cant respawn next round, swap to the team that won and then swap back"
+L 09/05/2023 - 12:36:55: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "-56 -84 -152")
+L 09/05/2023 - 12:36:57: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "2313 2711 -351")
+L 09/05/2023 - 12:36:58: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "-109 -38 -154")
+L 09/05/2023 - 12:36:58: "Octmari<17><[U:1:160946369]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "shotgun_hwg" (attacker_position "1278 732 -322") (victim_position "1859 1055 -344")
+L 09/05/2023 - 12:37:04: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Andy726<14><[U:1:845123434]><Green>") (position1 "-25 -14 -152") 
+L 09/05/2023 - 12:37:11: "August101<16><[U:1:241010597]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Green>" with "tf_projectile_rocket" (attacker_position "1336 2375 -191") (victim_position "1524 2341 -157")
+L 09/05/2023 - 12:37:11: "quek<6><[U:1:220783085]><Blue>" triggered "kill assist" against "DID YOU SEE<18><[U:1:148422860]><Green>" (assister_position "1375 2118 -351") (attacker_position "1336 2375 -191") (victim_position "1524 2341 -157")
+L 09/05/2023 - 12:37:14: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "-3587 1883 -63")
+L 09/05/2023 - 12:37:19: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "obj_sentrygun" (attacker_position "376 401 -65") (victim_position "-1861 1818 -337")
+L 09/05/2023 - 12:37:22: "Octmari<17><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "minigun") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "-43 16 -152")
+L 09/05/2023 - 12:37:22: "Milosuper<7><[U:1:126998348]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "fo_weapon_nodegun" (attacker_position "-2544 501 -63") (victim_position "-2189 388 -63")
+L 09/05/2023 - 12:37:23: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-94 8 -152") (player2 "August101<16><[U:1:241010597]><Blue>") (position2 "-41 -21 -152") 
+L 09/05/2023 - 12:37:24: "Octmari<17><[U:1:160946369]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "minigun" (attacker_position "-116 -41 -157") (victim_position "-324 -129 -223")
+L 09/05/2023 - 12:37:24: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "kill assist" against "Andy726<14><[U:1:845123434]><Green>" (assister_position "-633 232 -351") (attacker_position "-116 -41 -157") (victim_position "-324 -129 -223")
+L 09/05/2023 - 12:37:32: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2178 1929 -351")
+L 09/05/2023 - 12:37:33: "Evan068<11><[U:1:371507926]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:37:38: "Mira<21><[U:1:149481681]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "1277 671 -351") (victim_position "1078 952 -351")
+L 09/05/2023 - 12:37:39: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-3166 1654 -63")
+L 09/05/2023 - 12:37:40: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1213 1287 -344")
+L 09/05/2023 - 12:37:40: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "1359 937 -351")
+L 09/05/2023 - 12:37:41: "Event Horizon<19><[U:1:126775298]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "1196 947 -351") (victim_position "1280 850 -351")
+L 09/05/2023 - 12:37:41: "Octmari<17><[U:1:160946369]><Blue>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Green>" (assister_position "1078 952 -337") (attacker_position "1196 947 -351") (victim_position "1280 850 -351")
+L 09/05/2023 - 12:37:44: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1953 1105 -351")
+L 09/05/2023 - 12:37:46: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "1716 1420 -56")
+L 09/05/2023 - 12:37:46: "Event Horizon<19><[U:1:126775298]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Green>" with "tf_projectile_rocket" (attacker_position "1642 732 -351") (victim_position "1694 1444 -56")
+L 09/05/2023 - 12:37:47: "ChargingTurnip<4><[U:1:313942863]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "scattergun" (attacker_position "2327 1507 -351") (victim_position "2408 1025 -351")
+L 09/05/2023 - 12:37:48: "Evan068<11><[U:1:371507926]><Green>" changed role to "dismatic"
+L 09/05/2023 - 12:37:49: "Evan068<11><[U:1:371507926]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:37:49: "Andy726<14><[U:1:845123434]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "fo_weapon_nodegun") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "3374 2292 -63")
+L 09/05/2023 - 12:37:51: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1956 1352 -351")
+L 09/05/2023 - 12:37:53: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2901 149 -351")
+L 09/05/2023 - 12:37:53: "Andy726<14><[U:1:845123434]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "fo_weapon_nodegun" (attacker_position "3144 2060 -63") (victim_position "2173 2780 -351")
+L 09/05/2023 - 12:37:53: "Evan068<11><[U:1:371507926]><Green>" triggered "kill assist" against "August101<16><[U:1:241010597]><Blue>" (assister_position "3229 2061 -63") (attacker_position "3144 2060 -63") (victim_position "2173 2780 -351")
+L 09/05/2023 - 12:37:54: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2932 84 -351")
+L 09/05/2023 - 12:37:57: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2912 42 -349")
+L 09/05/2023 - 12:37:59: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-3006 63 -351")
+L 09/05/2023 - 12:38:01: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2970 142 -351")
+L 09/05/2023 - 12:38:07: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-3015 143 -351")
+L 09/05/2023 - 12:38:10: "Mira<21><[U:1:149481681]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "obj_sentrygun" (attacker_position "2797 1243 -300") (victim_position "3107 1588 -255")
+L 09/05/2023 - 12:38:13: "Evan068<11><[U:1:371507926]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "1665 1702 -63")
+L 09/05/2023 - 12:38:13: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "21 38 -152") 
+L 09/05/2023 - 12:38:13: "Event Horizon<19><[U:1:126775298]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "player" (attacker_position "3107 1588 -241") (victim_position "3043 1834 -63")
+L 09/05/2023 - 12:38:18: "Octmari<17><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "minigun") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "-1223 968 -47")
+L 09/05/2023 - 12:38:19: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2541 1380 -143")
+L 09/05/2023 - 12:38:26: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "obj_sentrygun" (attacker_position "-1575 1653 -63") (victim_position "-2459 1525 -24")
+L 09/05/2023 - 12:38:26: "quek<6><[U:1:220783085]><Blue>" triggered "kill assist" against "ChargingTurnip<4><[U:1:313942863]><Green>" (assister_position "-1843 1683 -63") (attacker_position "-1575 1653 -63") (victim_position "-2459 1525 -24")
+L 09/05/2023 - 12:38:43: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "-1776 229 -351") (victim_position "-2131 527 -351")
+L 09/05/2023 - 12:38:44: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "27 -1367 -351")
+L 09/05/2023 - 12:38:55: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2246 981 -63")
+L 09/05/2023 - 12:38:58: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "4") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-9 29 -152") (player2 "quek<6><[U:1:220783085]><Blue>") (position2 "34 133 -159") (player3 "Milosuper<7><[U:1:126998348]><Blue>") (position3 "-83 150 -159") (player4 "August101<16><[U:1:241010597]><Blue>") (position4 "113 -35 -155") 
+L 09/05/2023 - 12:38:59: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2400 1906 -346")
+L 09/05/2023 - 12:39:01: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2463 1945 -351")
+L 09/05/2023 - 12:39:02: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2519 1976 -351")
+L 09/05/2023 - 12:39:03: "Event Horizon<19><[U:1:126775298]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Green>" with "tf_projectile_rocket" (attacker_position "-1328 296 -351") (victim_position "-1205 173 -335")
+L 09/05/2023 - 12:39:04: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2591 2018 -351")
+L 09/05/2023 - 12:39:04: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2647 2052 -351")
+L 09/05/2023 - 12:39:06: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2684 2033 -351")
+L 09/05/2023 - 12:39:07: "August101<16><[U:1:241010597]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "52 139 -159")
+L 09/05/2023 - 12:39:07: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "52 139 -159") (victim_position "49 -47 -152")
+L 09/05/2023 - 12:39:14: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "1745 1856 -351")
+L 09/05/2023 - 12:39:19: "Milosuper<7><[U:1:126998348]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "fo_weapon_nodegun") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3145 473 -351")
+L 09/05/2023 - 12:39:22: "quek<6><[U:1:220783085]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "smg" (attacker_position "1070 1470 -335") (victim_position "1316 1609 -319")
+L 09/05/2023 - 12:39:22: "quek<6><[U:1:220783085]><Blue>" triggered "domination" against "Andy726<14><[U:1:845123434]><Green>"
+L 09/05/2023 - 12:39:23: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "2772 1093 -292")
+L 09/05/2023 - 12:39:23: "Milosuper<7><[U:1:126998348]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "fo_weapon_hammer") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3493 929 -351")
+L 09/05/2023 - 12:39:24: "Mira<21><[U:1:149481681]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "obj_sentrygun" (attacker_position "1791 1775 -351") (victim_position "2449 907 -63")
+L 09/05/2023 - 12:39:25: "Evan068<11><[U:1:371507926]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "smg") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "-2428 665 -63")
+L 09/05/2023 - 12:39:25: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3154 552 -351")
+L 09/05/2023 - 12:39:27: "Milosuper<7><[U:1:126998348]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "fo_weapon_hammer") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3441 943 -346")
+L 09/05/2023 - 12:39:30: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3500 656 -351")
+L 09/05/2023 - 12:39:33: "Andy726<14><[U:1:845123434]><Green>" say "how tf we even suppose to defend"
+L 09/05/2023 - 12:39:33: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "3713 1997 -63")
+L 09/05/2023 - 12:39:35: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "3171 738 -351") (victim_position "3563 807 -351")
+L 09/05/2023 - 12:39:35: "August101<16><[U:1:241010597]><Blue>" triggered "domination" against "ChargingTurnip<4><[U:1:313942863]><Green>"
+L 09/05/2023 - 12:39:38: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 12:39:38: World triggered "Round_Length" (seconds "605.89")
+L 09/05/2023 - 12:39:38: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 12:39:38: Team "Blue" current score "1" with "5" players
+L 09/05/2023 - 12:39:38: Team "Green" current score "0" with "5" players
+L 09/05/2023 - 12:39:38: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 12:39:38: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 12:39:38: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 12:39:39: "quek<6><[U:1:220783085]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Green>" with "tf_projectile_rocket" (attacker_position "2383 2770 -351") (victim_position "2627 2791 -351")
+L 09/05/2023 - 12:39:39: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3495 614 -351")
+L 09/05/2023 - 12:39:41: "Octmari<17><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "1590 1665 -351")
+L 09/05/2023 - 12:39:43: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3488 813 -351")
+L 09/05/2023 - 12:39:44: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "smg") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "2347 2555 -351")
+L 09/05/2023 - 12:39:46: "Evan068<11><[U:1:371507926]><Green>" committed suicide with "world" (attacker_position "-1691 -1783 -287")
+L 09/05/2023 - 12:39:46: World triggered "Round_Start"
+L 09/05/2023 - 12:39:47: "ChargingTurnip<4><[U:1:313942863]><Green>" say "blue did it"
+L 09/05/2023 - 12:39:49: "ChargingTurnip<4><[U:1:313942863]><Green>" say "so can you"
+L 09/05/2023 - 12:39:50: "Milosuper<7><[U:1:126998348]><Blue>" joined team "Red"
+L 09/05/2023 - 12:39:50: "Milosuper<7><[U:1:126998348]><Red>" committed suicide with "world" (attacker_position "-4054 2193 -63")
+L 09/05/2023 - 12:39:53: "Milosuper<7><[U:1:126998348]><Red>" changed role to "sentronic"
+L 09/05/2023 - 12:39:55: "DID YOU SEE<18><[U:1:148422860]><Green>" joined team "Red"
+L 09/05/2023 - 12:39:55: "DID YOU SEE<18><[U:1:148422860]><Red>" committed suicide with "world" (attacker_position "3696 2278 -63")
+L 09/05/2023 - 12:39:55: "August101<16><[U:1:241010597]><Blue>" say "you defend by constantly attacking"
+L 09/05/2023 - 12:39:58: "Mira<21><[U:1:149481681]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "3040 1663 -255")
+L 09/05/2023 - 12:39:58: "Octmari<17><[U:1:160946369]><Blue>" say "i'd join red but i know that its bugged"
+L 09/05/2023 - 12:40:03: "DID YOU SEE<18><[U:1:148422860]><Red>" changed role to "sentronic"
+L 09/05/2023 - 12:40:05: "ChargingTurnip<4><[U:1:313942863]><Green>" joined team "Red"
+L 09/05/2023 - 12:40:05: "ChargingTurnip<4><[U:1:313942863]><Red>" committed suicide with "world" (attacker_position "1186 1075 -351")
+L 09/05/2023 - 12:40:06: "Milosuper<7><[U:1:126998348]><Red>" say "oh yeah"
+L 09/05/2023 - 12:40:08: "Milosuper<7><[U:1:126998348]><Red>" joined team "Blue"
+L 09/05/2023 - 12:40:09: "August101<16><[U:1:241010597]><Blue>" say "the best defense is a good offensive"
+L 09/05/2023 - 12:40:10: "Milosuper<7><[U:1:126998348]><Blue>" changed role to "workernode"
+L 09/05/2023 - 12:40:13: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "3442 949 -346")
+L 09/05/2023 - 12:40:13: "ChargingTurnip<4><[U:1:313942863]><Red>" joined team "Green"
+L 09/05/2023 - 12:40:14: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "3437 958 -346")
+L 09/05/2023 - 12:40:15: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "3419 990 -346")
+L 09/05/2023 - 12:40:16: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3406 1011 -346")
+L 09/05/2023 - 12:40:17: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "889 79 256")
+L 09/05/2023 - 12:40:17: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3390 1038 -346")
+L 09/05/2023 - 12:40:20: "Evan068<11><[U:1:371507926]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "-2 1666 352")
+L 09/05/2023 - 12:40:20: "ChargingTurnip<4><[U:1:313942863]><Green>" say "i dont get why it keeps being bugged"
+L 09/05/2023 - 12:40:21: "DID YOU SEE<18><[U:1:148422860]><Red>" joined team "Green"
+L 09/05/2023 - 12:40:22: "August101<16><[U:1:241010597]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-3275 1503 -218")
+L 09/05/2023 - 12:40:27: "ChargingTurnip<4><[U:1:313942863]><Green>" joined team "Red"
+L 09/05/2023 - 12:40:27: "ChargingTurnip<4><[U:1:313942863]><Red>" committed suicide with "world" (attacker_position "3839 2438 -63")
+L 09/05/2023 - 12:40:27: "DID YOU SEE<18><[U:1:148422860]><Green>" joined team "Red"
+L 09/05/2023 - 12:40:27: "DID YOU SEE<18><[U:1:148422860]><Red>" committed suicide with "world" (attacker_position "3967 2216 -63")
+L 09/05/2023 - 12:40:27: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2906 150 -351")
+L 09/05/2023 - 12:40:29: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2940 60 -351")
+L 09/05/2023 - 12:40:31: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-3001 85 -351")
+L 09/05/2023 - 12:40:32: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2959 158 -351")
+L 09/05/2023 - 12:40:33: "Mira<21><[U:1:149481681]><Green>" committed suicide with "world" (attacker_position "583 -253 -335")
+L 09/05/2023 - 12:40:34: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-3004 138 -351")
+L 09/05/2023 - 12:40:34: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2527 2518 -346")
+L 09/05/2023 - 12:40:35: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-3061 74 -351")
+L 09/05/2023 - 12:40:35: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2536 2503 -346")
+L 09/05/2023 - 12:40:36: "ChargingTurnip<4><[U:1:313942863]><Red>" joined team "Green"
+L 09/05/2023 - 12:40:37: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2990 215 -351")
+L 09/05/2023 - 12:40:37: "Octmari<17><[U:1:160946369]><Blue>" say "whatever turns off their respawns doesnt properly reset with the round"
+L 09/05/2023 - 12:40:38: "ChargingTurnip<4><[U:1:313942863]><Green>" joined team "Red"
+L 09/05/2023 - 12:40:40: "DID YOU SEE<18><[U:1:148422860]><Red>" say "just come up with something other than disabling an entire team"
+L 09/05/2023 - 12:40:44: "ChargingTurnip<4><[U:1:313942863]><Red>" say "no"
+L 09/05/2023 - 12:40:45: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2371 721 -63")
+L 09/05/2023 - 12:40:45: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2569 2451 -346")
+L 09/05/2023 - 12:40:46: "ChargingTurnip<4><[U:1:313942863]><Red>" joined team "Green"
+L 09/05/2023 - 12:40:46: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2580 2432 -346")
+L 09/05/2023 - 12:40:47: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2410 694 -63")
+L 09/05/2023 - 12:40:47: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-2 -55 -152") (player2 "August101<16><[U:1:241010597]><Blue>") (position2 "-19 92 -152") 
+L 09/05/2023 - 12:40:48: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2443 681 -63")
+L 09/05/2023 - 12:40:49: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2450 702 -63")
+L 09/05/2023 - 12:40:51: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2475 739 -63")
+L 09/05/2023 - 12:40:52: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2469 770 -63")
+L 09/05/2023 - 12:40:53: "August101<16><[U:1:241010597]><Blue>" say "what entity is tied to the disabling spawn things"
+L 09/05/2023 - 12:40:54: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2431 750 -63")
+L 09/05/2023 - 12:40:55: "DID YOU SEE<18><[U:1:148422860]><Red>" joined team "Blue"
+L 09/05/2023 - 12:40:55: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2396 762 -63")
+L 09/05/2023 - 12:40:56: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 12:40:57: "DID YOU SEE<18><[U:1:148422860]><Blue>" joined team "Red"
+L 09/05/2023 - 12:40:57: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2585 2428 -346")
+L 09/05/2023 - 12:40:58: "DID YOU SEE<18><[U:1:148422860]><Red>" joined team "Green"
+L 09/05/2023 - 12:40:58: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2602 2402 -351")
+L 09/05/2023 - 12:40:59: "DID YOU SEE<18><[U:1:148422860]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:41:02: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2380 793 -63")
+L 09/05/2023 - 12:41:03: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2356 810 -63")
+L 09/05/2023 - 12:41:04: "August101<16><[U:1:241010597]><Blue>" say "because if it's tf_gamerules that entity is preserved"
+L 09/05/2023 - 12:41:04: "Evan068<11><[U:1:371507926]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "bat" (attacker_position "18 48 -152") (victim_position "22 0 -152")
+L 09/05/2023 - 12:41:09: "ChargingTurnip<4><[U:1:313942863]><Green>" say "its not"
+L 09/05/2023 - 12:41:15: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Green>") (position1 "-35 -50 -152") 
+L 09/05/2023 - 12:41:15: "August101<16><[U:1:241010597]><Blue>" say "then what entity"
+L 09/05/2023 - 12:41:18: "ChargingTurnip<4><[U:1:313942863]><Green>" say "its own"
+L 09/05/2023 - 12:41:20: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1926 1593 -63")
+L 09/05/2023 - 12:41:25: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2271 343 -63")
+L 09/05/2023 - 12:41:26: "August101<16><[U:1:241010597]><Blue>" say "odd"
+L 09/05/2023 - 12:41:27: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "smg") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2365 425 -63")
+L 09/05/2023 - 12:41:37: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1001 642 -56")
+L 09/05/2023 - 12:41:39: "Octmari<17><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "645 -2762 -351")
+L 09/05/2023 - 12:41:44: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1851 1640 -63")
+L 09/05/2023 - 12:41:46: "Evan068<11><[U:1:371507926]><Green>" committed suicide with "world" (attacker_position "16 -3606 -63")
+L 09/05/2023 - 12:41:47: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1900 1636 -63")
+L 09/05/2023 - 12:41:50: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1891 1598 -63")
+L 09/05/2023 - 12:41:52: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "26 -23 -152") (player2 "Event Horizon<19><[U:1:126775298]><Blue>") (position2 "97 0 -152") 
+L 09/05/2023 - 12:41:53: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1922 1582 -63")
+L 09/05/2023 - 12:41:55: "Octmari<17><[U:1:160946369]><Blue>" say "there now the round can start lol"
+L 09/05/2023 - 12:41:59: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "2886 1654 -268")
+L 09/05/2023 - 12:42:01: "Mira<21><[U:1:149481681]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "tf_projectile_rocket" (attacker_position "293 308 -289") (victim_position "245 57 -255")
+L 09/05/2023 - 12:42:02: "Evan068<11><[U:1:371507926]><Green>" changed role to "dismatic"
+L 09/05/2023 - 12:42:06: "Event Horizon<19><[U:1:126775298]><Blue>" say "i really like this map"
+L 09/05/2023 - 12:42:09: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "89 -21 -152") 
+L 09/05/2023 - 12:42:09: "Octmari<17><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-2267 1285 -63")
+L 09/05/2023 - 12:42:10: "Andy726<14><[U:1:845123434]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "fo_weapon_nodegun" (attacker_position "3054 2191 -160") (victim_position "1944 2804 -351")
+L 09/05/2023 - 12:42:14: "Event Horizon<19><[U:1:126775298]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "obj_sentrygun" (attacker_position "-1910 1595 -63") (victim_position "-514 1054 -43")
+L 09/05/2023 - 12:42:16: "August101<16><[U:1:241010597]><Blue>" say "this is good without the team bug"
+L 09/05/2023 - 12:42:18: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2665 2286 -351")
+L 09/05/2023 - 12:42:20: "Octmari<17><[U:1:160946369]><Blue>" say "agree"
+L 09/05/2023 - 12:42:24: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Blue>") (position1 "14 -31 -80") 
+L 09/05/2023 - 12:42:32: "Mira<21><[U:1:149481681]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "tf_projectile_rocket" (attacker_position "-133 -92 -159") (victim_position "-582 -253 -335")
+L 09/05/2023 - 12:42:33: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3117 2126 -63")
+L 09/05/2023 - 12:42:36: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3072 2066 -63")
+L 09/05/2023 - 12:42:37: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Green>") (position1 "56 -21 -152") 
+L 09/05/2023 - 12:42:38: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2977 2029 -63")
+L 09/05/2023 - 12:42:39: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "-798 222 256")
+L 09/05/2023 - 12:42:39: "Octmari<17><[U:1:160946369]><Blue>" say "just needs that fix (and eventually something to auto-repopulate the deleted teams) and we're golden"
+L 09/05/2023 - 12:42:42: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2948 1893 -63")
+L 09/05/2023 - 12:42:42: "quek<6><[U:1:220783085]><Blue>" say "3 team is interesting"
+L 09/05/2023 - 12:42:47: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1587 872 -351")
+L 09/05/2023 - 12:42:48: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "obj_sentrygun" (attacker_position "-1429 538 -5") (victim_position "-2605 783 -351")
+L 09/05/2023 - 12:42:48: "August101<16><[U:1:241010597]><Blue>" triggered "domination" against "Mira<21><[U:1:149481681]><Green>"
+L 09/05/2023 - 12:42:56: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-2327 137 -351") (victim_position "-2427 90 -317")
+L 09/05/2023 - 12:42:57: "DID YOU SEE<18><[U:1:148422860]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-1881 31 -351") (victim_position "-2171 81 -351")
+L 09/05/2023 - 12:42:58: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2377 799 -63")
+L 09/05/2023 - 12:42:59: "DID YOU SEE<18><[U:1:148422860]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "-1759 125 -254")
+L 09/05/2023 - 12:43:00: "DID YOU SEE<18><[U:1:148422860]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "obj_sentrygun" (attacker_position "-1759 125 -240") (victim_position "-1341 245 -300")
+L 09/05/2023 - 12:43:00: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1853 1705 -63")
+L 09/05/2023 - 12:43:01: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2344 814 -63")
+L 09/05/2023 - 12:43:01: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1862 1709 -63")
+L 09/05/2023 - 12:43:03: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1870 1706 -63")
+L 09/05/2023 - 12:43:03: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2338 845 -63")
+L 09/05/2023 - 12:43:04: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1856 1692 -63")
+L 09/05/2023 - 12:43:04: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2322 872 -63")
+L 09/05/2023 - 12:43:08: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DID YOU SEE<18><[U:1:148422860]><Green>") (attacker_position "-2054 645 -56")
+L 09/05/2023 - 12:43:11: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1875 1650 -63")
+L 09/05/2023 - 12:43:12: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1915 1623 -63")
+L 09/05/2023 - 12:43:16: "ChargingTurnip<4><[U:1:313942863]><Green>" say "3team is very cool"
+L 09/05/2023 - 12:43:21: "Milosuper<7><[U:1:126998348]><Blue>" say "agreed"
+L 09/05/2023 - 12:43:24: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-1850 1554 -63")
+L 09/05/2023 - 12:43:26: "Mira<21><[U:1:149481681]><Green>" say "3team works a LOT more than i thought it would"
+L 09/05/2023 - 12:43:27: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-26 73 -152") (player2 "quek<6><[U:1:220783085]><Blue>") (position2 "-149 29 -153") 
+L 09/05/2023 - 12:43:36: "Evan068<11><[U:1:371507926]><Green>" changed role to "saptrap"
+L 09/05/2023 - 12:43:37: "Andy726<14><[U:1:845123434]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "fo_weapon_nodegun" (attacker_position "1268 832 -351") (victim_position "581 1080 -351")
+L 09/05/2023 - 12:43:37: "ChargingTurnip<4><[U:1:313942863]><Green>" triggered "kill assist" against "quek<6><[U:1:220783085]><Blue>" (assister_position "1057 1308 -335") (attacker_position "1268 832 -351") (victim_position "581 1080 -351")
+L 09/05/2023 - 12:43:37: "Andy726<14><[U:1:845123434]><Green>" triggered "revenge" against "quek<6><[U:1:220783085]><Blue>"
+L 09/05/2023 - 12:43:38: "Mira<21><[U:1:149481681]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "844 258 -351") (victim_position "337 558 -307")
+L 09/05/2023 - 12:43:38: "ChargingTurnip<4><[U:1:313942863]><Green>" triggered "kill assist" against "Octmari<17><[U:1:160946369]><Blue>" (assister_position "1097 1313 -335") (attacker_position "844 258 -351") (victim_position "337 558 -307")
+L 09/05/2023 - 12:43:39: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1269 1934 -351")
+L 09/05/2023 - 12:43:40: "Event Horizon<19><[U:1:126775298]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "972 1809 -351") (victim_position "908 1525 -351")
+L 09/05/2023 - 12:43:41: "Andy726<14><[U:1:845123434]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "fo_weapon_nodegun") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "898 1394 -302")
+L 09/05/2023 - 12:43:43: "August101<16><[U:1:241010597]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "tf_projectile_rocket" (attacker_position "942 2195 -351") (victim_position "827 2137 -326")
+L 09/05/2023 - 12:43:43: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "kill assist" against "Andy726<14><[U:1:845123434]><Green>" (assister_position "571 1651 -335") (attacker_position "942 2195 -351") (victim_position "827 2137 -326")
+L 09/05/2023 - 12:43:51: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "DID YOU SEE<18><[U:1:148422860]><Green>") (position1 "-52 -60 -152") (player2 "Mira<21><[U:1:149481681]><Green>") (position2 "-20 -42 -152") 
+L 09/05/2023 - 12:43:54: "ChargingTurnip<4><[U:1:313942863]><Green>" say "which is funny since 3team only exists because i never finished 6team originally"
+L 09/05/2023 - 12:43:55: "Mira<21><[U:1:149481681]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "tf_projectile_rocket" (attacker_position "393 79 -351") (victim_position "1661 329 -335")
+L 09/05/2023 - 12:43:55: "Mira<21><[U:1:149481681]><Green>" triggered "domination" against "Event Horizon<19><[U:1:126775298]><Blue>"
+L 09/05/2023 - 12:43:59: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2085 408 -63")
+L 09/05/2023 - 12:44:00: "quek<6><[U:1:220783085]><Blue>" say "oml"
+L 09/05/2023 - 12:44:01: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2069 556 -63")
+L 09/05/2023 - 12:44:04: "Milosuper<7><[U:1:126998348]><Blue>" say "thx turnip for the suggestions for this map btw"
+L 09/05/2023 - 12:44:08: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "smg") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-1990 459 -63")
+L 09/05/2023 - 12:44:08: "Octmari<17><[U:1:160946369]><Blue>" say "your impatience pulled through with this one"
+L 09/05/2023 - 12:44:11: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-51 -165 -159") 
+L 09/05/2023 - 12:44:13: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-2289 850 -63")
+L 09/05/2023 - 12:44:13: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3055 2095 -63")
+L 09/05/2023 - 12:44:15: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2219 635 -53")
+L 09/05/2023 - 12:44:15: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2219 635 -53")
+L 09/05/2023 - 12:44:16: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2039 515 -57")
+L 09/05/2023 - 12:44:16: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2039 515 -57")
+L 09/05/2023 - 12:44:16: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2039 515 -57")
+L 09/05/2023 - 12:44:17: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "3269 2101 -63")
+L 09/05/2023 - 12:44:20: "quek<6><[U:1:220783085]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Green>" with "tf_projectile_rocket" (attacker_position "-1303 584 -47") (victim_position "-1468 956 -271")
+L 09/05/2023 - 12:44:20: "Octmari<17><[U:1:160946369]><Blue>" triggered "kill assist" against "DID YOU SEE<18><[U:1:148422860]><Green>" (assister_position "-2267 596 -63") (attacker_position "-1303 584 -47") (victim_position "-1468 956 -271")
+L 09/05/2023 - 12:44:20: "quek<6><[U:1:220783085]><Blue>" triggered "domination" against "DID YOU SEE<18><[U:1:148422860]><Green>"
+L 09/05/2023 - 12:44:21: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3198 1567 -63")
+L 09/05/2023 - 12:44:23: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3298 1587 -63")
+L 09/05/2023 - 12:44:24: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3435 1650 -85")
+L 09/05/2023 - 12:44:27: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "2200 2699 -351")
+L 09/05/2023 - 12:44:27: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "2200 2699 -351")
+L 09/05/2023 - 12:44:32: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "13 -31 -152") (player2 "Mira<21><[U:1:149481681]><Green>") (position2 "-6 102 -152") 
+L 09/05/2023 - 12:44:36: "August101<16><[U:1:241010597]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "player" (attacker_position "1307 2090 -351") (victim_position "3081 2049 -63")
+L 09/05/2023 - 12:44:36: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-3335 1550 -189")
+L 09/05/2023 - 12:44:36: "Mira<21><[U:1:149481681]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-149 56 -159")
+L 09/05/2023 - 12:44:36: "Mira<21><[U:1:149481681]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "tf_projectile_rocket" (attacker_position "-149 56 -159") (victim_position "-2 -56 -88")
+L 09/05/2023 - 12:44:44: "quek<6><[U:1:220783085]><Blue>" say "brb"
+L 09/05/2023 - 12:44:47: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2819 2826 -351")
+L 09/05/2023 - 12:44:50: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-1501 1486 -63")
+L 09/05/2023 - 12:44:54: "Milosuper<7><[U:1:126998348]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "fo_weapon_nodegun" (attacker_position "-2787 1707 -290") (victim_position "-2617 2152 -316")
+L 09/05/2023 - 12:44:55: "Octmari<17><[U:1:160946369]><Blue>" say "i think i might make a mod to make the grn and ylw teams the ones from tf2c just because id like that continuity lol"
+L 09/05/2023 - 12:44:55: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-465 801 256")
+L 09/05/2023 - 12:44:55: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-1536 1677 -63")
+L 09/05/2023 - 12:44:56: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-1536 1677 -63")
+L 09/05/2023 - 12:44:56: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-1536 1677 -63")
+L 09/05/2023 - 12:44:56: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-600 660 256")
+L 09/05/2023 - 12:44:58: "Milosuper<7><[U:1:126998348]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "fo_weapon_nodegun" (attacker_position "-2586 2802 -351") (victim_position "-2297 2745 -351")
+L 09/05/2023 - 12:44:58: "Octmari<17><[U:1:160946369]><Blue>" triggered "kill assist" against "ChargingTurnip<4><[U:1:313942863]><Green>" (assister_position "-2898 2185 -180") (attacker_position "-2586 2802 -351") (victim_position "-2297 2745 -351")
+L 09/05/2023 - 12:45:00: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "2241 2705 -351")
+L 09/05/2023 - 12:45:02: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_REPAIRNODE") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-1702 1629 -63")
+L 09/05/2023 - 12:45:04: "Mira<21><[U:1:149481681]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "tf_projectile_rocket" (attacker_position "-1520 1661 -63") (victim_position "-1984 1664 -63")
+L 09/05/2023 - 12:45:04: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "kill assist" against "Milosuper<7><[U:1:126998348]><Blue>" (assister_position "-1619 1398 -56") (attacker_position "-1520 1661 -63") (victim_position "-1984 1664 -63")
+L 09/05/2023 - 12:45:11: "Evan068<11><[U:1:371507926]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:45:12: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "1873 2001 -63")
+L 09/05/2023 - 12:45:12: "Evan068<11><[U:1:371507926]><Green>" changed role to "dismatic"
+L 09/05/2023 - 12:45:12: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "1873 2001 -63")
+L 09/05/2023 - 12:45:13: "Evan068<11><[U:1:371507926]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:45:16: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "-1627 1667 -63")
+L 09/05/2023 - 12:45:19: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-11 130 -159") 
+L 09/05/2023 - 12:45:19: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "-41 62 -152") (victim_position "-339 266 -351")
+L 09/05/2023 - 12:45:19: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "1519 1660 -63")
+L 09/05/2023 - 12:45:20: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1737 1100 -351")
+L 09/05/2023 - 12:45:20: "Event Horizon<19><[U:1:126775298]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "tf_projectile_rocket" (attacker_position "1417 1750 -63") (victim_position "1606 1854 -63")
+L 09/05/2023 - 12:45:27: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "1594 1725 -63")
+L 09/05/2023 - 12:45:30: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "1797 1886 -351")
+L 09/05/2023 - 12:45:32: "Mira<21><[U:1:149481681]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "obj_sentrygun" (attacker_position "3006 1727 -255") (victim_position "2061 1417 -63")
+L 09/05/2023 - 12:45:32: "Andy726<14><[U:1:845123434]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "fo_weapon_nodegun" (attacker_position "2363 1998 -351") (victim_position "1785 1879 -351")
+L 09/05/2023 - 12:45:36: "Milosuper<7><[U:1:126998348]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "fo_weapon_nodegun") (objectowner "DID YOU SEE<18><[U:1:148422860]><Green>") (attacker_position "-2631 1966 -351")
+L 09/05/2023 - 12:45:36: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "17 -51 -152") (player2 "DID YOU SEE<18><[U:1:148422860]><Green>") (position2 "80 -6 -152") 
+L 09/05/2023 - 12:45:45: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-1942 1549 -63")
+L 09/05/2023 - 12:45:48: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "-76 85 -152")
+L 09/05/2023 - 12:45:50: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "9 133 -159")
+L 09/05/2023 - 12:45:50: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-2334 859 -63")
+L 09/05/2023 - 12:45:52: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "-109 33 -154")
+L 09/05/2023 - 12:45:53: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "-119 -20 -157")
+L 09/05/2023 - 12:45:55: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "-110 -73 -159")
+L 09/05/2023 - 12:45:57: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-1942 1561 -63")
+L 09/05/2023 - 12:45:58: "ChargingTurnip<4><[U:1:313942863]><Green>" say "if anything theres more continuity since these ones are closer to the ones from tfc"
+L 09/05/2023 - 12:46:03: "ChargingTurnip<4><[U:1:313942863]><Green>" triggered "killedobject" (object "OBJ_FORT") (weapon "scattergun") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2470 589 -63")
+L 09/05/2023 - 12:46:05: "August101<16><[U:1:241010597]><Blue>" say "I like 3 team because you don't get overwelmed with everyone being a target and the teams are large enough to have more"
+L 09/05/2023 - 12:46:07: "DID YOU SEE<18><[U:1:148422860]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "tf_projectile_rocket" (attacker_position "-2533 717 -63") (victim_position "-2319 904 5")
+L 09/05/2023 - 12:46:07: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "obj_sentrygun" (attacker_position "-4022 2248 -63") (victim_position "-2654 825 -351")
+L 09/05/2023 - 12:46:08: "August101<16><[U:1:241010597]><Blue>" say "occernent pushes"
+L 09/05/2023 - 12:46:11: "Evan068<11><[U:1:371507926]><Green>" triggered "killedobject" (object "OBJ_FORT") (weapon "bat") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-1855 1691 -63")
+L 09/05/2023 - 12:46:12: "ChargingTurnip<4><[U:1:313942863]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "-2141 1104 -36") (victim_position "-2331 1248 -8")
+L 09/05/2023 - 12:46:13: "Evan068<11><[U:1:371507926]><Green>" triggered "killedobject" (object "OBJ_REPAIRNODE") (weapon "bat") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-1873 1665 -63")
+L 09/05/2023 - 12:46:19: "Andy726<14><[U:1:845123434]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "fo_weapon_nodegun" (attacker_position "-472 1597 -351") (victim_position "-938 1677 -351")
+L 09/05/2023 - 12:46:20: "Event Horizon<19><[U:1:126775298]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-1966 1687 -63") (victim_position "-1958 1399 -63")
+L 09/05/2023 - 12:46:25: "jimi<20><[U:1:968687056]><Spectator>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 12:46:26: "jimi<23><[U:1:968687056]><>" connected, address "180.75.248.179:52831"
+L 09/05/2023 - 12:46:27: "jimi<23><[U:1:968687056]><>" STEAM USERID validated
+L 09/05/2023 - 12:46:28: "quek<6><[U:1:220783085]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Green>" with "tf_projectile_rocket" (attacker_position "-2389 885 -63") (victim_position "-2273 799 -25")
+L 09/05/2023 - 12:46:28: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "kill assist" against "DID YOU SEE<18><[U:1:148422860]><Green>" (assister_position "-2090 1230 -63") (attacker_position "-2389 885 -63") (victim_position "-2273 799 -25")
+L 09/05/2023 - 12:46:31: "jimi<23><[U:1:968687056]><>" entered the game
+L 09/05/2023 - 12:46:32: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-2631 3136 -351")
+L 09/05/2023 - 12:46:32: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "-2100 406 -57")
+L 09/05/2023 - 12:46:33: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1949 358 -63")
+L 09/05/2023 - 12:46:36: "jimi<23><[U:1:968687056]><Unassigned>" joined team "Green"
+L 09/05/2023 - 12:46:40: "jimi<23><[U:1:968687056]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:46:44: "Milosuper<7><[U:1:126998348]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "fo_weapon_nodegun" (attacker_position "-705 355 -351") (victim_position "-120 -217 -88")
+L 09/05/2023 - 12:46:44: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1250 1539 -63")
+L 09/05/2023 - 12:46:46: "Mira<21><[U:1:149481681]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "tf_projectile_rocket" (attacker_position "-22 179 -159") (victim_position "-236 381 -351")
+L 09/05/2023 - 12:46:48: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "-600 188 -113")
+L 09/05/2023 - 12:46:50: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-183 -36 -159")
+L 09/05/2023 - 12:46:50: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "-90 -26 -152")
+L 09/05/2023 - 12:46:51: "quek<6><[U:1:220783085]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "-608 657 -63")
+L 09/05/2023 - 12:46:51: "Milosuper<7><[U:1:126998348]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 12:46:53: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "110 -75 -139")
+L 09/05/2023 - 12:46:53: "Event Horizon<19><[U:1:126775298]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "110 -75 -139") (victim_position "39 -75 -152")
+L 09/05/2023 - 12:46:53: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "domination" against "ChargingTurnip<4><[U:1:313942863]><Green>"
+L 09/05/2023 - 12:46:53: "Event Horizon<19><[U:1:126775298]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "110 -75 -139")
+L 09/05/2023 - 12:46:53: "Octmari<17><[U:1:160946369]><Blue>" say "i want the continuity between the sourcemods not between tfc and the sourcemod :3"
+L 09/05/2023 - 12:46:55: "quek<6><[U:1:220783085]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-92 -1 -152")
+L 09/05/2023 - 12:46:55: "August101<16><[U:1:241010597]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-25 -301 -255")
+L 09/05/2023 - 12:46:55: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "-25 -301 -255") (victim_position "86 -163 -159")
+L 09/05/2023 - 12:46:57: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "3668 2011 -63")
+L 09/05/2023 - 12:47:00: "Octmari<17><[U:1:160946369]><Blue>" say "tf2c and this are the two versions of tf i play lol"
+L 09/05/2023 - 12:47:08: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "quek<6><[U:1:220783085]><Blue>") (position1 "-150 -13 -159") (player2 "August101<16><[U:1:241010597]><Blue>") (position2 "122 -63 -159") 
+L 09/05/2023 - 12:47:09: "quek<6><[U:1:220783085]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Green>" with "tf_projectile_rocket" (attacker_position "-429 69 -278") (victim_position "-536 662 -327")
+L 09/05/2023 - 12:47:13: "jimi<23><[U:1:968687056]><Green>" committed suicide with "world" (attacker_position "952 222 -351")
+L 09/05/2023 - 12:47:14: "Milosuper<7><[U:1:126998348]><Blue>" committed suicide with "world" (attacker_position "-1958 1994 -144")
+L 09/05/2023 - 12:47:16: "jimi<23><[U:1:968687056]><Green>" say "bruh"
+L 09/05/2023 - 12:47:17: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2045 1889 -351")
+L 09/05/2023 - 12:47:19: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2016 1941 -351")
+L 09/05/2023 - 12:47:19: "quek<6><[U:1:220783085]><Blue>" say "train"
+L 09/05/2023 - 12:47:21: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1997 1994 -351")
+L 09/05/2023 - 12:47:22: "jimi<23><[U:1:968687056]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:47:26: "DID YOU SEE<18><[U:1:148422860]><Green>" say "negative one and three quarters team mode"
+L 09/05/2023 - 12:47:29: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2691 702 -351")
+L 09/05/2023 - 12:47:29: "ChargingTurnip<4><[U:1:313942863]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "-187 -47 -159") (victim_position "38 59 -152")
+L 09/05/2023 - 12:47:31: "ChargingTurnip<4><[U:1:313942863]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "scattergun" (attacker_position "-50 -22 -152") (victim_position "121 -100 -159")
+L 09/05/2023 - 12:47:31: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2659 764 -351")
+L 09/05/2023 - 12:47:33: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2648 806 -351")
+L 09/05/2023 - 12:47:35: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "100 1740 -312")
+L 09/05/2023 - 12:47:38: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "20 1376 -351")
+L 09/05/2023 - 12:47:39: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3453 617 -351")
+L 09/05/2023 - 12:47:41: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "14 -21 -152") 
+L 09/05/2023 - 12:47:43: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "79 224 -159")
+L 09/05/2023 - 12:47:43: "Event Horizon<19><[U:1:126775298]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "79 224 -159") (victim_position "29 126 -159")
+L 09/05/2023 - 12:47:45: "Octmari<17><[U:1:160946369]><Blue>" say "negative one team mode-- everyone is in spectator forever"
+L 09/05/2023 - 12:47:54: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Event Horizon<19><[U:1:126775298]><Blue>") (position1 "87 -42 -152") 
+L 09/05/2023 - 12:47:54: "Octmari<17><[U:1:160946369]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "player" (attacker_position "-3231 2112 -63") (victim_position "-3095 1937 -63")
+L 09/05/2023 - 12:47:54: "Octmari<17><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "-3231 2112 -63")
+L 09/05/2023 - 12:47:55: "quek<6><[U:1:220783085]><Blue>" say "impossible"
+L 09/05/2023 - 12:47:56: "August101<16><[U:1:241010597]><Blue>" say "this and tf2c are the only sourcemods I've played"
+L 09/05/2023 - 12:47:56: "Milosuper<7><[U:1:126998348]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "smg" (attacker_position "-2402 2309 -351") (victim_position "-2930 2614 -323")
+L 09/05/2023 - 12:47:58: "quek<6><[U:1:220783085]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Green>" with "obj_sentrygun" (attacker_position "-3125 2180 -73") (victim_position "-1581 1202 397")
+L 09/05/2023 - 12:47:59: "DID YOU SEE<18><[U:1:148422860]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "-1581 1202 411")
+L 09/05/2023 - 12:48:00: "jimi<23><[U:1:968687056]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "1737 1311 -301")
+L 09/05/2023 - 12:48:00: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3480 477 -351")
+L 09/05/2023 - 12:48:00: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "3480 477 -351")
+L 09/05/2023 - 12:48:05: "DID YOU SEE<18><[U:1:148422860]><Green>" say "i like pf2"
+L 09/05/2023 - 12:48:06: "Octmari<17><[U:1:160946369]><Blue>" say "i've played others, i just like this and tf2c the most"
+L 09/05/2023 - 12:48:10: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "1829 1609 -63")
+L 09/05/2023 - 12:48:10: "Milosuper<7><[U:1:126998348]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "tf_projectile_rocket" (attacker_position "-690 538 -63") (victim_position "-219 -52 -159")
+L 09/05/2023 - 12:48:10: "quek<6><[U:1:220783085]><Blue>" triggered "kill assist" against "Andy726<14><[U:1:845123434]><Green>" (assister_position "-663 475 -63") (attacker_position "-690 538 -63") (victim_position "-219 -52 -159")
+L 09/05/2023 - 12:48:10: "Milosuper<7><[U:1:126998348]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Andy726<14><[U:1:845123434]><Green>") (attacker_position "-690 538 -63")
+L 09/05/2023 - 12:48:11: "Mira<21><[U:1:149481681]><Green>" say "open fortress and pf2 are worth trying"
+L 09/05/2023 - 12:48:15: "Andy726<14><[U:1:845123434]><Green>" say "BRO I GOT STUCK BY OWN WALL"
+L 09/05/2023 - 12:48:16: "Andy726<14><[U:1:845123434]><Green>" say "WHAT THE FUCK"
+L 09/05/2023 - 12:48:23: "Evan068<11><[U:1:371507926]><Green>" say "ive played this tf2c lambda fortress and pf2"
+L 09/05/2023 - 12:48:28: "DID YOU SEE<18><[U:1:148422860]><Green>" killed "Event Horizon<19><[U:1:126775298]><Blue>" with "tf_projectile_rocket" (attacker_position "2574 1013 -156") (victim_position "2266 812 -63")
+L 09/05/2023 - 12:48:30: "Andy726<14><[U:1:845123434]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:48:31: "Mira<21><[U:1:149481681]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "tf_projectile_rocket" (attacker_position "2660 1741 -275") (victim_position "1857 1686 -63")
+L 09/05/2023 - 12:48:31: "Mira<21><[U:1:149481681]><Green>" triggered "domination" against "quek<6><[U:1:220783085]><Blue>"
+L 09/05/2023 - 12:48:32: "DID YOU SEE<18><[U:1:148422860]><Green>" say "open fortress became closed"
+L 09/05/2023 - 12:48:36: "Andy726<14><[U:1:845123434]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "3482 477 -351") (victim_position "3381 346 -351")
+L 09/05/2023 - 12:48:38: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "-39 23 -152") 
+L 09/05/2023 - 12:48:42: "DID YOU SEE<18><[U:1:148422860]><Green>" committed suicide with "world" (attacker_position "108 647 -341")
+L 09/05/2023 - 12:48:47: "Andy726<14><[U:1:845123434]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "23 -105 -152")
+L 09/05/2023 - 12:48:47: "Andy726<14><[U:1:845123434]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "scattergun" (attacker_position "23 -105 -152") (victim_position "30 79 -152")
+L 09/05/2023 - 12:48:50: "Mira<21><[U:1:149481681]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-621 -76 -351") (victim_position "-509 361 -335")
+L 09/05/2023 - 12:48:50: "ChargingTurnip<4><[U:1:313942863]><Green>" triggered "kill assist" against "Octmari<17><[U:1:160946369]><Blue>" (assister_position "-912 245 -351") (attacker_position "-621 -76 -351") (victim_position "-509 361 -335")
+L 09/05/2023 - 12:48:50: "August101<16><[U:1:241010597]><Blue>" say "open fortress might be worth looking into"
+L 09/05/2023 - 12:48:55: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "obj_sentrygun" (attacker_position "-3305 1437 -220") (victim_position "-2622 778 -351")
+L 09/05/2023 - 12:48:56: "Octmari<17><[U:1:160946369]><Blue>" say "the name is just legacy at this point lol"
+L 09/05/2023 - 12:48:57: "jimi<23><[U:1:968687056]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "363 359 -319")
+L 09/05/2023 - 12:48:57: "August101<16><[U:1:241010597]><Blue>" say "but for now this is more than enough"
+L 09/05/2023 - 12:49:01: "quek<6><[U:1:220783085]><Blue>" say "do you remember when of made a teaser for an mvm mode like 4 years ago and  then didnt do anything with it"
+L 09/05/2023 - 12:49:06: "ChargingTurnip<4><[U:1:313942863]><Green>" say "we did"
+L 09/05/2023 - 12:49:08: "ChargingTurnip<4><[U:1:313942863]><Green>" say "its in the game"
+L 09/05/2023 - 12:49:17: "quek<6><[U:1:220783085]><Blue>" say "is it"
+L 09/05/2023 - 12:49:17: "Event Horizon<19><[U:1:126775298]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "tf_projectile_rocket" (attacker_position "-1388 1418 -24") (victim_position "-1067 672 -47")
+L 09/05/2023 - 12:49:18: "August101<16><[U:1:241010597]><Blue>" killed "jimi<23><[U:1:968687056]><Green>" with "tf_projectile_rocket" (attacker_position "-909 1213 -335") (victim_position "-659 690 -311")
+L 09/05/2023 - 12:49:19: "ChargingTurnip<4><[U:1:313942863]><Green>" say "yes"
+L 09/05/2023 - 12:49:21: "quek<6><[U:1:220783085]><Blue>" say "i just never saw any announcement"
+L 09/05/2023 - 12:49:21: "ChargingTurnip<4><[U:1:313942863]><Green>" say "for like 3 years"
+L 09/05/2023 - 12:49:23: "DID YOU SEE<18><[U:1:148422860]><Green>" say "imo, for OF,"
+L 09/05/2023 - 12:49:24: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-3847 1581 -351")
+L 09/05/2023 - 12:49:24: "DID YOU SEE<18><[U:1:148422860]><Green>" say "zandronum co-op > MVM"
+L 09/05/2023 - 12:49:28: "Andy726<14><[U:1:845123434]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "scattergun" (attacker_position "-2949 1213 -351") (victim_position "-2947 1196 -351")
+L 09/05/2023 - 12:49:28: "August101<16><[U:1:241010597]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "obj_sentrygun" (attacker_position "2 221 -159") (victim_position "-2937 1212 -351")
+L 09/05/2023 - 12:49:29: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "0 -17 -152") (victim_position "380 551 -351")
+L 09/05/2023 - 12:49:32: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "Milosuper<7><[U:1:126998348]><Blue>") (position1 "83 -51 -152") (player2 "August101<16><[U:1:241010597]><Blue>") (position2 "-17 -71 -152") 
+L 09/05/2023 - 12:49:35: "Andy726<14><[U:1:845123434]><Green>" say "8 HP"
+L 09/05/2023 - 12:49:37: "DID YOU SEE<18><[U:1:148422860]><Green>" say "they have an entire quake/doom arsenal, it just needs some npcs"
+L 09/05/2023 - 12:49:37: "Andy726<14><[U:1:845123434]><Green>" say "YOU KIDDING ME"
+L 09/05/2023 - 12:49:42: "DID YOU SEE<18><[U:1:148422860]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "tf_projectile_rocket" (attacker_position "1678 211 -351") (victim_position "2173 467 -308")
+L 09/05/2023 - 12:49:43: "quek<6><[U:1:220783085]><Blue>" say "WHO WILL WIN"
+L 09/05/2023 - 12:49:44: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 12:49:44: World triggered "Round_Length" (seconds "598.11")
+L 09/05/2023 - 12:49:44: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 12:49:44: Team "Blue" current score "2" with "5" players
+L 09/05/2023 - 12:49:44: Team "Green" current score "0" with "6" players
+L 09/05/2023 - 12:49:44: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 12:49:44: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 12:49:44: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 12:49:44: "jimi<23><[U:1:968687056]><Green>" committed suicide with "world" (attacker_position "3132 1707 -63")
+L 09/05/2023 - 12:49:45: "Milosuper<7><[U:1:126998348]><Blue>" say "YES"
+L 09/05/2023 - 12:49:47: "August101<16><[U:1:241010597]><Blue>" say "gg"
+L 09/05/2023 - 12:49:50: "Andy726<14><[U:1:845123434]><Green>" say "NAH FUCK YOU :<"
+L 09/05/2023 - 12:49:52: World triggered "Round_Start"
+L 09/05/2023 - 12:49:54: "Milosuper<7><[U:1:126998348]><Blue>" say "gg"
+L 09/05/2023 - 12:49:55: "ChargingTurnip<4><[U:1:313942863]><Green>" joined team "Red"
+L 09/05/2023 - 12:49:55: "ChargingTurnip<4><[U:1:313942863]><Red>" committed suicide with "world" (attacker_position "4142 2169 -63")
+L 09/05/2023 - 12:49:56: "Octmari<17><[U:1:160946369]><Blue>" say "i should try fortress connected"
+L 09/05/2023 - 12:49:56: "DID YOU SEE<18><[U:1:148422860]><Green>" say "sex fuck and the cum"
+L 09/05/2023 - 12:49:57: "quek<6><[U:1:220783085]><Blue>" say "incredible"
+L 09/05/2023 - 12:49:57: "DID YOU SEE<18><[U:1:148422860]><Green>" joined team "Red"
+L 09/05/2023 - 12:49:57: "DID YOU SEE<18><[U:1:148422860]><Red>" committed suicide with "world" (attacker_position "4022 2248 -63")
+L 09/05/2023 - 12:49:58: "DID YOU SEE<18><[U:1:148422860]><Red>" changed role to "dismatic"
+L 09/05/2023 - 12:49:59: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "3724 2123 -63")
+L 09/05/2023 - 12:49:59: "Octmari<17><[U:1:160946369]><Blue>" say "it sounds really unhinged"
+L 09/05/2023 - 12:50:03: "ChargingTurnip<4><[U:1:313942863]><Red>" joined team "Green"
+L 09/05/2023 - 12:50:03: "Milosuper<7><[U:1:126998348]><Blue>" say "good work blue"
+L 09/05/2023 - 12:50:08: "DID YOU SEE<18><[U:1:148422860]><Red>" joined team "Blue"
+L 09/05/2023 - 12:50:09: "August101<16><[U:1:241010597]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2843 2154 -236")
+L 09/05/2023 - 12:50:09: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1342 1530 -63")
+L 09/05/2023 - 12:50:10: "Evan068<11><[U:1:371507926]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "-196 1122 -71")
+L 09/05/2023 - 12:50:10: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "telecon"
+L 09/05/2023 - 12:50:11: "DID YOU SEE<18><[U:1:148422860]><Blue>" joined team "Red"
+L 09/05/2023 - 12:50:14: "DID YOU SEE<18><[U:1:148422860]><Red>" changed role to "dismatic"
+L 09/05/2023 - 12:50:15: "DID YOU SEE<18><[U:1:148422860]><Red>" joined team "Blue"
+L 09/05/2023 - 12:50:17: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "telecon"
+L 09/05/2023 - 12:50:20: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Andy726<14><[U:1:845123434]><Green>") (position1 "87 -41 -152") 
+L 09/05/2023 - 12:50:20: "August101<16><[U:1:241010597]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "tf_projectile_rocket" (attacker_position "-191 -95 -159") (victim_position "-1 -33 -152")
+L 09/05/2023 - 12:50:20: "Milosuper<7><[U:1:126998348]><Blue>" triggered "kill assist" against "Andy726<14><[U:1:845123434]><Green>" (assister_position "-696 578 -63") (attacker_position "-191 -95 -159") (victim_position "-1 -33 -152")
+L 09/05/2023 - 12:50:20: "Mira<21><[U:1:149481681]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2943 1792 -255")
+L 09/05/2023 - 12:50:23: "ChargingTurnip<4><[U:1:313942863]><Green>" say "i guess this map is now a blue vs green map"
+L 09/05/2023 - 12:50:24: "jimi<23><[U:1:968687056]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "83 212 -159") (victim_position "-1 149 -159")
+L 09/05/2023 - 12:50:24: "jimi<23><[U:1:968687056]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "83 212 -159")
+L 09/05/2023 - 12:50:29: "Event Horizon<19><[U:1:126775298]><Blue>" joined team "Red"
+L 09/05/2023 - 12:50:29: "Event Horizon<19><[U:1:126775298]><Red>" committed suicide with "world" (attacker_position "-3982 2446 -63")
+L 09/05/2023 - 12:50:30: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Blue>") (position1 "16 -72 -152") 
+L 09/05/2023 - 12:50:31: "August101<16><[U:1:241010597]><Blue>" say "yeah"
+L 09/05/2023 - 12:50:32: "quek<6><[U:1:220783085]><Blue>" say "the first ever"
+L 09/05/2023 - 12:50:33: "August101<16><[U:1:241010597]><Blue>" say "which is sad"
+L 09/05/2023 - 12:50:37: "Milosuper<7><[U:1:126998348]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "-288 -288 -283")
+L 09/05/2023 - 12:50:38: "quek<6><[U:1:220783085]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2355 406 -63")
+L 09/05/2023 - 12:50:40: "Octmari<17><[U:1:160946369]><Blue>" say "the 2-teams-with-different-colors experience everyone wanted"
+L 09/05/2023 - 12:50:44: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "-99 -88 -159") (player2 "Mira<21><[U:1:149481681]><Green>") (position2 "23 125 -159") 
+L 09/05/2023 - 12:50:48: "quek<6><[U:1:220783085]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "tf_projectile_rocket" (attacker_position "-1895 1653 -63") (victim_position "-2061 1238 -63")
+L 09/05/2023 - 12:50:51: "Event Horizon<19><[U:1:126775298]><Red>" changed role to "dismatic"
+L 09/05/2023 - 12:50:55: "Event Horizon<19><[U:1:126775298]><Red>" joined team "Blue"
+L 09/05/2023 - 12:50:59: "Event Horizon<19><[U:1:126775298]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 12:51:03: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-3278 1357 -244")
+L 09/05/2023 - 12:51:04: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "obj_sentrygun" (attacker_position "40 0 -152") (victim_position "-3067 1096 -351")
+L 09/05/2023 - 12:51:04: "Octmari<17><[U:1:160946369]><Blue>" triggered "kill assist" against "ChargingTurnip<4><[U:1:313942863]><Green>" (assister_position "-3215 1219 -351") (attacker_position "40 0 -152") (victim_position "-3067 1096 -351")
+L 09/05/2023 - 12:51:04: "Mira<21><[U:1:149481681]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "tf_projectile_rocket" (attacker_position "-2787 916 -351") (victim_position "-3169 1338 -255")
+L 09/05/2023 - 12:51:07: "Octmari<17><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "-2949 780 -341")
+L 09/05/2023 - 12:51:09: "Andy726<14><[U:1:845123434]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-111 183 -41")
+L 09/05/2023 - 12:51:10: "August101<16><[U:1:241010597]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "-11 19 -152")
+L 09/05/2023 - 12:51:11: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-3102 1601 -255")
+L 09/05/2023 - 12:51:27: "Evan068<11><[U:1:371507926]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "44 182 -159")
+L 09/05/2023 - 12:51:31: "Event Horizon<19><[U:1:126775298]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "bat" (attacker_position "-1548 1729 -351") (victim_position "-1624 1662 -351")
+L 09/05/2023 - 12:51:39: "Mira<21><[U:1:149481681]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Blue>" with "tf_projectile_rocket" (attacker_position "712 -416 -63") (victim_position "90 63 226")
+L 09/05/2023 - 12:51:40: "Andy726<14><[U:1:845123434]><Green>" changed role to "dismatic"
+L 09/05/2023 - 12:51:41: "Milosuper<7><[U:1:126998348]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-55 -65 416") (victim_position "82 114 231")
+L 09/05/2023 - 12:51:42: "jimi<23><[U:1:968687056]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "179 -72 -159")
+L 09/05/2023 - 12:51:42: "Event Horizon<19><[U:1:126775298]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "14 -113 -111")
+L 09/05/2023 - 12:51:42: "Event Horizon<19><[U:1:126775298]><Blue>" killed "jimi<23><[U:1:968687056]><Green>" with "tf_projectile_rocket" (attacker_position "14 -113 -111") (victim_position "139 -60 -159")
+L 09/05/2023 - 12:51:42: "quek<6><[U:1:220783085]><Blue>" say "ooooh i dont want to go to my doctor's appointment......"
+L 09/05/2023 - 12:51:45: "Mira<21><[U:1:149481681]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-126 -43 -159")
+L 09/05/2023 - 12:51:47: "Mira<21><[U:1:149481681]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-121 -86 -159")
+L 09/05/2023 - 12:51:47: "Mira<21><[U:1:149481681]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "tf_projectile_rocket" (attacker_position "-121 -86 -159") (victim_position "34 -106 -153")
+L 09/05/2023 - 12:51:50: "ChargingTurnip<4><[U:1:313942863]><Green>" say "tell the doctor to come to you"
+L 09/05/2023 - 12:51:52: "Mira<21><[U:1:149481681]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "79 171 -159")
+L 09/05/2023 - 12:51:52: "Mira<21><[U:1:149481681]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "79 171 -159") (victim_position "-60 -162 -159")
+L 09/05/2023 - 12:51:52: "Mira<21><[U:1:149481681]><Green>" triggered "revenge" against "August101<16><[U:1:241010597]><Blue>"
+L 09/05/2023 - 12:51:52: "John Halo<24><[U:1:216573041]><>" connected, address "81.108.47.32:27005"
+L 09/05/2023 - 12:51:53: "John Halo<24><[U:1:216573041]><>" STEAM USERID validated
+L 09/05/2023 - 12:51:56: "Milosuper<7><[U:1:126998348]><Blue>" say "eat an apple"
+L 09/05/2023 - 12:51:56: "Mira<21><[U:1:149481681]><Green>" say "1HP"
+L 09/05/2023 - 12:51:57: "Mira<21><[U:1:149481681]><Green>" say "I AM GOD"
+L 09/05/2023 - 12:52:11: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Andy726<14><[U:1:845123434]><Green>") (position1 "-52 123 -159") 
+L 09/05/2023 - 12:52:23: "quek<6><[U:1:220783085]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-1084 297 -293") (victim_position "-103 -149 -159")
+L 09/05/2023 - 12:52:26: "quek<6><[U:1:220783085]><Blue>" say "lol"
+L 09/05/2023 - 12:52:29: "quek<6><[U:1:220783085]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "obj_sentrygun" (attacker_position "-426 23 -255") (victim_position "-3210 602 23")
+L 09/05/2023 - 12:52:31: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Event Horizon<19><[U:1:126775298]><Blue>") (attacker_position "2842 2713 -351")
+L 09/05/2023 - 12:52:32: "Event Horizon<19><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2842 2713 -351")
+L 09/05/2023 - 12:52:32: "quek<6><[U:1:220783085]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "smg" (attacker_position "-224 33 -159") (victim_position "18 -167 -159")
+L 09/05/2023 - 12:52:32: "DID YOU SEE<18><[U:1:148422860]><Blue>" triggered "kill assist" against "Andy726<14><[U:1:845123434]><Green>" (assister_position "341 883 -63") (attacker_position "-224 33 -159") (victim_position "18 -167 -159")
+L 09/05/2023 - 12:52:34: "Mira<21><[U:1:149481681]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-222 -108 -159")
+L 09/05/2023 - 12:52:34: "Mira<21><[U:1:149481681]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "tf_projectile_rocket" (attacker_position "-222 -108 -159") (victim_position "74 -109 -159")
+L 09/05/2023 - 12:52:46: "John Halo<24><[U:1:216573041]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 12:52:49: "Event Horizon<19><[U:1:126775298]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "-73 936 -335") (victim_position "99 1363 -351")
+L 09/05/2023 - 12:52:55: "Milosuper<7><[U:1:126998348]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-63 -253 -159") (victim_position "-24 126 -159")
+L 09/05/2023 - 12:52:55: "Andy726<14><[U:1:845123434]><Green>" say "THEY GOING FOR RED FIRST"
+L 09/05/2023 - 12:52:56: "Event Horizon<19><[U:1:126775298]><Blue>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 12:52:56: "Andy726<14><[U:1:845123434]><Green>" say "HOLY SHIT"
+L 09/05/2023 - 12:52:58: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "3") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "56 -38 -152") (player2 "Milosuper<7><[U:1:126998348]><Blue>") (position2 "67 -17 -152") (player3 "DID YOU SEE<18><[U:1:148422860]><Blue>") (position3 "-131 22 -159") 
+L 09/05/2023 - 12:53:01: "August101<16><[U:1:241010597]><Blue>" say "as fun as this is I want to go to a map where the multi team works"
+L 09/05/2023 - 12:53:01: "Evan068<11><[U:1:371507926]><Green>" changed role to "workernode"
+L 09/05/2023 - 12:53:10: "John Halo<25><[U:1:216573041]><>" connected, address "81.108.47.32:27005"
+L 09/05/2023 - 12:53:11: "John Halo<25><[U:1:216573041]><>" STEAM USERID validated
+L 09/05/2023 - 12:53:13: "John Halo<25><[U:1:216573041]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 12:53:17: "jimi<23><[U:1:968687056]><Green>" say_team "yo help me destroy red over here"
+L 09/05/2023 - 12:53:18: "quek<6><[U:1:220783085]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "smg" (attacker_position "1355 416 -351") (victim_position "1636 875 -351")
+L 09/05/2023 - 12:53:21: "Octmari<17><[U:1:160946369]><Blue>" say "what do you think turnip"
+L 09/05/2023 - 12:53:23: "Mira<21><[U:1:149481681]><Green>" say "did we get any new 6team maps this update"
+L 09/05/2023 - 12:53:23: "quek<6><[U:1:220783085]><Blue>" say "i think map change is next round"
+L 09/05/2023 - 12:53:27: "Octmari<17><[U:1:160946369]><Blue>" say "you have a map in mind to go on"
+L 09/05/2023 - 12:53:27: "Mira<21><[U:1:149481681]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "tf_projectile_rocket" (attacker_position "2035 1221 -63") (victim_position "2308 874 -29")
+L 09/05/2023 - 12:53:27: "Evan068<11><[U:1:371507926]><Green>" triggered "kill assist" against "Milosuper<7><[U:1:126998348]><Blue>" (assister_position "3165 1606 -63") (attacker_position "2035 1221 -63") (victim_position "2308 874 -29")
+L 09/05/2023 - 12:53:32: "ChargingTurnip<4><[U:1:313942863]><Green>" say "we have tokyo next"
+L 09/05/2023 - 12:53:32: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3049 1923 -63")
+L 09/05/2023 - 12:53:36: "Andy726<14><[U:1:845123434]><Green>" say "we getting rekt"
+L 09/05/2023 - 12:53:38: "August101<16><[U:1:241010597]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "tf_projectile_rocket" (attacker_position "2306 2658 -351") (victim_position "3126 2085 -63")
+L 09/05/2023 - 12:53:39: "Octmari<17><[U:1:160946369]><Blue>" say "yea that should be next"
+L 09/05/2023 - 12:53:40: "quek<6><[U:1:220783085]><Blue>" say "tokyo is fun"
+L 09/05/2023 - 12:53:42: "Mira<21><[U:1:149481681]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Blue>" with "tf_projectile_rocket" (attacker_position "1886 2349 -314") (victim_position "2023 2349 -351")
+L 09/05/2023 - 12:53:42: "ChargingTurnip<4><[U:1:313942863]><Green>" triggered "kill assist" against "DID YOU SEE<18><[U:1:148422860]><Blue>" (assister_position "2640 2772 -351") (attacker_position "1886 2349 -314") (victim_position "2023 2349 -351")
+L 09/05/2023 - 12:53:42: "Mira<21><[U:1:149481681]><Green>" triggered "domination" against "DID YOU SEE<18><[U:1:148422860]><Blue>"
+L 09/05/2023 - 12:53:44: "Mira<21><[U:1:149481681]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "1771 2495 -328") (victim_position "1931 2194 -336")
+L 09/05/2023 - 12:53:44: "ChargingTurnip<4><[U:1:313942863]><Green>" triggered "kill assist" against "August101<16><[U:1:241010597]><Blue>" (assister_position "2452 2781 -351") (attacker_position "1771 2495 -328") (victim_position "1931 2194 -336")
+L 09/05/2023 - 12:53:45: "Evan068<11><[U:1:371507926]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:53:45: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 12:53:49: "Evan068<11><[U:1:371507926]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:53:52: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Mira<21><[U:1:149481681]><Green>") (attacker_position "2921 1627 -261")
+L 09/05/2023 - 12:53:53: "Mira<21><[U:1:149481681]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "3014 1752 -255")
+L 09/05/2023 - 12:53:54: "Evan068<11><[U:1:371507926]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:54:04: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Green>") (position1 "48 -62 -152") 
+L 09/05/2023 - 12:54:07: "quek<6><[U:1:220783085]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "bat" (attacker_position "3507 359 -351") (victim_position "3530 342 -351")
+L 09/05/2023 - 12:54:07: "quek<6><[U:1:220783085]><Blue>" triggered "revenge" against "Mira<21><[U:1:149481681]><Green>"
+L 09/05/2023 - 12:54:09: "Octmari<17><[U:1:160946369]><Blue>" say "tokyo might have a blue advantage tbh"
+L 09/05/2023 - 12:54:10: "Milosuper<7><[U:1:126998348]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "obj_sentrygun" (attacker_position "-97 738 -351") (victim_position "-2456 597 -351")
+L 09/05/2023 - 12:54:10: "Milosuper<7><[U:1:126998348]><Blue>" triggered "domination" against "ChargingTurnip<4><[U:1:313942863]><Green>"
+L 09/05/2023 - 12:54:12: "Andy726<14><[U:1:845123434]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "minigun" (attacker_position "-651 385 -351") (victim_position "61 947 -335")
+L 09/05/2023 - 12:54:12: "Evan068<11><[U:1:371507926]><Green>" triggered "kill assist" against "Milosuper<7><[U:1:126998348]><Blue>" (assister_position "158 947 -335") (attacker_position "-651 385 -351") (victim_position "61 947 -335")
+L 09/05/2023 - 12:54:14: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 12:54:16: "quek<6><[U:1:220783085]><Blue>" say "oh yeah"
+L 09/05/2023 - 12:54:23: "Octmari<17><[U:1:160946369]><Blue>" say "they have 3 points super quick to get to and 1 just a teensy bit further"
+L 09/05/2023 - 12:54:30: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "3") (player1 "quek<6><[U:1:220783085]><Blue>") (position1 "-75 81 -149") (player2 "August101<16><[U:1:241010597]><Blue>") (position2 "-80 -74 -152") (player3 "DID YOU SEE<18><[U:1:148422860]><Blue>") (position3 "-27 -39 -152") 
+L 09/05/2023 - 12:54:31: "DID YOU SEE<18><[U:1:148422860]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "116 -23 -114")
+L 09/05/2023 - 12:54:33: "Andy726<14><[U:1:845123434]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "Milosuper<7><[U:1:126998348]><Blue>") (attacker_position "-2198 420 -351")
+L 09/05/2023 - 12:54:39: "Octmari<17><[U:1:160946369]><Blue>" say "in a way faster than any other team as far as i can tell"
+L 09/05/2023 - 12:54:41: "jimi<23><[U:1:968687056]><Green>" committed suicide with "world" (attacker_position "-230 -4016 -63")
+L 09/05/2023 - 12:54:41: "Milosuper<7><[U:1:126998348]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2996 1239 -351")
+L 09/05/2023 - 12:54:48: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "Evan068<11><[U:1:371507926]><Green>") (position1 "54 -40 -152") (player2 "Mira<21><[U:1:149481681]><Green>") (position2 "-41 -71 -152") 
+L 09/05/2023 - 12:54:55: "Mira<21><[U:1:149481681]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Blue>") (attacker_position "-2337 523 91")
+L 09/05/2023 - 12:54:57: "Andy726<14><[U:1:845123434]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "August101<16><[U:1:241010597]><Blue>") (attacker_position "-1701 1831 -351")
+L 09/05/2023 - 12:54:57: "DID YOU SEE<18><[U:1:148422860]><Blue>" killed "Mira<21><[U:1:149481681]><Green>" with "tf_projectile_rocket" (attacker_position "-2175 342 -31") (victim_position "-2476 580 -63")
+L 09/05/2023 - 12:54:57: "quek<6><[U:1:220783085]><Blue>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Green>" (assister_position "-1073 1357 -351") (attacker_position "-2175 342 -31") (victim_position "-2476 580 -63")
+L 09/05/2023 - 12:54:57: "DID YOU SEE<18><[U:1:148422860]><Blue>" triggered "revenge" against "Mira<21><[U:1:149481681]><Green>"
+L 09/05/2023 - 12:54:58: "Octmari<17><[U:1:160946369]><Blue>" say "green is a close second since it spawns right next to those same 2 points that are right beside eachother"
+L 09/05/2023 - 12:54:59: "Milosuper<7><[U:1:126998348]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "obj_sentrygun" (attacker_position "-2172 1994 -351") (victim_position "-2859 1285 -351")
+L 09/05/2023 - 12:55:00: "Milosuper<7><[U:1:126998348]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "tf_projectile_rocket" (attacker_position "-2287 2010 -351") (victim_position "-1617 1723 -351")
+L 09/05/2023 - 12:55:00: "quek<6><[U:1:220783085]><Blue>" triggered "kill assist" against "Andy726<14><[U:1:845123434]><Green>" (assister_position "-1409 1559 -351") (attacker_position "-2287 2010 -351") (victim_position "-1617 1723 -351")
+L 09/05/2023 - 12:55:10: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-17 -2 -152") 
+L 09/05/2023 - 12:55:11: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "telecon"
+L 09/05/2023 - 12:55:11: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 12:55:15: "quek<6><[U:1:220783085]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-897 506 13")
+L 09/05/2023 - 12:55:15: "quek<6><[U:1:220783085]><Blue>" killed "Evan068<11><[U:1:371507926]><Green>" with "tf_projectile_rocket" (attacker_position "-897 506 13") (victim_position "-53 21 -124")
+L 09/05/2023 - 12:55:15: "August101<16><[U:1:241010597]><Blue>" triggered "kill assist" against "Evan068<11><[U:1:371507926]><Green>" (assister_position "249 -23 -71") (attacker_position "-897 506 13") (victim_position "-53 21 -124")
+L 09/05/2023 - 12:55:20: "Octmari<17><[U:1:160946369]><Blue>" killed "jimi<23><[U:1:968687056]><Green>" with "shotgun_hwg" (attacker_position "1874 1615 -36") (victim_position "1896 1902 -63")
+L 09/05/2023 - 12:55:21: "Evan068<11><[U:1:371507926]><Green>" changed role to "workernode"
+L 09/05/2023 - 12:55:22: "DID YOU SEE<18><[U:1:148422860]><Blue>" committed suicide with "world" (attacker_position "-1848 256 -141")
+L 09/05/2023 - 12:55:23: "Andy726<14><[U:1:845123434]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:55:26: "jimi<23><[U:1:968687056]><Green>" changed role to "dismatic"
+L 09/05/2023 - 12:55:26: "Mira<21><[U:1:149481681]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "2174 1742 -168") (victim_position "1931 1623 -63")
+L 09/05/2023 - 12:55:27: "quek<6><[U:1:220783085]><Blue>" say "REAL MEN DONT NEED RESUPPLY"
+L 09/05/2023 - 12:55:28: "quek<6><[U:1:220783085]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "1030 566 11") (victim_position "1123 589 -47")
+L 09/05/2023 - 12:55:32: "Evan068<11><[U:1:371507926]><Green>" changed role to "sentronic"
+L 09/05/2023 - 12:55:38: "Octmari<17><[U:1:160946369]><Blue>" say "NOBODY HERE IS A REAL MAN THEYRE ALL ROBOTS!!!"
+L 09/05/2023 - 12:55:39: "Mira<21><[U:1:149481681]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "2385 709 -63")
+L 09/05/2023 - 12:55:39: "Mira<21><[U:1:149481681]><Green>" killed "Milosuper<7><[U:1:126998348]><Blue>" with "tf_projectile_rocket" (attacker_position "2385 709 -63") (victim_position "2401 633 -63")
+L 09/05/2023 - 12:55:40: "August101<16><[U:1:241010597]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "4013 618 -351")
+L 09/05/2023 - 12:55:46: "Mira<21><[U:1:149481681]><Green>" say "THEY ARE REAL TO ME"
+L 09/05/2023 - 12:55:47: "ChargingTurnip<4><[U:1:313942863]><Green>" say "real robots dont need resupply"
+L 09/05/2023 - 12:55:47: "quek<6><[U:1:220783085]><Blue>" say "you're right im sorry"
+L 09/05/2023 - 12:55:48: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "telecon"
+L 09/05/2023 - 12:55:49: "DID YOU SEE<18><[U:1:148422860]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 12:55:51: "Andy726<14><[U:1:845123434]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "3351 1495 -194")
+L 09/05/2023 - 12:55:55: "jimi<23><[U:1:968687056]><Green>" killed "quek<6><[U:1:220783085]><Blue>" with "minigun" (attacker_position "2747 2141 -255") (victim_position "1758 1864 -351")
+L 09/05/2023 - 12:56:02: "Milosuper<7><[U:1:126998348]><Blue>" say "48"
+L 09/05/2023 - 12:56:03: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2464 1826 -351")
+L 09/05/2023 - 12:56:05: "Octmari<17><[U:1:160946369]><Blue>" say "omg we should make a new robot-parts themed resupply at some point"
+L 09/05/2023 - 12:56:07: "August101<16><[U:1:241010597]><Blue>" say "look whether or not your a real man is a philospocal question"
+L 09/05/2023 - 12:56:07: "DID YOU SEE<18><[U:1:148422860]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-497 702 256")
+L 09/05/2023 - 12:56:07: "DID YOU SEE<18><[U:1:148422860]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "-497 702 256") (victim_position "-80 -17 -152")
+L 09/05/2023 - 12:56:14: "jimi<23><[U:1:968687056]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:56:15: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Andy726<14><[U:1:845123434]><Green>") (position1 "71 93 -87") 
+L 09/05/2023 - 12:56:17: "Milosuper<7><[U:1:126998348]><Blue>" killed "Andy726<14><[U:1:845123434]><Green>" with "tf_projectile_rocket" (attacker_position "-163 -41 -159") (victim_position "83 33 -105")
+L 09/05/2023 - 12:56:17: "DID YOU SEE<18><[U:1:148422860]><Blue>" triggered "kill assist" against "Andy726<14><[U:1:845123434]><Green>" (assister_position "-693 -414 256") (attacker_position "-163 -41 -159") (victim_position "83 33 -105")
+L 09/05/2023 - 12:56:22: "August101<16><[U:1:241010597]><Blue>" say "and we here don't deal with philospoy, we solve pratical problems"
+L 09/05/2023 - 12:56:26: "Mira<21><[U:1:149481681]><Green>" say "replace the cross icon for the health bar with a gear"
+L 09/05/2023 - 12:56:27: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Blue>") (position1 "-6 7 -152") 
+L 09/05/2023 - 12:56:32: "August101<16><[U:1:241010597]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2832 2042 -255")
+L 09/05/2023 - 12:56:38: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 12:56:38: World triggered "Round_Length" (seconds "406.19")
+L 09/05/2023 - 12:56:38: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 12:56:38: Team "Blue" current score "3" with "5" players
+L 09/05/2023 - 12:56:38: Team "Green" current score "0" with "5" players
+L 09/05/2023 - 12:56:38: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 12:56:38: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 12:56:38: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 12:56:38: "quek<6><[U:1:220783085]><Blue>" say "like the one the mvm giants have?"
+L 09/05/2023 - 12:56:39: "DID YOU SEE<18><[U:1:148422860]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Green>" with "tf_projectile_rocket" (attacker_position "866 1010 96") (victim_position "1286 1451 -63")
+L 09/05/2023 - 12:56:41: "August101<16><[U:1:241010597]><Blue>" committed suicide with "world" (attacker_position "-680 1946 -351")
+L 09/05/2023 - 12:56:46: "Mira<21><[U:1:149481681]><Green>" say "do they have a custom one"
+L 09/05/2023 - 12:56:46: World triggered "Game_Over" reason "Reached Time Limit"
+L 09/05/2023 - 12:56:46: Team "Red" final score "0" with "0" players
+L 09/05/2023 - 12:56:46: Team "Blue" final score "3" with "5" players
+L 09/05/2023 - 12:56:46: Team "Green" final score "0" with "5" players
+L 09/05/2023 - 12:56:46: Team "Yellow" final score "0" with "0" players
+L 09/05/2023 - 12:56:46: Team "Purple" final score "0" with "0" players
+L 09/05/2023 - 12:56:46: Team "Pink" final score "0" with "0" players
+L 09/05/2023 - 12:56:50: "Evan068<11><[U:1:371507926]><Green>" committed suicide with "world" (attacker_position "-606 -4188 -351")
+L 09/05/2023 - 12:56:50: "Andy726<14><[U:1:845123434]><Green>" say "this is miserable"
+L 09/05/2023 - 12:56:52: "quek<6><[U:1:220783085]><Blue>" say "its the cross with gears on it"
+L 09/05/2023 - 12:56:54: "Octmari<17><[U:1:160946369]><Blue>" say "your hp is actually your SI-- structural integrity"
+L 09/05/2023 - 12:56:56: Log file closed.

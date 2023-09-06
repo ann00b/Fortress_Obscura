@@ -1,0 +1,674 @@
+L 09/05/2023 - 13:25:14: Log file started (file "logs\L0905030.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 13:25:18: "August101<16><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 13:25:18: "Octmari<17><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 13:25:19: "Dodger Fujisaki<32><[U:1:112494286]><>" entered the game
+L 09/05/2023 - 13:25:19: "Frost Byte<31><[U:1:126775298]><>" entered the game
+L 09/05/2023 - 13:25:19: "ChargingTurnip<4><[U:1:313942863]><>" entered the game
+L 09/05/2023 - 13:25:20: "Mira<21><[U:1:149481681]><>" entered the game
+L 09/05/2023 - 13:25:21: "Tofawil<29><[U:1:449097787]><>" entered the game
+L 09/05/2023 - 13:25:22: "ChargingTurnip<4><[U:1:313942863]><Unassigned>" joined team "Purple"
+L 09/05/2023 - 13:25:22: "August101<16><[U:1:241010597]><Unassigned>" joined team "Purple"
+L 09/05/2023 - 13:25:23: "August101<16><[U:1:241010597]><Purple>" changed role to "sentronic"
+L 09/05/2023 - 13:25:25: "ChargingTurnip<4><[U:1:313942863]><Purple>" changed role to "sentronic"
+L 09/05/2023 - 13:25:26: "Mira<21><[U:1:149481681]><Unassigned>" joined team "Pink"
+L 09/05/2023 - 13:25:26: "August101<16><[U:1:241010597]><Purple>" changed role to "telecon"
+L 09/05/2023 - 13:25:27: "Mira<21><[U:1:149481681]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 13:25:28: "Tofawil<29><[U:1:449097787]><Unassigned>" joined team "Yellow"
+L 09/05/2023 - 13:25:28: "August101<16><[U:1:241010597]><Purple>" joined team "Yellow"
+L 09/05/2023 - 13:25:28: "August101<16><[U:1:241010597]><Yellow>" committed suicide with "world" (attacker_position "1152 -736 -159")
+L 09/05/2023 - 13:25:31: "Tofawil<29><[U:1:449097787]><Yellow>" changed role to "sentronic"
+L 09/05/2023 - 13:25:34: "August101<16><[U:1:241010597]><Yellow>" joined team "Green"
+L 09/05/2023 - 13:25:42: "Octmari<17><[U:1:160946369]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 13:25:43: "Octmari<17><[U:1:160946369]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 13:25:44: "August101<16><[U:1:241010597]><Green>" say "yay robot park"
+L 09/05/2023 - 13:25:44: "Dodger Fujisaki<32><[U:1:112494286]><Unassigned>" joined team "Red"
+L 09/05/2023 - 13:25:48: "Octmari<17><[U:1:160946369]><Blue>" say "THE community map"
+L 09/05/2023 - 13:25:48: "Dodger Fujisaki<32><[U:1:112494286]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:25:49: "Octmari<17><[U:1:160946369]><Blue>" say "lol"
+L 09/05/2023 - 13:25:54: World triggered "Round_Start"
+L 09/05/2023 - 13:25:58: "August101<16><[U:1:241010597]><Green>" say "currently the only community map lmao"
+L 09/05/2023 - 13:26:03: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "219 1372 192")
+L 09/05/2023 - 13:26:04: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "81 1320 192")
+L 09/05/2023 - 13:26:04: "August101<16><[U:1:241010597]><Green>" triggered "captureblocked" (cp "4") (cpname "Wet Wetland") (position "-147 -1278 -223")
+L 09/05/2023 - 13:26:04: "Mira<21><[U:1:149481681]><Pink>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "tf_projectile_rocket" (attacker_position "204 1543 233") (victim_position "86 1350 192")
+L 09/05/2023 - 13:26:04: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "204 1543 233")
+L 09/05/2023 - 13:26:04: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "188 1545 235")
+L 09/05/2023 - 13:26:05: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "148 1468 192") 
+L 09/05/2023 - 13:26:06: "Octmari<17><[U:1:160946369]><Blue>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "471 -925 -116") (victim_position "53 -1147 -248")
+L 09/05/2023 - 13:26:08: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1494 -42 199") 
+L 09/05/2023 - 13:26:09: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "47 -1087 -248") 
+L 09/05/2023 - 13:26:10: "Dodger Fujisaki<32><[U:1:112494286]><Red>" changed role to "sentronic"
+L 09/05/2023 - 13:26:12: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "160 1549 192") 
+L 09/05/2023 - 13:26:16: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "279 1324 231")
+L 09/05/2023 - 13:26:16: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "60 1525 213") 
+L 09/05/2023 - 13:26:17: "Mira<21><[U:1:149481681]><Pink>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "164 1639 348") (victim_position "143 1332 217")
+L 09/05/2023 - 13:26:18: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "276 1567 192")
+L 09/05/2023 - 13:26:19: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "190 1527 192")
+L 09/05/2023 - 13:26:19: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "190 1527 192") (victim_position "30 1513 219")
+L 09/05/2023 - 13:26:19: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Pink>" (assister_position "143 1332 231") (attacker_position "190 1527 192") (victim_position "30 1513 219")
+L 09/05/2023 - 13:26:22: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-26 1531 199") 
+L 09/05/2023 - 13:26:25: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "221 988 -63") (victim_position "191 817 -63")
+L 09/05/2023 - 13:26:27: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "1501 30 199") 
+L 09/05/2023 - 13:26:33: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1244 -6 231") 
+L 09/05/2023 - 13:26:34: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-89 1475 199") 
+L 09/05/2023 - 13:26:35: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "34 -1 -184") 
+L 09/05/2023 - 13:26:37: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "4 -50 71") 
+L 09/05/2023 - 13:26:38: "Octmari<17><[U:1:160946369]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "-337 -23 -10")
+L 09/05/2023 - 13:26:38: "Octmari<17><[U:1:160946369]><Blue>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-337 -23 -10") (victim_position "-289 -66 -27")
+L 09/05/2023 - 13:26:40: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "172 1377 192")
+L 09/05/2023 - 13:26:40: "Octmari<17><[U:1:160946369]><Blue>" say "lol"
+L 09/05/2023 - 13:26:40: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "142 1420 192") 
+L 09/05/2023 - 13:26:40: "Frost Byte<31><[U:1:126775298]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 13:26:42: "Frost Byte<31><[U:1:126775298]><Blue>" changed role to "telecon"
+L 09/05/2023 - 13:26:42: "August101<16><[U:1:241010597]><Green>" say "nice"
+L 09/05/2023 - 13:26:43: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "749 1279 96")
+L 09/05/2023 - 13:26:43: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-20 33 71") 
+L 09/05/2023 - 13:26:48: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-279 1627 192")
+L 09/05/2023 - 13:26:49: "Mira<21><[U:1:149481681]><Pink>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "76 1379 199") (victim_position "-184 1322 192")
+L 09/05/2023 - 13:26:50: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "211 1420 214") 
+L 09/05/2023 - 13:26:51: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "171 1333 192")
+L 09/05/2023 - 13:26:53: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1581 4 199") 
+L 09/05/2023 - 13:26:54: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Frost Byte<31><[U:1:126775298]><Blue>") (position1 "-1327 41 231") 
+L 09/05/2023 - 13:26:59: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "666 1415 96")
+L 09/05/2023 - 13:27:00: "Frost Byte<31><[U:1:126775298]><Blue>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:27:01: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "0") (cpname "Courtyard: Upper") (position "-208 172 178")
+L 09/05/2023 - 13:27:01: "Mira<21><[U:1:149481681]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-208 172 178") (victim_position "-14 -122 65")
+L 09/05/2023 - 13:27:02: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "513 1268 96")
+L 09/05/2023 - 13:27:05: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-38 1552 199") 
+L 09/05/2023 - 13:27:05: "Octmari<17><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "4") (cpname "Wet Wetland") (position "-148 -1068 -126")
+L 09/05/2023 - 13:27:07: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-10 50 71") 
+L 09/05/2023 - 13:27:12: "Octmari<17><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "4") (cpname "Wet Wetland") (position "-4 -1319 -255")
+L 09/05/2023 - 13:27:12: "Octmari<17><[U:1:160946369]><Blue>" killed "August101<16><[U:1:241010597]><Green>" with "smg" (attacker_position "-4 -1319 -255") (victim_position "74 -1293 -255")
+L 09/05/2023 - 13:27:13: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-43 -55 -184") 
+L 09/05/2023 - 13:27:16: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-197 1355 192")
+L 09/05/2023 - 13:27:21: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-201 1599 192") 
+L 09/05/2023 - 13:27:21: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "Mira<21><[U:1:149481681]><Pink>" with "obj_sentrygun" (attacker_position "-24 -29 71") (victim_position "334 1031 15")
+L 09/05/2023 - 13:27:21: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Dodger Fujisaki<32><[U:1:112494286]><Red>") (attacker_position "334 1031 29")
+L 09/05/2023 - 13:27:22: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "-24 -29 71")
+L 09/05/2023 - 13:27:22: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-24 -29 71") 
+L 09/05/2023 - 13:27:23: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "926 -1163 -159") (victim_position "878 -1180 -159")
+L 09/05/2023 - 13:27:23: "August101<16><[U:1:241010597]><Green>" say "did you get the updated version by chance?"
+L 09/05/2023 - 13:27:29: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "10 -1184 -248") 
+L 09/05/2023 - 13:27:35: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "137 1459 192")
+L 09/05/2023 - 13:27:36: "Octmari<17><[U:1:160946369]><Blue>" say "i didnt see you update it"
+L 09/05/2023 - 13:27:36: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-25 1633 192") 
+L 09/05/2023 - 13:27:36: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-8 -61 -184") 
+L 09/05/2023 - 13:27:36: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "1494 53 199") 
+L 09/05/2023 - 13:27:38: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1275 -22 231") 
+L 09/05/2023 - 13:27:41: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "0") (cpname "Courtyard: Upper") (position "-1 126 64")
+L 09/05/2023 - 13:27:41: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-1 126 64") (victim_position "-17 4 71")
+L 09/05/2023 - 13:27:41: "August101<16><[U:1:241010597]><Green>" say "dam"
+L 09/05/2023 - 13:27:42: "Octmari<17><[U:1:160946369]><Blue>" say "(so no)"
+L 09/05/2023 - 13:27:44: "August101<16><[U:1:241010597]><Green>" changed role to "sentronic"
+L 09/05/2023 - 13:27:44: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "51 -17 71") 
+L 09/05/2023 - 13:27:46: "Octmari<17><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "4") (cpname "Wet Wetland") (position "151 -1058 -146")
+L 09/05/2023 - 13:27:48: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Dodger Fujisaki<32><[U:1:112494286]><Red>") (attacker_position "712 1397 96")
+L 09/05/2023 - 13:27:51: "Octmari<17><[U:1:160946369]><Blue>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "-738 -847 -116") (victim_position "-871 -667 -159")
+L 09/05/2023 - 13:27:52: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "78 1639 269")
+L 09/05/2023 - 13:27:52: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "78 1639 269") (victim_position "-67 1538 199")
+L 09/05/2023 - 13:27:54: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "-89 1338 233") (victim_position "193 1591 202")
+L 09/05/2023 - 13:27:56: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-24 -1184 -248") 
+L 09/05/2023 - 13:28:01: "August101<16><[U:1:241010597]><Green>" say "it's fine"
+L 09/05/2023 - 13:28:04: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "Octmari<17><[U:1:160946369]><Blue>" with "bat" (attacker_position "51 7 71") (victim_position "23 -47 71")
+L 09/05/2023 - 13:28:07: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-76 45 71") 
+L 09/05/2023 - 13:28:08: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "3 -1183 -248") 
+L 09/05/2023 - 13:28:14: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "24 14 71") 
+L 09/05/2023 - 13:28:16: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "279 1439 192")
+L 09/05/2023 - 13:28:18: "Octmari<17><[U:1:160946369]><Blue>" say "its cool, now that I know you updated it i'll seek it out and fix that"
+L 09/05/2023 - 13:28:19: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-209 -1134 -176")
+L 09/05/2023 - 13:28:19: "Tofawil<29><[U:1:449097787]><Yellow>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "tf_projectile_rocket" (attacker_position "-431 1068 46") (victim_position "-440 1466 96")
+L 09/05/2023 - 13:28:19: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "17 -37 -184") 
+L 09/05/2023 - 13:28:20: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-118 -1201 -244") 
+L 09/05/2023 - 13:28:22: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-6 1497 199")
+L 09/05/2023 - 13:28:22: "Mira<21><[U:1:149481681]><Pink>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "-6 1497 199") (victim_position "-135 1570 192")
+L 09/05/2023 - 13:28:24: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "198 1473 192")
+L 09/05/2023 - 13:28:25: "August101<16><[U:1:241010597]><Green>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-39 1320 192")
+L 09/05/2023 - 13:28:27: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "194 1468 231") 
+L 09/05/2023 - 13:28:29: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-1295 9 231") 
+L 09/05/2023 - 13:28:33: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-138 1498 192") (victim_position "-422 1308 96")
+L 09/05/2023 - 13:28:34: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "14 -20 71") 
+L 09/05/2023 - 13:28:37: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "17 -8 71")
+L 09/05/2023 - 13:28:39: "Tofawil<29><[U:1:449097787]><Yellow>" changed role to "dismatic"
+L 09/05/2023 - 13:28:40: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-187 1304 192")
+L 09/05/2023 - 13:28:40: "Frost Byte<33><[U:1:126775298]><>" connected, address "173.92.191.133:27005"
+L 09/05/2023 - 13:28:42: "Frost Byte<33><[U:1:126775298]><>" STEAM USERID validated
+L 09/05/2023 - 13:28:44: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "-103 1602 192")
+L 09/05/2023 - 13:28:45: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1585 19 199") 
+L 09/05/2023 - 13:28:46: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-149 1559 235")
+L 09/05/2023 - 13:28:47: "Frost Byte<33><[U:1:126775298]><>" entered the game
+L 09/05/2023 - 13:28:48: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "92 1396 207") 
+L 09/05/2023 - 13:28:48: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "97 1295 175") (victim_position "442 1465 97")
+L 09/05/2023 - 13:28:48: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Pink>" (assister_position "-527 1259 96") (attacker_position "97 1295 175") (victim_position "442 1465 97")
+L 09/05/2023 - 13:28:51: "Octmari<17><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "ChargingTurnip<4><[U:1:313942863]><Purple>") (attacker_position "294 -1468 -159")
+L 09/05/2023 - 13:28:52: "August101<16><[U:1:241010597]><Green>" triggered "captureblocked" (cp "4") (cpname "Wet Wetland") (position "-544 -1193 -159")
+L 09/05/2023 - 13:28:52: "August101<16><[U:1:241010597]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-544 -1193 -159") (victim_position "0 -1160 -248")
+L 09/05/2023 - 13:28:52: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "kill assist" against "Octmari<17><[U:1:160946369]><Blue>" (assister_position "77 1514 199") (attacker_position "-544 -1193 -159") (victim_position "0 -1160 -248")
+L 09/05/2023 - 13:28:54: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "19 1557 199") 
+L 09/05/2023 - 13:28:54: "Frost Byte<33><[U:1:126775298]><Unassigned>" joined team "Pink"
+L 09/05/2023 - 13:28:54: Team "Red" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-25 131 -191") 
+L 09/05/2023 - 13:28:57: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-15 -1165 -248") 
+L 09/05/2023 - 13:28:57: "Frost Byte<33><[U:1:126775298]><Pink>" changed role to "telecon"
+L 09/05/2023 - 13:28:59: "Tofawil<29><[U:1:449097787]><Yellow>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "minigun" (attacker_position "-259 1492 192") (victim_position "89 1617 192")
+L 09/05/2023 - 13:29:01: "August101<16><[U:1:241010597]><Green>" triggered "captureblocked" (cp "0") (cpname "Courtyard: Upper") (position "-70 -307 -39")
+L 09/05/2023 - 13:29:01: "August101<16><[U:1:241010597]><Green>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "tf_projectile_rocket" (attacker_position "-70 -307 -39") (victim_position "100 -84 65")
+L 09/05/2023 - 13:29:01: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-3 1603 199") 
+L 09/05/2023 - 13:29:02: "Frost Byte<33><[U:1:126775298]><Pink>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "scattergun" (attacker_position "298 1492 176") (victim_position "124 1539 192")
+L 09/05/2023 - 13:29:05: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-31 1541 199") 
+L 09/05/2023 - 13:29:06: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "27 -43 71") 
+L 09/05/2023 - 13:29:11: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-59 -11 -184") 
+L 09/05/2023 - 13:29:13: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-398 813 -63")
+L 09/05/2023 - 13:29:15: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "1421 92 196") 
+L 09/05/2023 - 13:29:17: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Pink>" with "tf_projectile_rocket" (attacker_position "1639 325 96") (victim_position "1364 435 96")
+L 09/05/2023 - 13:29:20: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1511 -47 199") 
+L 09/05/2023 - 13:29:25: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-15 1551 199") 
+L 09/05/2023 - 13:29:28: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1449 69 199")
+L 09/05/2023 - 13:29:28: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1421 69 199") 
+L 09/05/2023 - 13:29:30: "Mira<21><[U:1:149481681]><Pink>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "obj_sentrygun" (attacker_position "180 1536 192") (victim_position "-325 1398 152")
+L 09/05/2023 - 13:29:30: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "kill assist" against "Dodger Fujisaki<32><[U:1:112494286]><Red>" (assister_position "-732 1196 96") (attacker_position "180 1536 192") (victim_position "-325 1398 152")
+L 09/05/2023 - 13:29:33: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-56 1379 214") 
+L 09/05/2023 - 13:29:35: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1269 -70 231") 
+L 09/05/2023 - 13:29:40: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "181 1461 192")
+L 09/05/2023 - 13:29:40: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "181 1461 192") (victim_position "6 1616 196")
+L 09/05/2023 - 13:29:40: "Mira<21><[U:1:149481681]><Pink>" triggered "kill assist" against "Tofawil<29><[U:1:449097787]><Yellow>" (assister_position "1167 772 32") (attacker_position "181 1461 192") (victim_position "6 1616 196")
+L 09/05/2023 - 13:29:40: "Mira<21><[U:1:149481681]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "obj_sentrygun" (attacker_position "1249 816 32") (victim_position "105 1410 192")
+L 09/05/2023 - 13:29:43: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "ChargingTurnip<4><[U:1:313942863]><Purple>") (attacker_position "1315 808 32")
+L 09/05/2023 - 13:29:47: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "51 14 71") 
+L 09/05/2023 - 13:29:48: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1446 -100 198") 
+L 09/05/2023 - 13:29:50: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "-99 1617 192")
+L 09/05/2023 - 13:29:50: Team "Green" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-7 1628 192") 
+L 09/05/2023 - 13:29:51: "Frost Byte<33><[U:1:126775298]><Pink>" killed "August101<16><[U:1:241010597]><Green>" with "scattergun" (attacker_position "44 1191 106") (victim_position "42 1387 194")
+L 09/05/2023 - 13:29:51: "Mira<21><[U:1:149481681]><Pink>" triggered "kill assist" against "August101<16><[U:1:241010597]><Green>" (assister_position "1131 634 32") (attacker_position "44 1191 106") (victim_position "42 1387 194")
+L 09/05/2023 - 13:29:53: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1519 442 96")
+L 09/05/2023 - 13:29:54: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "112 1324 192")
+L 09/05/2023 - 13:29:55: "Tofawil<29><[U:1:449097787]><Yellow>" say "i assume you cant change viewmodels?"
+L 09/05/2023 - 13:29:55: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "212 1556 192")
+L 09/05/2023 - 13:29:55: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "Frost Byte<33><[U:1:126775298]><Pink>" with "tf_projectile_rocket" (attacker_position "212 1556 192") (victim_position "-150 1588 278")
+L 09/05/2023 - 13:29:59: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-86 1540 199") 
+L 09/05/2023 - 13:30:06: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "46 -1150 -248") 
+L 09/05/2023 - 13:30:06: Team "Red" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-14 -59 -74") 
+L 09/05/2023 - 13:30:06: "Mira<21><[U:1:149481681]><Pink>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "tf_projectile_rocket" (attacker_position "172 137 -191") (victim_position "-36 -71 -119")
+L 09/05/2023 - 13:30:09: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "21 17 -184") 
+L 09/05/2023 - 13:30:09: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "6 1508 199") 
+L 09/05/2023 - 13:30:15: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-1314 30 231") 
+L 09/05/2023 - 13:30:16: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "66 -1230 -248") 
+L 09/05/2023 - 13:30:18: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-1320 41 231") 
+L 09/05/2023 - 13:30:20: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "0") (cpname "Courtyard: Upper") (position "-1274 1 231")
+L 09/05/2023 - 13:30:20: "Mira<21><[U:1:149481681]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-1274 1 231") (victim_position "100 -78 66")
+L 09/05/2023 - 13:30:23: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1242 403 32")
+L 09/05/2023 - 13:30:23: "August101<16><[U:1:241010597]><Green>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "-1458 -78 335") (victim_position "-1112 -14 252")
+L 09/05/2023 - 13:30:27: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "1442 -138 192") 
+L 09/05/2023 - 13:30:27: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1254 -26 231") 
+L 09/05/2023 - 13:30:27: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_DISPENSER") (position "1470 -135 192")
+L 09/05/2023 - 13:30:28: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-20 1324 192")
+L 09/05/2023 - 13:30:30: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "204 1478 234") 
+L 09/05/2023 - 13:30:31: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "288 1244 190")
+L 09/05/2023 - 13:30:31: "Frost Byte<33><[U:1:126775298]><Pink>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "scattergun" (attacker_position "288 1244 190") (victim_position "-69 1397 194")
+L 09/05/2023 - 13:30:36: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-36 -67 -184") 
+L 09/05/2023 - 13:30:40: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "1055 -88 -31")
+L 09/05/2023 - 13:30:44: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1520 -98 199") 
+L 09/05/2023 - 13:30:45: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-3 -1259 -249") 
+L 09/05/2023 - 13:30:45: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "329 -1334 -159") (victim_position "-5 -1252 -248")
+L 09/05/2023 - 13:30:48: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1471 -54 199") 
+L 09/05/2023 - 13:30:48: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "25 -1138 -248") 
+L 09/05/2023 - 13:30:49: "August101<16><[U:1:241010597]><Green>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "1639 169 232") (victim_position "1471 -145 219")
+L 09/05/2023 - 13:30:52: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1487 -20 199") 
+L 09/05/2023 - 13:30:53: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-1369 -29 231") 
+L 09/05/2023 - 13:30:54: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-13 -17 71") 
+L 09/05/2023 - 13:30:54: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "20 1449 199") 
+L 09/05/2023 - 13:30:58: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "captureblocked" (cp "5") (cpname "Courtyard: Lower") (position "-149 -126 -191")
+L 09/05/2023 - 13:30:58: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "captureblocked" (cp "5") (cpname "Courtyard: Lower") (position "-64 -26 -184")
+L 09/05/2023 - 13:30:58: "Frost Byte<33><[U:1:126775298]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "scattergun" (attacker_position "-64 -26 -184") (victim_position "10 53 -184")
+L 09/05/2023 - 13:30:59: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-15 -92 71") 
+L 09/05/2023 - 13:31:02: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-58 -20 -184") 
+L 09/05/2023 - 13:31:04: Team "Red" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "1534 -56 199") 
+L 09/05/2023 - 13:31:05: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Pink>" with "tf_projectile_rocket" (attacker_position "-145 -71 -191") (victim_position "193 45 -191")
+L 09/05/2023 - 13:31:05: "Tofawil<29><[U:1:449097787]><Yellow>" changed role to "sentronic"
+L 09/05/2023 - 13:31:06: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-11 35 -184") 
+L 09/05/2023 - 13:31:12: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "81 1595 196") 
+L 09/05/2023 - 13:31:17: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1573 -395 96")
+L 09/05/2023 - 13:31:19: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1481 20 199") 
+L 09/05/2023 - 13:31:20: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-10 -1160 -248") 
+L 09/05/2023 - 13:31:20: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "28 -4 71") 
+L 09/05/2023 - 13:31:20: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "49 -17 -184") 
+L 09/05/2023 - 13:31:24: "Frost Byte<33><[U:1:126775298]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 13:31:26: "Tofawil<29><[U:1:449097787]><Yellow>" committed suicide with "tf_projectile_rocket" (attacker_position "20 291 113")
+L 09/05/2023 - 13:31:28: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1520 -33 199")
+L 09/05/2023 - 13:31:28: Team "Red" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-13 27 -184") 
+L 09/05/2023 - 13:31:28: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1515 -12 199") 
+L 09/05/2023 - 13:31:28: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "138 -42 64") 
+L 09/05/2023 - 13:31:30: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1321 15 231") 
+L 09/05/2023 - 13:31:34: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "95 -26 71") 
+L 09/05/2023 - 13:31:35: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1515 45 199") 
+L 09/05/2023 - 13:31:39: "Frost Byte<33><[U:1:126775298]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "199 1372 225") (victim_position "-196 1462 209")
+L 09/05/2023 - 13:31:39: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "tf_projectile_rocket" (attacker_position "-196 1462 223") (victim_position "26 1359 192")
+L 09/05/2023 - 13:31:39: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "kill assist" against "Dodger Fujisaki<32><[U:1:112494286]><Red>" (assister_position "219 1302 192") (attacker_position "-196 1462 223") (victim_position "26 1359 192")
+L 09/05/2023 - 13:31:43: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "2") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-4 1516 199") (player2 "Mira<21><[U:1:149481681]><Pink>") (position2 "277 1436 192") 
+L 09/05/2023 - 13:31:43: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Pink>" with "tf_projectile_rocket" (attacker_position "-387 1428 99") (victim_position "-51 1517 199")
+L 09/05/2023 - 13:31:46: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "103 1321 192")
+L 09/05/2023 - 13:31:48: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-13 1589 240")
+L 09/05/2023 - 13:31:48: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-13 1589 240") (victim_position "-237 1593 192")
+L 09/05/2023 - 13:31:59: "August101<16><[U:1:241010597]><Green>" say "hey turnup; what do you think of the map?"
+L 09/05/2023 - 13:32:02: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "1 1501 199") 
+L 09/05/2023 - 13:32:03: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-1229 71 231") 
+L 09/05/2023 - 13:32:09: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-54 -3 -184") 
+L 09/05/2023 - 13:32:09: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1421 170 192")
+L 09/05/2023 - 13:32:10: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "captureblocked" (cp "2") (cpname "Mosaic") (position "1614 182 192")
+L 09/05/2023 - 13:32:11: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-116 1356 192") 
+L 09/05/2023 - 13:32:15: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Frost Byte<33><[U:1:126775298]><Pink>") (attacker_position "1368 -202 173")
+L 09/05/2023 - 13:32:17: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "185 1497 192")
+L 09/05/2023 - 13:32:17: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "185 1497 192") (victim_position "-143 1479 192")
+L 09/05/2023 - 13:32:17: "Frost Byte<33><[U:1:126775298]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "1446 -487 96") (victim_position "1368 -202 173")
+L 09/05/2023 - 13:32:18: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Pink>" with "tf_projectile_rocket" (attacker_position "1148 -466 32") (victim_position "1217 -501 32")
+L 09/05/2023 - 13:32:18: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "kill assist" against "Frost Byte<33><[U:1:126775298]><Pink>" (assister_position "1368 -202 187") (attacker_position "1148 -466 32") (victim_position "1217 -501 32")
+L 09/05/2023 - 13:32:21: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "214 1520 192")
+L 09/05/2023 - 13:32:21: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "Mira<21><[U:1:149481681]><Pink>" with "smg" (attacker_position "214 1520 192") (victim_position "59 1526 199")
+L 09/05/2023 - 13:32:24: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1546 -40 199") 
+L 09/05/2023 - 13:32:37: Team "Green" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-9 1430 199") 
+L 09/05/2023 - 13:32:37: Team "Red" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "1495 58 199") 
+L 09/05/2023 - 13:32:41: "ChargingTurnip<4><[U:1:313942863]><Purple>" say "i feel like a lot of the points are in awkward places"
+L 09/05/2023 - 13:32:42: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1534 426 96")
+L 09/05/2023 - 13:32:43: "Dodger Fujisaki<32><[U:1:112494286]><Red>" triggered "captureblocked" (cp "0") (cpname "Courtyard: Upper") (position "151 103 64")
+L 09/05/2023 - 13:32:44: "ChargingTurnip<4><[U:1:313942863]><Purple>" say "the geometry is also awkward in a lot of places too"
+L 09/05/2023 - 13:32:44: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-3 9 71") 
+L 09/05/2023 - 13:32:44: "Dodger Fujisaki<32><[U:1:112494286]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "342 41 -62")
+L 09/05/2023 - 13:32:45: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "1534 -22 199") 
+L 09/05/2023 - 13:32:45: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-64 1546 199") 
+L 09/05/2023 - 13:32:50: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "85 60 -184") 
+L 09/05/2023 - 13:32:51: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-95 1403 192") 
+L 09/05/2023 - 13:32:57: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-45 -45 71") 
+L 09/05/2023 - 13:32:58: "Mira<21><[U:1:149481681]><Pink>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "63 835 -60") (victim_position "155 1511 -63")
+L 09/05/2023 - 13:32:59: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1231 -6 231") 
+L 09/05/2023 - 13:33:06: Team "Pink" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "5 -1159 -248") 
+L 09/05/2023 - 13:33:08: "ChargingTurnip<4><[U:1:313942863]><Purple>" say "and i feel like theres not really much movement in the map since its so closed, im discouraged from rocket jumping"
+L 09/05/2023 - 13:33:09: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-10 62 71") 
+L 09/05/2023 - 13:33:10: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "18 142 64") (victim_position "-20 -91 71")
+L 09/05/2023 - 13:33:13: "Tofawil<29><[U:1:449097787]><Yellow>" say "whats that room below yellow point?"
+L 09/05/2023 - 13:33:13: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "6 58 71") 
+L 09/05/2023 - 13:33:17: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-1323 77 231") 
+L 09/05/2023 - 13:33:17: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1440 -144 192") 
+L 09/05/2023 - 13:33:19: Team "Red" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-42 -7 -184") 
+L 09/05/2023 - 13:33:19: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Frost Byte<33><[U:1:126775298]><Pink>") (attacker_position "1458 -136 192")
+L 09/05/2023 - 13:33:21: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-76 1508 199") 
+L 09/05/2023 - 13:33:24: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "64 -116 -152") 
+L 09/05/2023 - 13:33:25: "Mira<21><[U:1:149481681]><Pink>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "tf_projectile_rocket" (attacker_position "73 -71 -148") (victim_position "-124 -166 -191")
+L 09/05/2023 - 13:33:30: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "33 1505 199") 
+L 09/05/2023 - 13:33:31: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-103 -113 64") 
+L 09/05/2023 - 13:33:36: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "57 -1246 -248") 
+L 09/05/2023 - 13:33:38: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "2") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "86 1626 192") (player2 "Mira<21><[U:1:149481681]><Pink>") (position2 "24 1567 199") 
+L 09/05/2023 - 13:33:43: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "97 39 110") 
+L 09/05/2023 - 13:33:44: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-1334 -93 231") 
+L 09/05/2023 - 13:33:47: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "1588 40 199") 
+L 09/05/2023 - 13:33:48: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "14 -85 71") 
+L 09/05/2023 - 13:33:49: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "74 25 -184") 
+L 09/05/2023 - 13:33:51: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "17 32 71") 
+L 09/05/2023 - 13:33:52: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-228 1511 192")
+L 09/05/2023 - 13:33:52: "Tofawil<29><[U:1:449097787]><Yellow>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "tf_projectile_rocket" (attacker_position "-228 1511 192") (victim_position "-5 1560 199")
+L 09/05/2023 - 13:33:52: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-8 34 -184") 
+L 09/05/2023 - 13:33:53: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "captureblocked" (cp "0") (cpname "Courtyard: Upper") (position "166 64 54")
+L 09/05/2023 - 13:33:53: "Frost Byte<33><[U:1:126775298]><Pink>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "166 64 54") (victim_position "-50 -76 139")
+L 09/05/2023 - 13:33:56: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-54 40 71") 
+L 09/05/2023 - 13:33:56: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "54 26 -184") 
+L 09/05/2023 - 13:33:56: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "158 1639 192") 
+L 09/05/2023 - 13:33:59: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "-664 -111 -63") (victim_position "-698 -260 -40")
+L 09/05/2023 - 13:34:04: Team "Pink" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "1 -1078 -248") 
+L 09/05/2023 - 13:34:07: "August101<16><[U:1:241010597]><Green>" say "idk if that last thing is a bad thing imo, but I get the points"
+L 09/05/2023 - 13:34:13: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-1357 20 231") 
+L 09/05/2023 - 13:34:15: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "1539 52 199") 
+L 09/05/2023 - 13:34:16: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "-19 1573 199") 
+L 09/05/2023 - 13:34:16: "ChargingTurnip<4><[U:1:313942863]><Purple>" say "also i've just noticed the point limit is 1000"
+L 09/05/2023 - 13:34:16: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-87 -1229 -249") 
+L 09/05/2023 - 13:34:25: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-22 -139 -191") 
+L 09/05/2023 - 13:34:26: "August101<16><[U:1:241010597]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "-63 -94 71")
+L 09/05/2023 - 13:34:26: "August101<16><[U:1:241010597]><Green>" killed "Dodger Fujisaki<32><[U:1:112494286]><Red>" with "tf_projectile_rocket" (attacker_position "-63 -94 71") (victim_position "-12 30 71")
+L 09/05/2023 - 13:34:27: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "-57 1584 199") 
+L 09/05/2023 - 13:34:27: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-21 -1196 -248") 
+L 09/05/2023 - 13:34:28: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1509 -31 199") 
+L 09/05/2023 - 13:34:33: "Dodger Fujisaki<32><[U:1:112494286]><Red>" say "We die together."
+L 09/05/2023 - 13:34:33: "Frost Byte<33><[U:1:126775298]><Pink>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "54 -16 200") (victim_position "217 -103 20")
+L 09/05/2023 - 13:34:39: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1521 31 199") 
+L 09/05/2023 - 13:34:40: Team "Pink" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-19 -1107 -248") 
+L 09/05/2023 - 13:34:49: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "28 1457 199") 
+L 09/05/2023 - 13:34:51: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-37 -1172 -248") 
+L 09/05/2023 - 13:34:51: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1500 23 199") 
+L 09/05/2023 - 13:34:56: "August101<16><[U:1:241010597]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-24 57 71") (victim_position "-7 133 64")
+L 09/05/2023 - 13:34:56: Team "Red" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "0 -133 -191") 
+L 09/05/2023 - 13:34:57: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-18 1 71") 
+L 09/05/2023 - 13:35:00: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-405 1438 96")
+L 09/05/2023 - 13:35:00: "Frost Byte<33><[U:1:126775298]><Pink>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "-405 1438 96") (victim_position "-262 1507 192")
+L 09/05/2023 - 13:35:00: "Mira<21><[U:1:149481681]><Pink>" triggered "kill assist" against "Tofawil<29><[U:1:449097787]><Yellow>" (assister_position "172 1471 192") (attacker_position "-405 1438 96") (victim_position "-262 1507 192")
+L 09/05/2023 - 13:35:01: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-31 -1124 -248") 
+L 09/05/2023 - 13:35:02: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "2") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "71 1614 193") (player2 "Mira<21><[U:1:149481681]><Pink>") (position2 "71 1459 199") 
+L 09/05/2023 - 13:35:02: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "47 -34 -184") 
+L 09/05/2023 - 13:35:02: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Red>") (position1 "7 -48 71") 
+L 09/05/2023 - 13:35:05: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-152 665 -63") (victim_position "196 487 -63")
+L 09/05/2023 - 13:35:06: "Dodger Fujisaki<32><[U:1:112494286]><Red>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "-367 885 -63") (victim_position "42 981 -33")
+L 09/05/2023 - 13:35:10: "Dodger Fujisaki<32><[U:1:112494286]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-300 1436 174")
+L 09/05/2023 - 13:35:18: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "60 -9 71") 
+L 09/05/2023 - 13:35:22: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-1190 27 225") 
+L 09/05/2023 - 13:35:26: "Frost Byte<33><[U:1:126775298]><Pink>" triggered "captureblocked" (cp "2") (cpname "Mosaic") (position "1426 240 135")
+L 09/05/2023 - 13:35:26: "Frost Byte<33><[U:1:126775298]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "1426 240 135") (victim_position "1638 78 192")
+L 09/05/2023 - 13:35:31: World triggered "Round_Win" (winner "Pink")
+L 09/05/2023 - 13:35:31: World triggered "Round_Length" (seconds "576.87")
+L 09/05/2023 - 13:35:31: Team "Red" current score "0" with "1" players
+L 09/05/2023 - 13:35:31: Team "Blue" current score "0" with "1" players
+L 09/05/2023 - 13:35:31: Team "Green" current score "0" with "1" players
+L 09/05/2023 - 13:35:31: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 13:35:31: Team "Purple" current score "0" with "1" players
+L 09/05/2023 - 13:35:31: Team "Pink" current score "1" with "2" players
+L 09/05/2023 - 13:35:37: "Octmari<17><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "-210 992 -58")
+L 09/05/2023 - 13:35:39: World triggered "Round_Start"
+L 09/05/2023 - 13:35:42: "Dodger Fujisaki<32><[U:1:112494286]><Red>" joined team "Green"
+L 09/05/2023 - 13:35:42: "Dodger Fujisaki<32><[U:1:112494286]><Green>" committed suicide with "world" (attacker_position "192 1424 -63")
+L 09/05/2023 - 13:35:44: "Dodger Fujisaki<32><[U:1:112494286]><Green>" changed role to "telecon"
+L 09/05/2023 - 13:35:46: "Octmari<17><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "0 -1872 -111")
+L 09/05/2023 - 13:35:46: "Octmari<17><[U:1:160946369]><Blue>" joined team "Spectator"
+L 09/05/2023 - 13:35:52: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-25 -1169 -248") 
+L 09/05/2023 - 13:35:53: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-9 1570 199") 
+L 09/05/2023 - 13:35:54: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-1311 6 231") 
+L 09/05/2023 - 13:35:54: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Pink>") (position1 "1524 11 199") 
+L 09/05/2023 - 13:35:55: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-63 -103 106") 
+L 09/05/2023 - 13:36:00: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-32 -71 90") 
+L 09/05/2023 - 13:36:01: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "34 50 -184") 
+L 09/05/2023 - 13:36:03: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1529 -17 199") 
+L 09/05/2023 - 13:36:09: "Tofawil<29><[U:1:449097787]><Yellow>" say "whats this room for"
+L 09/05/2023 - 13:36:10: Team "Green" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1 1462 199") 
+L 09/05/2023 - 13:36:12: "Dodger Fujisaki<32><[U:1:112494286]><Green>" triggered "captureblocked" (cp "5") (cpname "Courtyard: Lower") (position "81 -150 -191")
+L 09/05/2023 - 13:36:14: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-129 -20 -191") 
+L 09/05/2023 - 13:36:14: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Pink>" with "tf_projectile_rocket" (attacker_position "-100 659 -63") (victim_position "137 559 -63")
+L 09/05/2023 - 13:36:16: "Dodger Fujisaki<32><[U:1:112494286]><Green>" killed "Mira<21><[U:1:149481681]><Pink>" with "bat" (attacker_position "-109 6 -186") (victim_position "-85 36 -184")
+L 09/05/2023 - 13:36:18: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "2") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-23 69 -184") (player2 "August101<16><[U:1:241010597]><Green>") (position2 "-37 89 -184") 
+L 09/05/2023 - 13:36:18: "Frost Byte<33><[U:1:126775298]><Pink>" changed role to "saptrap"
+L 09/05/2023 - 13:36:18: "August101<16><[U:1:241010597]><Green>" say "where"
+L 09/05/2023 - 13:36:22: "Frost Byte<33><[U:1:126775298]><Pink>" changed role to "telecon"
+L 09/05/2023 - 13:36:25: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-13 52 71") 
+L 09/05/2023 - 13:36:34: "Mira<21><[U:1:149481681]><Pink>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:36:34: "Tofawil<29><[U:1:449097787]><Yellow>" say "below the point between yellow and pink spawn"
+L 09/05/2023 - 13:36:43: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-1357 -114 226") 
+L 09/05/2023 - 13:36:43: World triggered "Round_Win" (winner "Green")
+L 09/05/2023 - 13:36:43: World triggered "Round_Length" (seconds "63.51")
+L 09/05/2023 - 13:36:43: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 13:36:43: Team "Blue" current score "0" with "0" players
+L 09/05/2023 - 13:36:43: Team "Green" current score "1" with "2" players
+L 09/05/2023 - 13:36:43: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 13:36:43: Team "Purple" current score "0" with "1" players
+L 09/05/2023 - 13:36:43: Team "Pink" current score "1" with "1" players
+L 09/05/2023 - 13:36:49: "August101<16><[U:1:241010597]><Green>" say "that might be a thing put in for vvis so it doesn't compile like shit\"
+L 09/05/2023 - 13:36:51: World triggered "Round_Start"
+L 09/05/2023 - 13:36:56: "Octmari<17><[U:1:160946369]><Spectator>" say "the map is for sure pretty abstract. you can tell it was made on a 3x3 grid"
+L 09/05/2023 - 13:37:09: "Frost Byte<33><[U:1:126775298]><Pink>" joined team "Red"
+L 09/05/2023 - 13:37:09: "Frost Byte<33><[U:1:126775298]><Red>" committed suicide with "world" (attacker_position "1583 1204 32")
+L 09/05/2023 - 13:37:10: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1269 133 224") 
+L 09/05/2023 - 13:37:12: "Tofawil<29><[U:1:449097787]><Yellow>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-860 487 191") (victim_position "-1167 301 128")
+L 09/05/2023 - 13:37:13: "Dodger Fujisaki<32><[U:1:112494286]><Green>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "bat" (attacker_position "-889 450 128") (victim_position "-858 484 128")
+L 09/05/2023 - 13:37:13: "August101<16><[U:1:241010597]><Green>" triggered "kill assist" against "Tofawil<29><[U:1:449097787]><Yellow>" (assister_position "-1167 301 142") (attacker_position "-889 450 128") (victim_position "-858 484 128")
+L 09/05/2023 - 13:37:25: "Dodger Fujisaki<32><[U:1:112494286]><Green>" joined team "Pink"
+L 09/05/2023 - 13:37:25: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" committed suicide with "world" (attacker_position "18 462 -63")
+L 09/05/2023 - 13:37:26: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" changed role to "workernode"
+L 09/05/2023 - 13:37:37: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" say "Want to keep the teams as balanced as I can."
+L 09/05/2023 - 13:37:37: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "-43 1509 199") 
+L 09/05/2023 - 13:37:39: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "69 -1265 -255") 
+L 09/05/2023 - 13:37:44: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-1361 53 231") 
+L 09/05/2023 - 13:37:51: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-26 -117 -189") 
+L 09/05/2023 - 13:37:53: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "20 -60 71") 
+L 09/05/2023 - 13:37:54: "Frost Byte<33><[U:1:126775298]><Red>" say "oh i see what that was"
+L 09/05/2023 - 13:37:57: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-27 -18 71") 
+L 09/05/2023 - 13:37:59: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "0 -144 -191") 
+L 09/05/2023 - 13:38:01: "Frost Byte<33><[U:1:126775298]><Red>" say "that was reds spawn"
+L 09/05/2023 - 13:38:03: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" triggered "builtobject" (object "OBJ_FORT") (position "1147 1188 -189")
+L 09/05/2023 - 13:38:04: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "1545 26 199") 
+L 09/05/2023 - 13:38:05: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "78 50 71") 
+L 09/05/2023 - 13:38:06: "Frost Byte<33><[U:1:126775298]><Red>" say "idk how we were able to get in"
+L 09/05/2023 - 13:38:11: Team "Green" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-230 1468 192") 
+L 09/05/2023 - 13:38:14: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-46 -1002 -255") 
+L 09/05/2023 - 13:38:18: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "395 1221 96") (victim_position "240 956 -46")
+L 09/05/2023 - 13:38:26: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "2 -1 71") 
+L 09/05/2023 - 13:38:31: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "65 54 -184") 
+L 09/05/2023 - 13:38:32: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" changed role to "telecon"
+L 09/05/2023 - 13:38:32: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" committed suicide with "world" (attacker_position "1255 1309 -191")
+L 09/05/2023 - 13:38:32: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "28 21 71") 
+L 09/05/2023 - 13:38:36: "August101<16><[U:1:241010597]><Green>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-239 1366 258")
+L 09/05/2023 - 13:38:36: "August101<16><[U:1:241010597]><Green>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "-239 1366 258") (victim_position "57 1482 199")
+L 09/05/2023 - 13:38:41: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "188 463 -63") (victim_position "-184 664 -63")
+L 09/05/2023 - 13:38:44: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "13 88 -184") 
+L 09/05/2023 - 13:38:52: "Tofawil<29><[U:1:449097787]><Yellow>" changed role to "dismatic"
+L 09/05/2023 - 13:38:55: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1285 -132 224") 
+L 09/05/2023 - 13:38:57: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "24 1465 199") 
+L 09/05/2023 - 13:38:58: "Tofawil<29><[U:1:449097787]><Yellow>" changed role to "sentronic"
+L 09/05/2023 - 13:39:03: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "6 1511 199") 
+L 09/05/2023 - 13:39:03: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-33 -29 71") 
+L 09/05/2023 - 13:39:04: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-23 -1219 -248") 
+L 09/05/2023 - 13:39:06: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "276 1517 192")
+L 09/05/2023 - 13:39:07: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "200 1498 192")
+L 09/05/2023 - 13:39:07: "Tofawil<29><[U:1:449097787]><Yellow>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "200 1498 192") (victim_position "-52 1509 199")
+L 09/05/2023 - 13:39:14: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1588 27 199") 
+L 09/05/2023 - 13:39:15: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "bat" (attacker_position "1220 1264 -43") (victim_position "1256 1256 -127")
+L 09/05/2023 - 13:39:21: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "33 39 71") 
+L 09/05/2023 - 13:39:24: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "29 1550 199") 
+L 09/05/2023 - 13:39:30: "Frost Byte<33><[U:1:126775298]><Red>" changed role to "sentronic"
+L 09/05/2023 - 13:39:33: "August101<16><[U:1:241010597]><Green>" killed "Dodger Fujisaki<32><[U:1:112494286]><Pink>" with "tf_projectile_rocket" (attacker_position "4 -265 -11") (victim_position "52 -299 -34")
+L 09/05/2023 - 13:39:35: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-173 1382 192")
+L 09/05/2023 - 13:39:36: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "-189 1391 192") 
+L 09/05/2023 - 13:39:44: "August101<16><[U:1:241010597]><Green>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "-1291 100 231") (victim_position "-1161 297 128")
+L 09/05/2023 - 13:39:46: Team "Red" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "19 38 71") 
+L 09/05/2023 - 13:39:50: "Frost Byte<33><[U:1:126775298]><Red>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-469 -477 -63") (victim_position "-388 -334 -63")
+L 09/05/2023 - 13:39:50: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "-388 -334 -49") (victim_position "-452 -487 -63")
+L 09/05/2023 - 13:39:57: "Frost Byte<33><[U:1:126775298]><Red>" triggered "captureblocked" (cp "3") (cpname "Dry Desert") (position "-180 1310 192")
+L 09/05/2023 - 13:39:57: "Frost Byte<33><[U:1:126775298]><Red>" killed "Dodger Fujisaki<32><[U:1:112494286]><Pink>" with "obj_sentrygun" (attacker_position "-180 1310 192") (victim_position "-116 1565 192")
+L 09/05/2023 - 13:40:04: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Frost Byte<33><[U:1:126775298]><Red>") (attacker_position "-825 1429 96")
+L 09/05/2023 - 13:40:10: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1179 733 128")
+L 09/05/2023 - 13:40:16: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-1274 53 231") 
+L 09/05/2023 - 13:40:22: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "69 37 -184") 
+L 09/05/2023 - 13:40:25: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-28 1603 199") 
+L 09/05/2023 - 13:40:28: Team "Red" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "83 -1016 -255") 
+L 09/05/2023 - 13:40:29: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "1525 3 199") 
+L 09/05/2023 - 13:40:32: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-1342 1314 96")
+L 09/05/2023 - 13:40:33: "Frost Byte<33><[U:1:126775298]><Red>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-11 -712 -63") (victim_position "182 -813 -63")
+L 09/05/2023 - 13:40:42: "Tofawil<29><[U:1:449097787]><Yellow>" killed "Dodger Fujisaki<32><[U:1:112494286]><Pink>" with "obj_sentrygun" (attacker_position "22 -1154 -248") (victim_position "-1486 943 122")
+L 09/05/2023 - 13:40:42: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "19 -1145 -248") 
+L 09/05/2023 - 13:40:43: "Frost Byte<33><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "-1305 15 231")
+L 09/05/2023 - 13:40:44: Team "Red" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "-1346 62 231") 
+L 09/05/2023 - 13:40:47: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" changed role to "dismatic"
+L 09/05/2023 - 13:40:51: "Frost Byte<33><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER_ENTRANCE") (weapon "tf_projectile_rocket") (objectowner "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (attacker_position "-1433 1013 104")
+L 09/05/2023 - 13:40:53: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-1304 34 231") 
+L 09/05/2023 - 13:40:54: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1275 278 129")
+L 09/05/2023 - 13:40:57: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "93 1417 194")
+L 09/05/2023 - 13:40:58: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "93 1417 194") 
+L 09/05/2023 - 13:40:58: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "19 -1126 -248") 
+L 09/05/2023 - 13:41:03: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Frost Byte<33><[U:1:126775298]><Red>") (attacker_position "-289 1532 184")
+L 09/05/2023 - 13:41:04: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" say "OOooo the buildings have their colors now, how did I not notice."
+L 09/05/2023 - 13:41:06: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "6 1508 199") 
+L 09/05/2023 - 13:41:07: Team "Red" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "1549 -143 192") 
+L 09/05/2023 - 13:41:12: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1486 72 199") 
+L 09/05/2023 - 13:41:13: "Frost Byte<33><[U:1:126775298]><Red>" killed "Dodger Fujisaki<32><[U:1:112494286]><Pink>" with "tf_projectile_rocket" (attacker_position "1048 564 32") (victim_position "1062 893 32")
+L 09/05/2023 - 13:41:15: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-36 39 71") 
+L 09/05/2023 - 13:41:15: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "1414 344 96") (victim_position "1212 428 32")
+L 09/05/2023 - 13:41:18: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 13:41:19: "Octmari<17><[U:1:160946369]><Spectator>" say "turnip, do we plan to get more projectile weapons in the game later on?"
+L 09/05/2023 - 13:41:22: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "5 45 71") 
+L 09/05/2023 - 13:41:28: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "52 -49 -184") 
+L 09/05/2023 - 13:41:38: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1344 -20 231") 
+L 09/05/2023 - 13:41:39: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "-1248 47 231")
+L 09/05/2023 - 13:41:39: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "1481 5 199") 
+L 09/05/2023 - 13:41:39: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "53 -1283 -255") 
+L 09/05/2023 - 13:41:43: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "-60 1519 199") 
+L 09/05/2023 - 13:41:43: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1312 -1251 -159")
+L 09/05/2023 - 13:41:44: "August101<16><[U:1:241010597]><Green>" say "i somewhat hope so"
+L 09/05/2023 - 13:41:45: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-176 1318 192")
+L 09/05/2023 - 13:41:47: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "26 -10 71") 
+L 09/05/2023 - 13:41:50: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "1585 -36 199") 
+L 09/05/2023 - 13:41:54: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-7 -36 71") 
+L 09/05/2023 - 13:41:55: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "21 34 -184") 
+L 09/05/2023 - 13:41:56: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Frost Byte<33><[U:1:126775298]><Red>") (attacker_position "-365 51 -63")
+L 09/05/2023 - 13:41:57: Team "Red" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "1522 8 199") 
+L 09/05/2023 - 13:42:00: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-98 15 -184") 
+L 09/05/2023 - 13:42:00: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" killed "August101<16><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-1221 -9 -25") (victim_position "-1579 -73 19")
+L 09/05/2023 - 13:42:07: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-66 -60 71") 
+L 09/05/2023 - 13:42:07: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-31 1562 199") 
+L 09/05/2023 - 13:42:07: "Frost Byte<33><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "1000 -1235 -159")
+L 09/05/2023 - 13:42:08: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-159 16 58")
+L 09/05/2023 - 13:42:14: Team "Red" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "34 -1197 -248") 
+L 09/05/2023 - 13:42:15: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "27 -1089 -248")
+L 09/05/2023 - 13:42:16: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "93 10 -184") 
+L 09/05/2023 - 13:42:17: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "1477 67 199") 
+L 09/05/2023 - 13:42:22: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (attacker_position "1184 -226 32")
+L 09/05/2023 - 13:42:25: Team "Red" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "-1307 62 231") 
+L 09/05/2023 - 13:42:25: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Frost Byte<33><[U:1:126775298]><Red>") (attacker_position "-301 -1165 -159")
+L 09/05/2023 - 13:42:28: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-20 -1291 -255") 
+L 09/05/2023 - 13:42:32: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "1476 -33 199") 
+L 09/05/2023 - 13:42:38: Team "Red" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "-8 1452 199") 
+L 09/05/2023 - 13:42:38: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-8 1452 199")
+L 09/05/2023 - 13:42:40: "August101<16><[U:1:241010597]><Green>" killed "Dodger Fujisaki<32><[U:1:112494286]><Pink>" with "tf_projectile_rocket" (attacker_position "401 -1055 -122") (victim_position "389 -965 -146")
+L 09/05/2023 - 13:42:46: "Frost Byte<33><[U:1:126775298]><Red>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "-29 329 56") (victim_position "332 439 -63")
+L 09/05/2023 - 13:42:48: "August101<16><[U:1:241010597]><Green>" triggered "captureblocked" (cp "0") (cpname "Courtyard: Upper") (position "-127 -45 64")
+L 09/05/2023 - 13:42:48: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "-127 -45 64") (victim_position "132 31 111")
+L 09/05/2023 - 13:42:48: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "kill assist" against "Frost Byte<33><[U:1:126775298]><Red>" (assister_position "332 439 -49") (attacker_position "-127 -45 64") (victim_position "132 31 111")
+L 09/05/2023 - 13:42:51: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-38 -9 71") 
+L 09/05/2023 - 13:42:55: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" changed role to "telecon"
+L 09/05/2023 - 13:42:56: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-124 2 -191") 
+L 09/05/2023 - 13:43:05: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-1364 -3 231") 
+L 09/05/2023 - 13:43:09: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-742 1204 96")
+L 09/05/2023 - 13:43:11: "August101<16><[U:1:241010597]><Green>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "-986 1446 96") (victim_position "-776 1365 96")
+L 09/05/2023 - 13:43:11: "Frost Byte<33><[U:1:126775298]><Red>" triggered "kill assist" against "Tofawil<29><[U:1:449097787]><Yellow>" (assister_position "144 1424 -63") (attacker_position "-986 1446 96") (victim_position "-776 1365 96")
+L 09/05/2023 - 13:43:11: "August101<16><[U:1:241010597]><Green>" triggered "domination" against "Tofawil<29><[U:1:449097787]><Yellow>"
+L 09/05/2023 - 13:43:13: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "-818 1446 96")
+L 09/05/2023 - 13:43:16: "August101<16><[U:1:241010597]><Green>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "-201 1348 192") (victim_position "-8 1485 199")
+L 09/05/2023 - 13:43:16: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Frost Byte<33><[U:1:126775298]><Red>") (attacker_position "-201 1348 192")
+L 09/05/2023 - 13:43:18: Team "Green" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "-22 1551 199") 
+L 09/05/2023 - 13:43:22: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-63 1515 199") 
+L 09/05/2023 - 13:43:32: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Green>") (position1 "1472 -20 199") 
+L 09/05/2023 - 13:43:32: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-1216 -114 224") 
+L 09/05/2023 - 13:43:38: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "43 1608 198") 
+L 09/05/2023 - 13:43:44: "August101<16><[U:1:241010597]><Green>" killed "Dodger Fujisaki<32><[U:1:112494286]><Pink>" with "tf_projectile_rocket" (attacker_position "-241 -102 4") (victim_position "-408 146 -63")
+L 09/05/2023 - 13:43:48: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1133 439 128")
+L 09/05/2023 - 13:43:52: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "-1439 -94 224")
+L 09/05/2023 - 13:43:54: World triggered "Round_Win" (winner "Green")
+L 09/05/2023 - 13:43:54: World triggered "Round_Length" (seconds "423.14")
+L 09/05/2023 - 13:43:54: Team "Red" current score "0" with "1" players
+L 09/05/2023 - 13:43:54: Team "Blue" current score "0" with "0" players
+L 09/05/2023 - 13:43:54: Team "Green" current score "2" with "1" players
+L 09/05/2023 - 13:43:54: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 13:43:54: Team "Purple" current score "0" with "1" players
+L 09/05/2023 - 13:43:54: Team "Pink" current score "1" with "1" players
+L 09/05/2023 - 13:43:56: "August101<16><[U:1:241010597]><Green>" killed "Tofawil<29><[U:1:449097787]><Yellow>" with "tf_projectile_rocket" (attacker_position "-829 -49 -14") (victim_position "-710 -257 -41")
+L 09/05/2023 - 13:43:59: "Tofawil<29><[U:1:449097787]><Yellow>" say "yo"
+L 09/05/2023 - 13:44:00: "August101<16><[U:1:241010597]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "103 373 -19")
+L 09/05/2023 - 13:44:02: World triggered "Round_Start"
+L 09/05/2023 - 13:44:04: "August101<16><[U:1:241010597]><Green>" committed suicide with "world" (attacker_position "-1104 -816 -159")
+L 09/05/2023 - 13:44:04: "August101<16><[U:1:241010597]><Green>" joined team "Spectator"
+L 09/05/2023 - 13:44:07: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" say "By the by, who Octmari you voice telecon right, your laugh is adorable!"
+L 09/05/2023 - 13:44:07: "Tofawil<29><[U:1:449097787]><Yellow>" say "you cant climb these stairs"
+L 09/05/2023 - 13:44:12: "August101<16><[U:1:241010597]><Spectator>" say "I know"
+L 09/05/2023 - 13:44:19: "Tofawil<29><[U:1:449097787]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1340 -246 150")
+L 09/05/2023 - 13:44:21: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-1270 8 231") 
+L 09/05/2023 - 13:44:21: "Octmari<17><[U:1:160946369]><Spectator>" say "yes, im the voice of telecon :)"
+L 09/05/2023 - 13:44:25: "Octmari<17><[U:1:160946369]><Spectator>" joined team "Green"
+L 09/05/2023 - 13:44:25: "Frost Byte<33><[U:1:126775298]><Red>" say "yo we can go into other teams spawn openly lol"
+L 09/05/2023 - 13:44:27: "Octmari<17><[U:1:160946369]><Green>" changed role to "telecon"
+L 09/05/2023 - 13:44:29: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-83 -97 -189") 
+L 09/05/2023 - 13:44:30: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "1521 64 199") 
+L 09/05/2023 - 13:44:32: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "81 -1206 -248") 
+L 09/05/2023 - 13:44:38: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-26 37 71") 
+L 09/05/2023 - 13:44:40: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Yellow>") (position1 "-10 -984 -255") 
+L 09/05/2023 - 13:44:43: "Tofawil<29><[U:1:449097787]><Yellow>" committed suicide with "tf_projectile_rocket" (attacker_position "122 -1050 -242")
+L 09/05/2023 - 13:44:44: "Frost Byte<33><[U:1:126775298]><Red>" say "ok well some of them"
+L 09/05/2023 - 13:44:44: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "0 1491 199") 
+L 09/05/2023 - 13:44:45: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "-15 -1067 -248") 
+L 09/05/2023 - 13:44:47: "August101<16><[U:1:241010597]><Spectator>" say "which ones"
+L 09/05/2023 - 13:44:50: Team "Red" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "-89 -1077 -249") 
+L 09/05/2023 - 13:44:52: "Frost Byte<33><[U:1:126775298]><Red>" say "red and pink so far"
+L 09/05/2023 - 13:44:53: "Tofawil<29><[U:1:449097787]><Yellow>" killed "Octmari<17><[U:1:160946369]><Green>" with "obj_sentrygun" (attacker_position "-1305 -309 128") (victim_position "-1244 -506 128")
+L 09/05/2023 - 13:44:57: "August101<16><[U:1:241010597]><Spectator>" say "your red rn so"
+L 09/05/2023 - 13:44:59: "Tofawil<29><[U:1:449097787]><Yellow>" changed role to "saptrap"
+L 09/05/2023 - 13:44:59: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-1296 93 231") 
+L 09/05/2023 - 13:45:00: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Tofawil<29><[U:1:449097787]><Yellow>") (attacker_position "-1300 -2 231")
+L 09/05/2023 - 13:45:08: Team "Pink" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-6 -1145 -248") 
+L 09/05/2023 - 13:45:09: "Frost Byte<33><[U:1:126775298]><Red>" say "ik but i wasnt at one point when i could"
+L 09/05/2023 - 13:45:17: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "49 -53 -184") 
+L 09/05/2023 - 13:45:17: World triggered "Round_Win" (winner "Pink")
+L 09/05/2023 - 13:45:17: World triggered "Round_Length" (seconds "75.57")
+L 09/05/2023 - 13:45:17: Team "Red" current score "0" with "1" players
+L 09/05/2023 - 13:45:17: Team "Blue" current score "0" with "0" players
+L 09/05/2023 - 13:45:17: Team "Green" current score "2" with "1" players
+L 09/05/2023 - 13:45:17: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 13:45:17: Team "Purple" current score "0" with "1" players
+L 09/05/2023 - 13:45:17: Team "Pink" current score "2" with "1" players
+L 09/05/2023 - 13:45:21: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" say "Oh wait crap!"
+L 09/05/2023 - 13:45:25: World triggered "Round_Start"
+L 09/05/2023 - 13:45:31: "Frost Byte<33><[U:1:126775298]><Red>" joined team "Blue"
+L 09/05/2023 - 13:45:31: "Frost Byte<33><[U:1:126775298]><Blue>" committed suicide with "world" (attacker_position "192 1424 -63")
+L 09/05/2023 - 13:45:32: "August101<16><[U:1:241010597]><Spectator>" say "check every door for me"
+L 09/05/2023 - 13:45:33: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" say "Sorry about capping there."
+L 09/05/2023 - 13:45:36: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "32 -1111 -248") 
+L 09/05/2023 - 13:45:38: "Frost Byte<33><[U:1:126775298]><Blue>" say "alright"
+L 09/05/2023 - 13:45:40: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-26 1561 199") 
+L 09/05/2023 - 13:45:50: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" say "Anyways yes your telecon laugh is adorable."
+L 09/05/2023 - 13:45:50: "August101<16><[U:1:241010597]><Spectator>" joined team "Red"
+L 09/05/2023 - 13:45:50: Team "Green" triggered "pointcaptured" (cp "1") (cpname "Overcross") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "-1267 48 231") 
+L 09/05/2023 - 13:45:51: "August101<16><[U:1:241010597]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:45:53: "Frost Byte<33><[U:1:126775298]><Blue>" changed role to "telecon"
+L 09/05/2023 - 13:45:54: Team "Pink" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "88 91 66") 
+L 09/05/2023 - 13:46:01: Team "Pink" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Pink>") (position1 "-50 -1134 -248") 
+L 09/05/2023 - 13:46:11: "Frost Byte<33><[U:1:126775298]><Blue>" say "yea i can get into red"
+L 09/05/2023 - 13:46:16: "Octmari<17><[U:1:160946369]><Green>" say "me too"
+L 09/05/2023 - 13:46:24: "Octmari<17><[U:1:160946369]><Green>" say "and pink"
+L 09/05/2023 - 13:46:28: "August101<16><[U:1:241010597]><Red>" say "so it's red and pink"
+L 09/05/2023 - 13:46:30: "August101<16><[U:1:241010597]><Red>" say "odd"
+L 09/05/2023 - 13:46:30: "Octmari<17><[U:1:160946369]><Green>" say "those are the only two"
+L 09/05/2023 - 13:46:31: "Octmari<17><[U:1:160946369]><Green>" say "yes"
+L 09/05/2023 - 13:46:40: "August101<16><[U:1:241010597]><Red>" killed "Octmari<17><[U:1:160946369]><Green>" with "scattergun" (attacker_position "1470 3 199") (victim_position "1478 93 199")
+L 09/05/2023 - 13:46:42: Team "Red" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Red>") (position1 "1581 2 199") 
+L 09/05/2023 - 13:46:44: "SCARY PACK MAN!!!<34><[U:1:251267280]><>" connected, address "172.56.192.56:14709"
+L 09/05/2023 - 13:46:45: "SCARY PACK MAN!!!<34><[U:1:251267280]><>" STEAM USERID validated
+L 09/05/2023 - 13:46:58: "SCARY PACK MAN!!!<34><[U:1:251267280]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 13:47:05: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "1560 391 96")
+L 09/05/2023 - 13:47:06: "August101<16><[U:1:241010597]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "1491 284 96")
+L 09/05/2023 - 13:47:06: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "12 -1136 -248") 
+L 09/05/2023 - 13:47:10: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "1481 487 96")
+L 09/05/2023 - 13:47:13: "August101<16><[U:1:241010597]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "1436 276 99")
+L 09/05/2023 - 13:47:16: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "-62 44 71") 
+L 09/05/2023 - 13:47:20: Team "Green" triggered "pointcaptured" (cp "5") (cpname "Courtyard: Lower") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "38 -31 -184") 
+L 09/05/2023 - 13:47:35: "Frost Byte<33><[U:1:126775298]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "192 1232 -63")
+L 09/05/2023 - 13:47:36: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "1513 54 199") 
+L 09/05/2023 - 13:47:42: "Frost Byte<33><[U:1:126775298]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER_ENTRANCE") (weapon "pda_engineer") (objectowner "Frost Byte<33><[U:1:126775298]><Blue>") (attacker_position "-16 1488 199")
+L 09/05/2023 - 13:47:42: "Octmari<17><[U:1:160946369]><Green>" killed "Dodger Fujisaki<32><[U:1:112494286]><Pink>" with "scattergun" (attacker_position "1273 -743 32") (victim_position "1069 -636 32")
+L 09/05/2023 - 13:47:42: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Blue>") (position1 "-16 1495 199") 
+L 09/05/2023 - 13:47:43: Team "Red" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Red>") (position1 "1549 -25 199") 
+L 09/05/2023 - 13:47:48: "Tofawil<29><[U:1:449097787]><Yellow>" killed "Octmari<17><[U:1:160946369]><Green>" with "revolver" (attacker_position "1131 -371 32") (victim_position "1235 -602 32")
+L 09/05/2023 - 13:47:49: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Blue>") (position1 "-23 -41 71") 
+L 09/05/2023 - 13:47:53: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" say "Wow. We were having a moment. ;-;"
+L 09/05/2023 - 13:47:53: "Octmari<17><[U:1:160946369]><Green>" say "i am evil and fucked up"
+L 09/05/2023 - 13:47:55: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Blue>") (position1 "81 -1102 -248") 
+L 09/05/2023 - 13:47:58: "Octmari<17><[U:1:160946369]><Green>" say "its what i do"
+L 09/05/2023 - 13:48:03: "August101<16><[U:1:241010597]><Red>" say "wow"
+L 09/05/2023 - 13:48:04: "Dodger Fujisaki<32><[U:1:112494286]><Pink>" say "Meanie"
+L 09/05/2023 - 13:48:25: "Frost Byte<33><[U:1:126775298]><Blue>" changed role to "saptrap"
+L 09/05/2023 - 13:48:25: "Frost Byte<33><[U:1:126775298]><Blue>" committed suicide with "world" (attacker_position "1181 806 32")
+L 09/05/2023 - 13:48:59: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "1501 -24 199") 
+L 09/05/2023 - 13:49:10: Team "Red" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Red>") (position1 "1510 -38 199") 
+L 09/05/2023 - 13:49:14: "Octmari<17><[U:1:160946369]><Green>" killed "August101<16><[U:1:241010597]><Red>" with "scattergun" (attacker_position "1449 12 199") (victim_position "1435 430 108")
+L 09/05/2023 - 13:49:21: Team "Green" triggered "pointcaptured" (cp "4") (cpname "Wet Wetland") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "22 -1124 -248") 
+L 09/05/2023 - 13:49:30: "Octmari<17><[U:1:160946369]><Green>" killed "Dodger Fujisaki<32><[U:1:112494286]><Pink>" with "scattergun" (attacker_position "42 -460 -63") (victim_position "-198 -414 -63")
+L 09/05/2023 - 13:49:33: Team "Green" triggered "pointcaptured" (cp "0") (cpname "Courtyard: Upper") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "38 -35 71") 
+L 09/05/2023 - 13:49:41: Team "Green" triggered "pointcaptured" (cp "3") (cpname "Dry Desert") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "-5 1424 199") 
+L 09/05/2023 - 13:49:53: Team "Green" triggered "pointcaptured" (cp "2") (cpname "Mosaic") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Green>") (position1 "1527 3 199") 
+L 09/05/2023 - 13:49:53: World triggered "Round_Win" (winner "Green")
+L 09/05/2023 - 13:49:53: World triggered "Round_Length" (seconds "267.94")
+L 09/05/2023 - 13:49:53: Team "Red" current score "0" with "1" players
+L 09/05/2023 - 13:49:53: Team "Blue" current score "0" with "1" players
+L 09/05/2023 - 13:49:53: Team "Green" current score "3" with "1" players
+L 09/05/2023 - 13:49:53: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 13:49:53: Team "Purple" current score "0" with "1" players
+L 09/05/2023 - 13:49:53: Team "Pink" current score "2" with "1" players
+L 09/05/2023 - 13:49:55: "August101<16><[U:1:241010597]><Red>" say "for real other than reworking the mid I'm fine with all the points so far"
+L 09/05/2023 - 13:49:55: "SCARY PACK MAN!!!<35><[U:1:251267280]><>" connected, address "172.56.192.56:14709"
+L 09/05/2023 - 13:49:56: "SCARY PACK MAN!!!<35><[U:1:251267280]><>" STEAM USERID validated
+L 09/05/2023 - 13:49:59: "Octmari<17><[U:1:160946369]><Green>" say "yes.. finally.. just like miku.. world is mine.."
+L 09/05/2023 - 13:50:01: World triggered "Game_Over" reason "Reached Round Limit"
+L 09/05/2023 - 13:50:01: Team "Red" final score "0" with "1" players
+L 09/05/2023 - 13:50:01: Team "Blue" final score "0" with "1" players
+L 09/05/2023 - 13:50:01: Team "Green" final score "3" with "1" players
+L 09/05/2023 - 13:50:01: Team "Yellow" final score "0" with "1" players
+L 09/05/2023 - 13:50:01: Team "Purple" final score "0" with "1" players
+L 09/05/2023 - 13:50:01: Team "Pink" final score "2" with "1" players
+L 09/05/2023 - 13:50:10: "SCARY PACK MAN!!!<35><[U:1:251267280]><>" entered the game
+L 09/05/2023 - 13:50:11: Log file closed.

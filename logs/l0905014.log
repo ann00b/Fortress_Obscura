@@ -1,0 +1,210 @@
+L 09/05/2023 - 03:57:32: Log file started (file "logs\L0905014.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 03:57:46: "maidenabyss<6><[U:1:1008693126]><>" entered the game
+L 09/05/2023 - 03:58:06: "maidenabyss<6><[U:1:1008693126]><Unassigned>" joined team "Purple"
+L 09/05/2023 - 03:58:07: "maidenabyss<6><[U:1:1008693126]><Purple>" changed role to "workernode"
+L 09/05/2023 - 03:58:16: "maidenabyss<6><[U:1:1008693126]><Purple>" triggered "builtobject" (object "OBJ_STAIRS") (position "-2134 -2195 256")
+L 09/05/2023 - 03:58:37: World triggered "Round_Start"
+L 09/05/2023 - 03:58:46: "maidenabyss<6><[U:1:1008693126]><Purple>" triggered "builtobject" (object "OBJ_WALL") (position "-1983 -2160 256")
+L 09/05/2023 - 03:58:49: "maidenabyss<6><[U:1:1008693126]><Purple>" triggered "builtobject" (object "OBJ_FORT") (position "-1862 -2162 256")
+L 09/05/2023 - 03:59:42: "maidenabyss<6><[U:1:1008693126]><Purple>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 04:06:47: "SansMudkip<7><[U:1:1213236240]><>" connected, address "119.12.223.131:27005"
+L 09/05/2023 - 04:06:48: "SansMudkip<7><[U:1:1213236240]><>" STEAM USERID validated
+L 09/05/2023 - 04:07:13: "SansMudkip<7><[U:1:1213236240]><>" entered the game
+L 09/05/2023 - 04:07:52: "SansMudkip<7><[U:1:1213236240]><Unassigned>" joined team "Purple"
+L 09/05/2023 - 04:07:56: "SansMudkip<7><[U:1:1213236240]><Purple>" changed role to "telecon"
+L 09/05/2023 - 04:08:26: World triggered "Round_Start"
+L 09/05/2023 - 04:08:41: "SansMudkip<7><[U:1:1213236240]><Purple>" changed role to "sentronic"
+L 09/05/2023 - 04:08:57: "SansMudkip<7><[U:1:1213236240]><Purple>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1346 -1503 480")
+L 09/05/2023 - 04:10:47: "maidenabyss<8><[U:1:1008693126]><>" connected, address "65.182.247.207:27005"
+L 09/05/2023 - 04:10:48: "maidenabyss<8><[U:1:1008693126]><>" STEAM USERID validated
+L 09/05/2023 - 04:10:52: "maidenabyss<8><[U:1:1008693126]><>" entered the game
+L 09/05/2023 - 04:10:55: "maidenabyss<8><[U:1:1008693126]><Unassigned>" joined team "Red"
+L 09/05/2023 - 04:10:59: "maidenabyss<8><[U:1:1008693126]><Red>" changed role to "telecon"
+L 09/05/2023 - 04:11:01: "maidenabyss<8><[U:1:1008693126]><Red>" joined team "Yellow"
+L 09/05/2023 - 04:11:01: "maidenabyss<8><[U:1:1008693126]><Yellow>" committed suicide with "world" (attacker_position "6320 1904 -95")
+L 09/05/2023 - 04:11:08: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "wrong team"
+L 09/05/2023 - 04:12:30: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "where is purple team"
+L 09/05/2023 - 04:12:49: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "found it"
+L 09/05/2023 - 04:13:12: "SansMudkip<7><[U:1:1213236240]><Purple>" killed "maidenabyss<8><[U:1:1008693126]><Yellow>" with "tf_projectile_rocket" (attacker_position "-2133 -1621 480") (victim_position "-1918 -1573 516")
+L 09/05/2023 - 04:13:17: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "well that was rude"
+L 09/05/2023 - 04:13:22: "SansMudkip<7><[U:1:1213236240]><Purple>" say "mb bro"
+L 09/05/2023 - 04:13:34: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "#Hydro_cap_power_plant") (numcappers "1") (player1 "SansMudkip<7><[U:1:1213236240]><Purple>") (position1 "-1653 -1389 487") 
+L 09/05/2023 - 04:13:45: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "theres just the two of us so i figured id wait for a few more people before we actually played"
+L 09/05/2023 - 04:13:53: "SansMudkip<7><[U:1:1213236240]><Purple>" say "oooooh shit"
+L 09/05/2023 - 04:13:56: "SansMudkip<7><[U:1:1213236240]><Purple>" joined team "Blue"
+L 09/05/2023 - 04:13:56: "SansMudkip<7><[U:1:1213236240]><Blue>" committed suicide with "world" (attacker_position "-1976 -835 672")
+L 09/05/2023 - 04:14:02: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "espessaly on this map that is fucking HUGE"
+L 09/05/2023 - 04:14:06: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "fuck"
+L 09/05/2023 - 04:14:10: "SansMudkip<7><[U:1:1213236240]><Blue>" say "IT'S SRTILL CAPPING"
+L 09/05/2023 - 04:14:14: "SansMudkip<7><[U:1:1213236240]><Blue>" joined team "Purple"
+L 09/05/2023 - 04:14:15: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "lmao"
+L 09/05/2023 - 04:14:18: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "its ok"
+L 09/05/2023 - 04:14:26: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "we should cap this map blows"
+L 09/05/2023 - 04:14:29: "maidenabyss<8><[U:1:1008693126]><Yellow>" joined team "Purple"
+L 09/05/2023 - 04:14:29: "maidenabyss<8><[U:1:1008693126]><Purple>" committed suicide with "world" (attacker_position "2108 -1323 72")
+L 09/05/2023 - 04:14:37: "maidenabyss<8><[U:1:1008693126]><Purple>" say "oh good i can join u"
+L 09/05/2023 - 04:14:38: "SansMudkip<7><[U:1:1213236240]><Purple>" say "cap speedrun"
+L 09/05/2023 - 04:15:08: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "#Hydro_cap_warehouse") (numcappers "1") (player1 "SansMudkip<7><[U:1:1213236240]><Purple>") (position1 "-1422 1272 103") 
+L 09/05/2023 - 04:15:36: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "#Hydro_cap_dam") (numcappers "1") (player1 "maidenabyss<8><[U:1:1008693126]><Purple>") (position1 "1242 -1146 143") 
+L 09/05/2023 - 04:15:52: "maidenabyss<8><[U:1:1008693126]><Purple>" say "FUCK"
+L 09/05/2023 - 04:15:55: "maidenabyss<8><[U:1:1008693126]><Purple>" say "IM IN THE WALL"
+L 09/05/2023 - 04:16:00: "maidenabyss<8><[U:1:1008693126]><Purple>" say "SON OF A BITCH"
+L 09/05/2023 - 04:16:03: "SansMudkip<7><[U:1:1213236240]><Purple>" say "common telecon L"
+L 09/05/2023 - 04:16:03: "maidenabyss<8><[U:1:1008693126]><Purple>" committed suicide with "world" (attacker_position "-2238 -251 276")
+L 09/05/2023 - 04:16:10: "maidenabyss<8><[U:1:1008693126]><Purple>" say "HATE THIS SHIT MAN"
+L 09/05/2023 - 04:16:18: "maidenabyss<8><[U:1:1008693126]><Purple>" say "CANT HAVE SHIT IN HYDRO"
+L 09/05/2023 - 04:16:24: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "#Hydro_cap_radar_dish") (numcappers "1") (player1 "SansMudkip<7><[U:1:1213236240]><Purple>") (position1 "1618 1537 271") 
+L 09/05/2023 - 04:17:05: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "#Hydro_cap_blue_base") (numcappers "1") (player1 "maidenabyss<8><[U:1:1008693126]><Purple>") (position1 "-4543 -926 1") 
+L 09/05/2023 - 04:17:09: "SansMudkip<7><[U:1:1213236240]><Purple>" say "last one"
+L 09/05/2023 - 04:17:12: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "#Hydro_cap_red_base") (numcappers "1") (player1 "SansMudkip<7><[U:1:1213236240]><Purple>") (position1 "4719 1799 7") 
+L 09/05/2023 - 04:17:23: "maidenabyss<8><[U:1:1008693126]><Purple>" say "man"
+L 09/05/2023 - 04:17:30: "maidenabyss<8><[U:1:1008693126]><Purple>" say "telecon really fucking flies"
+L 09/05/2023 - 04:18:06: "SansMudkip<7><[U:1:1213236240]><Purple>" say "where are you lmao"
+L 09/05/2023 - 04:18:07: "maidenabyss<8><[U:1:1008693126]><Purple>" say "with how high she jumps its like the flying glitch was never patched"
+L 09/05/2023 - 04:18:12: "maidenabyss<8><[U:1:1008693126]><Purple>" say "idk this is hydro"
+L 09/05/2023 - 04:18:26: "maidenabyss<8><[U:1:1008693126]><Purple>" say "yellow base i think?"
+L 09/05/2023 - 04:18:32: "maidenabyss<8><[U:1:1008693126]><Purple>" say "no blue"
+L 09/05/2023 - 04:18:36: "maidenabyss<8><[U:1:1008693126]><Purple>" say "idfk"
+L 09/05/2023 - 04:18:38: World triggered "Round_Win" (winner "Purple")
+L 09/05/2023 - 04:18:38: World triggered "Round_Length" (seconds "612.06")
+L 09/05/2023 - 04:18:38: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 04:18:38: Team "Blue" current score "0" with "0" players
+L 09/05/2023 - 04:18:38: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 04:18:38: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 04:18:38: Team "Purple" current score "1" with "2" players
+L 09/05/2023 - 04:18:38: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 04:18:41: "SansMudkip<7><[U:1:1213236240]><Purple>" say "it doesn't matter"
+L 09/05/2023 - 04:18:46: World triggered "Round_Start"
+L 09/05/2023 - 04:19:00: "maidenabyss<8><[U:1:1008693126]><Purple>" say "where are u"
+L 09/05/2023 - 04:19:02: "maidenabyss<8><[U:1:1008693126]><Purple>" say "wtf"
+L 09/05/2023 - 04:19:04: "SansMudkip<7><[U:1:1213236240]><Purple>" say "ok, no capping this time ig"
+L 09/05/2023 - 04:19:14: "SansMudkip<7><[U:1:1213236240]><Purple>" say "unless we wanna change maps"
+L 09/05/2023 - 04:19:19: "maidenabyss<8><[U:1:1008693126]><Purple>" say "i hate this one"
+L 09/05/2023 - 04:19:23: "maidenabyss<8><[U:1:1008693126]><Purple>" say "WH]"
+L 09/05/2023 - 04:19:28: "maidenabyss<8><[U:1:1008693126]><Purple>" say "look"
+L 09/05/2023 - 04:19:38: "maidenabyss<8><[U:1:1008693126]><Purple>" say "u are"
+L 09/05/2023 - 04:19:42: "maidenabyss<8><[U:1:1008693126]><Purple>" say "not looking up lol"
+L 09/05/2023 - 04:19:53: "SansMudkip<7><[U:1:1213236240]><Purple>" say "epic jump"
+L 09/05/2023 - 04:19:55: "maidenabyss<8><[U:1:1008693126]><Purple>" say "she can fucking"
+L 09/05/2023 - 04:19:57: "maidenabyss<8><[U:1:1008693126]><Purple>" say "JUMP"
+L 09/05/2023 - 04:20:08: "SansMudkip<7><[U:1:1213236240]><Purple>" say "mantreads for telecon when"
+L 09/05/2023 - 04:20:08: "maidenabyss<8><[U:1:1008693126]><Purple>" say "shes a kangaroo not a bunny"
+L 09/05/2023 - 04:20:49: "maidenabyss<8><[U:1:1008693126]><Purple>" joined team "Yellow"
+L 09/05/2023 - 04:20:49: "maidenabyss<8><[U:1:1008693126]><Yellow>" committed suicide with "world" (attacker_position "1480 -1906 -31")
+L 09/05/2023 - 04:20:50: "SansMudkip<7><[U:1:1213236240]><Purple>" committed suicide with "tf_projectile_rocket" (attacker_position "1573 -2016 -1")
+L 09/05/2023 - 04:21:05: "SansMudkip<7><[U:1:1213236240]><Purple>" say "yellow telecon looks so cool"
+L 09/05/2023 - 04:21:17: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "i like to think yellow is her natural team"
+L 09/05/2023 - 04:21:22: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "like how real scout is on red"
+L 09/05/2023 - 04:21:27: "SansMudkip<7><[U:1:1213236240]><Purple>" say "yea"
+L 09/05/2023 - 04:21:35: "SansMudkip<7><[U:1:1213236240]><Purple>" say "and red is sentronic's"
+L 09/05/2023 - 04:21:40: "SansMudkip<7><[U:1:1213236240]><Purple>" say "and blue is dismatic's"
+L 09/05/2023 - 04:21:53: "SansMudkip<7><[U:1:1213236240]><Purple>" say "and pink is saptrap cos he's a femboy"
+L 09/05/2023 - 04:22:06: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "even though it doesnt matter since theyre robots not real humans"
+L 09/05/2023 - 04:22:15: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "they can be two places at once"
+L 09/05/2023 - 04:22:17: "SansMudkip<7><[U:1:1213236240]><Purple>" say "good point"
+L 09/05/2023 - 04:23:16: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "REMOVE THIS MAP FROM THE FUCKING MAP POOL"
+L 09/05/2023 - 04:23:18: "maidenabyss<8><[U:1:1008693126]><Yellow>" say "GOD"
+L 09/05/2023 - 04:23:30: "SansMudkip<7><[U:1:1213236240]><Purple>" say "should we cap together to get the map changed?"
+L 09/05/2023 - 04:23:33: "maidenabyss<8><[U:1:1008693126]><Yellow>" joined team "Purple"
+L 09/05/2023 - 04:23:33: "maidenabyss<8><[U:1:1008693126]><Purple>" committed suicide with "world" (attacker_position "2084 -1455 72")
+L 09/05/2023 - 04:23:45: "maidenabyss<8><[U:1:1008693126]><Purple>" say "good news"
+L 09/05/2023 - 04:23:46: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "#Hydro_cap_power_plant") (numcappers "1") (player1 "SansMudkip<7><[U:1:1213236240]><Purple>") (position1 "-1703 -1394 487") 
+L 09/05/2023 - 04:23:47: "SansMudkip<7><[U:1:1213236240]><Purple>" say "what the"
+L 09/05/2023 - 04:23:52: "maidenabyss<8><[U:1:1008693126]><Purple>" say "telecon still flies all over when dying"
+L 09/05/2023 - 04:24:24: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "#Hydro_cap_dam") (numcappers "1") (player1 "SansMudkip<7><[U:1:1213236240]><Purple>") (position1 "1231 -1130 143") 
+L 09/05/2023 - 04:24:58: "SansMudkip<7><[U:1:1213236240]><Purple>" say "i almost disconnect"
+L 09/05/2023 - 04:25:01: "maidenabyss<8><[U:1:1008693126]><Purple>" say "?"
+L 09/05/2023 - 04:25:07: "SansMudkip<7><[U:1:1213236240]><Purple>" say "disconnected*"
+L 09/05/2023 - 04:25:10: "maidenabyss<8><[U:1:1008693126]><Purple>" say "?"
+L 09/05/2023 - 04:25:11: "SansMudkip<7><[U:1:1213236240]><Purple>" say "wifi problem"
+L 09/05/2023 - 04:25:14: "SansMudkip<7><[U:1:1213236240]><Purple>" say " it doesn't matter"
+L 09/05/2023 - 04:25:17: "maidenabyss<8><[U:1:1008693126]><Purple>" say "whoa"
+L 09/05/2023 - 04:25:23: "maidenabyss<8><[U:1:1008693126]><Purple>" say "floating health kit"
+L 09/05/2023 - 04:25:36: "SansMudkip<7><[U:1:1213236240]><Purple>" say "help em caaaaappp"
+L 09/05/2023 - 04:25:40: "maidenabyss<8><[U:1:1008693126]><Purple>" say "i am"
+L 09/05/2023 - 04:25:49: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "#Hydro_cap_radar_dish") (numcappers "1") (player1 "maidenabyss<8><[U:1:1008693126]><Purple>") (position1 "1525 1611 271") 
+L 09/05/2023 - 04:25:50: "maidenabyss<8><[U:1:1008693126]><Purple>" say "im trying to fucking find shit"
+L 09/05/2023 - 04:25:57: "maidenabyss<8><[U:1:1008693126]><Purple>" say "theres now arrows in this god forsaken map"
+L 09/05/2023 - 04:26:04: "SansMudkip<7><[U:1:1213236240]><Purple>" say "lol real"
+L 09/05/2023 - 04:26:07: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "#Hydro_cap_warehouse") (numcappers "1") (player1 "SansMudkip<7><[U:1:1213236240]><Purple>") (position1 "-1370 1292 103") 
+L 09/05/2023 - 04:26:18: "maidenabyss<8><[U:1:1008693126]><Purple>" say "DUDE"
+L 09/05/2023 - 04:26:27: "SansMudkip<7><[U:1:1213236240]><Purple>" say "how do you teleport that far?"
+L 09/05/2023 - 04:26:29: "maidenabyss<8><[U:1:1008693126]><Purple>" say "WHY IS YOUR PING AT 800"
+L 09/05/2023 - 04:26:34: "SansMudkip<7><[U:1:1213236240]><Purple>" say "my teleport is so short"
+L 09/05/2023 - 04:26:38: "SansMudkip<7><[U:1:1213236240]><Purple>" say "lmao ik"
+L 09/05/2023 - 04:26:43: "maidenabyss<8><[U:1:1008693126]><Purple>" say "WHERE ARE U?"
+L 09/05/2023 - 04:26:45: "SansMudkip<7><[U:1:1213236240]><Purple>" say "i have bad wifi"
+L 09/05/2023 - 04:26:45: "maidenabyss<8><[U:1:1008693126]><Purple>" say "MARS?"
+L 09/05/2023 - 04:26:53: "SansMudkip<7><[U:1:1213236240]><Purple>" say "yes"
+L 09/05/2023 - 04:26:59: "maidenabyss<8><[U:1:1008693126]><Purple>" say "switch to telecon"
+L 09/05/2023 - 04:27:05: "SansMudkip<7><[U:1:1213236240]><Purple>" changed role to "telecon"
+L 09/05/2023 - 04:27:05: "SansMudkip<7><[U:1:1213236240]><Purple>" committed suicide with "world" (attacker_position "-1401 969 96")
+L 09/05/2023 - 04:27:09: "maidenabyss<8><[U:1:1008693126]><Purple>" committed suicide with "world" (attacker_position "-1373 1211 103")
+L 09/05/2023 - 04:27:31: "maidenabyss<8><[U:1:1008693126]><Purple>" say "hi"
+L 09/05/2023 - 04:27:38: "maidenabyss<8><[U:1:1008693126]><Purple>" say "so look"
+L 09/05/2023 - 04:27:47: "maidenabyss<8><[U:1:1008693126]><Purple>" say "number one"
+L 09/05/2023 - 04:27:54: "maidenabyss<8><[U:1:1008693126]><Purple>" say "you wanna jump before teleporting"
+L 09/05/2023 - 04:28:07: "SansMudkip<7><[U:1:1213236240]><Purple>" say "huh"
+L 09/05/2023 - 04:28:09: "maidenabyss<8><[U:1:1008693126]><Purple>" say "another way to gain distance"
+L 09/05/2023 - 04:28:15: "maidenabyss<8><[U:1:1008693126]><Purple>" say "is to look up at an angle"
+L 09/05/2023 - 04:28:18: "maidenabyss<8><[U:1:1008693126]><Purple>" say "jump"
+L 09/05/2023 - 04:28:20: "maidenabyss<8><[U:1:1008693126]><Purple>" say "teleport"
+L 09/05/2023 - 04:28:24: "SansMudkip<7><[U:1:1213236240]><Purple>" say "oh damn"
+L 09/05/2023 - 04:28:32: "SansMudkip<7><[U:1:1213236240]><Purple>" say "thx for the tutorial"
+L 09/05/2023 - 04:28:40: "SansMudkip<7><[U:1:1213236240]><Purple>" say "now i can enjoy telecon"
+L 09/05/2023 - 04:28:48: "maidenabyss<8><[U:1:1008693126]><Purple>" say "its alot less jank and unresponsive as it seems at first"
+L 09/05/2023 - 04:28:49: "SansMudkip<7><[U:1:1213236240]><Purple>" say "cos i main scout and heavy in tf2"
+L 09/05/2023 - 04:28:58: "maidenabyss<8><[U:1:1008693126]><Purple>" say "WHOA"
+L 09/05/2023 - 04:29:03: "maidenabyss<8><[U:1:1008693126]><Purple>" say "LOOK UP"
+L 09/05/2023 - 04:29:06: "maidenabyss<8><[U:1:1008693126]><Purple>" say "HI"
+L 09/05/2023 - 04:29:14: World triggered "Round_Win" (winner "Purple")
+L 09/05/2023 - 04:29:14: World triggered "Round_Length" (seconds "627.12")
+L 09/05/2023 - 04:29:14: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 04:29:14: Team "Blue" current score "0" with "0" players
+L 09/05/2023 - 04:29:14: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 04:29:14: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 04:29:14: Team "Purple" current score "2" with "2" players
+L 09/05/2023 - 04:29:14: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 04:29:22: World triggered "Round_Start"
+L 09/05/2023 - 04:29:40: "SansMudkip<7><[U:1:1213236240]><Purple>" say "lmao yeah"
+L 09/05/2023 - 04:29:50: "SansMudkip<7><[U:1:1213236240]><Purple>" say "lol ik"
+L 09/05/2023 - 04:30:01: "SansMudkip<7><[U:1:1213236240]><Purple>" say " also scout is hard with my ping"
+L 09/05/2023 - 04:30:14: "SansMudkip<7><[U:1:1213236240]><Purple>" say "lmao yeah"
+L 09/05/2023 - 04:30:23: "SansMudkip<7><[U:1:1213236240]><Purple>" say "yeah i love pyro"
+L 09/05/2023 - 04:30:36: "maidenabyss<8><[U:1:1008693126]><Purple>" committed suicide with "world" (attacker_position "-1520 -920 1084")
+L 09/05/2023 - 04:30:38: "SansMudkip<7><[U:1:1213236240]><Purple>" say "third fav class"
+L 09/05/2023 - 04:31:07: "SansMudkip<7><[U:1:1213236240]><Purple>" say "i gtg"
+L 09/05/2023 - 04:31:15: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "#Hydro_cap_power_plant") (numcappers "1") (player1 "maidenabyss<8><[U:1:1008693126]><Purple>") (position1 "-1616 -1430 487") 
+L 09/05/2023 - 04:31:33: "SansMudkip<7><[U:1:1213236240]><Purple>" say "lol idc i game everyday"
+L 09/05/2023 - 04:31:38: "SansMudkip<7><[U:1:1213236240]><Purple>" say "no i haven't"
+L 09/05/2023 - 04:31:51: "SansMudkip<7><[U:1:1213236240]><Purple>" say "ofc i do"
+L 09/05/2023 - 04:32:05: "SansMudkip<7><[U:1:1213236240]><Purple>" say "yeah"
+L 09/05/2023 - 04:32:14: "SansMudkip<7><[U:1:1213236240]><Purple>" say "oh cool"
+L 09/05/2023 - 04:32:17: "SansMudkip<7><[U:1:1213236240]><Purple>" say "no"
+L 09/05/2023 - 04:32:38: "SansMudkip<7><[U:1:1213236240]><Purple>" say "oh wait ik that"
+L 09/05/2023 - 04:32:41: "SansMudkip<7><[U:1:1213236240]><Purple>" say "oh cool"
+L 09/05/2023 - 04:33:29: "SansMudkip<7><[U:1:1213236240]><Purple>" say "sorry i'd love to continue this but i gtg"
+L 09/05/2023 - 04:33:33: "SansMudkip<7><[U:1:1213236240]><Purple>" say "that sounds cool tho"
+L 09/05/2023 - 04:33:40: "SansMudkip<7><[U:1:1213236240]><Purple>" say "ik what it is"
+L 09/05/2023 - 04:33:48: "SansMudkip<7><[U:1:1213236240]><Purple>" say "i just remembered"
+L 09/05/2023 - 04:33:56: "SansMudkip<7><[U:1:1213236240]><Purple>" say "maybe"
+L 09/05/2023 - 04:34:03: "SansMudkip<7><[U:1:1213236240]><Purple>" say "yeah"
+L 09/05/2023 - 04:34:05: "maidenabyss<8><[U:1:1008693126]><Purple>" committed suicide with "world" (attacker_position "-1538 -615 480")
+L 09/05/2023 - 04:34:08: "SansMudkip<7><[U:1:1213236240]><Purple>" say "lol ok"
+L 09/05/2023 - 04:34:13: "SansMudkip<7><[U:1:1213236240]><Purple>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 04:48:00: World triggered "Round_Win" (winner "Purple")
+L 09/05/2023 - 04:48:00: World triggered "Round_Length" (seconds "1118.58")
+L 09/05/2023 - 04:48:00: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 04:48:00: Team "Blue" current score "0" with "0" players
+L 09/05/2023 - 04:48:00: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 04:48:00: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 04:48:00: Team "Purple" current score "3" with "1" players
+L 09/05/2023 - 04:48:00: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 04:48:08: World triggered "Game_Over" reason "Reached Time Limit"
+L 09/05/2023 - 04:48:08: Team "Red" final score "0" with "0" players
+L 09/05/2023 - 04:48:08: Team "Blue" final score "0" with "0" players
+L 09/05/2023 - 04:48:08: Team "Green" final score "0" with "0" players
+L 09/05/2023 - 04:48:08: Team "Yellow" final score "0" with "0" players
+L 09/05/2023 - 04:48:08: Team "Purple" final score "3" with "1" players
+L 09/05/2023 - 04:48:08: Team "Pink" final score "0" with "0" players
+L 09/05/2023 - 04:48:18: Log file closed.

@@ -1,0 +1,14 @@
+L 09/05/2023 - 11:22:30: Log file started (file "logs\L0905017.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 11:22:30: server_cvar: "mp_autoteambalance" "0"
+L 09/05/2023 - 11:22:30: server_cvar: "mp_stalemate_enable" "1"
+L 09/05/2023 - 11:22:30: server_cvar: "mp_timelimit" "30"
+L 09/05/2023 - 11:22:30: server_cvar: "decalfrequency" "30"
+L 09/05/2023 - 11:22:30: server_cvar: "sv_alltalk" "1"
+L 09/05/2023 - 11:22:30: server_cvar: "sv_tags" "alltalk"
+L 09/05/2023 - 11:22:30: server_cvar: "sv_tags" "alltalk"
+L 09/05/2023 - 11:22:30: Connection to Steam servers successful.
+L 09/05/2023 - 11:22:30:    Public IP is 73.154.245.78.
+L 09/05/2023 - 11:22:30: Assigned anonymous gameserver Steam ID [A:1:691780611:24238].
+L 09/05/2023 - 11:22:30: VAC secure mode is activated.
+L 09/05/2023 - 11:22:40: server_message: "quit"
+L 09/05/2023 - 11:22:40: Log file closed.

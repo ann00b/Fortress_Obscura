@@ -1,0 +1,276 @@
+L 09/05/2023 - 11:24:09: Log file started (file "logs\L0905022.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 11:24:09: Connection to Steam servers successful.
+L 09/05/2023 - 11:24:09:    Public IP is 73.154.245.78.
+L 09/05/2023 - 11:24:09: Assigned anonymous gameserver Steam ID [A:1:692775939:24238].
+L 09/05/2023 - 11:24:09: VAC secure mode is activated.
+L 09/05/2023 - 11:24:11: "Octmari<2><[U:1:160946369]><>" connected, address "73.154.245.78:27006"
+L 09/05/2023 - 11:24:12: "Octmari<2><[U:1:160946369]><>" STEAM USERID validated
+L 09/05/2023 - 11:24:36: "Octmari<2><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 11:24:41: "Octmari<2><[U:1:160946369]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 11:24:42: "Octmari<2><[U:1:160946369]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 11:25:01: "ChargingTurnip<3><[U:1:313942863]><>" connected, address "170.203.222.63:35169"
+L 09/05/2023 - 11:25:03: "ChargingTurnip<3><[U:1:313942863]><>" STEAM USERID validated
+L 09/05/2023 - 11:25:06: "ChargingTurnip<3><[U:1:313942863]><>" disconnected (reason "Client's map differs from the server's")
+L 09/05/2023 - 11:25:13: World triggered "Round_Start"
+L 09/05/2023 - 11:26:33: "ChargingTurnip<4><[U:1:313942863]><>" connected, address "170.203.222.63:35169"
+L 09/05/2023 - 11:26:34: "ChargingTurnip<4><[U:1:313942863]><>" STEAM USERID validated
+L 09/05/2023 - 11:28:06: "ChargingTurnip<4><[U:1:313942863]><>" entered the game
+L 09/05/2023 - 11:28:17: "ChargingTurnip<4><[U:1:313942863]><Unassigned>" joined team "Purple"
+L 09/05/2023 - 11:28:21: "ChargingTurnip<4><[U:1:313942863]><Purple>" changed role to "telecon"
+L 09/05/2023 - 11:28:40: "Octmari<2><[U:1:160946369]><Blue>" say "yeesh, i did also lose my fixes to the hdr range in not submitting that last version, but that's not gamebreaking, at least"
+L 09/05/2023 - 11:29:27: "Olsen1997 HUN<5><[U:1:65756616]><>" connected, address "84.236.117.202:27005"
+L 09/05/2023 - 11:29:28: "Olsen1997 HUN<5><[U:1:65756616]><>" STEAM USERID validated
+L 09/05/2023 - 11:29:34: "Octmari<2><[U:1:160946369]><Blue>" say "im actually in a like, training for an online job right now. they're just taking actual ages doing tech support"
+L 09/05/2023 - 11:29:35: "Octmari<2><[U:1:160946369]><Blue>" say "lol"
+L 09/05/2023 - 11:29:52: "Olsen1997 HUN<5><[U:1:65756616]><>" entered the game
+L 09/05/2023 - 11:29:55: "Olsen1997 HUN<5><[U:1:65756616]><Unassigned>" joined team "Yellow"
+L 09/05/2023 - 11:29:57: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" changed role to "workernode"
+L 09/05/2023 - 11:30:07: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1079 -1593 64")
+L 09/05/2023 - 11:30:10: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1118 -1528 64")
+L 09/05/2023 - 11:30:12: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1157 -1465 64")
+L 09/05/2023 - 11:30:15: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1196 -1401 64")
+L 09/05/2023 - 11:30:19: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_STAIRS") (position "-1105 -1799 64")
+L 09/05/2023 - 11:30:21: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_STAIRS") (position "-1140 -1744 64")
+L 09/05/2023 - 11:30:38: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-1159 -1530 64")
+L 09/05/2023 - 11:31:05: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_STAIRS") (position "-1145 -1743 64")
+L 09/05/2023 - 11:31:11: "Octmari<2><[U:1:160946369]><Blue>" changed role to "workernode"
+L 09/05/2023 - 11:31:28: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-941 -58 336")
+L 09/05/2023 - 11:31:38: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1703 -984 352")
+L 09/05/2023 - 11:31:38: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1006 14 336")
+L 09/05/2023 - 11:31:42: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1603 -696 320")
+L 09/05/2023 - 11:31:43: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-916 -163 336")
+L 09/05/2023 - 11:31:44: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1676 -571 320")
+L 09/05/2023 - 11:31:47: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1738 -687 320")
+L 09/05/2023 - 11:31:53: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-1776 -713 320")
+L 09/05/2023 - 11:31:57: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-898 32 336")
+L 09/05/2023 - 11:32:29: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1669 -558 320")
+L 09/05/2023 - 11:32:32: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1587 -686 320")
+L 09/05/2023 - 11:32:50: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1594 -690 320")
+L 09/05/2023 - 11:33:04: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-1600 -693 320")
+L 09/05/2023 - 11:33:34: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" committed suicide with "world" (attacker_position "-1832 -833 320")
+L 09/05/2023 - 11:34:39: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" triggered "builtobject" (object "OBJ_WALL") (position "-693 -1544 160")
+L 09/05/2023 - 11:35:07: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_STAIRS") (position "-774 -1237 64")
+L 09/05/2023 - 11:35:25: "Olsen1997 HUN<5><[U:1:65756616]><Yellow>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 11:35:25: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_STAIRS") (position "276 1693 320")
+L 09/05/2023 - 11:36:29: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_STAIRS") (position "-979 184 336")
+L 09/05/2023 - 11:39:04: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-835 -492 336")
+L 09/05/2023 - 11:40:18: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_STAIRS") (position "-1012 1857 64")
+L 09/05/2023 - 11:48:09: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-833 478 336")
+L 09/05/2023 - 11:48:17: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1 946 336")
+L 09/05/2023 - 11:48:37: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "830 478 336")
+L 09/05/2023 - 11:48:46: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "825 -477 336")
+L 09/05/2023 - 11:48:51: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_STAIRS") (position "0 -968 336")
+L 09/05/2023 - 11:49:25: "quek<6><[U:1:220783085]><>" connected, address "66.68.202.215:27005"
+L 09/05/2023 - 11:49:26: "quek<6><[U:1:220783085]><>" STEAM USERID validated
+L 09/05/2023 - 11:49:36: "quek<6><[U:1:220783085]><>" entered the game
+L 09/05/2023 - 11:49:40: "quek<6><[U:1:220783085]><Unassigned>" joined team "Pink"
+L 09/05/2023 - 11:49:41: "quek<6><[U:1:220783085]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 11:49:47: "quek<6><[U:1:220783085]><Pink>" say "what are  you doing..."
+L 09/05/2023 - 11:49:52: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "611 -755 64")
+L 09/05/2023 - 11:49:54: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "650 -662 64")
+L 09/05/2023 - 11:49:56: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "661 -600 64")
+L 09/05/2023 - 11:49:57: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "587 -649 64")
+L 09/05/2023 - 11:50:00: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "527 -712 64")
+L 09/05/2023 - 11:50:03: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_WALL") (weapon "bat") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "715 -797 64")
+L 09/05/2023 - 11:50:09: "Milosuper<7><[U:1:126998348]><>" connected, address "76.189.60.110:27005"
+L 09/05/2023 - 11:50:10: "Milosuper<7><[U:1:126998348]><>" STEAM USERID validated
+L 09/05/2023 - 11:50:35: "Octmari<2><[U:1:160946369]><Blue>" say "this is turnip's containment chamber"
+L 09/05/2023 - 11:50:41: "Milosuper<7><[U:1:126998348]><>" entered the game
+L 09/05/2023 - 11:50:45: "quek<6><[U:1:220783085]><Pink>" say "free him"
+L 09/05/2023 - 11:50:46: "Milosuper<7><[U:1:126998348]><Unassigned>" joined team "Yellow"
+L 09/05/2023 - 11:50:50: "Milosuper<7><[U:1:126998348]><Yellow>" changed role to "saptrap"
+L 09/05/2023 - 11:50:53: "Octmari<2><[U:1:160946369]><Blue>" say "he is my prisoner"
+L 09/05/2023 - 11:51:03: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "killedobject" (object "OBJ_WALL") (weapon "knife") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-933 -536 352")
+L 09/05/2023 - 11:51:37: "Event Horizon<8><[U:1:126775298]><>" connected, address "173.92.191.133:27005"
+L 09/05/2023 - 11:51:38: "Event Horizon<8><[U:1:126775298]><>" STEAM USERID validated
+L 09/05/2023 - 11:51:39: "Event Horizon<8><[U:1:126775298]><>" disconnected (reason "Client's map differs from the server's")
+L 09/05/2023 - 11:51:59: "Flashyface<9><[U:1:118685699]><>" connected, address "50.72.142.97:27005"
+L 09/05/2023 - 11:52:01: "Flashyface<9><[U:1:118685699]><>" STEAM USERID validated
+L 09/05/2023 - 11:52:12: "quek<6><[U:1:220783085]><Pink>" changed role to "workernode"
+L 09/05/2023 - 11:52:18: "Flashyface<9><[U:1:118685699]><>" entered the game
+L 09/05/2023 - 11:52:25: "Flashyface<9><[U:1:118685699]><Unassigned>" joined team "Red"
+L 09/05/2023 - 11:52:27: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_FORT") (weapon "fo_weapon_hammer") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "677 -794 64")
+L 09/05/2023 - 11:52:29: "Flashyface<9><[U:1:118685699]><Red>" changed role to "saptrap"
+L 09/05/2023 - 11:52:31: "Andy726<10><[U:1:845123434]><>" connected, address "176.111.79.138:27005"
+L 09/05/2023 - 11:52:33: "Andy726<10><[U:1:845123434]><>" STEAM USERID validated
+L 09/05/2023 - 11:52:36: "Andy726<10><[U:1:845123434]><>" disconnected (reason "Client's map differs from the server's")
+L 09/05/2023 - 11:52:38: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "1011 0 336")
+L 09/05/2023 - 11:52:48: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "1006 0 336")
+L 09/05/2023 - 11:53:14: "Evan068<11><[U:1:371507926]><>" connected, address "76.14.206.105:27005"
+L 09/05/2023 - 11:53:15: "Evan068<11><[U:1:371507926]><>" STEAM USERID validated
+L 09/05/2023 - 11:53:22: "Evan068<11><[U:1:371507926]><>" entered the game
+L 09/05/2023 - 11:53:25: "Evan068<11><[U:1:371507926]><Unassigned>" joined team "Green"
+L 09/05/2023 - 11:53:28: "Evan068<11><[U:1:371507926]><Green>" changed role to "telecon"
+L 09/05/2023 - 11:53:36: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1001 1 336")
+L 09/05/2023 - 11:53:37: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1001 1 336")
+L 09/05/2023 - 11:53:38: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1001 1 336")
+L 09/05/2023 - 11:53:39: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1001 1 336")
+L 09/05/2023 - 11:53:40: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1001 1 336")
+L 09/05/2023 - 11:53:56: "Octmari<2><[U:1:160946369]><Blue>" say "im evil"
+L 09/05/2023 - 11:54:02: "Milosuper<7><[U:1:126998348]><Yellow>" say "thats evil"
+L 09/05/2023 - 11:54:03: "Event Horizon<12><[U:1:126775298]><>" connected, address "173.92.191.133:27005"
+L 09/05/2023 - 11:54:04: "Event Horizon<12><[U:1:126775298]><>" STEAM USERID validated
+L 09/05/2023 - 11:54:05: "Evan068<11><[U:1:371507926]><Green>" changed role to "civilian"
+L 09/05/2023 - 11:54:06: "Event Horizon<12><[U:1:126775298]><>" disconnected (reason "Client's map differs from the server's")
+L 09/05/2023 - 11:54:19: "Flashyface<9><[U:1:118685699]><Red>" committed suicide with "world" (attacker_position "-448 10 64")
+L 09/05/2023 - 11:54:20: "Andy726<13><[U:1:845123434]><>" connected, address "176.111.79.138:27005"
+L 09/05/2023 - 11:54:21: "Andy726<13><[U:1:845123434]><>" STEAM USERID validated
+L 09/05/2023 - 11:54:25: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1034 -48 336")
+L 09/05/2023 - 11:54:26: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1018 -24 336")
+L 09/05/2023 - 11:54:29: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1033 17 338")
+L 09/05/2023 - 11:54:29: "Flashyface<9><[U:1:118685699]><Red>" changed role to "telecon"
+L 09/05/2023 - 11:54:32: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "1033 17 338")
+L 09/05/2023 - 11:54:53: "Octmari<2><[U:1:160946369]><Blue>" say "no.."
+L 09/05/2023 - 11:54:58: "Octmari<2><[U:1:160946369]><Blue>" say "anything but you,..,"
+L 09/05/2023 - 11:55:02: "Octmari<2><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "-1059 -115 444")
+L 09/05/2023 - 11:55:03: "Flashyface<9><[U:1:118685699]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-1812 -677 320")
+L 09/05/2023 - 11:55:03: "quek<6><[U:1:220783085]><Pink>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "fo_weapon_hammer" (attacker_position "868 158 336") (victim_position "828 162 335")
+L 09/05/2023 - 11:55:04: "Evan068<11><[U:1:371507926]><Green>" committed suicide with "world" (attacker_position "-953 -52 443")
+L 09/05/2023 - 11:55:12: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_REPAIRNODE") (weapon "fo_weapon_hammer") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-913 -16 336")
+L 09/05/2023 - 11:55:16: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_STAIRS") (weapon "fo_weapon_hammer") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-1014 102 368")
+L 09/05/2023 - 11:55:20: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_WALL") (weapon "fo_weapon_hammer") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-871 485 352")
+L 09/05/2023 - 11:55:23: "Flashyface<9><[U:1:118685699]><Red>" committed suicide with "world" (attacker_position "-926 -187 78")
+L 09/05/2023 - 11:55:24: "Evan068<11><[U:1:371507926]><Green>" changed role to "telecon"
+L 09/05/2023 - 11:55:29: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_WALL") (weapon "fo_weapon_hammer") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-986 -241 336")
+L 09/05/2023 - 11:55:30: "Andy726<13><[U:1:845123434]><>" entered the game
+L 09/05/2023 - 11:55:33: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "killedobject" (object "OBJ_TELEPORTER_ENTRANCE") (weapon "knife") (objectowner "Flashyface<9><[U:1:118685699]><Red>") (attacker_position "-1809 -669 320")
+L 09/05/2023 - 11:55:39: "Andy726<13><[U:1:845123434]><Unassigned>" joined team "Pink"
+L 09/05/2023 - 11:55:41: "Andy726<13><[U:1:845123434]><Pink>" changed role to "workernode"
+L 09/05/2023 - 11:55:43: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "497 836 336")
+L 09/05/2023 - 11:55:52: "Andy726<13><[U:1:845123434]><Pink>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 11:55:53: "Andy726<14><[U:1:845123434]><>" connected, address "176.111.79.138:27005"
+L 09/05/2023 - 11:55:54: "Andy726<14><[U:1:845123434]><>" STEAM USERID validated
+L 09/05/2023 - 11:55:57: "Andy726<14><[U:1:845123434]><>" entered the game
+L 09/05/2023 - 11:56:00: "Andy726<14><[U:1:845123434]><Unassigned>" joined team "Pink"
+L 09/05/2023 - 11:56:01: "Andy726<14><[U:1:845123434]><Pink>" changed role to "workernode"
+L 09/05/2023 - 11:56:02: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-534 -886 336")
+L 09/05/2023 - 11:56:05: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-683 -676 336")
+L 09/05/2023 - 11:56:08: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_WALL") (weapon "fo_weapon_hammer") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-590 -772 338")
+L 09/05/2023 - 11:56:13: "Event Horizon<15><[U:1:126775298]><>" connected, address "173.92.191.133:27005"
+L 09/05/2023 - 11:56:14: "Event Horizon<15><[U:1:126775298]><>" STEAM USERID validated
+L 09/05/2023 - 11:56:16: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_FORT") (position "-929 -298 336")
+L 09/05/2023 - 11:56:19: "Event Horizon<15><[U:1:126775298]><>" disconnected (reason "Client's map differs from the server's")
+L 09/05/2023 - 11:56:19: "August101<16><[U:1:241010597]><>" connected, address "67.171.207.194:27005"
+L 09/05/2023 - 11:56:21: "August101<16><[U:1:241010597]><>" STEAM USERID validated
+L 09/05/2023 - 11:56:29: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "flagevent" (event "picked up") (position "1190 -2822 23")
+L 09/05/2023 - 11:56:33: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-972 -234 336")
+L 09/05/2023 - 11:56:34: "August101<16><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 11:56:39: "Octmari<2><[U:1:160946369]><Blue>" say "our happy home"
+L 09/05/2023 - 11:56:43: "quek<6><[U:1:220783085]><Pink>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "-916 -243 336")
+L 09/05/2023 - 11:56:43: "Andy726<14><[U:1:845123434]><Pink>" say "hey octmari"
+L 09/05/2023 - 11:56:46: "Octmari<2><[U:1:160946369]><Blue>" say "in robloxia"
+L 09/05/2023 - 11:56:48: "August101<16><[U:1:241010597]><Unassigned>" joined team "Green"
+L 09/05/2023 - 11:56:50: "August101<16><[U:1:241010597]><Green>" changed role to "telecon"
+L 09/05/2023 - 11:56:55: "Flashyface<9><[U:1:118685699]><Red>" committed suicide with "world" (attacker_position "193 22 65")
+L 09/05/2023 - 11:56:56: "Evan068<11><[U:1:371507926]><Green>" committed suicide with "world" (attacker_position "-954 -32 336")
+L 09/05/2023 - 11:56:59: "Evan068<11><[U:1:371507926]><Green>" changed role to "saptrap"
+L 09/05/2023 - 11:57:12: "Octmari<2><[U:1:160946369]><Blue>" say "i could have to leave at any moment im in a like. setup for an online job"
+L 09/05/2023 - 11:57:18: "Octmari<2><[U:1:160946369]><Blue>" say "it's just going incredibly slow LMAO"
+L 09/05/2023 - 11:57:23: "quek<6><[U:1:220783085]><Pink>" say "oml"
+L 09/05/2023 - 11:57:31: "August101<16><[U:1:241010597]><Green>" triggered "flagevent" (event "defended") (position "-1035 73 336")
+L 09/05/2023 - 11:57:31: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "flagevent" (event "dropped") (position "-984 220 336")
+L 09/05/2023 - 11:57:31: "August101<16><[U:1:241010597]><Green>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "scattergun" (attacker_position "-1035 73 336") (victim_position "-984 220 336")
+L 09/05/2023 - 11:57:31: "August101<16><[U:1:241010597]><Green>" triggered "flagevent" (event "picked up") (position "-1010 151 336")
+L 09/05/2023 - 11:57:33: "quek<6><[U:1:220783085]><Pink>" say "what are we doing here..."
+L 09/05/2023 - 11:57:36: "Andy726<14><[U:1:845123434]><Pink>" say "look behind you octmari"
+L 09/05/2023 - 11:57:38: "Octmari<2><[U:1:160946369]><Blue>" say "they've spent no less than 3 hours"
+L 09/05/2023 - 11:57:40: "August101<16><[U:1:241010597]><Green>" triggered "flagevent" (event "captured") (team_caps "1") (caps_per_round "3") (position "-2953 421 29")
+L 09/05/2023 - 11:57:49: "Octmari<2><[U:1:160946369]><Blue>" say "troubleshooting people"
+L 09/05/2023 - 11:57:52: "Andy726<14><[U:1:845123434]><Pink>" triggered "builtobject" (object "OBJ_WALL") (position "-334 16 64")
+L 09/05/2023 - 11:57:53: "Andy726<14><[U:1:845123434]><Pink>" committed suicide with "world" (attacker_position "-331 17 64")
+L 09/05/2023 - 11:58:00: "Octmari<2><[U:1:160946369]><Blue>" say "on the incredibly difficult tasks"
+L 09/05/2023 - 11:58:08: "Flashyface<9><[U:1:118685699]><Red>" killed "August101<16><[U:1:241010597]><Green>" with "bat" (attacker_position "-2041 -911 320") (victim_position "-2112 -946 320")
+L 09/05/2023 - 11:58:09: "August101<16><[U:1:241010597]><Green>" killed "Flashyface<9><[U:1:118685699]><Red>" with "player" (attacker_position "-2176 -987 334") (victim_position "-2422 -1125 320")
+L 09/05/2023 - 11:58:09: "Octmari<2><[U:1:160946369]><Blue>" say "of logging into an account with a premade username and password"
+L 09/05/2023 - 11:58:11: "Octmari<2><[U:1:160946369]><Blue>" say "and pressing"
+L 09/05/2023 - 11:58:14: "Octmari<2><[U:1:160946369]><Blue>" say "a fucking button"
+L 09/05/2023 - 11:58:14: "Andy726<14><[U:1:845123434]><Pink>" changed role to "dismatic"
+L 09/05/2023 - 11:58:15: "Octmari<2><[U:1:160946369]><Blue>" say ":)"
+L 09/05/2023 - 11:58:18: "quek<6><[U:1:220783085]><Pink>" say "IT CANT BE DONE"
+L 09/05/2023 - 11:58:20: "Andy726<14><[U:1:845123434]><Pink>" say "hard task"
+L 09/05/2023 - 11:58:23: "quek<6><[U:1:220783085]><Pink>" killed "Octmari<2><[U:1:160946369]><Blue>" with "fo_weapon_hammer" (attacker_position "-909 244 336") (victim_position "-957 271 336")
+L 09/05/2023 - 11:58:27: "Octmari<2><[U:1:160946369]><Blue>" say "THREE HOURS"
+L 09/05/2023 - 11:58:35: "August101<16><[U:1:241010597]><Green>" say "neverunderestate lazyness"
+L 09/05/2023 - 11:58:38: "Octmari<2><[U:1:160946369]><Blue>" say "these people may not be qualified"
+L 09/05/2023 - 11:58:53: "quek<6><[U:1:220783085]><Pink>" killed "August101<16><[U:1:241010597]><Green>" with "fo_weapon_nodegun" (attacker_position "205 -487 99") (victim_position "432 -750 334")
+L 09/05/2023 - 11:59:02: "Andy726<14><[U:1:845123434]><Pink>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-176 -306 64")
+L 09/05/2023 - 11:59:04: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-188 -52 65")
+L 09/05/2023 - 11:59:08: "Andy726<14><[U:1:845123434]><Pink>" say "oh shi"
+L 09/05/2023 - 11:59:10: "Andy726<14><[U:1:845123434]><Pink>" say "custom dispenser"
+L 09/05/2023 - 11:59:16: "Andy726<14><[U:1:845123434]><Pink>" say "oh"
+L 09/05/2023 - 11:59:18: "August101<16><[U:1:241010597]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-2023 1556 320")
+L 09/05/2023 - 11:59:19: "quek<6><[U:1:220783085]><Pink>" say "beautiful pink dispenser"
+L 09/05/2023 - 11:59:27: "August101<16><[U:1:241010597]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-245 -379 64")
+L 09/05/2023 - 11:59:28: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "fo_weapon_hammer") (objectowner "August101<16><[U:1:241010597]><Green>") (attacker_position "-109 -416 64")
+L 09/05/2023 - 11:59:31: "quek<6><[U:1:220783085]><Pink>" killed "August101<16><[U:1:241010597]><Green>" with "fo_weapon_hammer" (attacker_position "-96 -415 64") (victim_position "-156 -419 64")
+L 09/05/2023 - 11:59:33: "Milosuper<7><[U:1:126998348]><Yellow>" say "its purkle"
+L 09/05/2023 - 11:59:42: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "-97 -227 64")
+L 09/05/2023 - 11:59:45: "quek<6><[U:1:220783085]><Pink>" triggered "killedobject" (object "OBJ_ATTACHMENT_SAPPER") (weapon "fo_weapon_hammer") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "-146 -343 64")
+L 09/05/2023 - 11:59:54: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "flagevent" (event "picked up") (position "3059 -275 23")
+L 09/05/2023 - 12:00:10: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_STAIRS") (position "-251 -283 64")
+L 09/05/2023 - 12:00:13: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-397 -315 64")
+L 09/05/2023 - 12:00:21: "Octmari<2><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-63 -509 64")
+L 09/05/2023 - 12:00:28: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_STAIRS") (weapon "bat") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-278 -456 85")
+L 09/05/2023 - 12:00:38: "Flashyface<9><[U:1:118685699]><Red>" committed suicide with "world" (attacker_position "-215 -606 87")
+L 09/05/2023 - 12:00:40: "Andy726<14><[U:1:845123434]><Pink>" committed suicide with "world" (attacker_position "-197 -259 64")
+L 09/05/2023 - 12:00:41: "ChargingTurnip<4><[U:1:313942863]><Purple>" committed suicide with "world" (attacker_position "-413 -468 64")
+L 09/05/2023 - 12:00:42: "Evan068<11><[U:1:371507926]><Green>" committed suicide with "world" (attacker_position "-96 -311 119")
+L 09/05/2023 - 12:00:45: "August101<16><[U:1:241010597]><Green>" committed suicide with "world" (attacker_position "-274 -238 224")
+L 09/05/2023 - 12:00:47: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "flagevent" (event "dropped") (position "-174 -499 64")
+L 09/05/2023 - 12:00:47: "Milosuper<7><[U:1:126998348]><Yellow>" committed suicide with "world" (attacker_position "-174 -499 64")
+L 09/05/2023 - 12:00:53: "Andy726<14><[U:1:845123434]><Pink>" say "they didn't fix her up :<"
+L 09/05/2023 - 12:00:54: "Evan068<11><[U:1:371507926]><Green>" changed role to "dismatic"
+L 09/05/2023 - 12:00:58: "Evan068<11><[U:1:371507926]><Green>" changed role to "workernode"
+L 09/05/2023 - 12:00:58: "Octmari<2><[U:1:160946369]><Blue>" say "this is so sad"
+L 09/05/2023 - 12:00:58: "Andy726<14><[U:1:845123434]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 12:01:00: "Andy726<14><[U:1:845123434]><Pink>" changed role to "telecon"
+L 09/05/2023 - 12:01:02: "Evan068<11><[U:1:371507926]><Green>" changed role to "telecon"
+L 09/05/2023 - 12:01:03: "Milosuper<7><[U:1:126998348]><Yellow>" changed role to "dismatic"
+L 09/05/2023 - 12:01:14: "August101<16><[U:1:241010597]><Green>" triggered "flagevent" (event "picked up") (position "-146 -435 64")
+L 09/05/2023 - 12:01:22: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_WALL") (weapon "bat") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "896 529 365")
+L 09/05/2023 - 12:01:41: "Octmari<2><[U:1:160946369]><Blue>" say "ok we have enough people now. TIME FOR WAR"
+L 09/05/2023 - 12:01:45: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-285 -16 64")
+L 09/05/2023 - 12:01:47: "Andy726<14><[U:1:845123434]><Pink>" killed "Evan068<11><[U:1:371507926]><Green>" with "scattergun" (attacker_position "-525 -699 359") (victim_position "-544 -677 424")
+L 09/05/2023 - 12:01:49: "Flashyface<9><[U:1:118685699]><Red>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "scattergun" (attacker_position "-502 -54 64") (victim_position "-478 -4 64")
+L 09/05/2023 - 12:01:50: "August101<16><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_WALL") (weapon "scattergun") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-709 -517 336")
+L 09/05/2023 - 12:01:52: "August101<16><[U:1:241010597]><Green>" killed "Octmari<2><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "-653 -699 336") (victim_position "-774 -549 336")
+L 09/05/2023 - 12:01:52: "Andy726<14><[U:1:845123434]><Pink>" triggered "kill assist" against "Octmari<2><[U:1:160946369]><Blue>" (assister_position "-720 -511 336") (attacker_position "-653 -699 336") (victim_position "-774 -549 336")
+L 09/05/2023 - 12:01:54: "Andy726<14><[U:1:845123434]><Pink>" say "FUCK 6YES"
+L 09/05/2023 - 12:01:59: "Octmari<2><[U:1:160946369]><Blue>" say "VIOLENCE"
+L 09/05/2023 - 12:02:00: "Octmari<2><[U:1:160946369]><Blue>" say "SMASH"
+L 09/05/2023 - 12:02:01: "Octmari<2><[U:1:160946369]><Blue>" say "KILL"
+L 09/05/2023 - 12:02:02: "Evan068<11><[U:1:371507926]><Green>" changed role to "dismatic"
+L 09/05/2023 - 12:02:02: "Octmari<2><[U:1:160946369]><Blue>" say "MAIM"
+L 09/05/2023 - 12:02:03: "Andy726<14><[U:1:845123434]><Pink>" killed "Flashyface<9><[U:1:118685699]><Red>" with "scattergun" (attacker_position "-526 -5 73") (victim_position "-772 -402 64")
+L 09/05/2023 - 12:02:04: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Andy726<14><[U:1:845123434]><Pink>" with "scattergun" (attacker_position "-479 122 64") (victim_position "-726 25 223")
+L 09/05/2023 - 12:02:06: "Octmari<2><[U:1:160946369]><Blue>" say "CRUNCH"
+L 09/05/2023 - 12:02:06: "August101<16><[U:1:241010597]><Green>" triggered "flagevent" (event "captured") (team_caps "2") (caps_per_round "3") (position "-2920 367 16")
+L 09/05/2023 - 12:02:08: "Octmari<2><[U:1:160946369]><Blue>" say "RIP"
+L 09/05/2023 - 12:02:09: "Milosuper<7><[U:1:126998348]><Yellow>" say "the horror"
+L 09/05/2023 - 12:02:09: "Andy726<14><[U:1:845123434]><Pink>" say "IT'S TIME TO GAMING NOW"
+L 09/05/2023 - 12:02:10: "Octmari<2><[U:1:160946369]><Blue>" say "TEAR"
+L 09/05/2023 - 12:02:12: "Andy726<14><[U:1:845123434]><Pink>" changed role to "dismatic"
+L 09/05/2023 - 12:02:18: "August101<16><[U:1:241010597]><Green>" triggered "flagevent" (event "picked up") (position "-1189 2839 42")
+L 09/05/2023 - 12:02:23: "Andy726<14><[U:1:845123434]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 12:02:28: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "killedobject" (object "OBJ_STAIRS") (weapon "minigun") (objectowner "Octmari<2><[U:1:160946369]><Blue>") (attacker_position "-882 -1092 64")
+L 09/05/2023 - 12:02:29: "Evan068<11><[U:1:371507926]><Green>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-890 353 336")
+L 09/05/2023 - 12:02:31: "August101<16><[U:1:241010597]><Green>" triggered "flagevent" (event "captured") (team_caps "3") (caps_per_round "3") (position "-2947 345 44")
+L 09/05/2023 - 12:02:31: World triggered "Round_Win" (winner "Green")
+L 09/05/2023 - 12:02:31: World triggered "Round_Length" (seconds "2237.11")
+L 09/05/2023 - 12:02:31: Team "Red" current score "0" with "1" players
+L 09/05/2023 - 12:02:31: Team "Blue" current score "0" with "1" players
+L 09/05/2023 - 12:02:31: Team "Green" current score "1" with "2" players
+L 09/05/2023 - 12:02:31: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 12:02:31: Team "Purple" current score "0" with "1" players
+L 09/05/2023 - 12:02:31: Team "Pink" current score "0" with "2" players
+L 09/05/2023 - 12:02:33: "Andy726<14><[U:1:845123434]><Pink>" say "OH"
+L 09/05/2023 - 12:02:39: World triggered "Game_Over" reason "Reached Time Limit"
+L 09/05/2023 - 12:02:39: Team "Red" final score "0" with "1" players
+L 09/05/2023 - 12:02:39: Team "Blue" final score "0" with "1" players
+L 09/05/2023 - 12:02:39: Team "Green" final score "1" with "2" players
+L 09/05/2023 - 12:02:39: Team "Yellow" final score "0" with "1" players
+L 09/05/2023 - 12:02:39: Team "Purple" final score "0" with "1" players
+L 09/05/2023 - 12:02:39: Team "Pink" final score "0" with "2" players
+L 09/05/2023 - 12:02:41: "Flashyface<9><[U:1:118685699]><Red>" committed suicide with "world" (attacker_position "-163 -469 64")
+L 09/05/2023 - 12:02:42: "Andy726<14><[U:1:845123434]><Pink>" say "Oh nvm"
+L 09/05/2023 - 12:02:49: Log file closed.

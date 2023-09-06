@@ -1,0 +1,216 @@
+L 09/05/2023 - 13:50:24: Log file started (file "logs\L0905032.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 13:50:44: "August101<16><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 13:50:48: "August101<16><[U:1:241010597]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 13:50:49: "August101<16><[U:1:241010597]><Blue>" changed role to "telecon"
+L 09/05/2023 - 13:50:55: "Frost Byte<33><[U:1:126775298]><>" entered the game
+L 09/05/2023 - 13:51:01: "Frost Byte<33><[U:1:126775298]><Unassigned>" joined team "Red"
+L 09/05/2023 - 13:51:02: "Frost Byte<33><[U:1:126775298]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:51:14: "Octmari<17><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 13:51:20: World triggered "Round_Start"
+L 09/05/2023 - 13:51:20: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 13:51:24: "Dodger Fujisaki<32><[U:1:112494286]><>" entered the game
+L 09/05/2023 - 13:51:28: "SCARY PACK MAN!!!<35><[U:1:251267280]><>" entered the game
+L 09/05/2023 - 13:51:28: "Octmari<17><[U:1:160946369]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:51:28: "Octmari<36><[U:1:160946369]><>" connected, address "73.154.245.78:27006"
+L 09/05/2023 - 13:51:29: "Octmari<36><[U:1:160946369]><>" STEAM USERID validated
+L 09/05/2023 - 13:51:32: "Octmari<36><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 13:51:36: "Octmari<36><[U:1:160946369]><Unassigned>" joined team "Red"
+L 09/05/2023 - 13:51:38: "SCARY PACK MAN!!!<35><[U:1:251267280]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 13:51:48: "Octmari<36><[U:1:160946369]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:51:50: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 13:51:56: "Dodger Fujisaki<32><[U:1:112494286]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:51:56: "Dodger Fujisaki<37><[U:1:112494286]><>" connected, address "66.51.113.228:27005"
+L 09/05/2023 - 13:51:57: "Dodger Fujisaki<37><[U:1:112494286]><>" STEAM USERID validated
+L 09/05/2023 - 13:52:01: "Dodger Fujisaki<37><[U:1:112494286]><>" entered the game
+L 09/05/2023 - 13:52:05: World triggered "Round_Setup_End"
+L 09/05/2023 - 13:52:06: "Dodger Fujisaki<37><[U:1:112494286]><Unassigned>" joined team "Red"
+L 09/05/2023 - 13:52:13: "Dodger Fujisaki<37><[U:1:112494286]><Red>" changed role to "workernode"
+L 09/05/2023 - 13:52:18: "Frost Byte<33><[U:1:126775298]><Red>" killed "August101<16><[U:1:241010597]><Blue>" with "bat" (attacker_position "-24 -535 -311") (victim_position "-73 -507 -311")
+L 09/05/2023 - 13:52:22: "Dodger Fujisaki<37><[U:1:112494286]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:52:27: "Tofawil<29><[U:1:449097787]><>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:52:28: "ChargingTurnip<4><[U:1:313942863]><>" entered the game
+L 09/05/2023 - 13:52:32: "August101<16><[U:1:241010597]><Blue>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:52:32: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" triggered "captureblocked" (cp "2") (cpname "#Well_cap_center") (position "59 62 -307")
+L 09/05/2023 - 13:52:32: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "shotgun_hwg" (attacker_position "59 62 -307") (victim_position "-9 -89 -307")
+L 09/05/2023 - 13:52:39: "Tofawil<38><[U:1:449097787]><>" connected, address "37.248.177.224:6874"
+L 09/05/2023 - 13:52:40: "Tofawil<38><[U:1:449097787]><>" STEAM USERID validated
+L 09/05/2023 - 13:52:53: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-87 -6145 -415")
+L 09/05/2023 - 13:53:00: "Dodger Fujisaki<37><[U:1:112494286]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "734 -151 -511")
+L 09/05/2023 - 13:53:02: "Dodger Fujisaki<37><[U:1:112494286]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "692 153 -511")
+L 09/05/2023 - 13:53:07: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#Well_cap_center") (numcappers "1") (player1 "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>") (position1 "105 126 -309") 
+L 09/05/2023 - 13:53:17: "Octmari<36><[U:1:160946369]><Red>" say "i love running ILLEGAL maps "
+L 09/05/2023 - 13:53:18: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-337 -708 -511")
+L 09/05/2023 - 13:53:31: "Dodger Fujisaki<37><[U:1:112494286]><Red>" killed "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" with "scattergun" (attacker_position "-299 551 -320") (victim_position "-205 538 -311")
+L 09/05/2023 - 13:53:31: "Octmari<36><[U:1:160946369]><Red>" triggered "kill assist" against "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" (assister_position "-157 549 -311") (attacker_position "-299 551 -320") (victim_position "-205 538 -311")
+L 09/05/2023 - 13:53:41: Team "Red" triggered "pointcaptured" (cp "2") (cpname "#Well_cap_center") (numcappers "3") (player1 "Octmari<36><[U:1:160946369]><Red>") (position1 "25 70 -307") (player2 "Frost Byte<33><[U:1:126775298]><Red>") (position2 "-127 57 -314") (player3 "Dodger Fujisaki<37><[U:1:112494286]><Red>") (position3 "3 -36 -307") 
+L 09/05/2023 - 13:53:56: "Octmari<36><[U:1:160946369]><Red>" joined team "Blue"
+L 09/05/2023 - 13:53:56: "Octmari<36><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "200 3033 -511")
+L 09/05/2023 - 13:54:00: "Octmari<36><[U:1:160946369]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 13:54:06: "Tofawil<38><[U:1:449097787]><>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:54:11: Team "Red" triggered "pointcaptured" (cp "1") (cpname "#Well_cap_blue_two") (numcappers "2") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "7 2889 -511") (player2 "Dodger Fujisaki<37><[U:1:112494286]><Red>") (position2 "-32 3048 -504") 
+L 09/05/2023 - 13:54:21: "Frost Byte<33><[U:1:126775298]><Red>" killed "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" with "scattergun" (attacker_position "52 5449 -367") (victim_position "-118 5488 -367")
+L 09/05/2023 - 13:54:23: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#Well_cap_blue_rocket") (numcappers "2") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "82 5564 -360") (player2 "Dodger Fujisaki<37><[U:1:112494286]><Red>") (position2 "-9 5663 -360") 
+L 09/05/2023 - 13:54:23: World triggered "Round_Win" (winner "Red")
+L 09/05/2023 - 13:54:23: World triggered "Round_Length" (seconds "183.17")
+L 09/05/2023 - 13:54:23: Team "Red" current score "1" with "2" players
+L 09/05/2023 - 13:54:23: Team "Blue" current score "0" with "2" players
+L 09/05/2023 - 13:54:23: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 13:54:23: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 13:54:23: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 13:54:23: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 13:54:26: "Tofawil<39><[U:1:449097787]><>" connected, address "37.248.177.224:6874"
+L 09/05/2023 - 13:54:27: "Tofawil<39><[U:1:449097787]><>" STEAM USERID validated
+L 09/05/2023 - 13:54:30: "Dodger Fujisaki<37><[U:1:112494286]><Red>" killed "Octmari<36><[U:1:160946369]><Blue>" with "bat" (attacker_position "7 6231 -415") (victim_position "15 6279 -415")
+L 09/05/2023 - 13:54:31: World triggered "Round_Start"
+L 09/05/2023 - 13:54:31: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 13:54:34: "Tofawil<39><[U:1:449097787]><>" entered the game
+L 09/05/2023 - 13:54:39: "Tofawil<39><[U:1:449097787]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 13:54:41: "Tofawil<39><[U:1:449097787]><Blue>" changed role to "saptrap"
+L 09/05/2023 - 13:54:41: "Dodger Fujisaki<37><[U:1:112494286]><Red>" say "Okay I feel bad now lol"
+L 09/05/2023 - 13:54:51: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-37 -6122 -415")
+L 09/05/2023 - 13:55:16: World triggered "Round_Setup_End"
+L 09/05/2023 - 13:55:19: "Dodger Fujisaki<37><[U:1:112494286]><Red>" committed suicide with "world" (attacker_position "-412 57 -496")
+L 09/05/2023 - 13:55:21: "Frost Byte<33><[U:1:126775298]><Red>" killed "Tofawil<39><[U:1:449097787]><Blue>" with "scattergun" (attacker_position "391 514 -360") (victim_position "327 500 -332")
+L 09/05/2023 - 13:55:23: "Octmari<36><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "2") (cpname "#Well_cap_center") (position "34 425 -311")
+L 09/05/2023 - 13:55:23: "Octmari<36><[U:1:160946369]><Blue>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "tf_projectile_rocket" (attacker_position "34 425 -311") (victim_position "22 125 -314")
+L 09/05/2023 - 13:55:28: "Dodger Fujisaki<37><[U:1:112494286]><Red>" changed role to "workernode"
+L 09/05/2023 - 13:55:31: "Frost Byte<33><[U:1:126775298]><Red>" changed role to "sentronic"
+L 09/05/2023 - 13:55:32: "Tofawil<39><[U:1:449097787]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 13:55:34: "Tofawil<39><[U:1:449097787]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 13:55:35: "Octmari<36><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "112 -164 -309")
+L 09/05/2023 - 13:55:36: "Tofawil<39><[U:1:449097787]><Blue>" changed role to "telecon"
+L 09/05/2023 - 13:55:39: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#Well_cap_center") (numcappers "2") (player1 "Octmari<36><[U:1:160946369]><Blue>") (position1 "15 -97 -307") (player2 "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>") (position2 "108 67 -312") 
+L 09/05/2023 - 13:55:45: "Tofawil<39><[U:1:449097787]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-668 3555 -511")
+L 09/05/2023 - 13:55:47: "Dodger Fujisaki<37><[U:1:112494286]><Red>" say "I have to skedaddle, thanks for the games you guys!"
+L 09/05/2023 - 13:55:52: "Frost Byte<33><[U:1:126775298]><Red>" say "se ya"
+L 09/05/2023 - 13:55:53: "Octmari<36><[U:1:160946369]><Blue>" joined team "Red"
+L 09/05/2023 - 13:55:53: "Octmari<36><[U:1:160946369]><Red>" committed suicide with "world" (attacker_position "304 -3065 -511")
+L 09/05/2023 - 13:55:56: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-167 -3534 -511")
+L 09/05/2023 - 13:55:57: "Dodger Fujisaki<37><[U:1:112494286]><Red>" say "This has been a blast!"
+L 09/05/2023 - 13:55:59: "Dodger Fujisaki<37><[U:1:112494286]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:56:04: "Tofawil<39><[U:1:449097787]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "415 -1732 -879")
+L 09/05/2023 - 13:56:07: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" killed "Frost Byte<33><[U:1:126775298]><Red>" with "shotgun_hwg" (attacker_position "284 -2981 -511") (victim_position "-2 -3093 -504")
+L 09/05/2023 - 13:56:11: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "30 -3161 -507")
+L 09/05/2023 - 13:56:17: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "#Well_cap_red_two") (numcappers "2") (player1 "Tofawil<39><[U:1:449097787]><Blue>") (position1 "26 -3220 -511") (player2 "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>") (position2 "61 -3234 -456") 
+L 09/05/2023 - 13:56:18: "Octmari<36><[U:1:160946369]><Red>" changed role to "dismatic"
+L 09/05/2023 - 13:56:20: "Frost Byte<33><[U:1:126775298]><Red>" killed "Tofawil<39><[U:1:449097787]><Blue>" with "obj_sentrygun" (attacker_position "17 -6469 -415") (victim_position "453 -3782 -511")
+L 09/05/2023 - 13:56:26: "Octmari<36><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "8 -5417 -367")
+L 09/05/2023 - 13:56:31: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "shotgun_hwg") (objectowner "Frost Byte<33><[U:1:126775298]><Red>") (attacker_position "-142 -3106 -511")
+L 09/05/2023 - 13:56:35: "Frost Byte<33><[U:1:126775298]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-272 -5348 -366")
+L 09/05/2023 - 13:57:00: "Frost Byte<33><[U:1:126775298]><Red>" killed "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" with "smg" (attacker_position "-239 -3550 -511") (victim_position "-15 -3349 -511")
+L 09/05/2023 - 13:57:06: "Frost Byte<33><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "smg") (objectowner "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>") (attacker_position "-8 -2872 -511")
+L 09/05/2023 - 13:57:06: "Tofawil<39><[U:1:449097787]><Blue>" say "i dont know why but i think saptrap would sound like Wario"
+L 09/05/2023 - 13:57:14: Team "Red" triggered "pointcaptured" (cp "3") (cpname "#Well_cap_red_two") (numcappers "1") (player1 "Frost Byte<33><[U:1:126775298]><Red>") (position1 "42 -3239 -511") 
+L 09/05/2023 - 13:57:22: "Octmari<36><[U:1:160946369]><Red>" say "voice already exists- he sounds like moon from FNAF:SB"
+L 09/05/2023 - 13:57:35: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "78 169 -309")
+L 09/05/2023 - 13:57:38: "Frost Byte<33><[U:1:126775298]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>") (attacker_position "18 -174 -309")
+L 09/05/2023 - 13:57:47: "Tofawil<39><[U:1:449097787]><Blue>" say "that sounds cool"
+L 09/05/2023 - 13:57:49: "Frost Byte<33><[U:1:126775298]><Red>" killed "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" with "smg" (attacker_position "30 -52 -307") (victim_position "-90 360 -311")
+L 09/05/2023 - 13:57:58: "Frost Byte<33><[U:1:126775298]><Red>" say "and if your curious node is sonic"
+L 09/05/2023 - 13:58:02: Team "Red" triggered "pointcaptured" (cp "2") (cpname "#Well_cap_center") (numcappers "2") (player1 "Octmari<36><[U:1:160946369]><Red>") (position1 "28 51 -307") (player2 "Frost Byte<33><[U:1:126775298]><Red>") (position2 "116 -40 -312") 
+L 09/05/2023 - 13:58:08: "Frost Byte<33><[U:1:126775298]><Red>" say "like straight up sonic"
+L 09/05/2023 - 13:58:08: "Octmari<36><[U:1:160946369]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "pda_engineer") (objectowner "Octmari<36><[U:1:160946369]><Red>") (attacker_position "-156 621 -311")
+L 09/05/2023 - 13:58:10: "Octmari<36><[U:1:160946369]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-182 619 -311")
+L 09/05/2023 - 13:58:27: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" triggered "captureblocked" (cp "1") (cpname "#Well_cap_blue_two") (position "135 3140 -511")
+L 09/05/2023 - 13:58:28: "Frost Byte<33><[U:1:126775298]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "6 2986 -504")
+L 09/05/2023 - 13:58:40: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-237 3217 -511")
+L 09/05/2023 - 13:58:50: "Tofawil<39><[U:1:449097787]><Blue>" killed "Octmari<36><[U:1:160946369]><Red>" with "scattergun" (attacker_position "-4 394 -270") (victim_position "-7 591 -311")
+L 09/05/2023 - 13:59:00: "Frost Byte<33><[U:1:126775298]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:59:03: "Octmari<36><[U:1:160946369]><Red>" say "oop"
+L 09/05/2023 - 13:59:09: "Octmari<36><[U:1:160946369]><Red>" say "its so joever"
+L 09/05/2023 - 13:59:15: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#Well_cap_center") (numcappers "1") (player1 "Tofawil<39><[U:1:449097787]><Blue>") (position1 "6 14 -307") 
+L 09/05/2023 - 13:59:35: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "#Well_cap_red_two") (numcappers "2") (player1 "Tofawil<39><[U:1:449097787]><Blue>") (position1 "69 -3214 -511") (player2 "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>") (position2 "-56 -2937 -508") 
+L 09/05/2023 - 13:59:46: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "#Well_cap_red_rocket") (numcappers "1") (player1 "Tofawil<39><[U:1:449097787]><Blue>") (position1 "81 -5728 -367") 
+L 09/05/2023 - 13:59:46: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 13:59:46: World triggered "Round_Length" (seconds "315.00")
+L 09/05/2023 - 13:59:46: Team "Red" current score "1" with "1" players
+L 09/05/2023 - 13:59:46: Team "Blue" current score "1" with "2" players
+L 09/05/2023 - 13:59:46: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 13:59:46: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 13:59:46: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 13:59:46: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 13:59:54: World triggered "Round_Start"
+L 09/05/2023 - 13:59:54: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 14:00:02: "Tofawil<39><[U:1:449097787]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "9 6137 -415")
+L 09/05/2023 - 14:00:20: "Tofawil<39><[U:1:449097787]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-133 1632 -895")
+L 09/05/2023 - 14:00:39: World triggered "Round_Setup_End"
+L 09/05/2023 - 14:00:59: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#Well_cap_center") (numcappers "2") (player1 "Tofawil<39><[U:1:449097787]><Blue>") (position1 "-72 15 -307") (player2 "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>") (position2 "137 99 -216") 
+L 09/05/2023 - 14:01:19: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" killed "Octmari<36><[U:1:160946369]><Red>" with "minigun" (attacker_position "442 -1350 -511") (victim_position "639 -1921 -506")
+L 09/05/2023 - 14:01:19: "Tofawil<39><[U:1:449097787]><Blue>" triggered "kill assist" against "Octmari<36><[U:1:160946369]><Red>" (assister_position "442 -1892 -511") (attacker_position "442 -1350 -511") (victim_position "639 -1921 -506")
+L 09/05/2023 - 14:01:31: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "468 -3165 -511")
+L 09/05/2023 - 14:01:37: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "#Well_cap_red_two") (numcappers "1") (player1 "Tofawil<39><[U:1:449097787]><Blue>") (position1 "-40 -2924 -511") 
+L 09/05/2023 - 14:01:44: "Tofawil<39><[U:1:449097787]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "pda_engineer") (objectowner "Tofawil<39><[U:1:449097787]><Blue>") (attacker_position "-409 -3748 -319")
+L 09/05/2023 - 14:01:47: "Tofawil<39><[U:1:449097787]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-611 -3197 -311")
+L 09/05/2023 - 14:01:57: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "#Well_cap_red_rocket") (numcappers "1") (player1 "Tofawil<39><[U:1:449097787]><Blue>") (position1 "-59 -5652 -360") 
+L 09/05/2023 - 14:01:57: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 14:01:57: World triggered "Round_Length" (seconds "122.91")
+L 09/05/2023 - 14:01:57: Team "Red" current score "1" with "1" players
+L 09/05/2023 - 14:01:57: Team "Blue" current score "2" with "2" players
+L 09/05/2023 - 14:01:57: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 14:01:57: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 14:01:57: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 14:01:57: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 14:02:00: "Octmari<36><[U:1:160946369]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 14:02:04: "SCARY PACK MAN!!!<35><[U:1:251267280]><Blue>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 14:02:05: World triggered "Round_Start"
+L 09/05/2023 - 14:02:05: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 14:02:17: "Tofawil<39><[U:1:449097787]><Blue>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 14:02:50: World triggered "Round_Setup_End"
+L 09/05/2023 - 14:12:50: World triggered "Round_SuddenDeath" reason "round timelimit reached"
+L 09/05/2023 - 14:16:00: "Tofawil<40><[U:1:449097787]><>" connected, address "37.248.177.224:6898"
+L 09/05/2023 - 14:16:02: "Tofawil<40><[U:1:449097787]><>" STEAM USERID validated
+L 09/05/2023 - 14:16:09: "Tofawil<40><[U:1:449097787]><>" entered the game
+L 09/05/2023 - 14:16:13: "Tofawil<40><[U:1:449097787]><Unassigned>" joined team "Red"
+L 09/05/2023 - 14:16:14: "Tofawil<40><[U:1:449097787]><Red>" changed role to "workernode"
+L 09/05/2023 - 14:16:45: World triggered "Round_Start"
+L 09/05/2023 - 14:16:45: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 14:17:00: "Tofawil<40><[U:1:449097787]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-128 -5996 -415")
+L 09/05/2023 - 14:17:23: "Tofawil<40><[U:1:449097787]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-646 -5640 -415")
+L 09/05/2023 - 14:17:30: World triggered "Round_Setup_End"
+L 09/05/2023 - 14:17:47: "Tofawil<40><[U:1:449097787]><Red>" triggered "builtobject" (object "OBJ_STAIRS") (position "-605 -5659 -415")
+L 09/05/2023 - 14:18:15: "Tofawil<40><[U:1:449097787]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 14:20:36: "ChargingTurnip<4><[U:1:313942863]><Unassigned>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 14:27:30: World triggered "Round_SuddenDeath" reason "round timelimit reached"
+L 09/05/2023 - 15:31:46: "DragonMInt<41><[U:1:911537673]><>" connected, address "172.220.243.22:27005"
+L 09/05/2023 - 15:31:47: "DragonMInt<41><[U:1:911537673]><>" STEAM USERID validated
+L 09/05/2023 - 15:31:54: "DragonMInt<41><[U:1:911537673]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 15:36:09: "DragonMInt<42><[U:1:911537673]><>" connected, address "172.220.243.22:27005"
+L 09/05/2023 - 15:36:11: "DragonMInt<42><[U:1:911537673]><>" STEAM USERID validated
+L 09/05/2023 - 15:36:25: "DragonMInt<42><[U:1:911537673]><>" entered the game
+L 09/05/2023 - 15:36:28: "DragonMInt<42><[U:1:911537673]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 15:36:30: "DragonMInt<42><[U:1:911537673]><Blue>" changed role to "telecon"
+L 09/05/2023 - 15:36:35: World triggered "Round_SuddenDeath" reason "server timelimit reached"
+L 09/05/2023 - 15:38:21: "DragonMInt<42><[U:1:911537673]><Blue>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 15:52:21: "Frost Byte<43><[U:1:126775298]><>" connected, address "173.92.191.133:27005"
+L 09/05/2023 - 15:52:23: "Frost Byte<43><[U:1:126775298]><>" STEAM USERID validated
+L 09/05/2023 - 15:52:32: "Frost Byte<43><[U:1:126775298]><>" entered the game
+L 09/05/2023 - 15:53:28: "Frost Byte<43><[U:1:126775298]><Unassigned>" joined team "Red"
+L 09/05/2023 - 15:53:30: "Frost Byte<43><[U:1:126775298]><Red>" changed role to "telecon"
+L 09/05/2023 - 15:53:35: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 15:53:48: "Frost Byte<43><[U:1:126775298]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 15:54:20: World triggered "Round_Setup_End"
+L 09/05/2023 - 16:04:20: World triggered "Round_SuddenDeath" reason "round timelimit reached"
+L 09/05/2023 - 16:22:11: "Naga Sake<44><[U:1:882037538]><>" connected, address "71.60.32.241:50281"
+L 09/05/2023 - 16:22:12: "Naga Sake<44><[U:1:882037538]><>" STEAM USERID validated
+L 09/05/2023 - 16:23:30: "Naga Sake<44><[U:1:882037538]><>" entered the game
+L 09/05/2023 - 16:24:20: "Naga Sake<44><[U:1:882037538]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 16:24:24: "Naga Sake<44><[U:1:882037538]><Blue>" changed role to "saptrap"
+L 09/05/2023 - 16:24:29: World triggered "Round_SuddenDeath" reason "server timelimit reached"
+L 09/05/2023 - 16:24:31: "Naga Sake<44><[U:1:882037538]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 16:24:34: "Naga Sake<44><[U:1:882037538]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:28:34: "Naga Sake<44><[U:1:882037538]><Blue>" committed suicide with "world" (attacker_position "887 -5533 -411")
+L 09/05/2023 - 16:28:34: World triggered "Round_Stalemate"
+L 09/05/2023 - 16:28:34: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 16:28:34: Team "Blue" current score "0" with "1" players
+L 09/05/2023 - 16:28:34: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 16:28:34: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 16:28:34: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 16:28:34: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 16:28:42: World triggered "Game_Over" reason "Reached Time Limit"
+L 09/05/2023 - 16:28:42: Team "Red" final score "0" with "0" players
+L 09/05/2023 - 16:28:42: Team "Blue" final score "0" with "1" players
+L 09/05/2023 - 16:28:42: Team "Green" final score "0" with "0" players
+L 09/05/2023 - 16:28:42: Team "Yellow" final score "0" with "0" players
+L 09/05/2023 - 16:28:42: Team "Purple" final score "0" with "0" players
+L 09/05/2023 - 16:28:42: Team "Pink" final score "0" with "0" players
+L 09/05/2023 - 16:28:52: Log file closed.

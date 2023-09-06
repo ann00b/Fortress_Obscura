@@ -1,0 +1,84 @@
+L 09/05/2023 - 16:28:57: Log file started (file "logs\L0905034.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 16:29:15: "Naga Sake<44><[U:1:882037538]><>" entered the game
+L 09/05/2023 - 16:29:15: "Frost Byte<45><[U:1:126775298]><>" connected, address "173.92.191.133:27005"
+L 09/05/2023 - 16:29:17: "Frost Byte<45><[U:1:126775298]><>" STEAM USERID validated
+L 09/05/2023 - 16:29:22: "Naga Sake<44><[U:1:882037538]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 16:29:24: "Naga Sake<44><[U:1:882037538]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:29:28: "Frost Byte<45><[U:1:126775298]><>" entered the game
+L 09/05/2023 - 16:29:29: "Evan068<46><[U:1:371507926]><>" connected, address "76.14.206.105:27005"
+L 09/05/2023 - 16:29:30: "Evan068<46><[U:1:371507926]><>" STEAM USERID validated
+L 09/05/2023 - 16:29:33: "Frost Byte<45><[U:1:126775298]><Unassigned>" joined team "Red"
+L 09/05/2023 - 16:29:35: "Frost Byte<45><[U:1:126775298]><Red>" changed role to "telecon"
+L 09/05/2023 - 16:29:43: "Evan068<46><[U:1:371507926]><>" entered the game
+L 09/05/2023 - 16:29:47: "Evan068<46><[U:1:371507926]><Unassigned>" joined team "Spectator"
+L 09/05/2023 - 16:29:55: World triggered "Round_Start"
+L 09/05/2023 - 16:29:57: "Frost Byte<45><[U:1:126775298]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 16:30:02: "Evan068<46><[U:1:371507926]><Spectator>" joined team "Red"
+L 09/05/2023 - 16:30:04: "Evan068<46><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 16:30:07: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-225 -2150 190")
+L 09/05/2023 - 16:30:16: "Hoodinut<47><[U:1:133526367]><>" connected, address "184.169.108.8:27005"
+L 09/05/2023 - 16:30:17: "Hoodinut<47><[U:1:133526367]><>" STEAM USERID validated
+L 09/05/2023 - 16:30:48: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER_ENTRANCE") (weapon "scattergun") (objectowner "Naga Sake<44><[U:1:882037538]><Blue>") (attacker_position "-40 -1996 192")
+L 09/05/2023 - 16:31:22: "Naga Sake<44><[U:1:882037538]><Blue>" killed "Evan068<46><[U:1:371507926]><Red>" with "bat" (attacker_position "-44 -116 298") (victim_position "-75 -116 296")
+L 09/05/2023 - 16:31:22: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 16:31:22: World triggered "Round_Length" (seconds "87.31")
+L 09/05/2023 - 16:31:22: Team "Red" current score "0" with "1" players
+L 09/05/2023 - 16:31:22: Team "Blue" current score "1" with "1" players
+L 09/05/2023 - 16:31:22: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 16:31:22: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 16:31:22: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 16:31:22: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 16:31:22: "Hoodinut<47><[U:1:133526367]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 16:31:30: World triggered "Round_Start"
+L 09/05/2023 - 16:32:37: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "scattergun" (attacker_position "636 158 354") (victim_position "888 125 296")
+L 09/05/2023 - 16:32:37: World triggered "Round_Win" (winner "Red")
+L 09/05/2023 - 16:32:37: World triggered "Round_Length" (seconds "66.93")
+L 09/05/2023 - 16:32:37: Team "Red" current score "1" with "1" players
+L 09/05/2023 - 16:32:37: Team "Blue" current score "1" with "1" players
+L 09/05/2023 - 16:32:37: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 16:32:37: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 16:32:37: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 16:32:37: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 16:32:45: World triggered "Round_Start"
+L 09/05/2023 - 16:33:31: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "scattergun" (attacker_position "-882 -222 296") (victim_position "-1189 -228 225")
+L 09/05/2023 - 16:33:31: World triggered "Round_Win" (winner "Red")
+L 09/05/2023 - 16:33:31: World triggered "Round_Length" (seconds "46.18")
+L 09/05/2023 - 16:33:31: Team "Red" current score "2" with "1" players
+L 09/05/2023 - 16:33:31: Team "Blue" current score "1" with "1" players
+L 09/05/2023 - 16:33:31: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 16:33:31: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 16:33:31: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 16:33:31: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 16:33:33: "Evan068<46><[U:1:371507926]><Red>" committed suicide with "world" (attacker_position "-1203 -203 282")
+L 09/05/2023 - 16:33:36: "Naga Sake<44><[U:1:882037538]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 16:33:39: World triggered "Round_Start"
+L 09/05/2023 - 16:34:17: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-301 -177 296")
+L 09/05/2023 - 16:34:55: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "0") (cpname "#Arena_cap") (position "47 -170 296")
+L 09/05/2023 - 16:34:55: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "scattergun" (attacker_position "47 -170 296") (victim_position "-73 -86 303")
+L 09/05/2023 - 16:34:55: World triggered "Round_Win" (winner "Red")
+L 09/05/2023 - 16:34:55: World triggered "Round_Length" (seconds "75.70")
+L 09/05/2023 - 16:34:55: Team "Red" current score "3" with "1" players
+L 09/05/2023 - 16:34:55: Team "Blue" current score "1" with "1" players
+L 09/05/2023 - 16:34:55: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 16:34:55: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 16:34:55: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 16:34:55: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 16:34:57: "Naga Sake<44><[U:1:882037538]><Blue>" killed "Evan068<46><[U:1:371507926]><Red>" with "player" (attacker_position "-73 -86 317") (victim_position "-117 210 358")
+L 09/05/2023 - 16:35:03: World triggered "Round_Start"
+L 09/05/2023 - 16:36:04: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "scattergun" (attacker_position "-967 -679 224") (victim_position "-820 -930 224")
+L 09/05/2023 - 16:36:04: World triggered "Round_Win" (winner "Red")
+L 09/05/2023 - 16:36:04: World triggered "Round_Length" (seconds "60.49")
+L 09/05/2023 - 16:36:04: Team "Red" current score "4" with "1" players
+L 09/05/2023 - 16:36:04: Team "Blue" current score "1" with "1" players
+L 09/05/2023 - 16:36:04: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 16:36:04: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 16:36:04: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 16:36:04: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 16:36:12: World triggered "Game_Over" reason "Reached Round Limit"
+L 09/05/2023 - 16:36:12: Team "Red" final score "4" with "1" players
+L 09/05/2023 - 16:36:12: Team "Blue" final score "1" with "1" players
+L 09/05/2023 - 16:36:12: Team "Green" final score "0" with "0" players
+L 09/05/2023 - 16:36:12: Team "Yellow" final score "0" with "0" players
+L 09/05/2023 - 16:36:12: Team "Purple" final score "0" with "0" players
+L 09/05/2023 - 16:36:12: Team "Pink" final score "0" with "0" players
+L 09/05/2023 - 16:36:22: Log file closed.

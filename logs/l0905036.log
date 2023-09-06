@@ -1,0 +1,488 @@
+L 09/05/2023 - 16:36:31: Log file started (file "logs\L0905036.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 16:36:57: "Naga Sake<44><[U:1:882037538]><>" entered the game
+L 09/05/2023 - 16:36:57: "Evan068<46><[U:1:371507926]><>" entered the game
+L 09/05/2023 - 16:37:03: "Evan068<46><[U:1:371507926]><Unassigned>" joined team "Red"
+L 09/05/2023 - 16:37:05: "Evan068<46><[U:1:371507926]><Red>" changed role to "dismatic"
+L 09/05/2023 - 16:37:14: "Evan068<46><[U:1:371507926]><Red>" committed suicide with "world" (attacker_position "2638 1402 -223")
+L 09/05/2023 - 16:37:14: "Evan068<46><[U:1:371507926]><Red>" joined team "Spectator"
+L 09/05/2023 - 16:37:18: "DragonMInt<48><[U:1:911537673]><>" connected, address "172.220.243.22:27005"
+L 09/05/2023 - 16:37:20: "DragonMInt<48><[U:1:911537673]><>" STEAM USERID validated
+L 09/05/2023 - 16:37:22: "Naga Sake<44><[U:1:882037538]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 16:37:22: "Naga Sake<44><[U:1:882037538]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 16:37:26: "Evan068<46><[U:1:371507926]><Spectator>" joined team "Red"
+L 09/05/2023 - 16:37:27: "Naga Sake<44><[U:1:882037538]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 16:37:35: World triggered "Round_Start"
+L 09/05/2023 - 16:37:35: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 16:37:35: World triggered "Mini_Round_Selected" (round "round_1")
+L 09/05/2023 - 16:37:35: World triggered "Mini_Round_Start"
+L 09/05/2023 - 16:37:36: "DragonMInt<48><[U:1:911537673]><>" entered the game
+L 09/05/2023 - 16:37:40: "DragonMInt<48><[U:1:911537673]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 16:37:47: "DragonMInt<48><[U:1:911537673]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:38:06: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-348 2693 -247")
+L 09/05/2023 - 16:38:35: World triggered "Round_Setup_End"
+L 09/05/2023 - 16:38:53: "Dodger Fujisaki<49><[U:1:112494286]><>" connected, address "66.51.112.243:27005"
+L 09/05/2023 - 16:38:55: "Dodger Fujisaki<49><[U:1:112494286]><>" STEAM USERID validated
+L 09/05/2023 - 16:39:12: "DragonMInt<48><[U:1:911537673]><Blue>" killed "Evan068<46><[U:1:371507926]><Red>" with "scattergun" (attacker_position "-176 2600 -111") (victim_position "-343 2802 -160")
+L 09/05/2023 - 16:39:12: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "kill assist" against "Evan068<46><[U:1:371507926]><Red>" (assister_position "-683 2747 -255") (attacker_position "-176 2600 -111") (victim_position "-343 2802 -160")
+L 09/05/2023 - 16:39:17: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "scattergun") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-297 2795 -240")
+L 09/05/2023 - 16:39:18: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#Dustbowl_cap_1_A") (numcappers "2") (player1 "Naga Sake<44><[U:1:882037538]><Blue>") (position1 "-65 2710 -247") (player2 "DragonMInt<48><[U:1:911537673]><Blue>") (position2 "-297 2795 -240") 
+L 09/05/2023 - 16:39:30: "Evan068<46><[U:1:371507926]><Red>" committed suicide with "world" (attacker_position "2637 1221 -223")
+L 09/05/2023 - 16:39:31: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "#Dustbowl_cap_1_B") (numcappers "2") (player1 "Naga Sake<44><[U:1:882037538]><Blue>") (position1 "2268 2292 -136") (player2 "DragonMInt<48><[U:1:911537673]><Blue>") (position2 "2230 2352 -136") 
+L 09/05/2023 - 16:39:31: World triggered "Mini_Round_Win" (winner "Blue") (round "round_1")
+L 09/05/2023 - 16:39:31: World triggered "Mini_Round_Length" (seconds "115.83")
+L 09/05/2023 - 16:39:36: "Evan068<46><[U:1:371507926]><Red>" changed role to "workernode"
+L 09/05/2023 - 16:39:39: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 16:39:39: World triggered "Mini_Round_Selected" (round "round_2")
+L 09/05/2023 - 16:39:39: World triggered "Mini_Round_Start"
+L 09/05/2023 - 16:39:41: "Evan068<46><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 16:39:41: "Evan068<46><[U:1:371507926]><Red>" changed role to "dismatic"
+L 09/05/2023 - 16:40:08: "Dodger Fujisaki<49><[U:1:112494286]><>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 16:40:13: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "2596 -1187 0")
+L 09/05/2023 - 16:40:39: World triggered "Round_Setup_End"
+L 09/05/2023 - 16:41:02: "Evan068<46><[U:1:371507926]><Red>" killed "DragonMInt<48><[U:1:911537673]><Blue>" with "minigun" (attacker_position "2544 -1196 0") (victim_position "2520 -1263 0")
+L 09/05/2023 - 16:41:11: "Naga Sake<44><[U:1:882037538]><Blue>" killed "Evan068<46><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "2588 -1483 0") (victim_position "2534 -1475 39")
+L 09/05/2023 - 16:41:19: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#Dustbowl_cap_2_A") (numcappers "1") (player1 "Naga Sake<44><[U:1:882037538]><Blue>") (position1 "2366 -1569 7") 
+L 09/05/2023 - 16:41:21: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "2366 -1569 7")
+L 09/05/2023 - 16:41:24: "Evan068<46><[U:1:371507926]><Red>" changed role to "sentronic"
+L 09/05/2023 - 16:41:33: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1335 -1506 -127")
+L 09/05/2023 - 16:41:36: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "3") (cpname "#Dustbowl_cap_2_B") (position "-1642 -1802 -6")
+L 09/05/2023 - 16:41:36: "Evan068<46><[U:1:371507926]><Red>" killed "DragonMInt<48><[U:1:911537673]><Blue>" with "tf_projectile_rocket" (attacker_position "-1642 -1802 -6") (victim_position "-1589 -1882 -38")
+L 09/05/2023 - 16:41:36: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1150 -1786 -159")
+L 09/05/2023 - 16:41:41: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1312 -1754 -154")
+L 09/05/2023 - 16:41:43: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "smg" (attacker_position "-1583 -2041 -38") (victim_position "-1259 -2213 -123")
+L 09/05/2023 - 16:41:46: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "smg") (objectowner "Naga Sake<44><[U:1:882037538]><Blue>") (attacker_position "-1444 -1935 -38")
+L 09/05/2023 - 16:41:47: "DragonMInt<48><[U:1:911537673]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 16:41:47: "adhd creature<50><[U:1:180250269]><>" connected, address "86.31.27.218:27005"
+L 09/05/2023 - 16:41:48: "adhd creature<50><[U:1:180250269]><>" STEAM USERID validated
+L 09/05/2023 - 16:41:50: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1139 -1484 -127")
+L 09/05/2023 - 16:41:50: "DragonMInt<48><[U:1:911537673]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:42:00: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "2432 816 -191")
+L 09/05/2023 - 16:42:16: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-913 -1269 -45")
+L 09/05/2023 - 16:42:23: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "3") (cpname "#Dustbowl_cap_2_B") (position "-1530 -2215 -88")
+L 09/05/2023 - 16:42:23: "Evan068<46><[U:1:371507926]><Red>" killed "DragonMInt<48><[U:1:911537673]><Blue>" with "tf_projectile_rocket" (attacker_position "-1530 -2215 -88") (victim_position "-1615 -2060 -38")
+L 09/05/2023 - 16:42:49: "Evan068<46><[U:1:371507926]><Red>" killed "DragonMInt<48><[U:1:911537673]><Blue>" with "obj_sentrygun" (attacker_position "-503 -1449 0") (victim_position "-1176 -1458 -127")
+L 09/05/2023 - 16:42:49: "Evan068<46><[U:1:371507926]><Red>" triggered "domination" against "DragonMInt<48><[U:1:911537673]><Blue>"
+L 09/05/2023 - 16:42:58: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-952 -2462 -126")
+L 09/05/2023 - 16:43:01: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Blue>") (attacker_position "-845 -1069 -47")
+L 09/05/2023 - 16:43:07: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "3") (cpname "#Dustbowl_cap_2_B") (position "-1605 -1833 -46")
+L 09/05/2023 - 16:43:07: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "#Dustbowl_cap_2_B") (numcappers "1") (player1 "Naga Sake<44><[U:1:882037538]><Blue>") (position1 "-1460 -1990 -38") 
+L 09/05/2023 - 16:43:07: World triggered "Mini_Round_Win" (winner "Blue") (round "round_2")
+L 09/05/2023 - 16:43:07: World triggered "Mini_Round_Length" (seconds "208.47")
+L 09/05/2023 - 16:43:08: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "tf_projectile_rocket" (attacker_position "-1581 -1901 105") (victim_position "-1475 -1942 -38")
+L 09/05/2023 - 16:43:15: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 16:43:15: World triggered "Mini_Round_Selected" (round "round_3")
+L 09/05/2023 - 16:43:15: World triggered "Mini_Round_Start"
+L 09/05/2023 - 16:43:17: "adhd creature<50><[U:1:180250269]><>" entered the game
+L 09/05/2023 - 16:43:23: "adhd creature<50><[U:1:180250269]><Unassigned>" joined team "Red"
+L 09/05/2023 - 16:43:26: "adhd creature<50><[U:1:180250269]><Red>" changed role to "telecon"
+L 09/05/2023 - 16:43:26: "DragonMInt<48><[U:1:911537673]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 16:43:29: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1755 -120 -63")
+L 09/05/2023 - 16:43:39: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1679 -229 -63")
+L 09/05/2023 - 16:43:39: "adhd creature<50><[U:1:180250269]><Red>" changed role to "workernode"
+L 09/05/2023 - 16:43:39: "adhd creature<50><[U:1:180250269]><Red>" committed suicide with "world" (attacker_position "-461 -714 0")
+L 09/05/2023 - 16:43:46: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1496 -924 -59")
+L 09/05/2023 - 16:43:56: "Naga Sake<44><[U:1:882037538]><Blue>" say "bro tryna upgrade he own sentry"
+L 09/05/2023 - 16:44:07: "Naga Sake<44><[U:1:882037538]><Blue>" say "dispenser bot can upgrade sentries tho so uh dispenser bot do that"
+L 09/05/2023 - 16:44:13: "DragonMInt<48><[U:1:911537673]><Blue>" say "you need a dispenser or worker node"
+L 09/05/2023 - 16:44:15: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1470 -299 -54")
+L 09/05/2023 - 16:44:15: World triggered "Round_Setup_End"
+L 09/05/2023 - 16:44:16: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1601 -309 -60")
+L 09/05/2023 - 16:44:17: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1709 -241 -63")
+L 09/05/2023 - 16:44:18: "DragonMInt<48><[U:1:911537673]><Blue>" say "yeah"
+L 09/05/2023 - 16:44:19: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "tf_projectile_rocket" (attacker_position "-1370 -669 -63") (victim_position "-1367 -472 -63")
+L 09/05/2023 - 16:44:23: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-1571 -1367 -63")
+L 09/05/2023 - 16:44:26: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-1549 -601 -63")
+L 09/05/2023 - 16:44:45: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1277 130 -21")
+L 09/05/2023 - 16:44:48: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Red>") (attacker_position "-1312 -836 -86")
+L 09/05/2023 - 16:44:49: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1260 206 -25")
+L 09/05/2023 - 16:44:50: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1261 304 -35")
+L 09/05/2023 - 16:44:53: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "tf_projectile_rocket" (attacker_position "-1387 -672 -63") (victim_position "-1320 -1031 -183")
+L 09/05/2023 - 16:44:53: "Evan068<46><[U:1:371507926]><Red>" triggered "domination" against "Naga Sake<44><[U:1:882037538]><Blue>"
+L 09/05/2023 - 16:44:56: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "minigun") (objectowner "adhd creature<50><[U:1:180250269]><Red>") (attacker_position "-1787 -1366 -63")
+L 09/05/2023 - 16:44:56: "Naga Sake<44><[U:1:882037538]><Blue>" say "walls have too little health"
+L 09/05/2023 - 16:44:57: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "minigun") (objectowner "adhd creature<50><[U:1:180250269]><Red>") (attacker_position "-1829 -1309 -63")
+L 09/05/2023 - 16:45:14: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1777 682 7")
+L 09/05/2023 - 16:45:15: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1780 639 7")
+L 09/05/2023 - 16:45:22: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "obj_sentrygun" (attacker_position "-1935 -356 50") (victim_position "-2168 -955 -63")
+L 09/05/2023 - 16:45:30: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Blue>") (attacker_position "-2354 -1185 -63")
+L 09/05/2023 - 16:45:39: "adhd creature<50><[U:1:180250269]><Red>" killed "DragonMInt<48><[U:1:911537673]><Blue>" with "fo_weapon_nodegun" (attacker_position "-2464 -1363 -63") (victim_position "-2177 -1364 -63")
+L 09/05/2023 - 16:45:42: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-2296 -972 -63")
+L 09/05/2023 - 16:45:45: "DragonMInt<48><[U:1:911537673]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:45:47: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "obj_sentrygun" (attacker_position "-943 98 128") (victim_position "-2388 -942 -63")
+L 09/05/2023 - 16:45:57: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1473 -898 -53")
+L 09/05/2023 - 16:46:03: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1909 -706 -62")
+L 09/05/2023 - 16:46:05: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "#Dustbowl_cap_3_A") (numcappers "1") (player1 "DragonMInt<48><[U:1:911537673]><Blue>") (position1 "-1838 581 7") 
+L 09/05/2023 - 16:46:19: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "485 -117 0")
+L 09/05/2023 - 16:46:19: "Evan068<46><[U:1:371507926]><Red>" killed "DragonMInt<48><[U:1:911537673]><Blue>" with "tf_projectile_rocket" (attacker_position "485 -117 0") (victim_position "530 718 7")
+L 09/05/2023 - 16:46:19: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-1471 -595 -64")
+L 09/05/2023 - 16:46:23: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "534 997 64")
+L 09/05/2023 - 16:46:34: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "645 -441 0")
+L 09/05/2023 - 16:46:35: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-253 -135 128")
+L 09/05/2023 - 16:46:36: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "581 -449 0")
+L 09/05/2023 - 16:46:37: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "508 -450 0")
+L 09/05/2023 - 16:46:37: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Red>") (attacker_position "526 -723 141")
+L 09/05/2023 - 16:46:41: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "tf_projectile_rocket" (attacker_position "456 -119 3") (victim_position "436 111 -3")
+L 09/05/2023 - 16:46:47: "DragonMInt<48><[U:1:911537673]><Blue>" killed "adhd creature<50><[U:1:180250269]><Red>" with "scattergun" (attacker_position "450 -448 0") (victim_position "484 199 -2")
+L 09/05/2023 - 16:47:10: "Call Me Meme<51><[U:1:381826942]><>" connected, address "194.56.199.76:27005"
+L 09/05/2023 - 16:47:12: "Call Me Meme<51><[U:1:381826942]><>" STEAM USERID validated
+L 09/05/2023 - 16:47:12: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "703 607 0")
+L 09/05/2023 - 16:47:13: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "580 611 7")
+L 09/05/2023 - 16:47:15: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "465 613 5")
+L 09/05/2023 - 16:47:20: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-383 -173 128")
+L 09/05/2023 - 16:47:23: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "369 618 0")
+L 09/05/2023 - 16:47:30: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "529 705 42")
+L 09/05/2023 - 16:47:30: "Evan068<46><[U:1:371507926]><Red>" killed "DragonMInt<48><[U:1:911537673]><Blue>" with "tf_projectile_rocket" (attacker_position "529 705 42") (victim_position "464 782 48")
+L 09/05/2023 - 16:47:34: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Red>") (attacker_position "560 -330 0")
+L 09/05/2023 - 16:47:41: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "146 545 64")
+L 09/05/2023 - 16:47:41: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "575 593 5")
+L 09/05/2023 - 16:47:50: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-753 -13 -257")
+L 09/05/2023 - 16:47:51: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-837 -29 -256")
+L 09/05/2023 - 16:47:53: "Naga Sake<44><[U:1:882037538]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "420 474 31")
+L 09/05/2023 - 16:47:53: "Evan068<46><[U:1:371507926]><Red>" killed "Naga Sake<44><[U:1:882037538]><Blue>" with "tf_projectile_rocket" (attacker_position "549 121 -1") (victim_position "416 482 18")
+L 09/05/2023 - 16:47:58: "Naga Sake<44><[U:1:882037538]><Blue>" changed role to "saptrap"
+L 09/05/2023 - 16:47:58: "DragonMInt<48><[U:1:911537673]><Blue>" killed "Evan068<46><[U:1:371507926]><Red>" with "scattergun" (attacker_position "583 -121 0") (victim_position "308 -12 -8")
+L 09/05/2023 - 16:47:58: "DragonMInt<48><[U:1:911537673]><Blue>" triggered "revenge" against "Evan068<46><[U:1:371507926]><Red>"
+L 09/05/2023 - 16:48:03: "adhd creature<50><[U:1:180250269]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "316 521 0")
+L 09/05/2023 - 16:48:06: "adhd creature<50><[U:1:180250269]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "682 651 0")
+L 09/05/2023 - 16:48:09: "DragonMInt<48><[U:1:911537673]><Blue>" killed "adhd creature<50><[U:1:180250269]><Red>" with "scattergun" (attacker_position "561 619 7") (victim_position "415 673 0")
+L 09/05/2023 - 16:48:10: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "#Dustbowl_cap_3_B") (numcappers "1") (player1 "DragonMInt<48><[U:1:911537673]><Blue>") (position1 "577 554 0") 
+L 09/05/2023 - 16:48:10: World triggered "Mini_Round_Win" (winner "Blue") (round "round_3")
+L 09/05/2023 - 16:48:10: World triggered "Mini_Round_Length" (seconds "294.15")
+L 09/05/2023 - 16:48:10: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 16:48:10: Team "Red" current score "0" with "2" players
+L 09/05/2023 - 16:48:10: Team "Blue" current score "6" with "2" players
+L 09/05/2023 - 16:48:10: Team "Green" current score "0" with "0" players
+L 09/05/2023 - 16:48:10: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 16:48:10: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 16:48:10: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 16:48:12: "DragonMInt<48><[U:1:911537673]><Blue>" say "gg"
+L 09/05/2023 - 16:48:16: "Naga Sake<44><[U:1:882037538]><Blue>" say "gg erz"
+L 09/05/2023 - 16:48:16: "Evan068<46><[U:1:371507926]><Red>" say "gg"
+L 09/05/2023 - 16:48:18: World triggered "Round_Start"
+L 09/05/2023 - 16:48:18: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 16:48:18: World triggered "Mini_Round_Selected" (round "round_1")
+L 09/05/2023 - 16:48:18: World triggered "Mini_Round_Start"
+L 09/05/2023 - 16:48:18: "Naga Sake<44><[U:1:882037538]><Blue>" joined team "Red"
+L 09/05/2023 - 16:48:18: "DragonMInt<48><[U:1:911537673]><Blue>" joined team "Red"
+L 09/05/2023 - 16:48:18: "Evan068<46><[U:1:371507926]><Red>" joined team "Blue"
+L 09/05/2023 - 16:48:18: "adhd creature<50><[U:1:180250269]><Red>" joined team "Blue"
+L 09/05/2023 - 16:48:26: "DragonMInt<48><[U:1:911537673]><Red>" changed role to "sentronic"
+L 09/05/2023 - 16:48:39: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-527 2698 -177")
+L 09/05/2023 - 16:49:05: "Evan068<46><[U:1:371507926]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:49:18: World triggered "Round_Setup_End"
+L 09/05/2023 - 16:49:20: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-1687 1796 -255")
+L 09/05/2023 - 16:49:29: "adhd creature<50><[U:1:180250269]><Blue>" killed "Naga Sake<44><[U:1:882037538]><Red>" with "fo_weapon_nodegun" (attacker_position "-1475 1766 -247") (victim_position "-1427 1740 -247")
+L 09/05/2023 - 16:49:35: "Evan068<46><[U:1:371507926]><Blue>" killed "DragonMInt<48><[U:1:911537673]><Red>" with "scattergun" (attacker_position "-1745 2969 -223") (victim_position "-1465 2838 -247")
+L 09/05/2023 - 16:49:40: "Naga Sake<44><[U:1:882037538]><Red>" changed role to "dismatic"
+L 09/05/2023 - 16:49:47: "Evan068<46><[U:1:371507926]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "-355 2468 -127")
+L 09/05/2023 - 16:49:49: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "33 1886 -302")
+L 09/05/2023 - 16:49:52: "Naga Sake<44><[U:1:882037538]><Red>" say_team "stay sentry ZI''l upgradfe yers tuf"
+L 09/05/2023 - 16:49:54: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#Dustbowl_cap_1_A") (numcappers "2") (player1 "Evan068<46><[U:1:371507926]><Blue>") (position1 "-190 2810 -240") (player2 "adhd creature<50><[U:1:180250269]><Blue>") (position2 "-97 2744 -246") 
+L 09/05/2023 - 16:49:58: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1761 1621 -189")
+L 09/05/2023 - 16:50:00: "Call Me Meme<51><[U:1:381826942]><>" entered the game
+L 09/05/2023 - 16:50:03: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "1881 2431 -205")
+L 09/05/2023 - 16:50:05: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "1419 2320 -246")
+L 09/05/2023 - 16:50:05: "DragonMInt<48><[U:1:911537673]><Red>" triggered "captureblocked" (cp "1") (cpname "#Dustbowl_cap_1_B") (position "2207 2589 -143")
+L 09/05/2023 - 16:50:07: "DragonMInt<48><[U:1:911537673]><Red>" killed "Evan068<46><[U:1:371507926]><Blue>" with "tf_projectile_rocket" (attacker_position "2373 2354 -136") (victim_position "2159 2791 -111")
+L 09/05/2023 - 16:50:08: "Call Me Meme<51><[U:1:381826942]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 16:50:10: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "obj_sentrygun" (attacker_position "2225 2528 -143") (victim_position "1792 2553 -191")
+L 09/05/2023 - 16:50:15: "Call Me Meme<51><[U:1:381826942]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 16:50:18: "Evan068<46><[U:1:371507926]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 16:50:18: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "2092 2366 -143")
+L 09/05/2023 - 16:50:23: "Naga Sake<44><[U:1:882037538]><Red>" say "move this thing"
+L 09/05/2023 - 16:50:29: "DragonMInt<48><[U:1:911537673]><Red>" say_team "where to?"
+L 09/05/2023 - 16:50:34: "Naga Sake<44><[U:1:882037538]><Red>" say "closer to the point"
+L 09/05/2023 - 16:50:41: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "1218 2393 -259")
+L 09/05/2023 - 16:50:41: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "2155 2678 -159")
+L 09/05/2023 - 16:50:43: "Evan068<46><[U:1:371507926]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "minigun") (objectowner "Naga Sake<44><[U:1:882037538]><Red>") (attacker_position "1206 2294 -259")
+L 09/05/2023 - 16:50:45: "adhd creature<50><[U:1:180250269]><Blue>" killed "Naga Sake<44><[U:1:882037538]><Red>" with "fo_weapon_nodegun" (attacker_position "1087 2488 -256") (victim_position "1839 2435 -206")
+L 09/05/2023 - 16:50:45: "Evan068<46><[U:1:371507926]><Blue>" triggered "kill assist" against "Naga Sake<44><[U:1:882037538]><Red>" (assister_position "1305 2353 -252") (attacker_position "1087 2488 -256") (victim_position "1839 2435 -206")
+L 09/05/2023 - 16:50:45: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1044 2005 -63")
+L 09/05/2023 - 16:51:00: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2256 2634 -159")
+L 09/05/2023 - 16:51:10: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "1086 1886 -63")
+L 09/05/2023 - 16:51:12: "Evan068<46><[U:1:371507926]><Blue>" killed "DragonMInt<48><[U:1:911537673]><Red>" with "shotgun_hwg" (attacker_position "1528 2717 -63") (victim_position "1854 2742 -191")
+L 09/05/2023 - 16:51:12: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "kill assist" against "DragonMInt<48><[U:1:911537673]><Red>" (assister_position "1751 2529 -140") (attacker_position "1528 2717 -63") (victim_position "1854 2742 -191")
+L 09/05/2023 - 16:51:14: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "obj_sentrygun" (attacker_position "1792 2756 -177") (victim_position "1436 2682 -61")
+L 09/05/2023 - 16:51:14: "Naga Sake<44><[U:1:882037538]><Red>" triggered "kill assist" against "Call Me Meme<51><[U:1:381826942]><Blue>" (assister_position "2041 2032 -206") (attacker_position "1792 2756 -177") (victim_position "1436 2682 -61")
+L 09/05/2023 - 16:51:29: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "1326 2719 -62")
+L 09/05/2023 - 16:51:33: "Evan068<46><[U:1:371507926]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "1122 1810 -63")
+L 09/05/2023 - 16:51:37: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_STAIRS") (position "920 1802 -63")
+L 09/05/2023 - 16:51:42: "DragonMInt<48><[U:1:911537673]><Red>" killed "Evan068<46><[U:1:371507926]><Blue>" with "tf_projectile_rocket" (attacker_position "945 1606 -73") (victim_position "1177 1752 -38")
+L 09/05/2023 - 16:51:42: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Blue>") (attacker_position "945 1606 -73")
+L 09/05/2023 - 16:51:43: "Call Me Meme<51><[U:1:381826942]><Blue>" killed "Naga Sake<44><[U:1:882037538]><Red>" with "tf_projectile_rocket" (attacker_position "1392 2774 -63") (victim_position "2021 2657 -191")
+L 09/05/2023 - 16:51:44: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "925 1569 -87") (victim_position "1136 1567 -63")
+L 09/05/2023 - 16:51:46: "Evan068<46><[U:1:371507926]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 16:51:48: "Call Me Meme<51><[U:1:381826942]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "1602 2736 -63")
+L 09/05/2023 - 16:51:51: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Call Me Meme<51><[U:1:381826942]><Blue>") (attacker_position "1109 1737 -63")
+L 09/05/2023 - 16:51:52: "Naga Sake<44><[U:1:882037538]><Red>" say "did you just walk through your own wall?"
+L 09/05/2023 - 16:52:04: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:52:04: "adhd creature<50><[U:1:180250269]><Blue>" committed suicide with "world" (attacker_position "-1488 2590 -223")
+L 09/05/2023 - 16:52:13: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "1168 2027 -63")
+L 09/05/2023 - 16:52:18: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "1491 2722 -59")
+L 09/05/2023 - 16:52:25: "DragonMInt<48><[U:1:911537673]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "2386 2390 -121")
+L 09/05/2023 - 16:52:25: "DragonMInt<48><[U:1:911537673]><Red>" triggered "captureblocked" (cp "1") (cpname "#Dustbowl_cap_1_B") (position "2386 2390 -121")
+L 09/05/2023 - 16:52:25: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "tf_projectile_rocket" (attacker_position "2386 2390 -121") (victim_position "2387 2490 -143")
+L 09/05/2023 - 16:52:27: "SamTheBitch<52><[U:1:1268641398]><>" connected, address "79.26.31.177:51077"
+L 09/05/2023 - 16:52:27: "DragonMInt<48><[U:1:911537673]><Red>" say "lol"
+L 09/05/2023 - 16:52:28: "SamTheBitch<52><[U:1:1268641398]><>" STEAM USERID validated
+L 09/05/2023 - 16:52:32: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "#Dustbowl_cap_1_B") (numcappers "1") (player1 "Evan068<46><[U:1:371507926]><Blue>") (position1 "2135 2289 -143") 
+L 09/05/2023 - 16:52:32: World triggered "Mini_Round_Win" (winner "Blue") (round "round_1")
+L 09/05/2023 - 16:52:32: World triggered "Mini_Round_Length" (seconds "254.17")
+L 09/05/2023 - 16:52:38: "Evan068<46><[U:1:371507926]><Blue>" killed "Naga Sake<44><[U:1:882037538]><Red>" with "smg" (attacker_position "2401 967 -188") (victim_position "2456 897 -191")
+L 09/05/2023 - 16:52:38: "adhd creature<50><[U:1:180250269]><Blue>" triggered "kill assist" against "Naga Sake<44><[U:1:882037538]><Red>" (assister_position "2331 863 -191") (attacker_position "2401 967 -188") (victim_position "2456 897 -191")
+L 09/05/2023 - 16:52:40: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 16:52:40: World triggered "Mini_Round_Selected" (round "round_2")
+L 09/05/2023 - 16:52:40: World triggered "Mini_Round_Start"
+L 09/05/2023 - 16:52:43: "Evan068<46><[U:1:371507926]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:52:45: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 16:52:49: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "workernode"
+L 09/05/2023 - 16:52:58: "DragonMInt<48><[U:1:911537673]><Red>" say "i cant wait to see where this game is going"
+L 09/05/2023 - 16:53:11: "Naga Sake<44><[U:1:882037538]><Red>" changed role to "workernode"
+L 09/05/2023 - 16:53:24: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2419 -1179 0")
+L 09/05/2023 - 16:53:25: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-956 -1778 -158")
+L 09/05/2023 - 16:53:36: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-621 -2477 -126")
+L 09/05/2023 - 16:53:39: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-564 -2662 -115")
+L 09/05/2023 - 16:53:40: World triggered "Round_Setup_End"
+L 09/05/2023 - 16:53:41: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "2057 19 -200")
+L 09/05/2023 - 16:53:48: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1124 -1916 -159")
+L 09/05/2023 - 16:53:50: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2510 -680 0")
+L 09/05/2023 - 16:53:51: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "2148 -322 -206")
+L 09/05/2023 - 16:53:51: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Call Me Meme<51><[U:1:381826942]><Blue>") (attacker_position "2554 -1268 0")
+L 09/05/2023 - 16:53:53: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "2025 -263 -204")
+L 09/05/2023 - 16:53:53: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "2286 -865 80")
+L 09/05/2023 - 16:53:57: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "tf_projectile_rocket" (attacker_position "2472 -680 0") (victim_position "2286 -827 37")
+L 09/05/2023 - 16:54:02: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "2468 -917 0")
+L 09/05/2023 - 16:54:02: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "2426 -1635 0")
+L 09/05/2023 - 16:54:10: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2705 -1180 0")
+L 09/05/2023 - 16:54:13: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "2418 -834 0") (victim_position "2459 -752 0")
+L 09/05/2023 - 16:54:19: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "1905 -1652 -33")
+L 09/05/2023 - 16:54:33: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "2087 -628 -203")
+L 09/05/2023 - 16:54:34: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "smg" (attacker_position "2155 -1123 -142") (victim_position "1906 -961 -75")
+L 09/05/2023 - 16:54:34: "DragonMInt<48><[U:1:911537673]><Red>" triggered "domination" against "Call Me Meme<51><[U:1:381826942]><Blue>"
+L 09/05/2023 - 16:54:35: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "447 -1335 -127")
+L 09/05/2023 - 16:54:44: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "#Dustbowl_cap_2_A") (numcappers "1") (player1 "Evan068<46><[U:1:371507926]><Blue>") (position1 "2394 -1574 7") 
+L 09/05/2023 - 16:54:45: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-600 -1518 0")
+L 09/05/2023 - 16:54:50: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-732 -1553 0")
+L 09/05/2023 - 16:54:51: "DragonMInt<48><[U:1:911537673]><Red>" say "its just me :/"
+L 09/05/2023 - 16:54:52: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "1692 -1611 -136")
+L 09/05/2023 - 16:54:55: "DragonMInt<48><[U:1:911537673]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "1854 -1798 -142")
+L 09/05/2023 - 16:54:57: "Naga Sake<44><[U:1:882037538]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-790 -1631 0")
+L 09/05/2023 - 16:55:02: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "#Dustbowl_cap_2_B") (numcappers "1") (player1 "Evan068<46><[U:1:371507926]><Blue>") (position1 "-1554 -1940 -38") 
+L 09/05/2023 - 16:55:02: World triggered "Mini_Round_Win" (winner "Blue") (round "round_2")
+L 09/05/2023 - 16:55:02: World triggered "Mini_Round_Length" (seconds "141.77")
+L 09/05/2023 - 16:55:05: "DragonMInt<48><[U:1:911537673]><Red>" say "i have no chance D:"
+L 09/05/2023 - 16:55:09: "Naga Sake<44><[U:1:882037538]><Red>" killed "Evan068<46><[U:1:371507926]><Blue>" with "player" (attacker_position "-1055 -1599 0") (victim_position "-958 -1789 0")
+L 09/05/2023 - 16:55:09: "adhd creature<50><[U:1:180250269]><Blue>" say "lol"
+L 09/05/2023 - 16:55:10: World triggered "Round_Setup_Begin"
+L 09/05/2023 - 16:55:10: World triggered "Mini_Round_Selected" (round "round_3")
+L 09/05/2023 - 16:55:10: World triggered "Mini_Round_Start"
+L 09/05/2023 - 16:55:13: "Naga Sake<44><[U:1:882037538]><Red>" changed role to "saptrap"
+L 09/05/2023 - 16:55:28: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2212 85 -63")
+L 09/05/2023 - 16:55:44: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1993 -1264 -63")
+L 09/05/2023 - 16:55:49: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2194 -1254 -63")
+L 09/05/2023 - 16:55:52: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-2363 -1294 -63")
+L 09/05/2023 - 16:55:52: "SamTheBitch<52><[U:1:1268641398]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 16:56:07: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1820 -1186 -63")
+L 09/05/2023 - 16:56:10: World triggered "Round_Setup_End"
+L 09/05/2023 - 16:56:14: "DragonMInt<48><[U:1:911537673]><Red>" killed "Evan068<46><[U:1:371507926]><Blue>" with "obj_sentrygun" (attacker_position "-1880 -536 -53") (victim_position "-1560 735 0")
+L 09/05/2023 - 16:56:17: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-1822 -892 -58")
+L 09/05/2023 - 16:56:20: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Call Me Meme<51><[U:1:381826942]><Blue>") (attacker_position "-1359 208 -50")
+L 09/05/2023 - 16:56:23: "adhd creature<50><[U:1:180250269]><Blue>" killed "Naga Sake<44><[U:1:882037538]><Red>" with "fo_weapon_nodegun" (attacker_position "-2028 -1367 -63") (victim_position "-1817 -1323 -63")
+L 09/05/2023 - 16:56:23: "adhd creature<50><[U:1:180250269]><Blue>" triggered "domination" against "Naga Sake<44><[U:1:882037538]><Red>"
+L 09/05/2023 - 16:56:26: "Naga Sake<44><[U:1:882037538]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 16:56:32: "adhd creature<50><[U:1:180250269]><Blue>" say "scout tf2 jumpscare"
+L 09/05/2023 - 16:56:35: "DragonMInt<48><[U:1:911537673]><Red>" killed "Evan068<46><[U:1:371507926]><Blue>" with "player" (attacker_position "-855 27 128") (victim_position "-1606 -218 -56")
+L 09/05/2023 - 16:56:38: "Evan068<46><[U:1:371507926]><Blue>" joined team "Red"
+L 09/05/2023 - 16:56:39: "Evan068<46><[U:1:371507926]><Red>" changed role to "workernode"
+L 09/05/2023 - 16:56:39: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-1634 -386 -60")
+L 09/05/2023 - 16:56:42: "Call Me Meme<51><[U:1:381826942]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "-1771 -808 -59")
+L 09/05/2023 - 16:56:42: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "-1647 163 -63") (victim_position "-1620 -234 -63")
+L 09/05/2023 - 16:56:42: "DragonMInt<48><[U:1:911537673]><Red>" triggered "domination" against "adhd creature<50><[U:1:180250269]><Blue>"
+L 09/05/2023 - 16:56:52: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "-2171 -471 56")
+L 09/05/2023 - 16:56:52: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "-2171 -471 56")
+L 09/05/2023 - 16:57:11: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "-1587 -127 -63") (victim_position "-1524 -566 -63")
+L 09/05/2023 - 16:57:12: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_FORT") (weapon "fo_weapon_nodegun") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "-1702 142 -63")
+L 09/05/2023 - 16:57:20: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1745 -181 -63")
+L 09/05/2023 - 16:57:28: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1373 -666 -63")
+L 09/05/2023 - 16:57:30: "Call Me Meme<51><[U:1:381826942]><Blue>" killed "DragonMInt<48><[U:1:911537673]><Red>" with "tf_projectile_rocket" (attacker_position "-1592 -730 -63") (victim_position "-1963 -411 53")
+L 09/05/2023 - 16:57:30: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "revenge" against "DragonMInt<48><[U:1:911537673]><Red>"
+L 09/05/2023 - 16:57:44: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_WALL") (weapon "fo_weapon_nodegun") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "-1714 -94 -26")
+L 09/05/2023 - 16:57:48: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-2024 83 -63")
+L 09/05/2023 - 16:57:55: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1655 -408 -61")
+L 09/05/2023 - 16:57:56: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-1543 -392 -54")
+L 09/05/2023 - 16:58:00: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1813 -590 -61")
+L 09/05/2023 - 16:58:05: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "-1180 117 17") (victim_position "-1647 -486 -63")
+L 09/05/2023 - 16:58:07: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "-1280 240 -35")
+L 09/05/2023 - 16:58:09: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "-1667 79 -63")
+L 09/05/2023 - 16:58:15: "DragonMInt<48><[U:1:911537673]><Red>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "-1946 -298 48")
+L 09/05/2023 - 16:58:26: "adhd creature<50><[U:1:180250269]><Blue>" triggered "builtobject" (object "OBJ_FORT") (position "-1918 -793 -62")
+L 09/05/2023 - 16:58:27: "Evan068<46><[U:1:371507926]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "fo_weapon_nodegun" (attacker_position "-1478 -339 -52") (victim_position "-2088 -697 -29")
+L 09/05/2023 - 16:58:34: "Evan068<46><[U:1:371507926]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "fo_weapon_nodegun" (attacker_position "-1502 -482 -56") (victim_position "-1791 -990 -61")
+L 09/05/2023 - 16:58:34: "DragonMInt<48><[U:1:911537673]><Red>" triggered "kill assist" against "adhd creature<50><[U:1:180250269]><Blue>" (assister_position "-2199 -225 48") (attacker_position "-1502 -482 -56") (victim_position "-1791 -990 -61")
+L 09/05/2023 - 16:58:34: "Evan068<46><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_WALL") (weapon "fo_weapon_nodegun") (objectowner "adhd creature<50><[U:1:180250269]><Blue>") (attacker_position "-1531 -506 -59")
+L 09/05/2023 - 16:58:39: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1371 -1337 -191")
+L 09/05/2023 - 16:58:39: "DragonMInt<48><[U:1:911537673]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-1041 388 31")
+L 09/05/2023 - 16:58:40: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1340 -1315 -191")
+L 09/05/2023 - 16:58:41: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1318 -1248 -191")
+L 09/05/2023 - 16:58:41: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1790 -1190 -191")
+L 09/05/2023 - 16:58:41: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1790 -1190 -191")
+L 09/05/2023 - 16:58:42: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-1344 -1103 -191")
+L 09/05/2023 - 16:58:42: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1733 -1304 -191")
+L 09/05/2023 - 16:58:48: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-1586 -16 -63")
+L 09/05/2023 - 16:58:52: "SamTheBitch<53><[U:1:1268641398]><>" connected, address "79.26.31.177:51077"
+L 09/05/2023 - 16:58:53: "SamTheBitch<53><[U:1:1268641398]><>" STEAM USERID validated
+L 09/05/2023 - 16:58:57: "DragonMInt<48><[U:1:911537673]><Red>" say_team "can you upgrade my sentry more?"
+L 09/05/2023 - 16:59:01: "SamTheBitch<53><[U:1:1268641398]><>" entered the game
+L 09/05/2023 - 16:59:04: "SamTheBitch<53><[U:1:1268641398]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 16:59:05: "SamTheBitch<53><[U:1:1268641398]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 16:59:10: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "telecon"
+L 09/05/2023 - 16:59:10: "adhd creature<50><[U:1:180250269]><Blue>" committed suicide with "world" (attacker_position "-1511 -325 -54")
+L 09/05/2023 - 16:59:12: "Call Me Meme<51><[U:1:381826942]><Blue>" killed "Evan068<46><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "-2155 -90 48") (victim_position "-2275 175 -29")
+L 09/05/2023 - 16:59:15: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1665 -651 -63")
+L 09/05/2023 - 16:59:17: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1733 -24 -20")
+L 09/05/2023 - 16:59:19: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "-1671 -138 -63")
+L 09/05/2023 - 16:59:21: "SamTheBitch<53><[U:1:1268641398]><Blue>" killed "DragonMInt<48><[U:1:911537673]><Red>" with "tf_projectile_rocket" (attacker_position "-2119 -8 40") (victim_position "-2098 -232 59")
+L 09/05/2023 - 16:59:21: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "kill assist" against "DragonMInt<48><[U:1:911537673]><Red>" (assister_position "-1976 -427 53") (attacker_position "-2119 -8 40") (victim_position "-2098 -232 59")
+L 09/05/2023 - 16:59:25: "adhd creature<50><[U:1:180250269]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "scattergun") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-1738 -1339 -191")
+L 09/05/2023 - 16:59:30: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "#Dustbowl_cap_3_A") (numcappers "2") (player1 "SamTheBitch<53><[U:1:1268641398]><Blue>") (position1 "-1886 572 7") (player2 "Call Me Meme<51><[U:1:381826942]><Blue>") (position2 "-1965 693 4") 
+L 09/05/2023 - 16:59:34: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "645 662 7")
+L 09/05/2023 - 16:59:34: "DragonMInt<48><[U:1:911537673]><Red>" changed role to "workernode"
+L 09/05/2023 - 16:59:35: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "535 621 7")
+L 09/05/2023 - 16:59:37: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "463 680 7")
+L 09/05/2023 - 16:59:39: "DragonMInt<48><[U:1:911537673]><Red>" changed role to "sentronic"
+L 09/05/2023 - 16:59:42: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "888 743 64")
+L 09/05/2023 - 16:59:55: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "209 -209 128")
+L 09/05/2023 - 17:00:00: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "-349 13 128")
+L 09/05/2023 - 17:00:02: "adhd creature<50><[U:1:180250269]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "scattergun") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "754 368 27")
+L 09/05/2023 - 17:00:04: "DragonMInt<48><[U:1:911537673]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "351 950 64")
+L 09/05/2023 - 17:00:04: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "351 950 64") (victim_position "515 714 7")
+L 09/05/2023 - 17:00:09: "Call Me Meme<51><[U:1:381826942]><Blue>" killed "DragonMInt<48><[U:1:911537673]><Red>" with "tf_projectile_rocket" (attacker_position "88 -30 -138") (victim_position "-185 506 64")
+L 09/05/2023 - 17:00:09: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "kill assist" against "DragonMInt<48><[U:1:911537673]><Red>" (assister_position "70 373 29") (attacker_position "88 -30 -138") (victim_position "-185 506 64")
+L 09/05/2023 - 17:00:14: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "479 977 64")
+L 09/05/2023 - 17:00:14: "Evan068<46><[U:1:371507926]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "fo_weapon_nodegun" (attacker_position "479 977 64") (victim_position "671 577 0")
+L 09/05/2023 - 17:00:27: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "515 565 0")
+L 09/05/2023 - 17:00:27: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "607 800 6")
+L 09/05/2023 - 17:00:27: "Evan068<46><[U:1:371507926]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "fo_weapon_nodegun" (attacker_position "607 800 6") (victim_position "525 568 0")
+L 09/05/2023 - 17:00:36: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "778 -62 0")
+L 09/05/2023 - 17:00:54: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "obj_sentrygun" (attacker_position "508 407 0") (victim_position "944 289 64")
+L 09/05/2023 - 17:01:06: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "tf_projectile_rocket" (attacker_position "-19 454 64") (victim_position "-67 484 102")
+L 09/05/2023 - 17:01:17: "DragonMInt<48><[U:1:911537673]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "tf_projectile_rocket" (attacker_position "547 493 0") (victim_position "399 -719 0")
+L 09/05/2023 - 17:01:17: "Evan068<46><[U:1:371507926]><Red>" triggered "kill assist" against "SamTheBitch<53><[U:1:1268641398]><Blue>" (assister_position "610 505 0") (attacker_position "547 493 0") (victim_position "399 -719 0")
+L 09/05/2023 - 17:01:22: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "obj_sentrygun" (attacker_position "377 486 0") (victim_position "359 -33 -1")
+L 09/05/2023 - 17:01:22: "Evan068<46><[U:1:371507926]><Red>" triggered "kill assist" against "adhd creature<50><[U:1:180250269]><Blue>" (assister_position "749 351 0") (attacker_position "377 486 0") (victim_position "359 -33 -1")
+L 09/05/2023 - 17:01:27: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "saptrap"
+L 09/05/2023 - 17:01:40: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "tf_projectile_rocket" (attacker_position "-2 474 93") (victim_position "-238 533 64")
+L 09/05/2023 - 17:01:43: "DragonMInt<48><[U:1:911537673]><Red>" say "lol"
+L 09/05/2023 - 17:01:58: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "obj_sentrygun" (attacker_position "702 720 14") (victim_position "745 -103 0")
+L 09/05/2023 - 17:02:08: "DragonMInt<48><[U:1:911537673]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "tf_projectile_rocket" (attacker_position "716 465 0") (victim_position "457 -371 0")
+L 09/05/2023 - 17:02:08: "Evan068<46><[U:1:371507926]><Red>" triggered "kill assist" against "SamTheBitch<53><[U:1:1268641398]><Blue>" (assister_position "564 306 38") (attacker_position "716 465 0") (victim_position "457 -371 0")
+L 09/05/2023 - 17:02:13: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 17:02:32: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_STAIRS") (position "903 391 0")
+L 09/05/2023 - 17:02:35: "SamTheBitch<53><[U:1:1268641398]><Blue>" killed "DragonMInt<48><[U:1:911537673]><Red>" with "tf_projectile_rocket" (attacker_position "-172 -790 5") (victim_position "195 -578 128")
+L 09/05/2023 - 17:02:42: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "obj_sentrygun" (attacker_position "839 -100 0") (victim_position "-53 221 8")
+L 09/05/2023 - 17:02:42: "Evan068<46><[U:1:371507926]><Red>" triggered "kill assist" against "adhd creature<50><[U:1:180250269]><Blue>" (assister_position "104 -87 38") (attacker_position "839 -100 0") (victim_position "-53 221 8")
+L 09/05/2023 - 17:02:48: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "511 -240 0")
+L 09/05/2023 - 17:02:50: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "saptrap"
+L 09/05/2023 - 17:02:52: "DragonMInt<48><[U:1:911537673]><Red>" say "oh no"
+L 09/05/2023 - 17:02:55: "Evan068<46><[U:1:371507926]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "fo_weapon_nodegun" (attacker_position "403 577 0") (victim_position "478 660 7")
+L 09/05/2023 - 17:02:55: "Evan068<46><[U:1:371507926]><Red>" triggered "domination" against "SamTheBitch<53><[U:1:1268641398]><Blue>"
+L 09/05/2023 - 17:02:55: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "408 569 0")
+L 09/05/2023 - 17:02:56: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "467 598 1")
+L 09/05/2023 - 17:02:56: "Evan068<46><[U:1:371507926]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "fo_weapon_nodegun" (attacker_position "467 598 1") (victim_position "560 711 7")
+L 09/05/2023 - 17:03:07: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1178 340 128")
+L 09/05/2023 - 17:03:20: "DragonMInt<48><[U:1:911537673]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "tf_projectile_rocket" (attacker_position "-582 -763 0") (victim_position "-783 -720 0")
+L 09/05/2023 - 17:03:24: "SexellentTF2<54><[U:1:1259145611]><>" connected, address "187.190.178.236:47877"
+L 09/05/2023 - 17:03:25: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 17:03:25: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "player" (attacker_position "404 -595 128") (victim_position "738 -16 -251")
+L 09/05/2023 - 17:03:25: "SexellentTF2<54><[U:1:1259145611]><>" STEAM USERID validated
+L 09/05/2023 - 17:03:27: "Evan068<46><[U:1:371507926]><Red>" committed suicide with "world" (attacker_position "771 337 20")
+L 09/05/2023 - 17:03:28: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 17:03:35: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "1042 -303 144")
+L 09/05/2023 - 17:03:35: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "tf_projectile_rocket" (attacker_position "898 -295 144") (victim_position "1055 -304 144")
+L 09/05/2023 - 17:03:37: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 17:03:42: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "194 389 9")
+L 09/05/2023 - 17:03:51: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "527 -339 0")
+L 09/05/2023 - 17:03:55: "Evan068<46><[U:1:371507926]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "fo_weapon_nodegun" (attacker_position "430 786 47") (victim_position "575 376 0")
+L 09/05/2023 - 17:03:55: "DragonMInt<48><[U:1:911537673]><Red>" triggered "kill assist" against "SamTheBitch<53><[U:1:1268641398]><Blue>" (assister_position "751 -103 0") (attacker_position "430 786 47") (victim_position "575 376 0")
+L 09/05/2023 - 17:04:03: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "760 -77 0")
+L 09/05/2023 - 17:04:10: "Evan068<46><[U:1:371507926]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "fo_weapon_nodegun" (attacker_position "624 -95 0") (victim_position "387 -87 0")
+L 09/05/2023 - 17:04:10: "DragonMInt<48><[U:1:911537673]><Red>" triggered "kill assist" against "adhd creature<50><[U:1:180250269]><Blue>" (assister_position "579 65 -1") (attacker_position "624 -95 0") (victim_position "387 -87 0")
+L 09/05/2023 - 17:04:10: "Evan068<46><[U:1:371507926]><Red>" triggered "domination" against "adhd creature<50><[U:1:180250269]><Blue>"
+L 09/05/2023 - 17:04:18: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "698 -55 0")
+L 09/05/2023 - 17:04:18: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_REPAIRNODE") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "1223 -74 128")
+L 09/05/2023 - 17:04:22: "adhd creature<50><[U:1:180250269]><Blue>" changed role to "telecon"
+L 09/05/2023 - 17:04:27: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "690 -85 0")
+L 09/05/2023 - 17:04:29: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_STAIRS") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "986 -275 144")
+L 09/05/2023 - 17:04:42: "SexellentTF2<54><[U:1:1259145611]><>" entered the game
+L 09/05/2023 - 17:04:44: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_REPAIRNODE") (weapon "tf_projectile_rocket") (objectowner "Evan068<46><[U:1:371507926]><Red>") (attacker_position "1222 25 128")
+L 09/05/2023 - 17:04:45: "DragonMInt<48><[U:1:911537673]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "703 905 64")
+L 09/05/2023 - 17:04:45: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "obj_sentrygun" (attacker_position "703 905 64") (victim_position "475 773 41")
+L 09/05/2023 - 17:04:47: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "1193 152 128")
+L 09/05/2023 - 17:04:51: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "946 863 64")
+L 09/05/2023 - 17:04:52: "DragonMInt<48><[U:1:911537673]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "675 847 64")
+L 09/05/2023 - 17:04:52: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "tf_projectile_rocket" (attacker_position "675 847 64") (victim_position "542 597 41")
+L 09/05/2023 - 17:04:52: "Evan068<46><[U:1:371507926]><Red>" triggered "kill assist" against "Call Me Meme<51><[U:1:381826942]><Blue>" (assister_position "441 233 -3") (attacker_position "675 847 64") (victim_position "542 597 41")
+L 09/05/2023 - 17:04:52: "DragonMInt<48><[U:1:911537673]><Red>" triggered "domination" against "Call Me Meme<51><[U:1:381826942]><Blue>"
+L 09/05/2023 - 17:04:57: "SexellentTF2<54><[U:1:1259145611]><Unassigned>" joined team "Red"
+L 09/05/2023 - 17:05:02: "DragonMInt<48><[U:1:911537673]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "tf_projectile_rocket" (attacker_position "230 413 2") (victim_position "239 120 -256")
+L 09/05/2023 - 17:05:02: "SexellentTF2<54><[U:1:1259145611]><Red>" changed role to "sentronic"
+L 09/05/2023 - 17:05:11: "SexellentTF2<54><[U:1:1259145611]><Red>" say "epic broken game"
+L 09/05/2023 - 17:05:17: "DragonMInt<48><[U:1:911537673]><Red>" say "how?"
+L 09/05/2023 - 17:05:19: "Evan068<46><[U:1:371507926]><Red>" triggered "captureblocked" (cp "5") (cpname "#Dustbowl_cap_3_B") (position "556 244 -1")
+L 09/05/2023 - 17:05:19: "Evan068<46><[U:1:371507926]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "fo_weapon_nodegun" (attacker_position "556 244 -1") (victim_position "429 627 0")
+L 09/05/2023 - 17:05:19: "DragonMInt<48><[U:1:911537673]><Red>" triggered "kill assist" against "adhd creature<50><[U:1:180250269]><Blue>" (assister_position "526 248 -2") (attacker_position "556 244 -1") (victim_position "429 627 0")
+L 09/05/2023 - 17:05:26: "Call Me Meme<51><[U:1:381826942]><Blue>" killed "SexellentTF2<54><[U:1:1259145611]><Red>" with "tf_projectile_rocket" (attacker_position "485 -579 42") (victim_position "500 -194 0")
+L 09/05/2023 - 17:05:32: "SexellentTF2<54><[U:1:1259145611]><Red>" say "lol the models"
+L 09/05/2023 - 17:05:34: "DragonMInt<48><[U:1:911537673]><Red>" say "my brain died reading that sentence"
+L 09/05/2023 - 17:05:34: "SamTheBitch<53><[U:1:1268641398]><Blue>" killed "DragonMInt<48><[U:1:911537673]><Red>" with "tf_projectile_rocket" (attacker_position "388 -214 12") (victim_position "201 827 64")
+L 09/05/2023 - 17:05:39: "SexellentTF2<54><[U:1:1259145611]><Red>" say "says on the menu"
+L 09/05/2023 - 17:05:42: "DragonMInt<48><[U:1:911537673]><Red>" say "ah"
+L 09/05/2023 - 17:05:45: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "608 -451 0")
+L 09/05/2023 - 17:05:50: "Call Me Meme<51><[U:1:381826942]><Blue>" killed "Evan068<46><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "499 120 5") (victim_position "574 635 49")
+L 09/05/2023 - 17:05:54: "SamTheBitch<53><[U:1:1268641398]><Blue>" killed "SexellentTF2<54><[U:1:1259145611]><Red>" with "tf_projectile_rocket" (attacker_position "633 419 0") (victim_position "631 781 6")
+L 09/05/2023 - 17:05:54: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "kill assist" against "SexellentTF2<54><[U:1:1259145611]><Red>" (assister_position "453 -12 34") (attacker_position "633 419 0") (victim_position "631 781 6")
+L 09/05/2023 - 17:05:54: "SexellentTF2<54><[U:1:1259145611]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "tf_projectile_rocket" (attacker_position "631 781 20") (victim_position "460 -56 0")
+L 09/05/2023 - 17:05:56: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "284 935 64") (victim_position "469 840 0")
+L 09/05/2023 - 17:06:00: "DragonMInt<48><[U:1:911537673]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "tf_projectile_rocket" (attacker_position "676 444 0") (victim_position "35 452 64")
+L 09/05/2023 - 17:06:00: "Evan068<46><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 17:06:02: "Evan068<46><[U:1:371507926]><Red>" changed role to "dismatic"
+L 09/05/2023 - 17:06:04: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "755 -97 0")
+L 09/05/2023 - 17:06:05: "Evan068<46><[U:1:371507926]><Red>" changed role to "workernode"
+L 09/05/2023 - 17:06:07: "SexellentTF2<54><[U:1:1259145611]><Red>" changed role to "saptrap"
+L 09/05/2023 - 17:06:09: "SamTheBitch<53><[U:1:1268641398]><Blue>" say "bro forgot what early alpha means"
+L 09/05/2023 - 17:06:22: "SexellentTF2<54><[U:1:1259145611]><Red>" say "saptrap is just spy xd"
+L 09/05/2023 - 17:06:29: "SexellentTF2<54><[U:1:1259145611]><Red>" say "Sam"
+L 09/05/2023 - 17:06:31: "SexellentTF2<54><[U:1:1259145611]><Red>" say "i sayed"
+L 09/05/2023 - 17:06:31: "SamTheBitch<53><[U:1:1268641398]><Blue>" say "if you're here just to complain then don't play"
+L 09/05/2023 - 17:06:33: "DragonMInt<48><[U:1:911537673]><Red>" killed "Call Me Meme<51><[U:1:381826942]><Blue>" with "tf_projectile_rocket" (attacker_position "1213 -126 144") (victim_position "1187 -234 144")
+L 09/05/2023 - 17:06:36: "adhd creature<50><[U:1:180250269]><Blue>" killed "DragonMInt<48><[U:1:911537673]><Red>" with "scattergun" (attacker_position "902 -395 144") (victim_position "969 -266 144")
+L 09/05/2023 - 17:06:36: "adhd creature<50><[U:1:180250269]><Blue>" triggered "revenge" against "DragonMInt<48><[U:1:911537673]><Red>"
+L 09/05/2023 - 17:06:40: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "obj_sentrygun" (attacker_position "885 -332 158") (victim_position "361 375 425")
+L 09/05/2023 - 17:06:45: "SexellentTF2<54><[U:1:1259145611]><Red>" say "I KNOW THIS IS A ALPHA"
+L 09/05/2023 - 17:06:51: "SexellentTF2<54><[U:1:1259145611]><Red>" say "IM JUST SAYING "
+L 09/05/2023 - 17:06:52: "Evan068<46><[U:1:371507926]><Red>" changed role to "civilian"
+L 09/05/2023 - 17:06:56: "DragonMInt<48><[U:1:911537673]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "obj_sentrygun" (attacker_position "-32 697 64") (victim_position "935 298 -22")
+L 09/05/2023 - 17:07:01: "Evan068<46><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 17:07:05: "Call Me Meme<51><[U:1:381826942]><Blue>" say "can it really be called truly "broken" if there'snothing finished to break yet?"
+L 09/05/2023 - 17:07:11: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "824 -389 144") (victim_position "160 -758 0")
+L 09/05/2023 - 17:07:24: "SexellentTF2<54><[U:1:1259145611]><Red>" say "idk"
+L 09/05/2023 - 17:07:24: "SamTheBitch<53><[U:1:1268641398]><Blue>" say "you come in and say it's broken and i'm not supposed to assume you are saying it in a rude way"
+L 09/05/2023 - 17:07:30: "DragonMInt<48><[U:1:911537673]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-1334 -875 -105")
+L 09/05/2023 - 17:07:36: "SexellentTF2<54><[U:1:1259145611]><Red>" say "bruh its my first time"
+L 09/05/2023 - 17:07:43: "SamTheBitch<53><[U:1:1268641398]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "DragonMInt<48><[U:1:911537673]><Red>") (attacker_position "487 -181 0")
+L 09/05/2023 - 17:07:45: "SexellentTF2<54><[U:1:1259145611]><Red>" say "what the hell"
+L 09/05/2023 - 17:07:54: "DragonMInt<48><[U:1:911537673]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "tf_projectile_rocket" (attacker_position "490 -18 -2") (victim_position "-797 307 -258")
+L 09/05/2023 - 17:07:59: "Evan068<46><[U:1:371507926]><Red>" changed role to "dismatic"
+L 09/05/2023 - 17:08:02: "Call Me Meme<51><[U:1:381826942]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "-794 -62 97")
+L 09/05/2023 - 17:08:03: "adhd creature<50><[U:1:180250269]><Blue>" killed "SexellentTF2<54><[U:1:1259145611]><Red>" with "scattergun" (attacker_position "-861 88 128") (victim_position "-866 39 128")
+L 09/05/2023 - 17:08:03: "Call Me Meme<51><[U:1:381826942]><Blue>" triggered "kill assist" against "SexellentTF2<54><[U:1:1259145611]><Red>" (assister_position "-794 -62 111") (attacker_position "-861 88 128") (victim_position "-866 39 128")
+L 09/05/2023 - 17:08:06: "SamTheBitch<53><[U:1:1268641398]><Blue>" say "don't know what that changes man"
+L 09/05/2023 - 17:08:08: "SexellentTF2<54><[U:1:1259145611]><Red>" changed role to "telecon"
+L 09/05/2023 - 17:08:09: "DragonMInt<48><[U:1:911537673]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "764 -83 0")
+L 09/05/2023 - 17:08:12: "Evan068<46><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "187 887 64")
+L 09/05/2023 - 17:08:14: "Frost Byte<55><[U:1:126775298]><>" connected, address "173.92.191.133:27005"
+L 09/05/2023 - 17:08:15: "Frost Byte<55><[U:1:126775298]><>" STEAM USERID validated
+L 09/05/2023 - 17:08:17: "DragonMInt<48><[U:1:911537673]><Red>" killed "adhd creature<50><[U:1:180250269]><Blue>" with "tf_projectile_rocket" (attacker_position "513 85 -2") (victim_position "351 685 0")
+L 09/05/2023 - 17:08:26: "DragonMInt<48><[U:1:911537673]><Red>" killed "SamTheBitch<53><[U:1:1268641398]><Blue>" with "tf_projectile_rocket" (attacker_position "365 -813 0") (victim_position "81 -802 0")
+L 09/05/2023 - 17:08:26: "DragonMInt<48><[U:1:911537673]><Red>" triggered "domination" against "SamTheBitch<53><[U:1:1268641398]><Blue>"
+L 09/05/2023 - 17:08:33: Engine error: CTextConsoleWin32::GetLine: !GetNumberOfConsoleInputEvents

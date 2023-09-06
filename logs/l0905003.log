@@ -1,0 +1,484 @@
+L 09/05/2023 - 02:08:30: Log file started (file "logs\L0905003.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 02:08:39: "August101<6><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 02:08:42: "August101<6><[U:1:241010597]><Unassigned>" joined team "Green"
+L 09/05/2023 - 02:08:43: "BRB, SHITTING<10><[U:1:1161572473]><>" entered the game
+L 09/05/2023 - 02:08:43: "weed lesbian<2><[U:1:81998077]><>" entered the game
+L 09/05/2023 - 02:08:44: "quek<12><[U:1:220783085]><>" entered the game
+L 09/05/2023 - 02:08:46: "August101<6><[U:1:241010597]><Green>" changed role to "sentronic"
+L 09/05/2023 - 02:08:48: "weed lesbian<2><[U:1:81998077]><Unassigned>" joined team "Red"
+L 09/05/2023 - 02:08:48: "Octmari<4><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 02:08:48: "quek<12><[U:1:220783085]><Unassigned>" joined team "Red"
+L 09/05/2023 - 02:08:49: "quek<12><[U:1:220783085]><Red>" changed role to "sentronic"
+L 09/05/2023 - 02:08:52: "weed lesbian<2><[U:1:81998077]><Red>" changed role to "telecon"
+L 09/05/2023 - 02:08:57: "Octmari<4><[U:1:160946369]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 02:09:02: "ElleExile [She/Her]<9><[U:1:220112226]><>" entered the game
+L 09/05/2023 - 02:09:06: "BRB, SHITTING<10><[U:1:1161572473]><Unassigned>" joined team "Green"
+L 09/05/2023 - 02:09:07: "August101<6><[U:1:241010597]><Green>" say "honestly 24/7 6 team display isn't that bad"
+L 09/05/2023 - 02:09:07: "Octmari<4><[U:1:160946369]><Blue>" changed role to "workernode"
+L 09/05/2023 - 02:09:08: "BRB, SHITTING<10><[U:1:1161572473]><Green>" changed role to "saptrap"
+L 09/05/2023 - 02:09:11: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "3team poop gameplay"
+L 09/05/2023 - 02:09:15: "ElleExile [She/Her]<9><[U:1:220112226]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 02:09:16: "BRB, SHITTING<10><[U:1:1161572473]><Green>" changed role to "telecon"
+L 09/05/2023 - 02:09:17: World triggered "Round_Start"
+L 09/05/2023 - 02:09:17: "ДиноНаггет<13><[U:1:15166960]><>" connected, address "212.241.99.209:27005"
+L 09/05/2023 - 02:09:18: "August101<6><[U:1:241010597]><Green>" say "also legalize nuclear bombs"
+L 09/05/2023 - 02:09:18: "ДиноНаггет<13><[U:1:15166960]><>" STEAM USERID validated
+L 09/05/2023 - 02:09:21: "quek<12><[U:1:220783085]><Red>" say "other than the fact i can see what class grn is lol"
+L 09/05/2023 - 02:09:22: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" changed role to "telecon"
+L 09/05/2023 - 02:09:24: "quek<12><[U:1:220783085]><Red>" say "its good"
+L 09/05/2023 - 02:09:26: "August101<6><[U:1:241010597]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "3264 1400 -240")
+L 09/05/2023 - 02:09:33: "Octmari<4><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_WALL") (position "-3143 1664 -63")
+L 09/05/2023 - 02:09:36: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "instead of getting raptured telecon now has NO falling speed"
+L 09/05/2023 - 02:09:41: "ДиноНаггет<13><[U:1:15166960]><>" entered the game
+L 09/05/2023 - 02:09:43: "quek<12><[U:1:220783085]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-158 -897 -63")
+L 09/05/2023 - 02:09:45: "August101<6><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<12><[U:1:220783085]><Red>") (attacker_position "16 20 -152")
+L 09/05/2023 - 02:09:46: "weed lesbian<2><[U:1:81998077]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "50 181 -159")
+L 09/05/2023 - 02:09:47: "quek<12><[U:1:220783085]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "45 -219 -155")
+L 09/05/2023 - 02:09:47: "quek<12><[U:1:220783085]><Red>" killed "August101<6><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "45 -219 -155") (victim_position "-1 38 -152")
+L 09/05/2023 - 02:09:57: "weed lesbian<2><[U:1:81998077]><Red>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "scattergun" (attacker_position "-668 617 -351") (victim_position "-698 678 -351")
+L 09/05/2023 - 02:09:58: "Octmari<4><[U:1:160946369]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 02:09:59: "quek<12><[U:1:220783085]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-76 87 -153")
+L 09/05/2023 - 02:10:00: Team "Red" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "weed lesbian<2><[U:1:81998077]><Red>") (position1 "71 39 -152") (player2 "quek<12><[U:1:220783085]><Red>") (position2 "-76 87 -153") 
+L 09/05/2023 - 02:10:01: "BRB, SHITTING<10><[U:1:1161572473]><Green>" changed role to "workernode"
+L 09/05/2023 - 02:10:04: "weed lesbian<2><[U:1:81998077]><Red>" committed suicide with "world" (attacker_position "-667 683 -306")
+L 09/05/2023 - 02:10:05: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3212 1681 -63")
+L 09/05/2023 - 02:10:08: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3222 1732 -63")
+L 09/05/2023 - 02:10:08: "weed lesbian<2><[U:1:81998077]><Red>" say "this map looks cool "
+L 09/05/2023 - 02:10:09: "Octmari<4><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-2603 1494 -143")
+L 09/05/2023 - 02:10:10: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3110 1708 -63")
+L 09/05/2023 - 02:10:15: "August101<6><[U:1:241010597]><Green>" say_team "upgrade my thing please"
+L 09/05/2023 - 02:10:18: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3196 1721 -63")
+L 09/05/2023 - 02:10:21: "Octmari<4><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<12><[U:1:220783085]><Red>") (attacker_position "-1483 612 -8")
+L 09/05/2023 - 02:10:27: "quek<12><[U:1:220783085]><Red>" killed "Octmari<4><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-1580 590 -314") (victim_position "-1537 1045 -351")
+L 09/05/2023 - 02:10:29: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "wheres the resup cabinets"
+L 09/05/2023 - 02:10:29: "ДиноНаггет<13><[U:1:15166960]><Unassigned>" joined team "Green"
+L 09/05/2023 - 02:10:37: "BRB, SHITTING<10><[U:1:1161572473]><Green>" committed suicide with "world" (attacker_position "3436 1515 -163")
+L 09/05/2023 - 02:10:41: "ДиноНаггет<13><[U:1:15166960]><Green>" changed role to "dismatic"
+L 09/05/2023 - 02:10:41: "Octmari<4><[U:1:160946369]><Blue>" killed "August101<6><[U:1:241010597]><Green>" with "obj_sentrygun" (attacker_position "-2665 1530 -143") (victim_position "-3654 1743 -63")
+L 09/05/2023 - 02:10:49: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "quek<12><[U:1:220783085]><Red>" with "bat" (attacker_position "-3831 924 -351") (victim_position "-3832 942 -351")
+L 09/05/2023 - 02:10:50: "Octmari<4><[U:1:160946369]><Blue>" say "first grn team death to a sentry"
+L 09/05/2023 - 02:10:51: "Octmari<4><[U:1:160946369]><Blue>" say "ever"
+L 09/05/2023 - 02:10:58: "quek<12><[U:1:220783085]><Red>" say "its beautiful"
+L 09/05/2023 - 02:11:03: "August101<6><[U:1:241010597]><Green>" say "a death worth having"
+L 09/05/2023 - 02:11:04: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "also i still dont know what the new prices are for nodbert buildings"
+L 09/05/2023 - 02:11:18: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "Octmari<4><[U:1:160946369]><Blue>") (position1 "10 -2 -152") (player2 "ElleExile [She/Her]<9><[U:1:220112226]><Blue>") (position2 "-101 31 -152") 
+L 09/05/2023 - 02:11:26: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "ДиноНаггет<13><[U:1:15166960]><Green>" with "scattergun" (attacker_position "1102 1189 -351") (victim_position "1484 1062 -351")
+L 09/05/2023 - 02:11:26: "Octmari<4><[U:1:160946369]><Blue>" triggered "kill assist" against "ДиноНаггет<13><[U:1:15166960]><Green>" (assister_position "1487 983 -351") (attacker_position "1102 1189 -351") (victim_position "1484 1062 -351")
+L 09/05/2023 - 02:11:27: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3232 1691 -63")
+L 09/05/2023 - 02:11:32: "quek<12><[U:1:220783085]><Red>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "tf_projectile_rocket" (attacker_position "45 175 -159") (victim_position "-1 320 -255")
+L 09/05/2023 - 02:11:32: Team "Red" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "weed lesbian<2><[U:1:81998077]><Red>") (position1 "-74 -50 -142") (player2 "quek<12><[U:1:220783085]><Red>") (position2 "17 32 -118") 
+L 09/05/2023 - 02:11:38: "weed lesbian<2><[U:1:81998077]><Red>" killed "Octmari<4><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "1366 1627 -351") (victim_position "2102 1923 -351")
+L 09/05/2023 - 02:11:41: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "WTF"
+L 09/05/2023 - 02:11:44: "Tangle<14><[U:1:463819447]><>" connected, address "71.81.34.155:27005"
+L 09/05/2023 - 02:11:46: "Tangle<14><[U:1:463819447]><>" STEAM USERID validated
+L 09/05/2023 - 02:11:53: "August101<6><[U:1:241010597]><Green>" killed "weed lesbian<2><[U:1:81998077]><Red>" with "obj_sentrygun" (attacker_position "-2566 632 -351") (victim_position "2677 892 -351")
+L 09/05/2023 - 02:12:13: "quek<12><[U:1:220783085]><Red>" killed "ДиноНаггет<13><[U:1:15166960]><Green>" with "smg" (attacker_position "2208 2347 -351") (victim_position "2549 2828 -351")
+L 09/05/2023 - 02:12:18: "Tangle<14><[U:1:463819447]><>" entered the game
+L 09/05/2023 - 02:12:21: "BRB, SHITTING<10><[U:1:1161572473]><Green>" killed "quek<12><[U:1:220783085]><Red>" with "fo_weapon_nodegun" (attacker_position "2673 2307 -319") (victim_position "2292 2619 -351")
+L 09/05/2023 - 02:12:23: "Octmari<4><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Octmari<4><[U:1:160946369]><Blue>") (attacker_position "-753 335 -63")
+L 09/05/2023 - 02:12:24: "ДиноНаггет<13><[U:1:15166960]><Green>" changed role to "telecon"
+L 09/05/2023 - 02:12:24: "Tangle<14><[U:1:463819447]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 02:12:24: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2607 2440 -346")
+L 09/05/2023 - 02:12:25: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "ElleExile [She/Her]<9><[U:1:220112226]><Blue>") (position1 "6 183 -159") 
+L 09/05/2023 - 02:12:26: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2604 2426 -346")
+L 09/05/2023 - 02:12:27: "Tangle<14><[U:1:463819447]><Blue>" changed role to "telecon"
+L 09/05/2023 - 02:12:27: "Octmari<4><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1123 549 -47")
+L 09/05/2023 - 02:12:28: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2629 2404 -351")
+L 09/05/2023 - 02:12:34: "weed lesbian<2><[U:1:81998077]><Red>" killed "August101<6><[U:1:241010597]><Green>" with "scattergun" (attacker_position "-376 -364 -54") (victim_position "-272 -719 -335")
+L 09/05/2023 - 02:12:44: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3120 1893 -63")
+L 09/05/2023 - 02:12:45: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3098 1947 -63")
+L 09/05/2023 - 02:12:47: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3109 1959 -63")
+L 09/05/2023 - 02:12:58: "Octmari<4><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "111 27 -83")
+L 09/05/2023 - 02:12:58: "Octmari<4><[U:1:160946369]><Blue>" killed "weed lesbian<2><[U:1:81998077]><Red>" with "tf_projectile_rocket" (attacker_position "111 27 -83") (victim_position "-17 64 -152")
+L 09/05/2023 - 02:13:02: "quek<12><[U:1:220783085]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "33 -2995 -143")
+L 09/05/2023 - 02:13:07: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_REPAIRNODE") (position "3160 1729 -63")
+L 09/05/2023 - 02:13:16: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "why is the repair node red on grn tema"
+L 09/05/2023 - 02:13:17: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "team*"
+L 09/05/2023 - 02:13:24: "August101<6><[U:1:241010597]><Green>" committed suicide with "world" (attacker_position "875 1312 -293")
+L 09/05/2023 - 02:13:27: "BRB, SHITTING<10><[U:1:1161572473]><Green>" committed suicide with "world" (attacker_position "3178 1727 -63")
+L 09/05/2023 - 02:13:29: "ДиноНаггет<13><[U:1:15166960]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "-764 -338 256") (victim_position "104 -33 -152")
+L 09/05/2023 - 02:13:32: "quek<12><[U:1:220783085]><Red>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "tf_projectile_rocket" (attacker_position "-1598 -824 -70") (victim_position "-1860 -871 -95")
+L 09/05/2023 - 02:13:35: "weed lesbian<2><[U:1:81998077]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "150 -182 -159")
+L 09/05/2023 - 02:13:40: "quek<12><[U:1:220783085]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-586 -169 -307")
+L 09/05/2023 - 02:13:40: "quek<12><[U:1:220783085]><Red>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "-586 -169 -307") (victim_position "73 17 -152")
+L 09/05/2023 - 02:13:41: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 02:13:43: "Octmari<4><[U:1:160946369]><Blue>" killed "quek<12><[U:1:220783085]><Red>" with "obj_sentrygun" (attacker_position "-1086 610 -47") (victim_position "-484 -207 -351")
+L 09/05/2023 - 02:13:49: "weed lesbian<2><[U:1:81998077]><Red>" committed suicide with "world" (attacker_position "-119 -526 -331")
+L 09/05/2023 - 02:13:58: "weed lesbian<2><[U:1:81998077]><Red>" changed role to "dismatic"
+L 09/05/2023 - 02:14:00: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "3399 1019 -346")
+L 09/05/2023 - 02:14:01: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3402 1030 -346")
+L 09/05/2023 - 02:14:03: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3394 1069 -351")
+L 09/05/2023 - 02:14:04: "August101<6><[U:1:241010597]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "72 128 -113") (victim_position "81 296 -187")
+L 09/05/2023 - 02:14:04: "ДиноНаггет<13><[U:1:15166960]><Green>" triggered "kill assist" against "Octmari<4><[U:1:160946369]><Blue>" (assister_position "149 -323 -255") (attacker_position "72 128 -113") (victim_position "81 296 -187")
+L 09/05/2023 - 02:14:04: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3392 1105 -351")
+L 09/05/2023 - 02:14:05: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3348 1081 -351")
+L 09/05/2023 - 02:14:06: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "August101<6><[U:1:241010597]><Green>") (position1 "50 59 -152") (player2 "ДиноНаггет<13><[U:1:15166960]><Green>") (position2 "68 -39 -152") 
+L 09/05/2023 - 02:14:06: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3369 1094 -351")
+L 09/05/2023 - 02:14:07: "Papiomike<15><[U:1:130571319]><>" connected, address "70.171.168.243:27005"
+L 09/05/2023 - 02:14:08: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3392 1108 -351")
+L 09/05/2023 - 02:14:08: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "ДиноНаггет<13><[U:1:15166960]><Green>" with "minigun" (attacker_position "-1309 1124 -47") (victim_position "-5 -81 -152")
+L 09/05/2023 - 02:14:08: "Papiomike<15><[U:1:130571319]><>" STEAM USERID validated
+L 09/05/2023 - 02:14:19: "weed lesbian<2><[U:1:81998077]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-453 -2458 -63")
+L 09/05/2023 - 02:14:22: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "ElleExile [She/Her]<9><[U:1:220112226]><Blue>") (position1 "-156 -3 -159") (player2 "Tangle<14><[U:1:463819447]><Blue>") (position2 "84 -1 -152") 
+L 09/05/2023 - 02:14:22: "Papiomike<15><[U:1:130571319]><>" entered the game
+L 09/05/2023 - 02:14:24: "ДиноНаггет<13><[U:1:15166960]><Green>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 02:14:27: "Papiomike<15><[U:1:130571319]><Unassigned>" joined team "Green"
+L 09/05/2023 - 02:14:29: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2343 846 -63")
+L 09/05/2023 - 02:14:31: "Papiomike<15><[U:1:130571319]><Green>" changed role to "telecon"
+L 09/05/2023 - 02:14:36: "quek<12><[U:1:220783085]><Red>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "-680 -2198 -63") (victim_position "-554 -2523 -63")
+L 09/05/2023 - 02:14:36: "Octmari<4><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Octmari<4><[U:1:160946369]><Blue>") (attacker_position "-1130 568 -47")
+L 09/05/2023 - 02:14:38: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1895 1613 -63")
+L 09/05/2023 - 02:14:40: "Octmari<4><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-619 519 -63")
+L 09/05/2023 - 02:14:52: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2336 841 -63")
+L 09/05/2023 - 02:14:55: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "3656 1967 -63")
+L 09/05/2023 - 02:14:58: "quek<12><[U:1:220783085]><Red>" killed "Octmari<4><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "218 -290 -250") (victim_position "650 -18 -311")
+L 09/05/2023 - 02:15:05: "quek<12><[U:1:220783085]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Octmari<4><[U:1:160946369]><Blue>") (attacker_position "172 -364 -255")
+L 09/05/2023 - 02:15:06: "Papiomike<15><[U:1:130571319]><Green>" killed "weed lesbian<2><[U:1:81998077]><Red>" with "scattergun" (attacker_position "1191 478 -56") (victim_position "237 -88 -159")
+L 09/05/2023 - 02:15:06: "Octmari<4><[U:1:160946369]><Blue>" triggered "kill assist" against "weed lesbian<2><[U:1:81998077]><Red>" (assister_position "286 -70 -174") (attacker_position "1191 478 -56") (victim_position "237 -88 -159")
+L 09/05/2023 - 02:15:07: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1894 1607 -63")
+L 09/05/2023 - 02:15:08: "Papiomike<15><[U:1:130571319]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "165 -19 -115")
+L 09/05/2023 - 02:15:08: "Papiomike<15><[U:1:130571319]><Green>" killed "quek<12><[U:1:220783085]><Red>" with "scattergun" (attacker_position "165 -19 -115") (victim_position "-72 -88 -152")
+L 09/05/2023 - 02:15:16: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-1127 821 -351")
+L 09/05/2023 - 02:15:21: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2340 883 -63")
+L 09/05/2023 - 02:15:21: "Papiomike<15><[U:1:130571319]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "scattergun" (attacker_position "-108 169 -159") (victim_position "-345 345 -351")
+L 09/05/2023 - 02:15:22: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2308 865 -63")
+L 09/05/2023 - 02:15:30: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Papiomike<15><[U:1:130571319]><Green>") (position1 "105 -92 -159") 
+L 09/05/2023 - 02:15:41: "quek<12><[U:1:220783085]><Red>" killed "Papiomike<15><[U:1:130571319]><Green>" with "obj_sentrygun" (attacker_position "-429 -1703 -351") (victim_position "-459 -2618 -86")
+L 09/05/2023 - 02:15:43: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Octmari<4><[U:1:160946369]><Blue>") (position1 "56 -48 -152") 
+L 09/05/2023 - 02:15:43: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2245 1045 -351")
+L 09/05/2023 - 02:15:50: "quek<12><[U:1:220783085]><Red>" killed "August101<6><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-1158 -3428 -351") (victim_position "-1336 -3517 -351")
+L 09/05/2023 - 02:15:59: "August101<6><[U:1:241010597]><Green>" say "thanks for bringing me closer to your base lmao"
+L 09/05/2023 - 02:16:05: "weed lesbian<2><[U:1:81998077]><Red>" committed suicide with "world" (attacker_position "652 -1157 -351")
+L 09/05/2023 - 02:16:06: "quek<12><[U:1:220783085]><Red>" killed "Octmari<4><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-54 -1250 -47") (victim_position "339 -1520 -351")
+L 09/05/2023 - 02:16:15: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2663 771 -351")
+L 09/05/2023 - 02:16:17: "quek<12><[U:1:220783085]><Red>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "tf_projectile_rocket" (attacker_position "-55 -1240 -47") (victim_position "164 -867 -351")
+L 09/05/2023 - 02:16:22: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1826 1826 -351")
+L 09/05/2023 - 02:16:26: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "920 -3863 -351")
+L 09/05/2023 - 02:16:33: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say_team "im johnny fortifications"
+L 09/05/2023 - 02:16:35: "Papiomike<15><[U:1:130571319]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<12><[U:1:220783085]><Red>") (attacker_position "517 -2439 -63")
+L 09/05/2023 - 02:16:35: Team "Red" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "quek<12><[U:1:220783085]><Red>") (position1 "-28 21 -152") 
+L 09/05/2023 - 02:16:44: "Papiomike<15><[U:1:130571319]><Green>" killed "weed lesbian<2><[U:1:81998077]><Red>" with "scattergun" (attacker_position "-255 -3359 -259") (victim_position "-186 -3211 -314")
+L 09/05/2023 - 02:16:44: "Tangle<14><[U:1:463819447]><Blue>" triggered "kill assist" against "weed lesbian<2><[U:1:81998077]><Red>" (assister_position "-229 -2941 -351") (attacker_position "-255 -3359 -259") (victim_position "-186 -3211 -314")
+L 09/05/2023 - 02:16:46: "Papiomike<15><[U:1:130571319]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "scattergun" (attacker_position "-134 -3296 -282") (victim_position "89 -3324 -272")
+L 09/05/2023 - 02:16:47: "weed lesbian<2><[U:1:81998077]><Red>" changed role to "sentronic"
+L 09/05/2023 - 02:16:55: "Papiomike<15><[U:1:130571319]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "66 -179 -113")
+L 09/05/2023 - 02:16:58: "Papiomike<15><[U:1:130571319]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "49 -18 -152")
+L 09/05/2023 - 02:16:58: "Papiomike<15><[U:1:130571319]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "49 -18 -152") (victim_position "-48 101 -118")
+L 09/05/2023 - 02:17:00: "weed lesbian<2><[U:1:81998077]><Red>" changed role to "telecon"
+L 09/05/2023 - 02:17:03: "quek<12><[U:1:220783085]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1943 543 -56")
+L 09/05/2023 - 02:17:05: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "quek<12><[U:1:220783085]><Red>") (attacker_position "-2384 698 -63")
+L 09/05/2023 - 02:17:06: "Tangle<14><[U:1:463819447]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-3739 2162 -63")
+L 09/05/2023 - 02:17:15: "Tangle<14><[U:1:463819447]><Blue>" killed "August101<6><[U:1:241010597]><Green>" with "scattergun" (attacker_position "-1701 2666 -351") (victim_position "-1684 2515 -351")
+L 09/05/2023 - 02:17:15: "weed lesbian<2><[U:1:81998077]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "166 -180 -159")
+L 09/05/2023 - 02:17:17: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Papiomike<15><[U:1:130571319]><Green>") (position1 "67 100 -155") 
+L 09/05/2023 - 02:17:23: "quek<12><[U:1:220783085]><Red>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "tf_projectile_rocket" (attacker_position "-2346 902 -63") (victim_position "-3241 1045 -351")
+L 09/05/2023 - 02:17:23: "quek<12><[U:1:220783085]><Red>" triggered "domination" against "ElleExile [She/Her]<9><[U:1:220112226]><Blue>"
+L 09/05/2023 - 02:17:25: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 02:17:25: "weed lesbian<2><[U:1:81998077]><Red>" committed suicide with "world" (attacker_position "1216 1551 -310")
+L 09/05/2023 - 02:17:26: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2063 1030 -351")
+L 09/05/2023 - 02:17:28: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2024 1091 -351")
+L 09/05/2023 - 02:17:30: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1969 1181 -351")
+L 09/05/2023 - 02:17:31: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "1925 1255 -351")
+L 09/05/2023 - 02:17:33: "quek<12><[U:1:220783085]><Red>" killed "Octmari<4><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-2108 417 -25") (victim_position "-2270 453 -4")
+L 09/05/2023 - 02:17:35: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2030 1414 -351")
+L 09/05/2023 - 02:17:37: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Tangle<14><[U:1:463819447]><Blue>") (position1 "37 35 -152") 
+L 09/05/2023 - 02:17:39: "quek<12><[U:1:220783085]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1940 1534 -63")
+L 09/05/2023 - 02:17:55: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<12><[U:1:220783085]><Red>") (attacker_position "-3434 2391 -63")
+L 09/05/2023 - 02:17:55: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2737 755 -351")
+L 09/05/2023 - 02:17:56: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2695 825 -351")
+L 09/05/2023 - 02:18:00: "quek<12><[U:1:220783085]><Red>" committed suicide with "world" (attacker_position "-721 -2848 -351")
+L 09/05/2023 - 02:18:03: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2062 1917 -351")
+L 09/05/2023 - 02:18:05: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2017 1994 -351")
+L 09/05/2023 - 02:18:08: "quek<12><[U:1:220783085]><Red>" say "i just got trained"
+L 09/05/2023 - 02:18:13: "quek<12><[U:1:220783085]><Red>" changed role to "dismatic"
+L 09/05/2023 - 02:18:20: "August101<6><[U:1:241010597]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "1094 -3348 -351") (victim_position "113 -3877 -63")
+L 09/05/2023 - 02:18:21: "Papiomike<15><[U:1:130571319]><Green>" committed suicide with "world" (attacker_position "-26 -3522 -63")
+L 09/05/2023 - 02:18:27: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "RIP"
+L 09/05/2023 - 02:18:38: "Octmari<4><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "BRB, SHITTING<10><[U:1:1161572473]><Green>") (attacker_position "2516 603 -351")
+L 09/05/2023 - 02:18:38: "Octmari<4><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_WALL") (weapon "tf_projectile_rocket") (objectowner "BRB, SHITTING<10><[U:1:1161572473]><Green>") (attacker_position "2516 603 -351")
+L 09/05/2023 - 02:18:44: "Octmari<4><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "855 162 -284")
+L 09/05/2023 - 02:18:45: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "August101<6><[U:1:241010597]><Green>") (position1 "129 -168 -159") 
+L 09/05/2023 - 02:18:45: "Papiomike<15><[U:1:130571319]><Green>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "pda_engineer") (objectowner "Papiomike<15><[U:1:130571319]><Green>") (attacker_position "265 -3109 -351")
+L 09/05/2023 - 02:18:48: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "August101<6><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-184 -5 -159") (victim_position "-8 3 -152")
+L 09/05/2023 - 02:18:48: "weed lesbian<2><[U:1:81998077]><Red>" triggered "kill assist" against "August101<6><[U:1:241010597]><Green>" (assister_position "270 -207 13") (attacker_position "-184 -5 -159") (victim_position "-8 3 -152")
+L 09/05/2023 - 02:18:52: "August101<6><[U:1:241010597]><Green>" say_team "kill the reds"
+L 09/05/2023 - 02:18:53: "Tangle<14><[U:1:463819447]><Blue>" say "imagine not being able to respawn"
+L 09/05/2023 - 02:18:58: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2357 573 -351")
+L 09/05/2023 - 02:19:00: "quek<12><[U:1:220783085]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-94 -463 -351")
+L 09/05/2023 - 02:19:00: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-3802 1123 -351")
+L 09/05/2023 - 02:19:09: "Papiomike<15><[U:1:130571319]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "-3000 1994 -63") (victim_position "-3119 2021 -63")
+L 09/05/2023 - 02:19:14: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "ElleExile [She/Her]<9><[U:1:220112226]><Blue>") (position1 "122 -29 -159") (player2 "Tangle<14><[U:1:463819447]><Blue>") (position2 "-23 51 -152") 
+L 09/05/2023 - 02:19:14: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1629 1714 -351")
+L 09/05/2023 - 02:19:17: "weed lesbian<2><[U:1:81998077]><Red>" killed "Tangle<14><[U:1:463819447]><Blue>" with "scattergun" (attacker_position "17 -461 -347") (victim_position "338 -631 -351")
+L 09/05/2023 - 02:19:17: "quek<12><[U:1:220783085]><Red>" triggered "kill assist" against "Tangle<14><[U:1:463819447]><Blue>" (assister_position "402 -533 -351") (attacker_position "17 -461 -347") (victim_position "338 -631 -351")
+L 09/05/2023 - 02:19:19: "quek<12><[U:1:220783085]><Red>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "minigun" (attacker_position "405 -605 -351") (victim_position "282 -212 -217")
+L 09/05/2023 - 02:19:25: "weed lesbian<2><[U:1:81998077]><Red>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "56 -127 -159")
+L 09/05/2023 - 02:19:25: "weed lesbian<2><[U:1:81998077]><Red>" killed "Papiomike<15><[U:1:130571319]><Green>" with "scattergun" (attacker_position "56 -127 -159") (victim_position "-73 77 -152")
+L 09/05/2023 - 02:19:31: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2226 506 -351")
+L 09/05/2023 - 02:19:38: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "August101<6><[U:1:241010597]><Green>") (position1 "-67 162 -159") 
+L 09/05/2023 - 02:19:40: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say_team "sorry for not helping BTW"
+L 09/05/2023 - 02:19:46: "Octmari<4><[U:1:160946369]><Blue>" killed "August101<6><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-747 1064 -308") (victim_position "-859 911 -351")
+L 09/05/2023 - 02:19:47: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say_team "im busy being Johny Fortifications"
+L 09/05/2023 - 02:19:50: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "tf_projectile_rocket") (objectowner "Papiomike<15><[U:1:130571319]><Green>") (attacker_position "-4037 717 -322")
+L 09/05/2023 - 02:19:50: "weed lesbian<2><[U:1:81998077]><Red>" killed "Octmari<4><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "-1257 770 -310") (victim_position "-1507 327 -289")
+L 09/05/2023 - 02:19:53: "Papiomike<15><[U:1:130571319]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "scattergun" (attacker_position "-3419 759 -351") (victim_position "-3400 888 -336")
+L 09/05/2023 - 02:19:55: "August101<6><[U:1:241010597]><Green>" say_team "fortifying is good"
+L 09/05/2023 - 02:19:57: "quek<12><[U:1:220783085]><Red>" killed "Tangle<14><[U:1:463819447]><Blue>" with "minigun" (attacker_position "-1257 389 -351") (victim_position "-1315 1118 -351")
+L 09/05/2023 - 02:19:57: "quek<12><[U:1:220783085]><Red>" triggered "domination" against "Tangle<14><[U:1:463819447]><Blue>"
+L 09/05/2023 - 02:19:59: "August101<6><[U:1:241010597]><Green>" say_team "so keep doing what your doing"
+L 09/05/2023 - 02:20:04: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-2552 825 -63")
+L 09/05/2023 - 02:20:05: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say_team "does the repair node actually repair anything"
+L 09/05/2023 - 02:20:08: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 02:20:09: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say_team "or is it just there for visuals sake"
+L 09/05/2023 - 02:20:10: "August101<6><[U:1:241010597]><Green>" say_team "yes"
+L 09/05/2023 - 02:20:13: Team "Red" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "weed lesbian<2><[U:1:81998077]><Red>") (position1 "32 -33 -152") 
+L 09/05/2023 - 02:20:16: "Octmari<4><[U:1:160946369]><Blue>" killed "quek<12><[U:1:220783085]><Red>" with "smg" (attacker_position "-2361 1172 -351") (victim_position "-2299 1148 -351")
+L 09/05/2023 - 02:20:17: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say_team "cause these walls are NOT getting repaired"
+L 09/05/2023 - 02:20:23: "Octmari<4><[U:1:160946369]><Blue>" killed "Papiomike<15><[U:1:130571319]><Green>" with "tf_projectile_rocket" (attacker_position "-3248 2153 -63") (victim_position "-3096 2075 -29")
+L 09/05/2023 - 02:20:23: "Tangle<14><[U:1:463819447]><Blue>" triggered "kill assist" against "Papiomike<15><[U:1:130571319]><Green>" (assister_position "-3044 1881 -63") (attacker_position "-3248 2153 -63") (victim_position "-3096 2075 -29")
+L 09/05/2023 - 02:20:27: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3186 1674 -63")
+L 09/05/2023 - 02:20:28: World triggered "Round_Win" (winner "Green")
+L 09/05/2023 - 02:20:28: World triggered "Round_Length" (seconds "671.28")
+L 09/05/2023 - 02:20:28: Team "Red" current score "0" with "2" players
+L 09/05/2023 - 02:20:28: Team "Blue" current score "0" with "3" players
+L 09/05/2023 - 02:20:28: Team "Green" current score "1" with "3" players
+L 09/05/2023 - 02:20:28: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 02:20:28: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 02:20:28: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 02:20:28: "weed lesbian<2><[U:1:81998077]><Red>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "player" (attacker_position "-2144 492 -340") (victim_position "-3195 1636 -63")
+L 09/05/2023 - 02:20:29: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3118 1744 -61")
+L 09/05/2023 - 02:20:31: "August101<6><[U:1:241010597]><Green>" say "gg"
+L 09/05/2023 - 02:20:34: "Tangle<14><[U:1:463819447]><Blue>" say "gg"
+L 09/05/2023 - 02:20:36: World triggered "Round_Start"
+L 09/05/2023 - 02:20:40: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" changed role to "sentronic"
+L 09/05/2023 - 02:20:42: "Tangle<14><[U:1:463819447]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-3718 2156 -63")
+L 09/05/2023 - 02:20:46: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3002 1874 -63")
+L 09/05/2023 - 02:20:50: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "3715 2080 -63")
+L 09/05/2023 - 02:20:51: "Octmari<4><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1235 701 -351")
+L 09/05/2023 - 02:20:53: "Tangle<14><[U:1:463819447]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-1185 800 -351")
+L 09/05/2023 - 02:20:57: "Octmari<4><[U:1:160946369]><Blue>" killed "weed lesbian<2><[U:1:81998077]><Red>" with "tf_projectile_rocket" (attacker_position "79 18 -152") (victim_position "84 -82 -153")
+L 09/05/2023 - 02:20:59: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "3409 1023 -346")
+L 09/05/2023 - 02:21:00: "August101<6><[U:1:241010597]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "2808 2142 -249")
+L 09/05/2023 - 02:21:00: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3417 1050 -346")
+L 09/05/2023 - 02:21:01: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3365 1021 -346")
+L 09/05/2023 - 02:21:02: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3394 1038 -346")
+L 09/05/2023 - 02:21:02: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "3") (player1 "Octmari<4><[U:1:160946369]><Blue>") (position1 "3 -75 -152") (player2 "ElleExile [She/Her]<9><[U:1:220112226]><Blue>") (position2 "82 -129 -159") (player3 "Tangle<14><[U:1:463819447]><Blue>") (position3 "31 69 -152") 
+L 09/05/2023 - 02:21:03: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3408 1046 -346")
+L 09/05/2023 - 02:21:04: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "3379 1030 -346")
+L 09/05/2023 - 02:21:11: "quek<12><[U:1:220783085]><Red>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-464 -2452 -63")
+L 09/05/2023 - 02:21:13: "Octmari<4><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "quek<12><[U:1:220783085]><Red>") (attacker_position "-329 -2671 -24")
+L 09/05/2023 - 02:21:15: "Tangle<14><[U:1:463819447]><Blue>" killed "quek<12><[U:1:220783085]><Red>" with "scattergun" (attacker_position "-295 -2395 -63") (victim_position "-188 -2428 -63")
+L 09/05/2023 - 02:21:15: "Octmari<4><[U:1:160946369]><Blue>" triggered "kill assist" against "quek<12><[U:1:220783085]><Red>" (assister_position "-260 -3037 -351") (attacker_position "-295 -2395 -63") (victim_position "-188 -2428 -63")
+L 09/05/2023 - 02:21:15: "Tangle<14><[U:1:463819447]><Blue>" triggered "revenge" against "quek<12><[U:1:220783085]><Red>"
+L 09/05/2023 - 02:21:15: "Papiomike<15><[U:1:130571319]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "scattergun" (attacker_position "173 -178 -159") (victim_position "280 -316 -255")
+L 09/05/2023 - 02:21:15: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2593 2411 -346")
+L 09/05/2023 - 02:21:17: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2583 2383 -351")
+L 09/05/2023 - 02:21:18: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2605 2397 -351")
+L 09/05/2023 - 02:21:19: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2639 2417 -351")
+L 09/05/2023 - 02:21:20: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Papiomike<15><[U:1:130571319]><Green>") (position1 "55 37 -152") 
+L 09/05/2023 - 02:21:30: "quek<12><[U:1:220783085]><Red>" say "we're gettin phockedf"
+L 09/05/2023 - 02:21:34: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-1003 -3815 -351")
+L 09/05/2023 - 02:21:38: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2241 1052 -351")
+L 09/05/2023 - 02:21:40: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2202 1119 -351")
+L 09/05/2023 - 02:21:41: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2160 1189 -351")
+L 09/05/2023 - 02:21:42: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2121 1255 -351")
+L 09/05/2023 - 02:21:44: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2086 1314 -351")
+L 09/05/2023 - 02:21:45: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2053 1369 -351")
+L 09/05/2023 - 02:21:48: "quek<12><[U:1:220783085]><Red>" say "wait it doesnt let you respawn for the entire game"
+L 09/05/2023 - 02:21:50: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2024 1422 -351")
+L 09/05/2023 - 02:21:57: "Tangle<14><[U:1:463819447]><Blue>" committed suicide with "world" (attacker_position "-146 -3680 -63")
+L 09/05/2023 - 02:21:57: "Octmari<4><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "-146 -3808 -63")
+L 09/05/2023 - 02:21:57: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "Papiomike<15><[U:1:130571319]><Green>" with "player" (attacker_position "253 -2502 -63") (victim_position "138 -3918 -63")
+L 09/05/2023 - 02:21:58: "quek<12><[U:1:220783085]><Red>" say "rip"
+L 09/05/2023 - 02:22:02: "quek<12><[U:1:220783085]><Red>" joined team "Green"
+L 09/05/2023 - 02:22:04: "quek<12><[U:1:220783085]><Green>" changed role to "sentronic"
+L 09/05/2023 - 02:22:05: "Tangle<14><[U:1:463819447]><Blue>" say "that was quick"
+L 09/05/2023 - 02:22:21: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "ElleExile [She/Her]<9><[U:1:220112226]><Blue>") (position1 "87 -82 -154") 
+L 09/05/2023 - 02:22:25: "August101<6><[U:1:241010597]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "-1931 2230 -336") (victim_position "-2107 2349 -351")
+L 09/05/2023 - 02:22:26: "Octmari<4><[U:1:160946369]><Blue>" killed "August101<6><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-2097 2283 -282") (victim_position "-1865 2531 -351")
+L 09/05/2023 - 02:22:27: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3103 1884 -63")
+L 09/05/2023 - 02:22:30: "Papiomike<15><[U:1:130571319]><Green>" say "would a version of this where its special delivery instead of koth for the middle be a good idea"
+L 09/05/2023 - 02:22:32: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "August101<6><[U:1:241010597]><Green>") (attacker_position "1521 1716 -351")
+L 09/05/2023 - 02:22:37: "Papiomike<15><[U:1:130571319]><Green>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "pda_engineer") (objectowner "Papiomike<15><[U:1:130571319]><Green>") (attacker_position "-1368 -2622 -351")
+L 09/05/2023 - 02:22:44: "Papiomike<15><[U:1:130571319]><Green>" say "shrug"
+L 09/05/2023 - 02:22:45: "weed lesbian<2><[U:1:81998077]><Red>" joined team "Green"
+L 09/05/2023 - 02:22:47: "Tangle<14><[U:1:463819447]><Blue>" say "6 team special delivery"
+L 09/05/2023 - 02:22:52: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2510 663 -351")
+L 09/05/2023 - 02:22:53: "August101<6><[U:1:241010597]><Green>" say "six team sd seems legit"
+L 09/05/2023 - 02:22:54: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-3791 1116 -351")
+L 09/05/2023 - 02:22:58: "Tangle<14><[U:1:463819447]><Blue>" killed "quek<12><[U:1:220783085]><Green>" with "scattergun" (attacker_position "-20 142 -159") (victim_position "57 753 -351")
+L 09/05/2023 - 02:22:58: "Octmari<4><[U:1:160946369]><Blue>" triggered "kill assist" against "quek<12><[U:1:220783085]><Green>" (assister_position "-167 577 -265") (attacker_position "-20 142 -159") (victim_position "57 753 -351")
+L 09/05/2023 - 02:23:01: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1731 1766 -351")
+L 09/05/2023 - 02:23:07: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1901 1602 -63")
+L 09/05/2023 - 02:23:07: "August101<6><[U:1:241010597]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "tf_projectile_rocket" (attacker_position "2 189 -159") (victim_position "-113 -167 -159")
+L 09/05/2023 - 02:23:07: "Papiomike<15><[U:1:130571319]><Green>" triggered "kill assist" against "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" (assister_position "-556 -216 -310") (attacker_position "2 189 -159") (victim_position "-113 -167 -159")
+L 09/05/2023 - 02:23:10: "Octmari<4><[U:1:160946369]><Blue>" killed "Papiomike<15><[U:1:130571319]><Green>" with "tf_projectile_rocket" (attacker_position "224 427 -249") (victim_position "-28 55 -152")
+L 09/05/2023 - 02:23:11: "August101<6><[U:1:241010597]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "-82 -157 -159") (victim_position "-325 -69 -223")
+L 09/05/2023 - 02:23:11: "Octmari<4><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "54 182 -159")
+L 09/05/2023 - 02:23:12: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2350 841 -63")
+L 09/05/2023 - 02:23:13: "weed lesbian<2><[U:1:81998077]><Green>" committed suicide with "world" (attacker_position "212 322 -247")
+L 09/05/2023 - 02:23:14: "August101<6><[U:1:241010597]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "7 -117 -156") (victim_position "-84 97 -129")
+L 09/05/2023 - 02:23:14: "weed lesbian<2><[U:1:81998077]><Green>" triggered "kill assist" against "Octmari<4><[U:1:160946369]><Blue>" (assister_position "212 322 -241") (attacker_position "7 -117 -156") (victim_position "-84 97 -129")
+L 09/05/2023 - 02:23:16: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "August101<6><[U:1:241010597]><Green>") (position1 "-14 -144 -159") 
+L 09/05/2023 - 02:23:24: "August101<6><[U:1:241010597]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Octmari<4><[U:1:160946369]><Blue>") (attacker_position "-2314 92 -351")
+L 09/05/2023 - 02:23:30: "quek<12><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1933 1538 -63")
+L 09/05/2023 - 02:23:32: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "Papiomike<15><[U:1:130571319]><Green>" with "tf_projectile_rocket" (attacker_position "-3311 1665 -63") (victim_position "-3312 1560 -61")
+L 09/05/2023 - 02:23:34: "Papiomike<15><[U:1:130571319]><Green>" say "LMAO"
+L 09/05/2023 - 02:23:40: "August101<6><[U:1:241010597]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "-3016 43 -351")
+L 09/05/2023 - 02:23:40: "August101<6><[U:1:241010597]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-3016 43 -351") (victim_position "-2996 107 -351")
+L 09/05/2023 - 02:23:40: "Papiomike<15><[U:1:130571319]><Green>" say "teleported straight into a rocket"
+L 09/05/2023 - 02:23:43: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "tf_projectile_rocket") (objectowner "Papiomike<15><[U:1:130571319]><Green>") (attacker_position "-3621 654 -351")
+L 09/05/2023 - 02:23:43: "weed lesbian<2><[U:1:81998077]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "3542 2107 -63")
+L 09/05/2023 - 02:24:01: "quek<12><[U:1:220783085]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "17 148 -87")
+L 09/05/2023 - 02:24:01: "quek<12><[U:1:220783085]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "17 148 -87") (victim_position "26 -23 -152")
+L 09/05/2023 - 02:24:03: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" committed suicide with "world" (attacker_position "920 212 -351")
+L 09/05/2023 - 02:24:07: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" say "ah"
+L 09/05/2023 - 02:24:14: "Papiomike<15><[U:1:130571319]><Green>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "scattergun") (objectowner "Tangle<14><[U:1:463819447]><Blue>") (attacker_position "-1230 787 -351")
+L 09/05/2023 - 02:24:19: "August101<6><[U:1:241010597]><Green>" say "the next map I should make is 6 team escort execpt instead of team elemation it's first to cap the thing"
+L 09/05/2023 - 02:24:22: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Octmari<4><[U:1:160946369]><Blue>") (position1 "-136 -88 -97") 
+L 09/05/2023 - 02:24:22: "August101<6><[U:1:241010597]><Green>" say "+ infinite couriers"
+L 09/05/2023 - 02:24:24: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-2868 2742 -351")
+L 09/05/2023 - 02:24:27: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "INFINITE COURIERS!!!"
+L 09/05/2023 - 02:24:27: "weed lesbian<2><[U:1:81998077]><Green>" committed suicide with "world" (attacker_position "180 -327 -242")
+L 09/05/2023 - 02:24:32: "BRB, SHITTING<10><[U:1:1161572473]><Green>" say "imagine courier vs courier boxing"
+L 09/05/2023 - 02:24:35: "quek<12><[U:1:220783085]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "smg" (attacker_position "523 -103 -343") (victim_position "462 -183 -351")
+L 09/05/2023 - 02:24:44: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "August101<6><[U:1:241010597]><Green>") (position1 "2 -28 -152") (player2 "quek<12><[U:1:220783085]><Green>") (position2 "132 -117 -159") 
+L 09/05/2023 - 02:24:48: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "Papiomike<15><[U:1:130571319]><Green>" with "tf_projectile_rocket" (attacker_position "-1719 -554 -126") (victim_position "-1585 -468 -212")
+L 09/05/2023 - 02:24:48: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2567 767 -351")
+L 09/05/2023 - 02:24:55: "quek<12><[U:1:220783085]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "-1951 398 -351") (victim_position "-1491 194 -335")
+L 09/05/2023 - 02:24:56: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1784 1805 -351")
+L 09/05/2023 - 02:25:01: "August101<6><[U:1:241010597]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "-2161 520 -351")
+L 09/05/2023 - 02:25:05: "weed lesbian<2><[U:1:81998077]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "scattergun" (attacker_position "-2573 656 -351") (victim_position "-1981 311 -351")
+L 09/05/2023 - 02:25:14: "Octmari<4><[U:1:160946369]><Blue>" killed "Papiomike<15><[U:1:130571319]><Green>" with "tf_projectile_rocket" (attacker_position "-2647 2365 -338") (victim_position "-2599 2378 -351")
+L 09/05/2023 - 02:25:19: "Octmari<4><[U:1:160946369]><Blue>" killed "weed lesbian<2><[U:1:81998077]><Green>" with "tf_projectile_rocket" (attacker_position "-2076 2336 -282") (victim_position "-2168 2350 -279")
+L 09/05/2023 - 02:25:19: "Tangle<14><[U:1:463819447]><Blue>" triggered "kill assist" against "weed lesbian<2><[U:1:81998077]><Green>" (assister_position "-2399 2546 -351") (attacker_position "-2076 2336 -282") (victim_position "-2168 2350 -279")
+L 09/05/2023 - 02:25:22: "weed lesbian<2><[U:1:81998077]><Green>" say "holy moly"
+L 09/05/2023 - 02:25:23: "Tangle<14><[U:1:463819447]><Blue>" killed "quek<12><[U:1:220783085]><Green>" with "scattergun" (attacker_position "-3271 2329 -64") (victim_position "-3492 2460 -63")
+L 09/05/2023 - 02:25:35: "Tangle<14><[U:1:463819447]><Blue>" say "holy canoli"
+L 09/05/2023 - 02:25:40: "Tangle<14><[U:1:463819447]><Blue>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-1272 690 -351")
+L 09/05/2023 - 02:25:44: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Octmari<4><[U:1:160946369]><Blue>") (position1 "-55 -2 -152") 
+L 09/05/2023 - 02:25:51: "Papiomike<15><[U:1:130571319]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "scattergun" (attacker_position "1101 1046 -314") (victim_position "600 1461 -348")
+L 09/05/2023 - 02:25:51: "weed lesbian<2><[U:1:81998077]><Green>" triggered "kill assist" against "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" (assister_position "972 1195 -335") (attacker_position "1101 1046 -314") (victim_position "600 1461 -348")
+L 09/05/2023 - 02:25:55: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3035 1957 -63")
+L 09/05/2023 - 02:25:59: "weed lesbian<2><[U:1:81998077]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "1118 1368 -351") (victim_position "1371 1619 -351")
+L 09/05/2023 - 02:26:00: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3231 2122 -63")
+L 09/05/2023 - 02:26:01: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" say "god i am.. BAD tonight"
+L 09/05/2023 - 02:26:04: "BRB, SHITTING<10><[U:1:1161572473]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "fo_weapon_nodegun" (attacker_position "3421 1976 -63") (victim_position "3462 2055 -63")
+L 09/05/2023 - 02:26:12: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3131 1715 -63")
+L 09/05/2023 - 02:26:15: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3215 1651 -63")
+L 09/05/2023 - 02:26:17: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3306 1647 -63")
+L 09/05/2023 - 02:26:20: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "3425 1739 -63")
+L 09/05/2023 - 02:26:20: "quek<12><[U:1:220783085]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "quek<12><[U:1:220783085]><Green>") (attacker_position "967 630 -56")
+L 09/05/2023 - 02:26:25: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "quek<12><[U:1:220783085]><Green>") (position1 "-43 72 -152") 
+L 09/05/2023 - 02:26:25: "Papiomike<15><[U:1:130571319]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "scattergun" (attacker_position "-668 172 -351") (victim_position "-937 444 -349")
+L 09/05/2023 - 02:26:25: "weed lesbian<2><[U:1:81998077]><Green>" triggered "kill assist" against "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" (assister_position "-408 355 -343") (attacker_position "-668 172 -351") (victim_position "-937 444 -349")
+L 09/05/2023 - 02:26:26: "Octmari<4><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1590 913 -351")
+L 09/05/2023 - 02:26:28: "Papiomike<15><[U:1:130571319]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Octmari<4><[U:1:160946369]><Blue>") (attacker_position "-750 1082 -335")
+L 09/05/2023 - 02:26:28: "Octmari<4><[U:1:160946369]><Blue>" killed "Papiomike<15><[U:1:130571319]><Green>" with "tf_projectile_rocket" (attacker_position "-1115 1183 -351") (victim_position "-664 1172 -351")
+L 09/05/2023 - 02:26:28: "Octmari<4><[U:1:160946369]><Blue>" triggered "domination" against "Papiomike<15><[U:1:130571319]><Green>"
+L 09/05/2023 - 02:26:32: "Octmari<4><[U:1:160946369]><Blue>" killed "weed lesbian<2><[U:1:81998077]><Green>" with "tf_projectile_rocket" (attacker_position "-615 459 -281") (victim_position "-713 417 -351")
+L 09/05/2023 - 02:26:34: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2637 675 -351")
+L 09/05/2023 - 02:26:36: "Octmari<4><[U:1:160946369]><Blue>" killed "August101<6><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-1612 201 -320") (victim_position "-2379 524 -351")
+L 09/05/2023 - 02:26:36: "Tangle<14><[U:1:463819447]><Blue>" triggered "kill assist" against "August101<6><[U:1:241010597]><Green>" (assister_position "-1527 609 -351") (attacker_position "-1612 201 -320") (victim_position "-2379 524 -351")
+L 09/05/2023 - 02:26:37: "quek<12><[U:1:220783085]><Green>" triggered "killedobject" (object "OBJ_TELEPORTER_ENTRANCE") (weapon "tf_projectile_rocket") (objectowner "Tangle<14><[U:1:463819447]><Blue>") (attacker_position "-3427 2264 -63")
+L 09/05/2023 - 02:26:40: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" say "oh its. 3v5"
+L 09/05/2023 - 02:26:41: "quek<12><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-3419 2446 -63")
+L 09/05/2023 - 02:26:45: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "quek<12><[U:1:220783085]><Green>" with "tf_projectile_rocket" (attacker_position "-3644 2061 -63") (victim_position "-3657 1737 7")
+L 09/05/2023 - 02:26:46: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2584 716 -351")
+L 09/05/2023 - 02:26:47: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "Octmari<4><[U:1:160946369]><Blue>") (position1 "6 19 -152") (player2 "Tangle<14><[U:1:463819447]><Blue>") (position2 "10 -91 -152") 
+L 09/05/2023 - 02:26:49: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<12><[U:1:220783085]><Green>") (attacker_position "-3704 2139 -63")
+L 09/05/2023 - 02:26:54: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1835 1839 -351")
+L 09/05/2023 - 02:27:00: "BRB, SHITTING<10><[U:1:1161572473]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "fo_weapon_nodegun" (attacker_position "3298 1422 -225") (victim_position "3380 1034 -342")
+L 09/05/2023 - 02:27:00: "Papiomike<15><[U:1:130571319]><Green>" triggered "kill assist" against "Octmari<4><[U:1:160946369]><Blue>" (assister_position "3230 1139 -351") (attacker_position "3298 1422 -225") (victim_position "3380 1034 -342")
+L 09/05/2023 - 02:27:00: "Papiomike<15><[U:1:130571319]><Green>" triggered "revenge" against "Octmari<4><[U:1:160946369]><Blue>" (assist "1")
+L 09/05/2023 - 02:27:05: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "tf_projectile_rocket") (objectowner "Papiomike<15><[U:1:130571319]><Green>") (attacker_position "-2549 2870 -318")
+L 09/05/2023 - 02:27:08: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "3479 1786 -63")
+L 09/05/2023 - 02:27:08: "Tangle<14><[U:1:463819447]><Blue>" triggered "killedobject" (object "OBJ_FORT") (weapon "bat") (objectowner "BRB, SHITTING<10><[U:1:1161572473]><Green>") (attacker_position "1814 1830 -351")
+L 09/05/2023 - 02:27:11: "quek<12><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "3258 1413 -240")
+L 09/05/2023 - 02:27:15: "weed lesbian<2><[U:1:81998077]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "scattergun" (attacker_position "-2503 2823 -351") (victim_position "-2601 2630 -351")
+L 09/05/2023 - 02:27:15: "weed lesbian<2><[U:1:81998077]><Green>" triggered "domination" against "ElleExile [She/Her]<9><[U:1:220112226]><Blue>"
+L 09/05/2023 - 02:27:15: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" killed "weed lesbian<2><[U:1:81998077]><Green>" with "tf_projectile_rocket" (attacker_position "-2649 2722 -337") (victim_position "-2502 2805 -351")
+L 09/05/2023 - 02:27:15: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "revenge" against "weed lesbian<2><[U:1:81998077]><Green>"
+L 09/05/2023 - 02:27:20: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Papiomike<15><[U:1:130571319]><Green>") (position1 "-60 20 -152") 
+L 09/05/2023 - 02:27:20: "weed lesbian<2><[U:1:81998077]><Green>" say "LOL"
+L 09/05/2023 - 02:27:22: "Papiomike<15><[U:1:130571319]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "25 -33 -152")
+L 09/05/2023 - 02:27:22: "Papiomike<15><[U:1:130571319]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "scattergun" (attacker_position "25 -33 -152") (victim_position "136 214 -159")
+L 09/05/2023 - 02:27:35: "Octmari<4><[U:1:160946369]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "-1896 1089 -291")
+L 09/05/2023 - 02:27:41: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" say "doesnt help that im already really bad vs scout and telecon fries my brain more on that"
+L 09/05/2023 - 02:27:57: "August101<6><[U:1:241010597]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "tf_projectile_rocket" (attacker_position "-1976 2514 -351") (victim_position "-2396 2522 -351")
+L 09/05/2023 - 02:27:59: "August101<6><[U:1:241010597]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "-2347 2584 -351")
+L 09/05/2023 - 02:28:02: "Tangle<14><[U:1:463819447]><Blue>" killed "Papiomike<15><[U:1:130571319]><Green>" with "bat" (attacker_position "-2969 1649 -255") (victim_position "-2996 1664 -255")
+L 09/05/2023 - 02:28:11: "Octmari<4><[U:1:160946369]><Blue>" killed "quek<12><[U:1:220783085]><Green>" with "tf_projectile_rocket" (attacker_position "-1880 1598 -63") (victim_position "-1929 1613 -63")
+L 09/05/2023 - 02:28:11: "quek<12><[U:1:220783085]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-1929 1613 -49") (victim_position "-1849 1578 -63")
+L 09/05/2023 - 02:28:17: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" changed role to "telecon"
+L 09/05/2023 - 02:28:22: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1825 1825 -351")
+L 09/05/2023 - 02:28:30: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "ElleExile [She/Her]<9><[U:1:220112226]><Blue>") (position1 "-99 -5 -152") (player2 "Tangle<14><[U:1:463819447]><Blue>") (position2 "34 -26 -152") 
+L 09/05/2023 - 02:28:38: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2352 896 -63")
+L 09/05/2023 - 02:28:39: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2333 886 -63")
+L 09/05/2023 - 02:28:40: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_STAIRS") (position "2307 872 -63")
+L 09/05/2023 - 02:28:43: "weed lesbian<2><[U:1:81998077]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "scattergun" (attacker_position "-23 485 -351") (victim_position "-319 321 -351")
+L 09/05/2023 - 02:28:48: "Tangle<14><[U:1:463819447]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "38 180 -159")
+L 09/05/2023 - 02:28:49: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2421 619 -351")
+L 09/05/2023 - 02:28:51: "quek<12><[U:1:220783085]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "424 423 -108") (victim_position "27 98 -152")
+L 09/05/2023 - 02:28:51: "Papiomike<15><[U:1:130571319]><Green>" triggered "kill assist" against "Tangle<14><[U:1:463819447]><Blue>" (assister_position "-71 51 -152") (attacker_position "424 423 -108") (victim_position "27 98 -152")
+L 09/05/2023 - 02:28:53: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "3") (player1 "weed lesbian<2><[U:1:81998077]><Green>") (position1 "39 -19 -152") (player2 "quek<12><[U:1:220783085]><Green>") (position2 "47 123 -139") (player3 "Papiomike<15><[U:1:130571319]><Green>") (position3 "66 -31 -152") 
+L 09/05/2023 - 02:29:02: "BRB, SHITTING<10><[U:1:1161572473]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "fo_weapon_nodegun" (attacker_position "2970 2279 -171") (victim_position "2923 2513 -282")
+L 09/05/2023 - 02:29:08: World triggered "Round_Win" (winner "Green")
+L 09/05/2023 - 02:29:08: World triggered "Round_Length" (seconds "511.71")
+L 09/05/2023 - 02:29:08: Team "Red" current score "0" with "0" players
+L 09/05/2023 - 02:29:08: Team "Blue" current score "0" with "3" players
+L 09/05/2023 - 02:29:08: Team "Green" current score "2" with "5" players
+L 09/05/2023 - 02:29:08: Team "Yellow" current score "0" with "0" players
+L 09/05/2023 - 02:29:08: Team "Purple" current score "0" with "0" players
+L 09/05/2023 - 02:29:08: Team "Pink" current score "0" with "0" players
+L 09/05/2023 - 02:29:09: "quek<12><[U:1:220783085]><Green>" committed suicide with "world" (attacker_position "-3334 2234 -63")
+L 09/05/2023 - 02:29:13: "Papiomike<15><[U:1:130571319]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "bat" (attacker_position "-3854 2249 -63") (victim_position "-3882 2302 -63")
+L 09/05/2023 - 02:29:16: World triggered "Round_Start"
+L 09/05/2023 - 02:29:20: "Tangle<14><[U:1:463819447]><Blue>" say "omg my ragdoll"
+L 09/05/2023 - 02:29:22: "Tangle<14><[U:1:463819447]><Blue>" say "lmao"
+L 09/05/2023 - 02:29:26: "August101<6><[U:1:241010597]><Green>" say "on discord it seems like escort works points based"
+L 09/05/2023 - 02:29:33: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2600 2410 -351")
+L 09/05/2023 - 02:29:36: "quek<12><[U:1:220783085]><Green>" killed "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" with "tf_projectile_rocket" (attacker_position "116 169 -159") (victim_position "-77 -58 -152")
+L 09/05/2023 - 02:29:37: "Papiomike<15><[U:1:130571319]><Green>" killed "Octmari<4><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "195 -154 36") (victim_position "9 -6 -83")
+L 09/05/2023 - 02:29:37: "quek<12><[U:1:220783085]><Green>" triggered "kill assist" against "Octmari<4><[U:1:160946369]><Blue>" (assister_position "-4 300 -87") (attacker_position "195 -154 36") (victim_position "9 -6 -83")
+L 09/05/2023 - 02:29:39: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "3409 1007 -346")
+L 09/05/2023 - 02:29:40: "Papiomike<15><[U:1:130571319]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "180 -153 -159")
+L 09/05/2023 - 02:29:40: "Papiomike<15><[U:1:130571319]><Green>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "97 -173 -159")
+L 09/05/2023 - 02:29:40: "Papiomike<15><[U:1:130571319]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "scattergun" (attacker_position "97 -173 -159") (victim_position "-79 -53 -152")
+L 09/05/2023 - 02:29:46: "August101<6><[U:1:241010597]><Green>" say "so I can tie a capzone to a game_round_win so I can make it work the way I want"
+L 09/05/2023 - 02:29:48: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1886 1603 -63")
+L 09/05/2023 - 02:29:50: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "weed lesbian<2><[U:1:81998077]><Green>") (position1 "-32 37 -152") (player2 "Papiomike<15><[U:1:130571319]><Green>") (position2 "24 -6 -152") 
+L 09/05/2023 - 02:29:51: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" joined team "Red"
+L 09/05/2023 - 02:29:52: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2339 844 -63")
+L 09/05/2023 - 02:29:53: "ElleExile [She/Her]<9><[U:1:220112226]><Red>" changed role to "sentronic"
+L 09/05/2023 - 02:29:55: "Tangle<14><[U:1:463819447]><Blue>" say "playing the game is forbidden"
+L 09/05/2023 - 02:30:01: "ElleExile [She/Her]<9><[U:1:220112226]><Red>" joined team "Blue"
+L 09/05/2023 - 02:30:02: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 02:30:07: "Papiomike<15><[U:1:130571319]><Green>" triggered "builtobject" (object "OBJ_TELEPORTER_EXIT") (position "-2872 2731 -351")
+L 09/05/2023 - 02:30:11: "Octmari<4><[U:1:160946369]><Blue>" killed "weed lesbian<2><[U:1:81998077]><Green>" with "tf_projectile_rocket" (attacker_position "-2782 2450 -351") (victim_position "-2394 2612 -351")
+L 09/05/2023 - 02:30:11: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "kill assist" against "weed lesbian<2><[U:1:81998077]><Green>" (assister_position "-3062 1845 -63") (attacker_position "-2782 2450 -351") (victim_position "-2394 2612 -351")
+L 09/05/2023 - 02:30:14: "Octmari<4><[U:1:160946369]><Blue>" killed "August101<6><[U:1:241010597]><Green>" with "tf_projectile_rocket" (attacker_position "-2687 2733 -313") (victim_position "-2729 2957 -351")
+L 09/05/2023 - 02:30:16: "Octmari<4><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER_EXIT") (weapon "tf_projectile_rocket") (objectowner "Papiomike<15><[U:1:130571319]><Green>") (attacker_position "-2486 2953 -351")
+L 09/05/2023 - 02:30:22: "Tangle<14><[U:1:463819447]><Blue>" killed "quek<12><[U:1:220783085]><Green>" with "scattergun" (attacker_position "-2211 1083 -63") (victim_position "-1984 1503 -63")
+L 09/05/2023 - 02:30:22: "ElleExile [She/Her]<9><[U:1:220112226]><Blue>" triggered "kill assist" against "quek<12><[U:1:220783085]><Green>" (assister_position "-3008 1915 -63") (attacker_position "-2211 1083 -63") (victim_position "-1984 1503 -63")
+L 09/05/2023 - 02:30:24: "Papiomike<15><[U:1:130571319]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "scattergun" (attacker_position "-2114 1349 -63") (victim_position "-2318 992 -63")
+L 09/05/2023 - 02:30:24: "Papiomike<15><[U:1:130571319]><Green>" triggered "domination" against "Tangle<14><[U:1:463819447]><Blue>"
+L 09/05/2023 - 02:30:29: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2260 1059 -351")
+L 09/05/2023 - 02:30:30: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2228 1114 -351")
+L 09/05/2023 - 02:30:31: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2188 1184 -351")
+L 09/05/2023 - 02:30:33: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2156 1241 -351")
+L 09/05/2023 - 02:30:35: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2116 1309 -351")
+L 09/05/2023 - 02:30:37: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2081 1371 -351")
+L 09/05/2023 - 02:30:38: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_WALL") (position "2049 1426 -351")
+L 09/05/2023 - 02:30:40: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "1") (player1 "Octmari<4><[U:1:160946369]><Blue>") (position1 "47 -14 -152") 
+L 09/05/2023 - 02:30:42: "Octmari<4><[U:1:160946369]><Blue>" killed "weed lesbian<2><[U:1:81998077]><Green>" with "tf_projectile_rocket" (attacker_position "451 225 -351") (victim_position "548 566 -335")
+L 09/05/2023 - 02:30:43: "Octmari<4><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "727 471 -313")
+L 09/05/2023 - 02:30:49: "weed lesbian<2><[U:1:81998077]><Green>" say "i won that"
+L 09/05/2023 - 02:30:50: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "1797 1813 -351")
+L 09/05/2023 - 02:30:59: "BRB, SHITTING<10><[U:1:1161572473]><Green>" triggered "builtobject" (object "OBJ_FORT") (position "2371 592 -351")
+L 09/05/2023 - 02:31:01: "Tangle<14><[U:1:463819447]><Blue>" triggered "captureblocked" (cp "0") (cpname "TODO: Set Name") (position "-180 58 -159")
+L 09/05/2023 - 02:31:02: "August101<6><[U:1:241010597]><Green>" killed "Tangle<14><[U:1:463819447]><Blue>" with "tf_projectile_rocket" (attacker_position "-37 -32 -152") (victim_position "171 239 -164")
+L 09/05/2023 - 02:31:02: "Papiomike<15><[U:1:130571319]><Green>" triggered "kill assist" against "Tangle<14><[U:1:463819447]><Blue>" (assister_position "63 -60 -152") (attacker_position "-37 -32 -152") (victim_position "171 239 -164")
+L 09/05/2023 - 02:31:04: Team "Green" triggered "pointcaptured" (cp "0") (cpname "TODO: Set Name") (numcappers "2") (player1 "August101<6><[U:1:241010597]><Green>") (position1 "27 24 -152") (player2 "Papiomike<15><[U:1:130571319]><Green>") (position2 "85 14 -152") 
+L 09/05/2023 - 02:31:19: "August101<6><[U:1:241010597]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "-1796 108 -336")
+L 09/05/2023 - 02:31:24: Log file closed.

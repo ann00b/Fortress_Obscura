@@ -1,0 +1,902 @@
+L 09/05/2023 - 12:56:59: Log file started (file "logs\L0905028.log") (game "f:\server2\sdk2013server\Fortress_Obscura") (version "6630498")
+L 09/05/2023 - 12:57:03: "Evan068<11><[U:1:371507926]><>" entered the game
+L 09/05/2023 - 12:57:03: "August101<16><[U:1:241010597]><>" entered the game
+L 09/05/2023 - 12:57:03: "quek<6><[U:1:220783085]><>" entered the game
+L 09/05/2023 - 12:57:04: "Milosuper<7><[U:1:126998348]><>" entered the game
+L 09/05/2023 - 12:57:04: "Mira<21><[U:1:149481681]><>" entered the game
+L 09/05/2023 - 12:57:04: "Octmari<17><[U:1:160946369]><>" entered the game
+L 09/05/2023 - 12:57:04: "Andy726<14><[U:1:845123434]><>" entered the game
+L 09/05/2023 - 12:57:07: "ChargingTurnip<4><[U:1:313942863]><>" entered the game
+L 09/05/2023 - 12:57:08: "Milosuper<7><[U:1:126998348]><Unassigned>" joined team "Yellow"
+L 09/05/2023 - 12:57:08: "Evan068<11><[U:1:371507926]><Unassigned>" joined team "Red"
+L 09/05/2023 - 12:57:08: "quek<6><[U:1:220783085]><Unassigned>" joined team "Yellow"
+L 09/05/2023 - 12:57:09: "Mira<21><[U:1:149481681]><Unassigned>" joined team "Pink"
+L 09/05/2023 - 12:57:09: "quek<6><[U:1:220783085]><Yellow>" changed role to "sentronic"
+L 09/05/2023 - 12:57:10: "Evan068<11><[U:1:371507926]><Red>" changed role to "dismatic"
+L 09/05/2023 - 12:57:11: "jimi<23><[U:1:968687056]><>" entered the game
+L 09/05/2023 - 12:57:11: "Mira<21><[U:1:149481681]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 12:57:11: "Milosuper<7><[U:1:126998348]><Yellow>" changed role to "sentronic"
+L 09/05/2023 - 12:57:13: "Octmari<17><[U:1:160946369]><Unassigned>" joined team "Blue"
+L 09/05/2023 - 12:57:14: "DID YOU SEE<18><[U:1:148422860]><>" entered the game
+L 09/05/2023 - 12:57:16: "Octmari<17><[U:1:160946369]><Blue>" changed role to "dismatic"
+L 09/05/2023 - 12:57:19: "August101<16><[U:1:241010597]><Unassigned>" joined team "Purple"
+L 09/05/2023 - 12:57:19: "ChargingTurnip<4><[U:1:313942863]><Unassigned>" joined team "Purple"
+L 09/05/2023 - 12:57:20: "ChargingTurnip<4><[U:1:313942863]><Purple>" changed role to "telecon"
+L 09/05/2023 - 12:57:20: "August101<16><[U:1:241010597]><Purple>" changed role to "telecon"
+L 09/05/2023 - 12:57:21: "Mira<21><[U:1:149481681]><Pink>" say "oooohhh yes... it's pink team time"
+L 09/05/2023 - 12:57:26: "quek<6><[U:1:220783085]><Yellow>" joined team "Green"
+L 09/05/2023 - 12:57:26: "quek<6><[U:1:220783085]><Green>" committed suicide with "world" (attacker_position "1056 -1088 352")
+L 09/05/2023 - 12:57:28: "Evan068<11><[U:1:371507926]><Red>" committed suicide with "world" (attacker_position "-562 -834 288")
+L 09/05/2023 - 12:57:29: "Andy726<14><[U:1:845123434]><Unassigned>" say "guys"
+L 09/05/2023 - 12:57:34: "Andy726<14><[U:1:845123434]><Unassigned>" say "I think I am stuck"
+L 09/05/2023 - 12:57:36: "Evan068<11><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 12:57:38: "Evan068<11><[U:1:371507926]><Red>" changed role to "sentronic"
+L 09/05/2023 - 12:57:39: World triggered "Round_Start"
+L 09/05/2023 - 12:57:40: "Andy726<14><[U:1:845123434]><Unassigned>" joined team "Yellow"
+L 09/05/2023 - 12:57:41: "Andy726<14><[U:1:845123434]><Yellow>" changed role to "telecon"
+L 09/05/2023 - 12:57:44: "Milosuper<7><[U:1:126998348]><Yellow>" say "YEAH"
+L 09/05/2023 - 12:57:44: "Andy726<14><[U:1:845123434]><Yellow>" say "ok nvm"
+L 09/05/2023 - 12:57:47: "Milosuper<7><[U:1:126998348]><Yellow>" say "YELLOW TEAM"
+L 09/05/2023 - 12:57:51: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-536 -740 288") 
+L 09/05/2023 - 12:57:52: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Purple>" with "tf_projectile_rocket" (attacker_position "-817 -2613 672") (victim_position "-721 -3047 712")
+L 09/05/2023 - 12:57:53: "Octmari<17><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-560 -3456 672")
+L 09/05/2023 - 12:57:54: "Evan068<11><[U:1:371507926]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-510 -1377 224")
+L 09/05/2023 - 12:57:54: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1992 -3173 704") 
+L 09/05/2023 - 12:57:55: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Evan068<11><[U:1:371507926]><Red>") (attacker_position "-477 -904 288")
+L 09/05/2023 - 12:57:55: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-700 -2877 672") 
+L 09/05/2023 - 12:57:56: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-725 -3343 672") 
+L 09/05/2023 - 12:57:57: "Evan068<11><[U:1:371507926]><Red>" triggered "captureblocked" (cp "0") (cpname "SHRINE") (position "-618 -830 320")
+L 09/05/2023 - 12:57:57: "Evan068<11><[U:1:371507926]><Red>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-618 -830 320") (victim_position "-450 -802 288")
+L 09/05/2023 - 12:57:58: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2105 -3173 704")
+L 09/05/2023 - 12:57:58: "Mira<21><[U:1:149481681]><Pink>" killed "Andy726<14><[U:1:845123434]><Yellow>" with "tf_projectile_rocket" (attacker_position "2105 -3173 704") (victim_position "1872 -3251 704")
+L 09/05/2023 - 12:58:00: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "123 -728 224")
+L 09/05/2023 - 12:58:02: "Andy726<14><[U:1:845123434]><Yellow>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 12:58:03: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1131 -2926 928")
+L 09/05/2023 - 12:58:04: "Octmari<17><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-620 -2820 672")
+L 09/05/2023 - 12:58:06: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-663 -2808 672") 
+L 09/05/2023 - 12:58:12: "August101<16><[U:1:241010597]><Purple>" changed role to "sentronic"
+L 09/05/2023 - 12:58:13: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_rocket") (objectowner "Octmari<17><[U:1:160946369]><Blue>") (attacker_position "-204 -3553 672")
+L 09/05/2023 - 12:58:14: "Octmari<17><[U:1:160946369]><Blue>" killed "quek<6><[U:1:220783085]><Green>" with "wrench" (attacker_position "-495 -2877 672") (victim_position "-492 -2925 672")
+L 09/05/2023 - 12:58:16: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Yellow>") (position1 "-570 -763 288") 
+L 09/05/2023 - 12:58:16: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-730 -3372 672") 
+L 09/05/2023 - 12:58:17: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-723 -3462 672") (victim_position "-514 -3242 672")
+L 09/05/2023 - 12:58:20: "quek<6><[U:1:220783085]><Green>" say "im always being opressed by mari </3"
+L 09/05/2023 - 12:58:20: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "-916 -1000 279")
+L 09/05/2023 - 12:58:23: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-733 -2819 672") 
+L 09/05/2023 - 12:58:27: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "2") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-714 -3316 672") (player2 "August101<16><[U:1:241010597]><Purple>") (position2 "-751 -3351 672") 
+L 09/05/2023 - 12:58:28: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-972 -739 288")
+L 09/05/2023 - 12:58:29: "Octmari<17><[U:1:160946369]><Blue>" say "yeah :)"
+L 09/05/2023 - 12:58:34: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "2") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2270 -3437 224") (player2 "August101<16><[U:1:241010597]><Purple>") (position2 "-2209 -3481 224") 
+L 09/05/2023 - 12:58:37: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Yellow>") (position1 "-726 -2847 672") 
+L 09/05/2023 - 12:58:38: "jimi<23><[U:1:968687056]><Unassigned>" joined team "Purple"
+L 09/05/2023 - 12:58:38: "quek<6><[U:1:220783085]><Green>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "tf_projectile_rocket" (attacker_position "-1073 -2729 672") (victim_position "-1005 -2776 672")
+L 09/05/2023 - 12:58:39: "Mira<21><[U:1:149481681]><Pink>" killed "Evan068<11><[U:1:371507926]><Red>" with "bat" (attacker_position "1848 -3184 704") (victim_position "1860 -3104 704")
+L 09/05/2023 - 12:58:40: "DID YOU SEE<18><[U:1:148422860]><Unassigned>" joined team "Red"
+L 09/05/2023 - 12:58:41: "DID YOU SEE<18><[U:1:148422860]><Red>" changed role to "workernode"
+L 09/05/2023 - 12:58:41: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-456 -3993 320") 
+L 09/05/2023 - 12:58:42: "jimi<23><[U:1:968687056]><Purple>" changed role to "telecon"
+L 09/05/2023 - 12:58:43: "Evan068<11><[U:1:371507926]><Red>" changed role to "saptrap"
+L 09/05/2023 - 12:58:45: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-794 -3434 672") 
+L 09/05/2023 - 12:58:46: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-735 -2832 672") 
+L 09/05/2023 - 12:58:49: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1031 -3047 736")
+L 09/05/2023 - 12:58:49: "Evan068<11><[U:1:371507926]><Red>" changed role to "workernode"
+L 09/05/2023 - 12:58:50: "Evan068<11><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 12:58:51: "August101<16><[U:1:241010597]><Purple>" killed "quek<6><[U:1:220783085]><Green>" with "tf_projectile_rocket" (attacker_position "-1146 -2724 672") (victim_position "-938 -2742 672")
+L 09/05/2023 - 12:58:53: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1945 -3264 704") 
+L 09/05/2023 - 12:58:54: "Octmari<17><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-616 -2893 672")
+L 09/05/2023 - 12:58:54: "August101<16><[U:1:241010597]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-678 -2796 672")
+L 09/05/2023 - 12:58:54: "Octmari<17><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-631 -2892 672")
+L 09/05/2023 - 12:58:54: "Octmari<17><[U:1:160946369]><Blue>" killed "August101<16><[U:1:241010597]><Purple>" with "shotgun_hwg" (attacker_position "-631 -2892 672") (victim_position "-678 -2796 672")
+L 09/05/2023 - 12:58:55: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "fo_weapon_nodegun") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "-1003 -1014 272")
+L 09/05/2023 - 12:58:59: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-689 -2813 672") 
+L 09/05/2023 - 12:58:59: "Octmari<17><[U:1:160946369]><Blue>" say "stacking prp i see"
+L 09/05/2023 - 12:58:59: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1864 -3145 704")
+L 09/05/2023 - 12:58:59: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1881 -3152 704")
+L 09/05/2023 - 12:58:59: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Mira<21><[U:1:149481681]><Pink>" with "bat" (attacker_position "1881 -3152 704") (victim_position "1956 -3128 704")
+L 09/05/2023 - 12:59:05: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-210 -837 288")
+L 09/05/2023 - 12:59:06: "Evan068<11><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "-649 -1001 279")
+L 09/05/2023 - 12:59:09: "Evan068<11><[U:1:371507926]><Red>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "scattergun" (attacker_position "-406 -779 307") (victim_position "-715 -757 288")
+L 09/05/2023 - 12:59:09: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "kill assist" against "Milosuper<7><[U:1:126998348]><Yellow>" (assister_position "-972 -1330 265") (attacker_position "-406 -779 307") (victim_position "-715 -757 288")
+L 09/05/2023 - 12:59:12: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "2") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-540 -774 288") (player2 "DID YOU SEE<18><[U:1:148422860]><Red>") (position2 "-595 -905 288") 
+L 09/05/2023 - 12:59:14: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "builtobject" (object "OBJ_FORT") (position "-513 -796 288")
+L 09/05/2023 - 12:59:16: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-677 -2870 672") 
+L 09/05/2023 - 12:59:18: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-944 -2961 672")
+L 09/05/2023 - 12:59:22: "Octmari<17><[U:1:160946369]><Blue>" triggered "captureblocked" (cp "3") (cpname "APARTMENTS") (position "-831 -3342 672")
+L 09/05/2023 - 12:59:22: "Octmari<17><[U:1:160946369]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "wrench" (attacker_position "-831 -3342 672") (victim_position "-757 -3330 672")
+L 09/05/2023 - 12:59:28: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Purple>" with "smg" (attacker_position "-1667 -2889 672") (victim_position "-1690 -2785 672")
+L 09/05/2023 - 12:59:29: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-554 -951 288")
+L 09/05/2023 - 12:59:29: "jimi<23><[U:1:968687056]><Purple>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 12:59:33: "Evan068<11><[U:1:371507926]><Red>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1989 -3020 745")
+L 09/05/2023 - 12:59:33: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-898 -952 288")
+L 09/05/2023 - 12:59:35: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "builtobject" (object "OBJ_WALL") (position "-875 -877 288")
+L 09/05/2023 - 12:59:36: Team "Green" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-2323 -3383 224") 
+L 09/05/2023 - 12:59:36: "Milosuper<7><[U:1:126998348]><Yellow>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "-230 -807 288") (victim_position "-694 -764 288")
+L 09/05/2023 - 12:59:39: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "world" (attacker_position "2296 -3161 -186")
+L 09/05/2023 - 12:59:39: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Yellow>") (position1 "-510 -816 288") 
+L 09/05/2023 - 12:59:43: "Octmari<17><[U:1:160946369]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "36 -2552 672")
+L 09/05/2023 - 12:59:46: "quek<6><[U:1:220783085]><Green>" killed "Octmari<17><[U:1:160946369]><Blue>" with "tf_projectile_rocket" (attacker_position "-163 -2615 713") (victim_position "-179 -2567 672")
+L 09/05/2023 - 12:59:46: Team "Red" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "2000 -3145 704") 
+L 09/05/2023 - 12:59:48: "August101<16><[U:1:241010597]><Purple>" say "I don't like how some spawns are right in front of a point"
+L 09/05/2023 - 12:59:49: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-642 -805 288")
+L 09/05/2023 - 12:59:50: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-715 -2716 672") 
+L 09/05/2023 - 12:59:51: "DID YOU SEE<18><[U:1:148422860]><Red>" changed role to "telecon"
+L 09/05/2023 - 12:59:56: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-708 -2795 672") 
+L 09/05/2023 - 12:59:57: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "captureblocked" (cp "0") (cpname "SHRINE") (position "-592 -951 288")
+L 09/05/2023 - 12:59:58: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "captureblocked" (cp "0") (cpname "SHRINE") (position "-507 -925 318")
+L 09/05/2023 - 12:59:58: "Milosuper<7><[U:1:126998348]><Yellow>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-507 -925 318") (victim_position "-449 -754 366")
+L 09/05/2023 - 12:59:58: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-549 -2632 672")
+L 09/05/2023 - 12:59:59: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "-834 -883 288")
+L 09/05/2023 - 12:59:59: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Purple>") (position1 "-2318 -3445 224") 
+L 09/05/2023 - 13:00:01: "DID YOU SEE<18><[U:1:148422860]><Red>" committed suicide with "world" (attacker_position "-848 -1448 238")
+L 09/05/2023 - 13:00:01: "Evan068<11><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-457 -2748 672")
+L 09/05/2023 - 13:00:04: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-565 -728 288")
+L 09/05/2023 - 13:00:08: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1916 -3131 704") 
+L 09/05/2023 - 13:00:11: "August101<16><[U:1:241010597]><Purple>" killed "quek<6><[U:1:220783085]><Green>" with "tf_projectile_rocket" (attacker_position "-1169 -2849 672") (victim_position "-883 -2822 685")
+L 09/05/2023 - 13:00:13: "Evan068<11><[U:1:371507926]><Red>" killed "August101<16><[U:1:241010597]><Purple>" with "scattergun" (attacker_position "-793 -2734 672") (victim_position "-983 -2825 672")
+L 09/05/2023 - 13:00:16: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-311 -2833 672")
+L 09/05/2023 - 13:00:16: "Milosuper<7><[U:1:126998348]><Yellow>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "-311 -2833 672") (victim_position "-733 -2858 672")
+L 09/05/2023 - 13:00:20: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Yellow>") (position1 "-736 -2801 672") 
+L 09/05/2023 - 13:00:20: "Mira<21><[U:1:149481681]><Pink>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "tf_projectile_rocket" (attacker_position "-359 -2723 672") (victim_position "-778 -2820 672")
+L 09/05/2023 - 13:00:24: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-723 -2800 672") 
+L 09/05/2023 - 13:00:25: "Evan068<11><[U:1:371507926]><Red>" changed role to "sentronic"
+L 09/05/2023 - 13:00:34: "Evan068<11><[U:1:371507926]><Red>" changed role to "dismatic"
+L 09/05/2023 - 13:00:37: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "2048 -3134 704") 
+L 09/05/2023 - 13:00:39: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-733 -2853 672") 
+L 09/05/2023 - 13:00:41: "Evan068<11><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "-1073 -1253 224")
+L 09/05/2023 - 13:00:44: "quek<6><[U:1:220783085]><Green>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "-830 -1718 224") (victim_position "-639 -1296 224")
+L 09/05/2023 - 13:00:44: "August101<16><[U:1:241010597]><Purple>" triggered "kill assist" against "Evan068<11><[U:1:371507926]><Red>" (assister_position "-1247 -1479 224") (attacker_position "-830 -1718 224") (victim_position "-639 -1296 224")
+L 09/05/2023 - 13:00:45: "DID YOU SEE<18><[U:1:148422860]><Red>" killed "August101<16><[U:1:241010597]><Purple>" with "scattergun" (attacker_position "-1400 -1143 224") (victim_position "-1366 -1471 224")
+L 09/05/2023 - 13:00:45: "Evan068<11><[U:1:371507926]><Red>" triggered "kill assist" against "August101<16><[U:1:241010597]><Purple>" (assister_position "-639 -1296 238") (attacker_position "-1400 -1143 224") (victim_position "-1366 -1471 224")
+L 09/05/2023 - 13:00:46: "Evan068<11><[U:1:371507926]><Red>" changed role to "saptrap"
+L 09/05/2023 - 13:00:48: "quek<6><[U:1:220783085]><Green>" committed suicide with "tf_projectile_rocket" (attacker_position "-334 -811 288")
+L 09/05/2023 - 13:00:50: Team "Pink" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-396 -3994 320") 
+L 09/05/2023 - 13:00:51: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-635 -927 315")
+L 09/05/2023 - 13:00:52: "Evan068<11><[U:1:371507926]><Red>" changed role to "sentronic"
+L 09/05/2023 - 13:00:54: "Evan068<11><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:00:56: "Milosuper<7><[U:1:126998348]><Yellow>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "-904 -818 288") (victim_position "-911 -1748 224")
+L 09/05/2023 - 13:01:01: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "-192 -1550 224")
+L 09/05/2023 - 13:01:02: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-388 -3975 320") 
+L 09/05/2023 - 13:01:09: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Yellow>") (position1 "-753 -2815 672") 
+L 09/05/2023 - 13:01:13: Team "Pink" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-386 -4001 320") 
+L 09/05/2023 - 13:01:13: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-670 -3404 672") 
+L 09/05/2023 - 13:01:18: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-762 -3335 672") 
+L 09/05/2023 - 13:01:18: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-744 -2825 672") 
+L 09/05/2023 - 13:01:18: "Octmari<17><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-775 -3336 672")
+L 09/05/2023 - 13:01:19: "August101<16><[U:1:241010597]><Purple>" committed suicide with "world" (attacker_position "-1604 -3137 233")
+L 09/05/2023 - 13:01:22: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-2294 -3417 224") 
+L 09/05/2023 - 13:01:23: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-695 -2849 737") 
+L 09/05/2023 - 13:01:26: "DID YOU SEE<18><[U:1:148422860]><Red>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "bat" (attacker_position "-489 -823 288") (victim_position "-453 -862 288")
+L 09/05/2023 - 13:01:28: "Octmari<17><[U:1:160946369]><Blue>" killed "quek<6><[U:1:220783085]><Green>" with "minigun" (attacker_position "-636 -2995 672") (victim_position "-1183 -2815 1037")
+L 09/05/2023 - 13:01:28: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-524 -821 288") 
+L 09/05/2023 - 13:01:33: "Mira<21><[U:1:149481681]><Pink>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "tf_projectile_rocket" (attacker_position "-1215 -2543 672") (victim_position "-1550 -2770 672")
+L 09/05/2023 - 13:01:38: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-776 -2866 672") 
+L 09/05/2023 - 13:01:41: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "scattergun") (objectowner "Octmari<17><[U:1:160946369]><Blue>") (attacker_position "-714 -3522 672")
+L 09/05/2023 - 13:01:42: "DID YOU SEE<18><[U:1:148422860]><Red>" killed "Octmari<17><[U:1:160946369]><Blue>" with "scattergun" (attacker_position "-961 -3390 672") (victim_position "-848 -3337 695")
+L 09/05/2023 - 13:01:42: "Mira<21><[U:1:149481681]><Pink>" triggered "kill assist" against "Octmari<17><[U:1:160946369]><Blue>" (assister_position "-433 -3240 672") (attacker_position "-961 -3390 672") (victim_position "-848 -3337 695")
+L 09/05/2023 - 13:01:43: "Mira<21><[U:1:149481681]><Pink>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "-598 -3374 672") (victim_position "-767 -3230 695")
+L 09/05/2023 - 13:01:44: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-703 -2823 672") 
+L 09/05/2023 - 13:01:45: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-755 -3387 672") 
+L 09/05/2023 - 13:01:48: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Purple>") (position1 "-2328 -3452 224") 
+L 09/05/2023 - 13:01:50: Team "Red" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-733 -3356 672") 
+L 09/05/2023 - 13:01:51: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-743 -2885 672") 
+L 09/05/2023 - 13:01:52: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Purple>" with "tf_projectile_rocket" (attacker_position "-1574 -4063 672") (victim_position "-1606 -3807 320")
+L 09/05/2023 - 13:01:55: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1155 -2552 928")
+L 09/05/2023 - 13:01:56: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-666 -2850 672") 
+L 09/05/2023 - 13:01:56: "Evan068<11><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-642 -2748 672")
+L 09/05/2023 - 13:01:57: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-2330 -3468 224") 
+L 09/05/2023 - 13:01:58: "ChargingTurnip<4><[U:1:313942863]><Purple>" committed suicide with "world" (attacker_position "-695 -957 299")
+L 09/05/2023 - 13:02:01: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Yellow>") (position1 "-547 -770 288") 
+L 09/05/2023 - 13:02:01: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-547 -770 288")
+L 09/05/2023 - 13:02:07: "Milosuper<7><[U:1:126998348]><Yellow>" killed "quek<6><[U:1:220783085]><Green>" with "tf_projectile_rocket" (attacker_position "-1208 -2700 934") (victim_position "-1464 -2737 928")
+L 09/05/2023 - 13:02:07: "Evan068<11><[U:1:371507926]><Red>" triggered "kill assist" against "quek<6><[U:1:220783085]><Green>" (assister_position "-1367 -2552 928") (attacker_position "-1208 -2700 934") (victim_position "-1464 -2737 928")
+L 09/05/2023 - 13:02:10: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Yellow>") (position1 "-723 -2732 672") 
+L 09/05/2023 - 13:02:11: "Mira<21><[U:1:149481681]><Pink>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "tf_projectile_rocket" (attacker_position "-1218 -2820 672") (victim_position "-649 -2818 731")
+L 09/05/2023 - 13:02:14: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-725 -3422 672") 
+L 09/05/2023 - 13:02:15: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-735 -2783 672") 
+L 09/05/2023 - 13:02:16: "Octmari<17><[U:1:160946369]><Blue>" triggered "builtobject" (object "OBJ_DISPENSER") (position "-585 -3153 672")
+L 09/05/2023 - 13:02:16: "Evan068<11><[U:1:371507926]><Red>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "-1067 -2785 928") (victim_position "-680 -2975 672")
+L 09/05/2023 - 13:02:18: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Purple>") (position1 "-2324 -3485 224") 
+L 09/05/2023 - 13:02:21: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-787 -2719 722") 
+L 09/05/2023 - 13:02:25: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "-1089 -1269 224")
+L 09/05/2023 - 13:02:26: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-712 -2824 672") 
+L 09/05/2023 - 13:02:26: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Purple>") (position1 "-412 -3992 320") 
+L 09/05/2023 - 13:02:31: "quek<6><[U:1:220783085]><Green>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-616 -2752 672")
+L 09/05/2023 - 13:02:31: "quek<6><[U:1:220783085]><Green>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "-616 -2752 672") (victim_position "-740 -2791 672")
+L 09/05/2023 - 13:02:34: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-694 -2765 672") 
+L 09/05/2023 - 13:02:35: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-507 -829 288") 
+L 09/05/2023 - 13:02:38: "Milosuper<7><[U:1:126998348]><Yellow>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1864 -3217 704")
+L 09/05/2023 - 13:02:39: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Milosuper<7><[U:1:126998348]><Yellow>") (position1 "1906 -3145 704") 
+L 09/05/2023 - 13:02:40: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-829 -2866 723") 
+L 09/05/2023 - 13:02:40: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-633 -3409 672") 
+L 09/05/2023 - 13:02:40: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Milosuper<7><[U:1:126998348]><Yellow>") (attacker_position "1674 -3647 891")
+L 09/05/2023 - 13:02:41: "Mira<21><[U:1:149481681]><Pink>" killed "Milosuper<7><[U:1:126998348]><Yellow>" with "tf_projectile_rocket" (attacker_position "1821 -3235 723") (victim_position "2169 -3079 811")
+L 09/05/2023 - 13:02:41: "Mira<21><[U:1:149481681]><Pink>" triggered "domination" against "Milosuper<7><[U:1:126998348]><Yellow>"
+L 09/05/2023 - 13:02:43: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-745 -2806 861")
+L 09/05/2023 - 13:02:43: "quek<6><[U:1:220783085]><Green>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-1214 -2772 672")
+L 09/05/2023 - 13:02:43: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Purple>" with "tf_projectile_rocket" (attacker_position "-1214 -2772 672") (victim_position "-731 -2928 672")
+L 09/05/2023 - 13:02:46: "quek<6><[U:1:220783085]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "-645 -2872 672") (victim_position "-883 -2277 672")
+L 09/05/2023 - 13:02:46: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1939 -3054 704")
+L 09/05/2023 - 13:02:47: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1948 -3180 704") 
+L 09/05/2023 - 13:02:49: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-785 -2773 672") 
+L 09/05/2023 - 13:02:50: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Blue>") (position1 "-678 -3318 672") 
+L 09/05/2023 - 13:02:51: "ChargingTurnip<4><[U:1:313942863]><Purple>" committed suicide with "world" (attacker_position "1450 -2872 692")
+L 09/05/2023 - 13:03:01: Team "Green" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-2330 -3406 224") 
+L 09/05/2023 - 13:03:02: World triggered "Round_Win" (winner "Purple")
+L 09/05/2023 - 13:03:02: World triggered "Round_Length" (seconds "322.62")
+L 09/05/2023 - 13:03:02: Team "Red" current score "0" with "2" players
+L 09/05/2023 - 13:03:02: Team "Blue" current score "0" with "1" players
+L 09/05/2023 - 13:03:02: Team "Green" current score "0" with "1" players
+L 09/05/2023 - 13:03:02: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 13:03:02: Team "Purple" current score "1" with "2" players
+L 09/05/2023 - 13:03:02: Team "Pink" current score "0" with "1" players
+L 09/05/2023 - 13:03:05: "August101<16><[U:1:241010597]><Purple>" killed "quek<6><[U:1:220783085]><Green>" with "tf_projectile_rocket" (attacker_position "-2485 -3090 626") (victim_position "-2330 -3406 224")
+L 09/05/2023 - 13:03:08: "August101<16><[U:1:241010597]><Purple>" say "gg"
+L 09/05/2023 - 13:03:10: World triggered "Round_Start"
+L 09/05/2023 - 13:03:12: "quek<6><[U:1:220783085]><Green>" say "ban purple"
+L 09/05/2023 - 13:03:18: "Milosuper<7><[U:1:126998348]><Yellow>" say "i gotta go"
+L 09/05/2023 - 13:03:21: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-937 -2615 672")
+L 09/05/2023 - 13:03:21: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-587 -793 288") 
+L 09/05/2023 - 13:03:22: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "2") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2313 -3339 224") (player2 "August101<16><[U:1:241010597]><Purple>") (position2 "-2416 -3451 224") 
+L 09/05/2023 - 13:03:24: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1931 -3027 704")
+L 09/05/2023 - 13:03:24: "Milosuper<7><[U:1:126998348]><Yellow>" say "gl with the rest of the game"
+L 09/05/2023 - 13:03:24: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-695 -2881 672") 
+L 09/05/2023 - 13:03:25: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1974 -3128 704") 
+L 09/05/2023 - 13:03:28: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-430 -3960 320") 
+L 09/05/2023 - 13:03:29: "Octmari<17><[U:1:160946369]><Blue>" committed suicide with "world" (attacker_position "-892 -5051 672")
+L 09/05/2023 - 13:03:29: "Octmari<17><[U:1:160946369]><Blue>" joined team "Spectator"
+L 09/05/2023 - 13:03:31: "Milosuper<7><[U:1:126998348]><Yellow>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:03:36: "Mira<21><[U:1:149481681]><Pink>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "-205 -3104 672") (victim_position "-175 -2582 672")
+L 09/05/2023 - 13:03:36: "quek<6><[U:1:220783085]><Green>" triggered "kill assist" against "Evan068<11><[U:1:371507926]><Red>" (assister_position "-1210 -3795 320") (attacker_position "-205 -3104 672") (victim_position "-175 -2582 672")
+L 09/05/2023 - 13:03:36: "Mira<21><[U:1:149481681]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "obj_sentrygun" (attacker_position "-216 -3105 672") (victim_position "2023 -3376 696")
+L 09/05/2023 - 13:03:38: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Purple>" with "obj_sentrygun" (attacker_position "-346 -2862 672") (victim_position "2067 -3331 704")
+L 09/05/2023 - 13:03:40: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-288 -3092 672")
+L 09/05/2023 - 13:03:40: Team "Green" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-426 -4018 320") 
+L 09/05/2023 - 13:03:44: "Evan068<11><[U:1:371507926]><Red>" changed role to "workernode"
+L 09/05/2023 - 13:03:48: "August101<16><[U:1:241010597]><Purple>" joined team "Blue"
+L 09/05/2023 - 13:03:49: "August101<16><[U:1:241010597]><Blue>" changed role to "telecon"
+L 09/05/2023 - 13:03:54: "Evan068<11><[U:1:371507926]><Red>" changed role to "sentronic"
+L 09/05/2023 - 13:03:55: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1529 -3823 967")
+L 09/05/2023 - 13:03:55: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-714 -3284 672") 
+L 09/05/2023 - 13:03:58: "August101<16><[U:1:241010597]><Blue>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "-536 -4336 672") (victim_position "-561 -4093 672")
+L 09/05/2023 - 13:03:58: "quek<6><[U:1:220783085]><Green>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Pink>" (assister_position "-233 -3142 672") (attacker_position "-536 -4336 672") (victim_position "-561 -4093 672")
+L 09/05/2023 - 13:04:03: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-694 -3335 672") 
+L 09/05/2023 - 13:04:05: Team "Red" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "2033 -3159 704") 
+L 09/05/2023 - 13:04:08: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-777 -3363 672") 
+L 09/05/2023 - 13:04:12: "quek<6><[U:1:220783085]><Green>" triggered "captureblocked" (cp "3") (cpname "APARTMENTS") (position "-516 -3395 672")
+L 09/05/2023 - 13:04:12: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-516 -3395 672") (victim_position "-775 -3395 672")
+L 09/05/2023 - 13:04:14: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-806 -3204 672")
+L 09/05/2023 - 13:04:18: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-827 -3405 672") 
+L 09/05/2023 - 13:04:21: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1967 -3236 758")
+L 09/05/2023 - 13:04:21: "Mira<21><[U:1:149481681]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "1967 -3236 758") (victim_position "2062 -3133 704")
+L 09/05/2023 - 13:04:21: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "kill assist" against "ChargingTurnip<4><[U:1:313942863]><Purple>" (assister_position "1832 -3148 704") (attacker_position "1967 -3236 758") (victim_position "2062 -3133 704")
+L 09/05/2023 - 13:04:24: "quek<6><[U:1:220783085]><Green>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "1739 -3154 704") (victim_position "2005 -3078 704")
+L 09/05/2023 - 13:04:24: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Pink>" (assister_position "1712 -3611 352") (attacker_position "1739 -3154 704") (victim_position "2005 -3078 704")
+L 09/05/2023 - 13:04:27: Team "Green" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "2060 -3178 704") 
+L 09/05/2023 - 13:04:34: "DID YOU SEE<18><[U:1:148422860]><Red>" committed suicide with "world" (attacker_position "1944 -3088 714")
+L 09/05/2023 - 13:04:41: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-353 -4082 320") 
+L 09/05/2023 - 13:04:46: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2265 -3404 224") 
+L 09/05/2023 - 13:04:50: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-778 -2803 672") 
+L 09/05/2023 - 13:04:55: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-744 -2872 672") 
+L 09/05/2023 - 13:04:56: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-511 -835 288") 
+L 09/05/2023 - 13:04:57: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1956 -3178 704") 
+L 09/05/2023 - 13:05:00: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-541 -742 288") 
+L 09/05/2023 - 13:05:02: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1908 -3030 704")
+L 09/05/2023 - 13:05:11: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-403 -3990 320") 
+L 09/05/2023 - 13:05:12: "Mira<21><[U:1:149481681]><Pink>" killed "quek<6><[U:1:220783085]><Green>" with "tf_projectile_rocket" (attacker_position "958 -2792 672") (victim_position "314 -2502 672")
+L 09/05/2023 - 13:05:13: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1880 -3043 704")
+L 09/05/2023 - 13:05:15: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "2051 -3104 704") 
+L 09/05/2023 - 13:05:21: "Mira<21><[U:1:149481681]><Pink>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "2148 -3040 704") (victim_position "2171 -3094 704")
+L 09/05/2023 - 13:05:21: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "tf_projectile_rocket" (attacker_position "2148 -3040 704")
+L 09/05/2023 - 13:05:21: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "obj_sentrygun" (attacker_position "-861 -3250 672") (victim_position "-259 -3527 672")
+L 09/05/2023 - 13:05:26: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-452 -3977 320") 
+L 09/05/2023 - 13:05:26: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-506 -820 288") 
+L 09/05/2023 - 13:05:30: "Evan068<11><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:05:36: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "obj_sentrygun" (attacker_position "-241 -3033 672") (victim_position "-350 -3323 672")
+L 09/05/2023 - 13:05:41: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-216 -3328 672")
+L 09/05/2023 - 13:05:44: "Octmari<17><[U:1:160946369]><Spectator>" joined team "Yellow"
+L 09/05/2023 - 13:05:49: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-749 -2883 672") 
+L 09/05/2023 - 13:05:51: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "2028 -3137 704") 
+L 09/05/2023 - 13:05:53: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-710 -2840 672") 
+L 09/05/2023 - 13:05:55: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-778 -3323 672") 
+L 09/05/2023 - 13:05:56: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-266 -3109 672")
+L 09/05/2023 - 13:05:59: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1956 -3114 704")
+L 09/05/2023 - 13:06:01: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-807 -3401 672") 
+L 09/05/2023 - 13:06:01: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-720 -2769 672") 
+L 09/05/2023 - 13:06:01: "Octmari<17><[U:1:160946369]><Yellow>" changed role to "telecon"
+L 09/05/2023 - 13:06:06: "August101<16><[U:1:241010597]><Blue>" triggered "captureblocked" (cp "5") (cpname "CONSTRUCTION") (position "-2423 -3294 224")
+L 09/05/2023 - 13:06:08: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2389 -3486 224") 
+L 09/05/2023 - 13:06:11: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-838 -2783 672") 
+L 09/05/2023 - 13:06:11: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2329 -3438 224") 
+L 09/05/2023 - 13:06:13: "Octmari<17><[U:1:160946369]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1831 -3156 704")
+L 09/05/2023 - 13:06:13: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "1864 -3189 704") 
+L 09/05/2023 - 13:06:15: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-718 -2786 672") 
+L 09/05/2023 - 13:06:19: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1936 -3209 704") 
+L 09/05/2023 - 13:06:20: Team "Red" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-2268 -3417 224") 
+L 09/05/2023 - 13:06:21: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-739 -2809 672") 
+L 09/05/2023 - 13:06:24: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2352 -3389 224") 
+L 09/05/2023 - 13:06:24: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-544 -825 288") 
+L 09/05/2023 - 13:06:27: Team "Red" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-419 -3987 320") 
+L 09/05/2023 - 13:06:29: "Octmari<17><[U:1:160946369]><Yellow>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "1897 -3334 704") (victim_position "2076 -3133 704")
+L 09/05/2023 - 13:06:30: "Evan068<11><[U:1:371507926]><Red>" killed "quek<6><[U:1:220783085]><Green>" with "scattergun" (attacker_position "-937 -4218 861") (victim_position "-579 -4135 672")
+L 09/05/2023 - 13:06:32: "Evan068<11><[U:1:371507926]><Red>" committed suicide with "world" (attacker_position "-1583 -4401 803")
+L 09/05/2023 - 13:06:32: "quek<6><[U:1:220783085]><Green>" say "ALERT"
+L 09/05/2023 - 13:06:35: Team "Red" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-2336 -3353 224") 
+L 09/05/2023 - 13:06:35: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-532 -806 288") 
+L 09/05/2023 - 13:06:38: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1999 -3182 704") 
+L 09/05/2023 - 13:06:40: "Octmari<17><[U:1:160946369]><Yellow>" say "grgrgrgrgrr i still want old telecon teleports "
+L 09/05/2023 - 13:06:44: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-763 -2842 672") 
+L 09/05/2023 - 13:06:46: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2079 -3251 704")
+L 09/05/2023 - 13:06:46: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "scattergun" (attacker_position "2034 -3116 704") (victim_position "2029 -3319 704")
+L 09/05/2023 - 13:06:47: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "2041 -3157 704") 
+L 09/05/2023 - 13:06:49: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-495 -824 288") 
+L 09/05/2023 - 13:06:58: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-740 -2858 672") 
+L 09/05/2023 - 13:06:59: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-450 -4016 320") 
+L 09/05/2023 - 13:07:01: "Octmari<17><[U:1:160946369]><Yellow>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "-460 -3835 320") (victim_position "-347 -4036 320")
+L 09/05/2023 - 13:07:02: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "2035 -3131 704") 
+L 09/05/2023 - 13:07:04: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-393 -3991 320") 
+L 09/05/2023 - 13:07:05: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1588 -2982 698")
+L 09/05/2023 - 13:07:05: "Mira<21><[U:1:149481681]><Pink>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "1588 -2982 698") (victim_position "1887 -3178 704")
+L 09/05/2023 - 13:07:10: "quek<6><[U:1:220783085]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "-1913 -4278 672") (victim_position "-1758 -4163 741")
+L 09/05/2023 - 13:07:11: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-2331 -3427 224") 
+L 09/05/2023 - 13:07:12: "Evan068<11><[U:1:371507926]><Red>" changed role to "dismatic"
+L 09/05/2023 - 13:07:17: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "292 -3210 672")
+L 09/05/2023 - 13:07:18: Team "Green" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-2346 -3365 224") 
+L 09/05/2023 - 13:07:21: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-753 -2807 672") 
+L 09/05/2023 - 13:07:24: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-704 -3358 672") 
+L 09/05/2023 - 13:07:24: "Octmari<17><[U:1:160946369]><Yellow>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "-684 -3645 672") (victim_position "-683 -3364 672")
+L 09/05/2023 - 13:07:24: "August101<16><[U:1:241010597]><Blue>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Pink>" (assister_position "-539 -4237 672") (attacker_position "-684 -3645 672") (victim_position "-683 -3364 672")
+L 09/05/2023 - 13:07:25: "Octmari<17><[U:1:160946369]><Yellow>" triggered "captureblocked" (cp "3") (cpname "APARTMENTS") (position "-758 -3459 672")
+L 09/05/2023 - 13:07:25: "Octmari<17><[U:1:160946369]><Yellow>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "scattergun" (attacker_position "-758 -3459 672") (victim_position "-835 -3354 672")
+L 09/05/2023 - 13:07:29: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-794 -3457 672") 
+L 09/05/2023 - 13:07:29: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-767 -2907 672") 
+L 09/05/2023 - 13:07:32: "quek<6><[U:1:220783085]><Green>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "-353 -3309 672") (victim_position "-673 -3377 672")
+L 09/05/2023 - 13:07:35: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-618 -3453 710") (victim_position "-340 -3299 672")
+L 09/05/2023 - 13:07:37: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-630 -3378 672")
+L 09/05/2023 - 13:07:39: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-765 -3345 672") 
+L 09/05/2023 - 13:07:42: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-625 -2825 672") 
+L 09/05/2023 - 13:07:49: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-706 -2840 672") 
+L 09/05/2023 - 13:07:52: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2317 -3430 224") 
+L 09/05/2023 - 13:07:57: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-796 -2875 672") 
+L 09/05/2023 - 13:07:58: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1816 -3211 704")
+L 09/05/2023 - 13:07:59: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "tf_projectile_rocket" (attacker_position "2024 -3238 704")
+L 09/05/2023 - 13:07:59: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2024 -3238 704")
+L 09/05/2023 - 13:07:59: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "2024 -3238 704") (victim_position "2048 -3188 704")
+L 09/05/2023 - 13:07:59: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-444 -3986 320") 
+L 09/05/2023 - 13:08:03: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "obj_sentrygun" (attacker_position "-911 -2592 672") (victim_position "-600 -3471 672")
+L 09/05/2023 - 13:08:03: "quek<6><[U:1:220783085]><Green>" triggered "domination" against "August101<16><[U:1:241010597]><Blue>"
+L 09/05/2023 - 13:08:03: "quek<6><[U:1:220783085]><Green>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "-899 -2703 672") (victim_position "-546 -2728 672")
+L 09/05/2023 - 13:08:05: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-714 -2911 672") 
+L 09/05/2023 - 13:08:08: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-797 -3471 672")
+L 09/05/2023 - 13:08:09: "quek<6><[U:1:220783085]><Green>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-1198 -2727 672")
+L 09/05/2023 - 13:08:09: "quek<6><[U:1:220783085]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "-1198 -2727 672") (victim_position "-787 -2814 672")
+L 09/05/2023 - 13:08:11: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-787 -3344 672") 
+L 09/05/2023 - 13:08:13: "Evan068<11><[U:1:371507926]><Red>" changed role to "workernode"
+L 09/05/2023 - 13:08:13: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-243 -3226 672") (victim_position "-45 -3394 672")
+L 09/05/2023 - 13:08:15: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-782 -3403 672")
+L 09/05/2023 - 13:08:16: "Evan068<11><[U:1:371507926]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:08:17: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-797 -3392 672") 
+L 09/05/2023 - 13:08:19: "August101<16><[U:1:241010597]><Blue>" say "I like the height momentum but god dam it's a bit much"
+L 09/05/2023 - 13:08:23: "Mira<21><[U:1:149481681]><Pink>" killed "quek<6><[U:1:220783085]><Green>" with "obj_sentrygun" (attacker_position "1269 -2814 678") (victim_position "1316 -3206 1621")
+L 09/05/2023 - 13:08:28: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-422 -4006 320") 
+L 09/05/2023 - 13:08:29: "Octmari<17><[U:1:160946369]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1927 -2941 1103")
+L 09/05/2023 - 13:08:30: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-720 -2749 672") 
+L 09/05/2023 - 13:08:31: "Octmari<17><[U:1:160946369]><Yellow>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "2036 -3156 704") (victim_position "2110 -3196 704")
+L 09/05/2023 - 13:08:31: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2131 -3164 718")
+L 09/05/2023 - 13:08:31: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "2131 -3164 718") (victim_position "2046 -3150 704")
+L 09/05/2023 - 13:08:35: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2328 -3454 224") 
+L 09/05/2023 - 13:08:38: Team "Red" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-2217 -3504 224") 
+L 09/05/2023 - 13:08:39: World triggered "Round_Win" (winner "Green")
+L 09/05/2023 - 13:08:39: World triggered "Round_Length" (seconds "329.65")
+L 09/05/2023 - 13:08:39: Team "Red" current score "0" with "2" players
+L 09/05/2023 - 13:08:39: Team "Blue" current score "0" with "1" players
+L 09/05/2023 - 13:08:39: Team "Green" current score "1" with "1" players
+L 09/05/2023 - 13:08:39: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 13:08:39: Team "Purple" current score "1" with "1" players
+L 09/05/2023 - 13:08:39: Team "Pink" current score "0" with "1" players
+L 09/05/2023 - 13:08:46: "quek<6><[U:1:220783085]><Green>" say "yeah baybee"
+L 09/05/2023 - 13:08:47: World triggered "Round_Start"
+L 09/05/2023 - 13:08:57: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-561 -829 288") 
+L 09/05/2023 - 13:08:59: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-740 -3407 672") 
+L 09/05/2023 - 13:09:01: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-736 -2653 672") (victim_position "-834 -2940 672")
+L 09/05/2023 - 13:09:02: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "2040 -3137 704") 
+L 09/05/2023 - 13:09:04: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-763 -2848 672") 
+L 09/05/2023 - 13:09:06: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1074 -3015 672")
+L 09/05/2023 - 13:09:09: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-355 -3993 320") 
+L 09/05/2023 - 13:09:09: "quek<6><[U:1:220783085]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "-475 -2756 672") (victim_position "-799 -2605 734")
+L 09/05/2023 - 13:09:09: "quek<6><[U:1:220783085]><Green>" triggered "domination" against "DID YOU SEE<18><[U:1:148422860]><Red>"
+L 09/05/2023 - 13:09:12: Team "Red" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "2076 -3067 704") 
+L 09/05/2023 - 13:09:12: "Mira<21><[U:1:149481681]><Pink>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "1663 -3118 703") (victim_position "2031 -3015 704")
+L 09/05/2023 - 13:09:12: "Mira<21><[U:1:149481681]><Pink>" triggered "domination" against "Evan068<11><[U:1:371507926]><Red>"
+L 09/05/2023 - 13:09:14: "Octmari<17><[U:1:160946369]><Yellow>" say "i like the changes to the jump since it gives it some kinda use but im having the full power of autistic hate-of-change for the"
+L 09/05/2023 - 13:09:15: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-745 -3367 672") 
+L 09/05/2023 - 13:09:16: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1988 -3115 704") 
+L 09/05/2023 - 13:09:16: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2318 -3375 224") 
+L 09/05/2023 - 13:09:17: "Octmari<17><[U:1:160946369]><Yellow>" say "right click"
+L 09/05/2023 - 13:09:18: "Octmari<17><[U:1:160946369]><Yellow>" say "lol"
+L 09/05/2023 - 13:09:24: "quek<6><[U:1:220783085]><Green>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "274 -2952 672")
+L 09/05/2023 - 13:09:25: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "272 -3229 672")
+L 09/05/2023 - 13:09:30: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-498 -856 288") 
+L 09/05/2023 - 13:09:32: "Octmari<17><[U:1:160946369]><Yellow>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "1455 -2899 690") (victim_position "1111 -2705 672")
+L 09/05/2023 - 13:09:33: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-766 -2823 672") 
+L 09/05/2023 - 13:09:37: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "2016 -3186 704") 
+L 09/05/2023 - 13:09:40: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "2") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-514 -798 288") (player2 "DID YOU SEE<18><[U:1:148422860]><Red>") (position2 "-491 -748 288") 
+L 09/05/2023 - 13:09:41: "Octmari<17><[U:1:160946369]><Yellow>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1830 -3267 737")
+L 09/05/2023 - 13:09:41: "Octmari<17><[U:1:160946369]><Yellow>" killed "quek<6><[U:1:220783085]><Green>" with "scattergun" (attacker_position "1830 -3267 737") (victim_position "2007 -3255 704")
+L 09/05/2023 - 13:09:41: "August101<16><[U:1:241010597]><Blue>" triggered "kill assist" against "quek<6><[U:1:220783085]><Green>" (assister_position "2183 -3177 704") (attacker_position "1830 -3267 737") (victim_position "2007 -3255 704")
+L 09/05/2023 - 13:09:41: "August101<16><[U:1:241010597]><Blue>" triggered "revenge" against "quek<6><[U:1:220783085]><Green>" (assist "1")
+L 09/05/2023 - 13:09:42: "Mira<21><[U:1:149481681]><Pink>" changed role to "telecon"
+L 09/05/2023 - 13:09:42: "August101<16><[U:1:241010597]><Blue>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2091 -3250 704")
+L 09/05/2023 - 13:09:45: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "59 -3321 672")
+L 09/05/2023 - 13:09:47: "Octmari<17><[U:1:160946369]><Yellow>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1902 -3114 704")
+L 09/05/2023 - 13:09:47: "Octmari<17><[U:1:160946369]><Yellow>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "1902 -3114 704") (victim_position "2024 -3080 704")
+L 09/05/2023 - 13:09:50: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-674 -2832 672") 
+L 09/05/2023 - 13:09:51: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "scattergun" (attacker_position "2054 -3222 704") (victim_position "1932 -3218 704")
+L 09/05/2023 - 13:09:54: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "2052 -3175 704") 
+L 09/05/2023 - 13:09:55: Team "Red" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-749 -3375 672") 
+L 09/05/2023 - 13:09:59: "Octmari<17><[U:1:160946369]><Yellow>" say "oceanview is in high demand"
+L 09/05/2023 - 13:10:01: Team "Red" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "1946 -2944 707") 
+L 09/05/2023 - 13:10:02: Team "Red" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-2388 -3321 224") 
+L 09/05/2023 - 13:10:02: "ChargingTurnip<4><[U:1:313942863]><Purple>" committed suicide with "world" (attacker_position "1931 -2915 197")
+L 09/05/2023 - 13:10:05: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1997 -3147 704") 
+L 09/05/2023 - 13:10:08: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-965 -2973 672")
+L 09/05/2023 - 13:10:10: "Mira<21><[U:1:149481681]><Pink>" killed "Evan068<11><[U:1:371507926]><Red>" with "scattergun" (attacker_position "1550 -3051 696") (victim_position "2102 -3194 736")
+L 09/05/2023 - 13:10:10: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-676 -2827 672") 
+L 09/05/2023 - 13:10:14: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-740 -3472 672") 
+L 09/05/2023 - 13:10:20: Team "Green" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-496 -758 288") 
+L 09/05/2023 - 13:10:20: "August101<16><[U:1:241010597]><Blue>" triggered "captureblocked" (cp "3") (cpname "APARTMENTS") (position "-681 -3447 672")
+L 09/05/2023 - 13:10:20: "August101<16><[U:1:241010597]><Blue>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "scattergun" (attacker_position "-681 -3447 672") (victim_position "-691 -3352 672")
+L 09/05/2023 - 13:10:26: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "-711 -3344 672") (victim_position "-920 -3506 672")
+L 09/05/2023 - 13:10:28: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-753 -3301 672") 
+L 09/05/2023 - 13:10:32: "quek<6><[U:1:220783085]><Green>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "41 -2946 672")
+L 09/05/2023 - 13:10:32: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "obj_sentrygun" (attacker_position "41 -2946 672") (victim_position "-657 -2851 672")
+L 09/05/2023 - 13:10:32: "quek<6><[U:1:220783085]><Green>" triggered "domination" against "ChargingTurnip<4><[U:1:313942863]><Purple>"
+L 09/05/2023 - 13:10:34: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-488 -828 288") 
+L 09/05/2023 - 13:10:37: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-796 -3438 672") 
+L 09/05/2023 - 13:10:38: "August101<16><[U:1:241010597]><Blue>" say "one thing I love about this gamemode is how your constantly capping a point"
+L 09/05/2023 - 13:10:47: Team "Red" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "1959 -3176 704") 
+L 09/05/2023 - 13:10:52: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-470 -812 288") 
+L 09/05/2023 - 13:10:52: Team "Green" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "2045 -3056 704") 
+L 09/05/2023 - 13:10:54: Team "Red" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-720 -3387 672") 
+L 09/05/2023 - 13:10:57: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "-2839 -2611 608") (victim_position "-2804 -2534 608")
+L 09/05/2023 - 13:10:57: "quek<6><[U:1:220783085]><Green>" killed "Evan068<11><[U:1:371507926]><Red>" with "tf_projectile_rocket" (attacker_position "1945 -3213 704") (victim_position "2022 -2974 842")
+L 09/05/2023 - 13:10:59: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2303 -3375 224") 
+L 09/05/2023 - 13:11:02: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-997 -2826 672")
+L 09/05/2023 - 13:11:05: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-787 -2743 672") 
+L 09/05/2023 - 13:11:11: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "2048 -3102 704") 
+L 09/05/2023 - 13:11:13: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-722 -2869 672") 
+L 09/05/2023 - 13:11:13: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-499 -855 288") 
+L 09/05/2023 - 13:11:15: Team "Red" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-2303 -3435 224") 
+L 09/05/2023 - 13:11:17: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-779 -3346 672") 
+L 09/05/2023 - 13:11:23: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-554 -3251 672")
+L 09/05/2023 - 13:11:25: "Octmari<17><[U:1:160946369]><Yellow>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "scattergun" (attacker_position "757 -4260 672") (victim_position "920 -4020 672")
+L 09/05/2023 - 13:11:25: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-740 -3391 672") 
+L 09/05/2023 - 13:11:27: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-478 -759 288") 
+L 09/05/2023 - 13:11:28: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "1916 -3172 704") (victim_position "1920 -3101 704")
+L 09/05/2023 - 13:11:28: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-783 -2808 672") 
+L 09/05/2023 - 13:11:30: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "2039 -3117 704") 
+L 09/05/2023 - 13:11:31: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-370 -3323 672")
+L 09/05/2023 - 13:11:32: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "captureblocked" (cp "3") (cpname "APARTMENTS") (position "-619 -3403 672")
+L 09/05/2023 - 13:11:36: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-719 -3417 672") 
+L 09/05/2023 - 13:11:37: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2099 -3251 704")
+L 09/05/2023 - 13:11:39: Team "Green" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "2016 -3145 704") 
+L 09/05/2023 - 13:11:40: "DID YOU SEE<18><[U:1:148422860]><Red>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "bat" (attacker_position "-766 -3388 672") (victim_position "-717 -3380 672")
+L 09/05/2023 - 13:11:40: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "world" (attacker_position "2296 -3465 -187")
+L 09/05/2023 - 13:11:41: Team "Red" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-760 -3367 672") 
+L 09/05/2023 - 13:11:53: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-777 -2830 672") 
+L 09/05/2023 - 13:11:56: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "3") (cpname "APARTMENTS") (position "-617 -3331 672")
+L 09/05/2023 - 13:11:59: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2302 -3443 224") 
+L 09/05/2023 - 13:11:59: Team "Red" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "2") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "1961 -3059 704") (player2 "DID YOU SEE<18><[U:1:148422860]><Red>") (position2 "1998 -3144 704") 
+L 09/05/2023 - 13:12:03: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-815 -3383 672") 
+L 09/05/2023 - 13:12:04: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "quek<6><[U:1:220783085]><Green>" with "scattergun" (attacker_position "-782 -3456 672") (victim_position "-530 -3183 672")
+L 09/05/2023 - 13:12:04: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "revenge" against "quek<6><[U:1:220783085]><Green>"
+L 09/05/2023 - 13:12:05: "DID YOU SEE<18><[U:1:148422860]><Red>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "1674 -3695 352") (victim_position "1942 -4184 352")
+L 09/05/2023 - 13:12:05: "Evan068<11><[U:1:371507926]><Red>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Pink>" (assister_position "2137 -3764 474") (attacker_position "1674 -3695 352") (victim_position "1942 -4184 352")
+L 09/05/2023 - 13:12:05: "Evan068<11><[U:1:371507926]><Red>" triggered "revenge" against "Mira<21><[U:1:149481681]><Pink>" (assist "1")
+L 09/05/2023 - 13:12:05: "Octmari<17><[U:1:160946369]><Yellow>" say "im gonna toy around with the particle editor soon"
+L 09/05/2023 - 13:12:11: "Octmari<17><[U:1:160946369]><Yellow>" say "and look at some info on it"
+L 09/05/2023 - 13:12:13: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-509 -830 288") 
+L 09/05/2023 - 13:12:14: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2307 -3429 224") 
+L 09/05/2023 - 13:12:17: Team "Red" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-778 -3406 672") 
+L 09/05/2023 - 13:12:19: "Octmari<17><[U:1:160946369]><Yellow>" say "i hear its shitty and annoying but someones gotta do it"
+L 09/05/2023 - 13:12:21: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-491 -760 288") 
+L 09/05/2023 - 13:12:24: Team "Red" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-2302 -3426 224") 
+L 09/05/2023 - 13:12:24: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-382 -3981 320") 
+L 09/05/2023 - 13:12:26: "Octmari<17><[U:1:160946369]><Yellow>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2033 -3144 724")
+L 09/05/2023 - 13:12:26: "Octmari<17><[U:1:160946369]><Yellow>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "2018 -3153 704") (victim_position "1997 -3360 701")
+L 09/05/2023 - 13:12:29: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2006 -3311 704")
+L 09/05/2023 - 13:12:29: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "scattergun" (attacker_position "2006 -3311 704") (victim_position "1877 -3069 704")
+L 09/05/2023 - 13:12:30: Team "Red" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-441 -3955 320") 
+L 09/05/2023 - 13:12:36: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1976 -3137 704") 
+L 09/05/2023 - 13:12:36: "quek<6><[U:1:220783085]><Green>" say "whats even wrong with it"
+L 09/05/2023 - 13:12:41: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-794 -3402 672") 
+L 09/05/2023 - 13:12:41: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-778 -2850 672") 
+L 09/05/2023 - 13:12:41: Team "Red" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "2041 -3168 704") 
+L 09/05/2023 - 13:12:45: "August101<16><[U:1:241010597]><Blue>" say "it's fundmentally broken"
+L 09/05/2023 - 13:12:45: "quek<6><[U:1:220783085]><Green>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-179 -2945 688")
+L 09/05/2023 - 13:12:45: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-179 -2945 688") (victim_position "-700 -2768 709")
+L 09/05/2023 - 13:12:47: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-504 -3222 672")
+L 09/05/2023 - 13:12:50: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-821 -3399 672") 
+L 09/05/2023 - 13:12:53: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-429 -4005 320") 
+L 09/05/2023 - 13:12:58: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2353 -3411 224") 
+L 09/05/2023 - 13:13:01: "quek<6><[U:1:220783085]><Green>" killed "DID YOU SEE<18><[U:1:148422860]><Red>" with "tf_projectile_rocket" (attacker_position "1676 -3124 704") (victim_position "2167 -3087 704")
+L 09/05/2023 - 13:13:02: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "world" (attacker_position "2296 -3154 -171")
+L 09/05/2023 - 13:13:04: "Evan068<11><[U:1:371507926]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-358 -3369 672")
+L 09/05/2023 - 13:13:04: Team "Green" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "2027 -3089 704") 
+L 09/05/2023 - 13:13:07: "Dodger Fujisaki<26><[U:1:112494286]><>" connected, address "66.51.113.228:27005"
+L 09/05/2023 - 13:13:09: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-714 -2846 672") 
+L 09/05/2023 - 13:13:09: "Dodger Fujisaki<26><[U:1:112494286]><>" STEAM USERID validated
+L 09/05/2023 - 13:13:13: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-569 -783 288") 
+L 09/05/2023 - 13:13:17: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-731 -2873 672") 
+L 09/05/2023 - 13:13:19: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-539 -815 288") 
+L 09/05/2023 - 13:13:22: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-1072 -2746 672") (victim_position "-657 -2793 672")
+L 09/05/2023 - 13:13:25: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "DID YOU SEE<18><[U:1:148422860]><Red>") (position1 "-515 -818 288") 
+L 09/05/2023 - 13:13:30: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1972 -3128 704")
+L 09/05/2023 - 13:13:32: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1972 -3128 704")
+L 09/05/2023 - 13:13:32: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "1972 -3128 704") (victim_position "1936 -3117 704")
+L 09/05/2023 - 13:13:33: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1022 -2949 672")
+L 09/05/2023 - 13:13:33: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-760 -2624 900")
+L 09/05/2023 - 13:13:35: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1980 -3113 704") 
+L 09/05/2023 - 13:13:35: "Evan068<11><[U:1:371507926]><Red>" killed "quek<6><[U:1:220783085]><Green>" with "scattergun" (attacker_position "-1030 -2832 672") (victim_position "-619 -2992 672")
+L 09/05/2023 - 13:13:35: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "kill assist" against "quek<6><[U:1:220783085]><Green>" (assister_position "-803 -2649 713") (attacker_position "-1030 -2832 672") (victim_position "-619 -2992 672")
+L 09/05/2023 - 13:13:35: "DID YOU SEE<18><[U:1:148422860]><Red>" triggered "revenge" against "quek<6><[U:1:220783085]><Green>" (assist "1")
+L 09/05/2023 - 13:13:37: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Evan068<11><[U:1:371507926]><Red>") (position1 "-830 -2851 672") 
+L 09/05/2023 - 13:13:43: "DID YOU SEE<18><[U:1:148422860]><Red>" committed suicide with "world" (attacker_position "-2379 -3308 232")
+L 09/05/2023 - 13:13:45: "Mira<21><[U:1:149481681]><Pink>" changed role to "sentronic"
+L 09/05/2023 - 13:13:46: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-788 -3382 672") 
+L 09/05/2023 - 13:13:49: "Dodger Fujisaki<26><[U:1:112494286]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 13:13:51: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-747 -2833 672") 
+L 09/05/2023 - 13:13:52: "Dodger Fujisaki<27><[U:1:112494286]><>" connected, address "66.51.113.228:27005"
+L 09/05/2023 - 13:13:53: World triggered "Round_Win" (winner "Red")
+L 09/05/2023 - 13:13:53: World triggered "Round_Length" (seconds "305.55")
+L 09/05/2023 - 13:13:53: Team "Red" current score "1" with "2" players
+L 09/05/2023 - 13:13:53: Team "Blue" current score "0" with "1" players
+L 09/05/2023 - 13:13:53: Team "Green" current score "1" with "1" players
+L 09/05/2023 - 13:13:53: Team "Yellow" current score "0" with "1" players
+L 09/05/2023 - 13:13:53: Team "Purple" current score "1" with "1" players
+L 09/05/2023 - 13:13:53: Team "Pink" current score "0" with "1" players
+L 09/05/2023 - 13:13:54: "Dodger Fujisaki<27><[U:1:112494286]><>" STEAM USERID validated
+L 09/05/2023 - 13:13:58: "DID YOU SEE<18><[U:1:148422860]><Red>" say "gtg"
+L 09/05/2023 - 13:14:00: "DID YOU SEE<18><[U:1:148422860]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:14:01: "Dodger Fujisaki<27><[U:1:112494286]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 13:14:01: World triggered "Round_Start"
+L 09/05/2023 - 13:14:06: "Evan068<11><[U:1:371507926]><Red>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:14:15: "quek<6><[U:1:220783085]><Green>" say "i like how bloated your score gets bc of captures"
+L 09/05/2023 - 13:14:16: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1991 -3146 704") 
+L 09/05/2023 - 13:14:17: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1026 -2925 672")
+L 09/05/2023 - 13:14:18: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2215 -3363 224") 
+L 09/05/2023 - 13:14:19: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1873 -3117 704")
+L 09/05/2023 - 13:14:20: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-737 -2773 672") 
+L 09/05/2023 - 13:14:27: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "1940 -2910 418") (victim_position "1952 -2919 192")
+L 09/05/2023 - 13:14:28: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-837 -3302 672") (victim_position "-502 -3286 672")
+L 09/05/2023 - 13:14:29: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-708 -3440 672") 
+L 09/05/2023 - 13:14:31: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-599 -828 288") 
+L 09/05/2023 - 13:14:41: Team "Green" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-2333 -3354 224") 
+L 09/05/2023 - 13:14:43: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Blue>" with "obj_sentrygun" (attacker_position "1694 -3139 704") (victim_position "2096 -3186 918")
+L 09/05/2023 - 13:14:47: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1928 -3105 704")
+L 09/05/2023 - 13:14:48: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1878 -3120 704")
+L 09/05/2023 - 13:14:50: Team "Green" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-471 -3986 320") 
+L 09/05/2023 - 13:14:54: "Octmari<17><[U:1:160946369]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1924 -3139 704")
+L 09/05/2023 - 13:14:54: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "2011 -3105 704") 
+L 09/05/2023 - 13:14:56: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "obj_sentrygun" (attacker_position "752 -4339 672") (victim_position "-705 -2937 672")
+L 09/05/2023 - 13:15:04: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "2104 -3093 741") (victim_position "2017 -3141 771")
+L 09/05/2023 - 13:15:04: "quek<6><[U:1:220783085]><Green>" triggered "kill assist" against "Octmari<17><[U:1:160946369]><Yellow>" (assister_position "1097 -4514 672") (attacker_position "2104 -3093 741") (victim_position "2017 -3141 771")
+L 09/05/2023 - 13:15:06: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "world" (attacker_position "2296 -3138 -151")
+L 09/05/2023 - 13:15:08: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-749 -3382 672") 
+L 09/05/2023 - 13:15:09: Team "Green" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "2034 -3104 704") 
+L 09/05/2023 - 13:15:16: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-411 -4019 320") 
+L 09/05/2023 - 13:15:21: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-739 -3425 672") 
+L 09/05/2023 - 13:15:22: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2283 -3431 224") 
+L 09/05/2023 - 13:15:25: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-616 -2778 672")
+L 09/05/2023 - 13:15:25: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-619 -2754 672") 
+L 09/05/2023 - 13:15:26: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-532 -2930 672") (victim_position "-789 -2847 672")
+L 09/05/2023 - 13:15:26: "quek<6><[U:1:220783085]><Green>" triggered "domination" against "ChargingTurnip<4><[U:1:313942863]><Purple>"
+L 09/05/2023 - 13:15:29: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-683 -2904 672") 
+L 09/05/2023 - 13:15:30: "quek<6><[U:1:220783085]><Green>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-677 -2891 672") (victim_position "-1119 -2593 672")
+L 09/05/2023 - 13:15:36: "Octmari<17><[U:1:160946369]><Yellow>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "2001 -3374 733") (victim_position "2132 -3010 704")
+L 09/05/2023 - 13:15:40: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "2000 -3149 704") 
+L 09/05/2023 - 13:15:42: "Dodger Fujisaki<28><[U:1:112494286]><>" connected, address "66.51.113.228:27005"
+L 09/05/2023 - 13:15:44: "Dodger Fujisaki<28><[U:1:112494286]><>" STEAM USERID validated
+L 09/05/2023 - 13:15:49: "Octmari<17><[U:1:160946369]><Yellow>" killed "quek<6><[U:1:220783085]><Green>" with "scattergun" (attacker_position "728 -4524 672") (victim_position "752 -4273 672")
+L 09/05/2023 - 13:15:53: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-747 -3432 672") 
+L 09/05/2023 - 13:15:55: "Dodger Fujisaki<28><[U:1:112494286]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 13:15:57: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "scattergun" (attacker_position "-682 -2825 672") (victim_position "-828 -2729 672")
+L 09/05/2023 - 13:15:57: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-688 -3421 672") 
+L 09/05/2023 - 13:16:00: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-738 -2824 672") 
+L 09/05/2023 - 13:16:05: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-753 -3388 672") 
+L 09/05/2023 - 13:16:05: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1974 -3066 704")
+L 09/05/2023 - 13:16:07: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "2001 -3141 704") 
+L 09/05/2023 - 13:16:12: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-735 -2805 672") 
+L 09/05/2023 - 13:16:13: "Octmari<17><[U:1:160946369]><Yellow>" say "ok, well, that was a cool thing i just pulled off thanks to the new teleport"
+L 09/05/2023 - 13:16:16: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1990 -2930 704")
+L 09/05/2023 - 13:16:16: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "1988 -3159 704") (victim_position "1992 -2924 704")
+L 09/05/2023 - 13:16:16: "Mira<21><[U:1:149481681]><Pink>" triggered "domination" against "August101<16><[U:1:241010597]><Blue>"
+L 09/05/2023 - 13:16:18: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-756 -3377 672") 
+L 09/05/2023 - 13:16:26: "quek<6><[U:1:220783085]><Green>" killed "Mira<21><[U:1:149481681]><Pink>" with "tf_projectile_rocket" (attacker_position "1581 -3003 698") (victim_position "2125 -3204 704")
+L 09/05/2023 - 13:16:26: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "1970 -3128 704") 
+L 09/05/2023 - 13:16:28: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-752 -2847 672") 
+L 09/05/2023 - 13:16:31: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "1882 -3062 704")
+L 09/05/2023 - 13:16:32: Team "Green" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "2019 -3254 704") 
+L 09/05/2023 - 13:16:33: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-747 -3358 672") 
+L 09/05/2023 - 13:16:33: "quek<6><[U:1:220783085]><Green>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2109 -3135 704")
+L 09/05/2023 - 13:16:33: "quek<6><[U:1:220783085]><Green>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "2109 -3135 704") (victim_position "1948 -3188 704")
+L 09/05/2023 - 13:16:40: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2289 -3380 224") 
+L 09/05/2023 - 13:16:43: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-747 -3408 672") 
+L 09/05/2023 - 13:16:49: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-390 -4058 320") 
+L 09/05/2023 - 13:16:49: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-733 -2881 672") 
+L 09/05/2023 - 13:16:52: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-504 -3967 320") 
+L 09/05/2023 - 13:16:55: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "2077 -3165 704")
+L 09/05/2023 - 13:16:56: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1996 -3154 704") 
+L 09/05/2023 - 13:17:00: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-523 -3952 320") 
+L 09/05/2023 - 13:17:00: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-775 -3300 672") 
+L 09/05/2023 - 13:17:03: "August101<16><[U:1:241010597]><Blue>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "scattergun" (attacker_position "-451 -4263 320") (victim_position "-373 -4180 320")
+L 09/05/2023 - 13:17:04: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "1969 -3131 704") 
+L 09/05/2023 - 13:17:05: "Tofawil<29><[U:1:449097787]><>" connected, address "37.248.177.224:6874"
+L 09/05/2023 - 13:17:06: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-395 -3946 320") 
+L 09/05/2023 - 13:17:06: "Tofawil<29><[U:1:449097787]><>" STEAM USERID validated
+L 09/05/2023 - 13:17:07: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "1813 -3238 704") (victim_position "1611 -2951 700")
+L 09/05/2023 - 13:17:09: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1958 -3136 704") 
+L 09/05/2023 - 13:17:11: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2278 -3416 224") 
+L 09/05/2023 - 13:17:18: Team "Green" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-365 -4104 320") 
+L 09/05/2023 - 13:17:19: "Tofawil<29><[U:1:449097787]><>" entered the game
+L 09/05/2023 - 13:17:22: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-747 -2870 672") 
+L 09/05/2023 - 13:17:23: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-388 -2858 672") (victim_position "-730 -2867 672")
+L 09/05/2023 - 13:17:25: "Tofawil<29><[U:1:449097787]><Unassigned>" joined team "Red"
+L 09/05/2023 - 13:17:26: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-687 -2746 672") 
+L 09/05/2023 - 13:17:27: "Tofawil<29><[U:1:449097787]><Red>" changed role to "sentronic"
+L 09/05/2023 - 13:17:36: "Dodger Fujisaki<30><[U:1:112494286]><>" connected, address "66.51.113.228:27005"
+L 09/05/2023 - 13:17:37: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-786 -2734 672") 
+L 09/05/2023 - 13:17:37: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-677 -3420 672") 
+L 09/05/2023 - 13:17:37: "Dodger Fujisaki<30><[U:1:112494286]><>" STEAM USERID validated
+L 09/05/2023 - 13:17:41: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-753 -2738 672") 
+L 09/05/2023 - 13:17:45: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-714 -2769 672")
+L 09/05/2023 - 13:17:46: "Octmari<17><[U:1:160946369]><Yellow>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "scattergun" (attacker_position "-294 -2110 224") (victim_position "-359 -2250 650")
+L 09/05/2023 - 13:17:47: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-719 -2866 672") 
+L 09/05/2023 - 13:17:48: "Dodger Fujisaki<30><[U:1:112494286]><>" disconnected (reason "Server uses different class tables")
+L 09/05/2023 - 13:17:50: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-770 -3403 672") 
+L 09/05/2023 - 13:17:52: "Octmari<17><[U:1:160946369]><Yellow>" killed "quek<6><[U:1:220783085]><Green>" with "scattergun" (attacker_position "-323 -3257 672") (victim_position "-501 -3274 672")
+L 09/05/2023 - 13:17:55: "Octmari<17><[U:1:160946369]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-759 -2814 672")
+L 09/05/2023 - 13:17:57: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-700 -2799 672") 
+L 09/05/2023 - 13:17:59: "Frost Byte<31><[U:1:126775298]><>" connected, address "173.92.191.133:27005"
+L 09/05/2023 - 13:17:59: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-398 -4010 320") 
+L 09/05/2023 - 13:18:00: "Frost Byte<31><[U:1:126775298]><>" STEAM USERID validated
+L 09/05/2023 - 13:18:02: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-732 -3414 672") 
+L 09/05/2023 - 13:18:03: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-657 -2808 672") 
+L 09/05/2023 - 13:18:04: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "-410 -2785 672") (victim_position "-409 -2850 672")
+L 09/05/2023 - 13:18:06: "Frost Byte<31><[U:1:126775298]><>" entered the game
+L 09/05/2023 - 13:18:07: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-523 -763 288") 
+L 09/05/2023 - 13:18:10: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "2016 -3069 704") 
+L 09/05/2023 - 13:18:14: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-701 -2650 672")
+L 09/05/2023 - 13:18:14: "Mira<21><[U:1:149481681]><Pink>" killed "Tofawil<29><[U:1:449097787]><Red>" with "tf_projectile_rocket" (attacker_position "-701 -2650 672") (victim_position "-780 -2800 752")
+L 09/05/2023 - 13:18:18: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-655 -2917 710") (victim_position "-907 -2854 672")
+L 09/05/2023 - 13:18:18: "Frost Byte<31><[U:1:126775298]><Unassigned>" joined team "Yellow"
+L 09/05/2023 - 13:18:19: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-730 -2865 672") 
+L 09/05/2023 - 13:18:20: "Frost Byte<31><[U:1:126775298]><Yellow>" changed role to "telecon"
+L 09/05/2023 - 13:18:20: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-447 -873 288") 
+L 09/05/2023 - 13:18:20: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 13:18:20: World triggered "Round_Length" (seconds "259.32")
+L 09/05/2023 - 13:18:20: Team "Red" current score "1" with "1" players
+L 09/05/2023 - 13:18:20: Team "Blue" current score "1" with "1" players
+L 09/05/2023 - 13:18:20: Team "Green" current score "1" with "1" players
+L 09/05/2023 - 13:18:20: Team "Yellow" current score "0" with "2" players
+L 09/05/2023 - 13:18:20: Team "Purple" current score "1" with "1" players
+L 09/05/2023 - 13:18:20: Team "Pink" current score "0" with "1" players
+L 09/05/2023 - 13:18:25: "Octmari<17><[U:1:160946369]><Yellow>" say "omg frost chose my team.."
+L 09/05/2023 - 13:18:27: "Octmari<17><[U:1:160946369]><Yellow>" say "hi frost..."
+L 09/05/2023 - 13:18:28: "Frost Byte<31><[U:1:126775298]><Yellow>" committed suicide with "world" (attacker_position "2335 -3206 -137")
+L 09/05/2023 - 13:18:28: World triggered "Round_Start"
+L 09/05/2023 - 13:18:32: "Frost Byte<31><[U:1:126775298]><Yellow>" say "oh hi"
+L 09/05/2023 - 13:18:35: "Tofawil<29><[U:1:449097787]><Red>" changed role to "telecon"
+L 09/05/2023 - 13:18:39: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-765 -3387 672") 
+L 09/05/2023 - 13:18:39: "ChargingTurnip<4><[U:1:313942863]><Purple>" say "how many rounds are we playing"
+L 09/05/2023 - 13:18:41: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1885 -3222 704")
+L 09/05/2023 - 13:18:41: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "1885 -3222 704") (victim_position "2016 -3103 719")
+L 09/05/2023 - 13:18:44: "quek<6><[U:1:220783085]><Green>" say "numerous"
+L 09/05/2023 - 13:18:45: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-500 -820 288") 
+L 09/05/2023 - 13:18:46: "quek<6><[U:1:220783085]><Green>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-1019 -2940 672")
+L 09/05/2023 - 13:18:47: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1966 -3174 704") 
+L 09/05/2023 - 13:18:47: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "tf_projectile_rocket" (attacker_position "1966 -3174 704")
+L 09/05/2023 - 13:18:47: "Mira<21><[U:1:149481681]><Pink>" killed "Frost Byte<31><[U:1:126775298]><Yellow>" with "tf_projectile_rocket" (attacker_position "1966 -3174 704") (victim_position "2128 -3241 741")
+L 09/05/2023 - 13:18:47: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-454 -4045 320") 
+L 09/05/2023 - 13:18:49: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-754 -2774 672") 
+L 09/05/2023 - 13:18:51: "Octmari<17><[U:1:160946369]><Yellow>" say "i can changelevel turnip"
+L 09/05/2023 - 13:18:52: Team "Purple" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-519 -832 288") 
+L 09/05/2023 - 13:18:53: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2286 -3405 224") 
+L 09/05/2023 - 13:18:54: Team "Green" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "quek<6><[U:1:220783085]><Green>") (position1 "-772 -3394 672") 
+L 09/05/2023 - 13:18:57: "Tofawil<29><[U:1:449097787]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "quek<6><[U:1:220783085]><Green>") (attacker_position "-1009 -2752 672")
+L 09/05/2023 - 13:19:02: "quek<6><[U:1:220783085]><Green>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "-309 -2773 695") (victim_position "-728 -2659 672")
+L 09/05/2023 - 13:19:03: "Frost Byte<31><[U:1:126775298]><Yellow>" say "this is looking nice"
+L 09/05/2023 - 13:19:07: "Octmari<17><[U:1:160946369]><Yellow>" say "the server got a bit fuckie wuckied last night so i think the max rounds reset"
+L 09/05/2023 - 13:19:14: "quek<6><[U:1:220783085]><Green>" killed "Tofawil<29><[U:1:449097787]><Red>" with "bat" (attacker_position "-760 -2584 672") (victim_position "-779 -2528 672")
+L 09/05/2023 - 13:19:15: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "1374 -2919 685") (victim_position "1429 -2956 688")
+L 09/05/2023 - 13:19:15: "Mira<21><[U:1:149481681]><Pink>" triggered "domination" against "Octmari<17><[U:1:160946369]><Yellow>"
+L 09/05/2023 - 13:19:15: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "tf_projectile_rocket" (attacker_position "1374 -2919 685")
+L 09/05/2023 - 13:19:16: "August101<16><[U:1:241010597]><Blue>" killed "quek<6><[U:1:220783085]><Green>" with "scattergun" (attacker_position "-968 -2867 672") (victim_position "-758 -2842 672")
+L 09/05/2023 - 13:19:20: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-756 -2709 672") 
+L 09/05/2023 - 13:19:26: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Frost Byte<31><[U:1:126775298]><Yellow>") (position1 "-730 -2874 672") 
+L 09/05/2023 - 13:19:29: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Frost Byte<31><[U:1:126775298]><Yellow>" with "scattergun" (attacker_position "-1080 -2787 672") (victim_position "-1327 -2818 672")
+L 09/05/2023 - 13:19:30: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-581 -849 288") 
+L 09/05/2023 - 13:19:32: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-701 -2819 672") 
+L 09/05/2023 - 13:19:37: "Tofawil<29><[U:1:449097787]><Red>" triggered "builtobject" (object "OBJ_TELEPORTER_ENTRANCE") (position "-1578 -776 224")
+L 09/05/2023 - 13:19:37: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-742 -3383 672") 
+L 09/05/2023 - 13:19:42: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "2068 -3261 704") (victim_position "1845 -3096 754")
+L 09/05/2023 - 13:19:44: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2298 -3378 224") 
+L 09/05/2023 - 13:19:44: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-570 -777 288") 
+L 09/05/2023 - 13:19:45: Team "Blue" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-740 -2834 672") 
+L 09/05/2023 - 13:19:51: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-402 -4027 320") 
+L 09/05/2023 - 13:19:51: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-748 -3396 672") 
+L 09/05/2023 - 13:19:56: "Tofawil<29><[U:1:449097787]><Red>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1864 -3044 819")
+L 09/05/2023 - 13:19:57: "Dodger Fujisaki<32><[U:1:112494286]><>" connected, address "66.51.113.228:27005"
+L 09/05/2023 - 13:19:57: "Mira<21><[U:1:149481681]><Pink>" killed "Tofawil<29><[U:1:449097787]><Red>" with "tf_projectile_rocket" (attacker_position "1995 -3270 704") (victim_position "2153 -3071 704")
+L 09/05/2023 - 13:19:58: "Dodger Fujisaki<32><[U:1:112494286]><>" STEAM USERID validated
+L 09/05/2023 - 13:20:01: "Mira<21><[U:1:149481681]><Pink>" killed "Frost Byte<31><[U:1:126775298]><Yellow>" with "tf_projectile_rocket" (attacker_position "2358 -3207 704") (victim_position "2310 -3188 704")
+L 09/05/2023 - 13:20:04: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-427 -4039 320") 
+L 09/05/2023 - 13:20:07: "Octmari<17><[U:1:160946369]><Yellow>" triggered "captureblocked" (cp "0") (cpname "SHRINE") (position "-395 -822 325")
+L 09/05/2023 - 13:20:07: "Octmari<17><[U:1:160946369]><Yellow>" triggered "captureblocked" (cp "0") (cpname "SHRINE") (position "-545 -765 288")
+L 09/05/2023 - 13:20:07: "Octmari<17><[U:1:160946369]><Yellow>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "scattergun" (attacker_position "-545 -765 288") (victim_position "-428 -874 288")
+L 09/05/2023 - 13:20:09: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2292 -3417 224") 
+L 09/05/2023 - 13:20:11: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-574 -854 288") 
+L 09/05/2023 - 13:20:16: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-652 -2833 672") 
+L 09/05/2023 - 13:20:23: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "2000 -3117 704") 
+L 09/05/2023 - 13:20:24: "quek<6><[U:1:220783085]><Green>" say "im gonna head out cuz doctor appointment soon and I NEED TO PLAY STARFIELD"
+L 09/05/2023 - 13:20:24: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-623 -733 288") 
+L 09/05/2023 - 13:20:25: "Octmari<17><[U:1:160946369]><Yellow>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "1584 -2971 698") (victim_position "1491 -2939 692")
+L 09/05/2023 - 13:20:25: "Octmari<17><[U:1:160946369]><Yellow>" triggered "revenge" against "Mira<21><[U:1:149481681]><Pink>"
+L 09/05/2023 - 13:20:28: "Tofawil<29><[U:1:449097787]><Red>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "-853 -797 288") (victim_position "-118 -748 289")
+L 09/05/2023 - 13:20:28: "Dodger Fujisaki<32><[U:1:112494286]><>" entered the game
+L 09/05/2023 - 13:20:31: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-472 -828 288") 
+L 09/05/2023 - 13:20:33: "quek<6><[U:1:220783085]><Green>" say "byebye"
+L 09/05/2023 - 13:20:34: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-772 -2843 672") 
+L 09/05/2023 - 13:20:36: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-416 -817 288") 
+L 09/05/2023 - 13:20:36: "quek<6><[U:1:220783085]><Green>" disconnected (reason "Disconnect by user.")
+L 09/05/2023 - 13:20:37: "Dodger Fujisaki<32><[U:1:112494286]><Unassigned>" joined team "Green"
+L 09/05/2023 - 13:20:37: "Tofawil<29><[U:1:449097787]><Red>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "scattergun" (attacker_position "-471 -1288 224") (victim_position "-522 -965 288")
+L 09/05/2023 - 13:20:41: "Dodger Fujisaki<32><[U:1:112494286]><Green>" changed role to "telecon"
+L 09/05/2023 - 13:20:41: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-512 -802 288") 
+L 09/05/2023 - 13:20:45: "Octmari<17><[U:1:160946369]><Yellow>" say "quek ragequit?!?!"
+L 09/05/2023 - 13:20:46: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "1985 -3114 704") 
+L 09/05/2023 - 13:20:49: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-688 -2823 672") 
+L 09/05/2023 - 13:20:49: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Frost Byte<31><[U:1:126775298]><Yellow>") (position1 "-771 -3456 672") 
+L 09/05/2023 - 13:20:53: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "2005 -3115 704") 
+L 09/05/2023 - 13:20:57: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-737 -3388 672") 
+L 09/05/2023 - 13:21:00: "August101<16><[U:1:241010597]><Blue>" killed "Frost Byte<31><[U:1:126775298]><Yellow>" with "scattergun" (attacker_position "-380 -4119 672") (victim_position "-725 -4206 672")
+L 09/05/2023 - 13:21:00: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "818 -2631 672")
+L 09/05/2023 - 13:21:00: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-745 -3433 672") 
+L 09/05/2023 - 13:21:03: "Dodger Fujisaki<32><[U:1:112494286]><Green>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-697 -2864 672")
+L 09/05/2023 - 13:21:04: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-761 -3307 672") 
+L 09/05/2023 - 13:21:05: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-562 -856 288") 
+L 09/05/2023 - 13:21:05: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-793 -2697 672") 
+L 09/05/2023 - 13:21:05: "Mira<21><[U:1:149481681]><Pink>" killed "August101<16><[U:1:241010597]><Blue>" with "tf_projectile_rocket" (attacker_position "-246 -3356 672") (victim_position "-706 -3306 672")
+L 09/05/2023 - 13:21:09: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-741 -3393 672") 
+L 09/05/2023 - 13:21:09: "Dodger Fujisaki<32><[U:1:112494286]><Green>" killed "Tofawil<29><[U:1:449097787]><Red>" with "bat" (attacker_position "-983 -3047 672") (victim_position "-1031 -3045 672")
+L 09/05/2023 - 13:21:09: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-429 -4007 320") 
+L 09/05/2023 - 13:21:11: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-762 -2794 672") 
+L 09/05/2023 - 13:21:12: "Mira<21><[U:1:149481681]><Pink>" killed "Dodger Fujisaki<32><[U:1:112494286]><Green>" with "tf_projectile_rocket" (attacker_position "-410 -2741 672") (victim_position "-762 -2794 672")
+L 09/05/2023 - 13:21:14: "August101<16><[U:1:241010597]><Blue>" say "I can now see what you mean by blue sided"
+L 09/05/2023 - 13:21:15: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-690 -2792 672") 
+L 09/05/2023 - 13:21:16: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-2281 -3408 224") 
+L 09/05/2023 - 13:21:18: "Octmari<17><[U:1:160946369]><Yellow>" say "yea"
+L 09/05/2023 - 13:21:22: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-752 -3441 672") 
+L 09/05/2023 - 13:21:23: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "-818 -3296 672") (victim_position "-406 -3534 672")
+L 09/05/2023 - 13:21:29: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-749 -3374 672") 
+L 09/05/2023 - 13:21:29: "Octmari<17><[U:1:160946369]><Yellow>" say "and down those stairs next to your spawn? another point"
+L 09/05/2023 - 13:21:31: "Tofawil<29><[U:1:449097787]><Red>" changed role to "dismatic"
+L 09/05/2023 - 13:21:32: "Octmari<17><[U:1:160946369]><Yellow>" say "free for the taking"
+L 09/05/2023 - 13:21:33: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2308 -3414 224") 
+L 09/05/2023 - 13:21:36: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-717 -2807 672") 
+L 09/05/2023 - 13:21:39: "Tofawil<29><[U:1:449097787]><Red>" changed role to "sentronic"
+L 09/05/2023 - 13:21:40: "Frost Byte<31><[U:1:126775298]><Yellow>" triggered "captureblocked" (cp "4") (cpname "SHOP") (position "-93 -4136 388")
+L 09/05/2023 - 13:21:40: "Frost Byte<31><[U:1:126775298]><Yellow>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "-93 -4136 388") (victim_position "-493 -3990 320")
+L 09/05/2023 - 13:21:43: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-712 -2819 672") 
+L 09/05/2023 - 13:21:43: Team "Green" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-526 -879 288") 
+L 09/05/2023 - 13:21:44: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "Frost Byte<31><[U:1:126775298]><Yellow>") (position1 "-385 -3967 320") 
+L 09/05/2023 - 13:21:47: "Tofawil<29><[U:1:449097787]><Red>" killed "Dodger Fujisaki<32><[U:1:112494286]><Green>" with "tf_projectile_rocket" (attacker_position "-949 -1019 270") (victim_position "-1031 -833 288")
+L 09/05/2023 - 13:21:48: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-757 -2795 672") 
+L 09/05/2023 - 13:21:51: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "2") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-2212 -3527 224") (player2 "Frost Byte<31><[U:1:126775298]><Yellow>") (position2 "-2308 -3426 224") 
+L 09/05/2023 - 13:21:52: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-475 -830 288") 
+L 09/05/2023 - 13:21:53: "Mira<21><[U:1:149481681]><Pink>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "2001 -3151 704")
+L 09/05/2023 - 13:21:53: "Mira<21><[U:1:149481681]><Pink>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "tf_projectile_rocket" (attacker_position "2001 -3151 704") (victim_position "1957 -3122 704")
+L 09/05/2023 - 13:22:03: Team "Red" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-823 -2835 672") 
+L 09/05/2023 - 13:22:06: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-389 -4019 320") 
+L 09/05/2023 - 13:22:07: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-736 -3423 672") 
+L 09/05/2023 - 13:22:08: "Mira<21><[U:1:149481681]><Pink>" killed "Tofawil<29><[U:1:449097787]><Red>" with "tf_projectile_rocket" (attacker_position "73 -3190 672") (victim_position "-157 -2875 672")
+L 09/05/2023 - 13:22:10: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-638 -2821 672") 
+L 09/05/2023 - 13:22:11: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2268 -3422 224") 
+L 09/05/2023 - 13:22:11: "Mira<21><[U:1:149481681]><Pink>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "tf_projectile_rocket" (attacker_position "-218 -3006 672") (victim_position "-247 -3103 672")
+L 09/05/2023 - 13:22:11: Team "Yellow" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Frost Byte<31><[U:1:126775298]><Yellow>") (position1 "-486 -757 288") 
+L 09/05/2023 - 13:22:16: "Mira<21><[U:1:149481681]><Pink>" killed "Dodger Fujisaki<32><[U:1:112494286]><Green>" with "tf_projectile_rocket" (attacker_position "-703 -3531 672") (victim_position "-727 -3207 672")
+L 09/05/2023 - 13:22:17: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-765 -3402 672") 
+L 09/05/2023 - 13:22:23: Team "Pink" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-718 -2809 672") 
+L 09/05/2023 - 13:22:24: "Frost Byte<31><[U:1:126775298]><Yellow>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "-604 -1367 224") (victim_position "-673 -1138 224")
+L 09/05/2023 - 13:22:26: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2312 -3391 224") 
+L 09/05/2023 - 13:22:34: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Frost Byte<31><[U:1:126775298]><Yellow>") (position1 "-700 -2853 672") 
+L 09/05/2023 - 13:22:34: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-425 -3998 320") 
+L 09/05/2023 - 13:22:35: "Tofawil<29><[U:1:449097787]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-486 -856 288")
+L 09/05/2023 - 13:22:36: Team "Red" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "Tofawil<29><[U:1:449097787]><Red>") (position1 "-518 -883 288") 
+L 09/05/2023 - 13:22:37: "Dodger Fujisaki<32><[U:1:112494286]><Green>" killed "Frost Byte<31><[U:1:126775298]><Yellow>" with "scattergun" (attacker_position "-774 -2650 672") (victim_position "-769 -2827 672")
+L 09/05/2023 - 13:22:39: Team "Green" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-653 -2778 672") 
+L 09/05/2023 - 13:22:39: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "1943 -3159 704") 
+L 09/05/2023 - 13:22:44: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "2000 -3119 704") 
+L 09/05/2023 - 13:22:46: "ChargingTurnip<4><[U:1:313942863]><Purple>" committed suicide with "world" (attacker_position "1417 -2422 94")
+L 09/05/2023 - 13:22:50: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1921 -3130 704") 
+L 09/05/2023 - 13:22:50: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-425 -4030 320") 
+L 09/05/2023 - 13:22:50: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-742 -3405 672") 
+L 09/05/2023 - 13:22:57: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-2326 -3433 224") 
+L 09/05/2023 - 13:22:58: "Tofawil<29><[U:1:449097787]><Red>" committed suicide with "world" (attacker_position "1905 -2462 -134")
+L 09/05/2023 - 13:22:59: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-392 -3986 320") 
+L 09/05/2023 - 13:23:03: "Frost Byte<31><[U:1:126775298]><Yellow>" triggered "captureblocked" (cp "2") (cpname "OCEANVIEW") (position "1908 -3195 704")
+L 09/05/2023 - 13:23:08: "Tofawil<29><[U:1:449097787]><Red>" say "a question"
+L 09/05/2023 - 13:23:08: "Frost Byte<31><[U:1:126775298]><Yellow>" committed suicide with "world" (attacker_position "1941 -2978 707")
+L 09/05/2023 - 13:23:09: "Octmari<17><[U:1:160946369]><Yellow>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "-572 -4115 320") (victim_position "-238 -3844 320")
+L 09/05/2023 - 13:23:09: "Octmari<17><[U:1:160946369]><Yellow>" triggered "domination" against "August101<16><[U:1:241010597]><Blue>"
+L 09/05/2023 - 13:23:10: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2360 -3413 224") 
+L 09/05/2023 - 13:23:13: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-441 -3974 320") 
+L 09/05/2023 - 13:23:14: "Dodger Fujisaki<32><[U:1:112494286]><Green>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "scattergun" (attacker_position "-190 -4101 320") (victim_position "-214 -4048 320")
+L 09/05/2023 - 13:23:16: "Mira<21><[U:1:149481681]><Pink>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "901 -2653 672")
+L 09/05/2023 - 13:23:16: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "4") (cpname "SHOP") (position "-646 -4055 320")
+L 09/05/2023 - 13:23:16: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Dodger Fujisaki<32><[U:1:112494286]><Green>" with "scattergun" (attacker_position "-646 -4055 320") (victim_position "-271 -3973 320")
+L 09/05/2023 - 13:23:16: "Octmari<17><[U:1:160946369]><Yellow>" triggered "kill assist" against "Dodger Fujisaki<32><[U:1:112494286]><Green>" (assister_position "-197 -4048 334") (attacker_position "-646 -4055 320") (victim_position "-271 -3973 320")
+L 09/05/2023 - 13:23:17: "Tofawil<29><[U:1:449097787]><Red>" say "where is the server located?"
+L 09/05/2023 - 13:23:18: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "824 -2618 672")
+L 09/05/2023 - 13:23:19: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-415 -4006 320") 
+L 09/05/2023 - 13:23:24: "Octmari<17><[U:1:160946369]><Yellow>" say "eastern USA"
+L 09/05/2023 - 13:23:27: Team "Pink" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-727 -3377 672") 
+L 09/05/2023 - 13:23:30: "Tofawil<29><[U:1:449097787]><Red>" say "explains a bit"
+L 09/05/2023 - 13:23:38: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-778 -3320 672") 
+L 09/05/2023 - 13:23:39: "Tofawil<29><[U:1:449097787]><Red>" killed "Dodger Fujisaki<32><[U:1:112494286]><Green>" with "tf_projectile_rocket" (attacker_position "-2643 -2703 618") (victim_position "-2439 -2763 754")
+L 09/05/2023 - 13:23:41: Team "Yellow" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "2") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "1973 -3141 736") (player2 "Frost Byte<31><[U:1:126775298]><Yellow>") (position2 "1994 -3129 704") 
+L 09/05/2023 - 13:23:41: Team "Pink" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "-2271 -3424 224") 
+L 09/05/2023 - 13:23:45: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-349 -3994 320") 
+L 09/05/2023 - 13:23:49: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-755 -3362 672") 
+L 09/05/2023 - 13:23:49: "Mira<21><[U:1:149481681]><Pink>" killed "Tofawil<29><[U:1:449097787]><Red>" with "tf_projectile_rocket" (attacker_position "-920 -2638 672") (victim_position "-572 -2908 675")
+L 09/05/2023 - 13:23:49: "Mira<21><[U:1:149481681]><Pink>" triggered "domination" against "Tofawil<29><[U:1:449097787]><Red>"
+L 09/05/2023 - 13:23:51: Team "Blue" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-2294 -3465 224") 
+L 09/05/2023 - 13:23:52: "ChargingTurnip<4><[U:1:313942863]><Purple>" triggered "captureblocked" (cp "1") (cpname "BALCONY") (position "-679 -2911 672")
+L 09/05/2023 - 13:23:52: "ChargingTurnip<4><[U:1:313942863]><Purple>" killed "Mira<21><[U:1:149481681]><Pink>" with "scattergun" (attacker_position "-679 -2911 672") (victim_position "-788 -2781 672")
+L 09/05/2023 - 13:23:52: "Tofawil<29><[U:1:449097787]><Red>" triggered "kill assist" against "Mira<21><[U:1:149481681]><Pink>" (assister_position "-572 -2908 689") (attacker_position "-679 -2911 672") (victim_position "-788 -2781 672")
+L 09/05/2023 - 13:23:52: "Tofawil<29><[U:1:449097787]><Red>" triggered "revenge" against "Mira<21><[U:1:149481681]><Pink>" (assist "1")
+L 09/05/2023 - 13:23:56: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-709 -2836 672") 
+L 09/05/2023 - 13:24:01: "Octmari<17><[U:1:160946369]><Yellow>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Mira<21><[U:1:149481681]><Pink>") (attacker_position "1807 -3247 704")
+L 09/05/2023 - 13:24:03: Team "Purple" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-2324 -3420 224") 
+L 09/05/2023 - 13:24:06: Team "Yellow" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "Frost Byte<31><[U:1:126775298]><Yellow>") (position1 "-782 -3394 672") 
+L 09/05/2023 - 13:24:08: Team "Purple" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-464 -3996 320") 
+L 09/05/2023 - 13:24:08: "August101<16><[U:1:241010597]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "Tofawil<29><[U:1:449097787]><Red>") (attacker_position "-835 -1279 224")
+L 09/05/2023 - 13:24:10: Team "Green" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Dodger Fujisaki<32><[U:1:112494286]><Green>") (position1 "-2299 -3379 224") 
+L 09/05/2023 - 13:24:12: Team "Yellow" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "Frost Byte<31><[U:1:126775298]><Yellow>") (position1 "-714 -2846 672") 
+L 09/05/2023 - 13:24:12: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "SHRINE") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-545 -841 288") 
+L 09/05/2023 - 13:24:17: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1975 -3167 704") 
+L 09/05/2023 - 13:24:18: "Mira<21><[U:1:149481681]><Pink>" committed suicide with "tf_projectile_rocket" (attacker_position "1930 -3343 704")
+L 09/05/2023 - 13:24:22: Team "Purple" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "2028 -3122 704") 
+L 09/05/2023 - 13:24:23: "Frost Byte<31><[U:1:126775298]><Yellow>" killed "Dodger Fujisaki<32><[U:1:112494286]><Green>" with "bat" (attacker_position "-1453 -2712 672") (victim_position "-1422 -2712 672")
+L 09/05/2023 - 13:24:23: "Tofawil<29><[U:1:449097787]><Red>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "-505 -1351 224")
+L 09/05/2023 - 13:24:25: "Octmari<17><[U:1:160946369]><Yellow>" triggered "captureblocked" (cp "4") (cpname "SHOP") (position "-357 -4227 320")
+L 09/05/2023 - 13:24:25: "Octmari<17><[U:1:160946369]><Yellow>" killed "August101<16><[U:1:241010597]><Blue>" with "scattergun" (attacker_position "-357 -4227 320") (victim_position "-403 -4058 320")
+L 09/05/2023 - 13:24:30: Team "Yellow" triggered "pointcaptured" (cp "4") (cpname "SHOP") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-394 -3994 320") 
+L 09/05/2023 - 13:24:33: Team "Purple" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-768 -3389 672") 
+L 09/05/2023 - 13:24:34: "Tofawil<29><[U:1:449097787]><Red>" killed "Frost Byte<31><[U:1:126775298]><Yellow>" with "obj_sentrygun" (attacker_position "541 -4084 931") (victim_position "-1294 -1306 224")
+L 09/05/2023 - 13:24:36: Team "Yellow" triggered "pointcaptured" (cp "5") (cpname "CONSTRUCTION") (numcappers "1") (player1 "Octmari<17><[U:1:160946369]><Yellow>") (position1 "-2299 -3411 224") 
+L 09/05/2023 - 13:24:38: Team "Purple" triggered "pointcaptured" (cp "1") (cpname "BALCONY") (numcappers "1") (player1 "ChargingTurnip<4><[U:1:313942863]><Purple>") (position1 "-715 -2844 672") 
+L 09/05/2023 - 13:24:44: "Tofawil<29><[U:1:449097787]><Red>" triggered "captureblocked" (cp "0") (cpname "SHRINE") (position "-120 -4157 402")
+L 09/05/2023 - 13:24:44: "Tofawil<29><[U:1:449097787]><Red>" killed "ChargingTurnip<4><[U:1:313942863]><Purple>" with "obj_sentrygun" (attacker_position "-120 -4157 402") (victim_position "-394 -753 288")
+L 09/05/2023 - 13:24:47: Team "Pink" triggered "pointcaptured" (cp "2") (cpname "OCEANVIEW") (numcappers "1") (player1 "Mira<21><[U:1:149481681]><Pink>") (position1 "1943 -3123 704") 
+L 09/05/2023 - 13:24:50: "Octmari<17><[U:1:160946369]><Yellow>" killed "Tofawil<29><[U:1:449097787]><Red>" with "scattergun" (attacker_position "-463 -3936 320") (victim_position "89 -4288 448")
+L 09/05/2023 - 13:24:51: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "APARTMENTS") (numcappers "1") (player1 "August101<16><[U:1:241010597]><Blue>") (position1 "-733 -3360 672") 
+L 09/05/2023 - 13:24:54: "Mira<21><[U:1:149481681]><Pink>" triggered "builtobject" (object "OBJ_SENTRYGUN") (position "826 -2628 672")
+L 09/05/2023 - 13:24:54: "Dodger Fujisaki<32><[U:1:112494286]><Green>" killed "Octmari<17><[U:1:160946369]><Yellow>" with "scattergun" (attacker_position "-609 -4075 320") (victim_position "-539 -3938 320")
+L 09/05/2023 - 13:24:54: World triggered "Round_Win" (winner "Blue")
+L 09/05/2023 - 13:24:54: World triggered "Round_Length" (seconds "385.95")
+L 09/05/2023 - 13:24:54: Team "Red" current score "1" with "1" players
+L 09/05/2023 - 13:24:54: Team "Blue" current score "2" with "1" players
+L 09/05/2023 - 13:24:54: Team "Green" current score "1" with "1" players
+L 09/05/2023 - 13:24:54: Team "Yellow" current score "0" with "2" players
+L 09/05/2023 - 13:24:54: Team "Purple" current score "1" with "1" players
+L 09/05/2023 - 13:24:54: Team "Pink" current score "0" with "1" players
+L 09/05/2023 - 13:24:58: "August101<16><[U:1:241010597]><Blue>" killed "Dodger Fujisaki<32><[U:1:112494286]><Green>" with "scattergun" (attacker_position "-559 -3968 320") (victim_position "-1146 -3865 320")
+L 09/05/2023 - 13:25:02: World triggered "Game_Over" reason "Reached Time Limit"
+L 09/05/2023 - 13:25:02: Team "Red" final score "1" with "1" players
+L 09/05/2023 - 13:25:02: Team "Blue" final score "2" with "1" players
+L 09/05/2023 - 13:25:02: Team "Green" final score "1" with "1" players
+L 09/05/2023 - 13:25:02: Team "Yellow" final score "0" with "2" players
+L 09/05/2023 - 13:25:02: Team "Purple" final score "1" with "1" players
+L 09/05/2023 - 13:25:03: Team "Pink" final score "0" with "1" players
+L 09/05/2023 - 13:25:05: "Frost Byte<31><[U:1:126775298]><Yellow>" committed suicide with "world" (attacker_position "2466 -4031 -194")
+L 09/05/2023 - 13:25:13: Log file closed.

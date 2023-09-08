@@ -16,6 +16,7 @@ ctf_6turbine
 gd_bomba
 gd_hardware
 dom_tokyo
+koth_product_obscura
 cp_well
 arena_badlands
 cp_dustbowl

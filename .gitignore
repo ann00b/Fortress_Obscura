@@ -1,2 +1,13 @@
 
+<<<<<<< Updated upstream
 *.log
+=======
+cfg/motd.txt
+cfg/mapcycle.txt
+cfg/server.cfg
+>>>>>>> Stashed changes
+*.log
+*.ain
+*.dat
+downloadlists/koth_product_obscura.lst
+maps/koth_product_obscura.bsp

@@ -21,7 +21,7 @@ OFFICIAL:
 - Tokyo
 
 COMMUNITY:
-- 6robot_park_a1
+- koth_product_obscura
 
 EXTRA:
 - Well (CP)
